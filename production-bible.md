@@ -72,23 +72,24 @@ Follow this sequence strictly — each stage locks visual consistency for the ne
 
 1. **Characters** — Generate one canonical reference sheet per character (Daniel, Sarah, Emily): front-facing + 3/4 turn, neutral lighting, neutral background, matching the wardrobe listed above. Lock these as identity references (e.g., via character-consistency/img2img tools) before anything else.
 2. **Locations** — Generate one canonical empty establishing image per location (Airport Curb, Car Interior, Driveway, Sitting Room, Hallway, Bedroom), matching the lighting and palette described in Section 2. Lock these as environment references.
-3. **Still Scenes** — For each of the 13 clips, generate a key still frame combining the correct locked character reference(s) + locked location reference, following the action described in Section 3. This is your shot-by-shot storyboard — review and approve every still before moving on, since errors here compound in video.
-4. **Color Grade** — Apply the unified color grade (Section 7) to all approved stills so every clip shares one visual language before animation.
-5. **Video** — Feed each graded still into your video generation tool (image-to-video) with motion prompts matching the action/timing in Section 3, plus the dialogue/audio cues from Section 4. Generate clips in scene order so motion and lighting continuity carry from one clip to the next.
+3. **Still Scenes (per clip)** — For each of the 13 clips, generate a key still frame combining the correct locked character reference(s) + locked location reference, following the action described in Section 3. This is your shot-by-shot storyboard — review and approve every still before moving on, since errors here compound in video.
+4. **Color Grade** — Apply the one unified grade (Section 7) to all 13 approved stills so every clip shares one visual language before animation.
+5. **Video** — Feed each graded still into your video generation tool (image-to-video) with motion prompts matching the action/timing in Section 3, plus the dialogue/audio cues from Section 4. Generate clips in scene order (1→13) so motion and lighting continuity carry from one clip to the next.
+
+**Hard rules:** Never generate a still before its character(s) and location are locked. Never generate video before the still is graded. Never regenerate a character or location reference mid-project — if one needs a fix, redo it and regenerate every downstream still that used it.
 
 ---
 
 ## 6. Aesthetic Direction
 
-The film should feel like a warm, intimate home-movie-turned-cinematic memory — shot with shallow depth of field (soft background blur, f/1.8–f/2.8 look), natural motivated lighting (window light, golden-hour exteriors, warm practical lamps indoors), and gentle handheld-style camera movement that feels present but unobtrusive, evoking the emotional realism of a24-style domestic drama rather than a polished commercial. Colors lean warm and soft throughout — golden ambers, muted creams, gentle skin tones — with no harsh shadows or cold fluorescent light, reinforcing the story's core feeling of love, anticipation, and joyful reunion. Every location should feel lived-in and genuine rather than staged, and every character's expressions should carry naturalistic, understated emotion until the reveal, where warmth and joy are allowed to peak.
+The film should feel like a warm, intimate home-movie-turned-cinematic memory — shot with shallow depth of field (soft background blur, f/1.8–f/2.8 look), natural motivated lighting (window light, golden-hour exteriors, warm practical lamps indoors), and gentle handheld-style camera movement that feels present but unobtrusive, evoking the emotional realism of a24-style domestic drama rather than a polished commercial. Colors lean warm and soft throughout — golden ambers, muted creams, gentle skin tones — with no harsh shadows or cold fluorescent light, reinforcing the story's core feeling of love, anticipation, and joyful reunion. Every location should feel lived-in and genuine rather than staged, and every character's expressions should carry naturalistic, understated emotion until the reveal, where warmth and joy are allowed to peak. This look must stay identical across every character plate, location plate, still, and video clip — no shot should read colder, flatter, or more saturated than another.
 
 ---
 
 ## 7. Color Grading
 
-Apply a single consistent grade across all stills before video generation:
+**Yes — one grade, applied to all 13 stills before video.** Warm cinematic color, soft golden highlights, gently lifted shadows (never crushed to black), slightly desaturated to avoid an artificial/AI-glossy look. Lock the same settings across every still so nothing drifts.
 
-- **Overall tone:** Warm cinematic grade — soft golden highlights, gently lifted shadows (not crushed to black), slightly desaturated overall to avoid an artificial/AI-glossy look.
 - **White balance:** Warm bias (~3800–4500K feel) throughout, even in daylight exteriors — keep the airport and driveway shots from reading cold or blue.
 - **Contrast:** Low-to-medium contrast, soft filmic roll-off on highlights (think Kodak Portra 400 stills-film emulation).
 - **Skin tones:** Protected and warm — priority over background color accuracy; skin should never skew orange or gray.
@@ -96,6 +97,25 @@ Apply a single consistent grade across all stills before video generation:
 - **Vignette:** Very subtle, soft-edged darkening at frame corners to draw focus to the characters.
 - **Grain:** Light, fine film grain overlay (subtle, not heavy 16mm) to unify AI-generated stills into one cohesive "shot on film" texture.
 - **Reference look:** "Warm A24 domestic drama" / soft Portra-film emulation — apply the same LUT or grading preset uniformly to every still in Section 3 before any video generation begins, so no clip drifts in tone from another.
+
+**Reusable grade tag** (paste as-is into any generation tool's style/prompt field):
+
+> Warm cinematic tone, golden hour and warm practical lamp light, soft Kodak Portra 400 film emulation, low-medium contrast, lifted shadows, muted pastel saturation, protected warm skin tones, subtle soft vignette, fine film grain, a24-style domestic drama, 35mm lens look
+
+---
+
+## 8. Asset Checklist
+
+Quick reference for everything this project needs to generate, in order:
+
+- [ ] 3 character reference sheets — Daniel, Sarah, Emily (front + 3/4 turn each)
+- [ ] 6 location establishing plates — Airport Curb, Car Interior, Driveway, Sitting Room, Hallway, Bedroom
+- [ ] 13 still frames — one per clip, Section 3
+- [ ] 1 color grade — applied uniformly to all 13 stills, Section 7
+- [ ] 13 video clips — image-to-video from the graded stills, Section 5
+- [ ] Audio layer — 8 dialogue lines (Section 4) + ambient/score, synced after video assembly
+
+**Production note:** The Sitting Room, Hallway, and Bedroom are each reused across multiple non-adjacent clips (Sitting Room: 5, 12, 13; Hallway: 6, 11; Bedroom: 8, 9, 10). Lock each location plate once and treat every clip set there as a different camera framing of that same locked environment, not a new generation — this is what keeps the film feeling continuous rather than like disconnected AI shots.
 
 ---
 
