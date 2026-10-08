@@ -52,12 +52,27 @@ v1 copied MYTHRA's desaturated look too closely, so the frames felt dull. v2 kee
 - Low angles on Tal; slow push-ins on emotion; handheld for chaos; slow motion for the fall and the fire.
 - Each 15-second Grok clip has one continuous move: a glide, push, arc, crane or tilt.
 
-## 7. Characters (silhouettes made distinct with color)
-- Maren: indigo dress and moss-green shawl.
-- Odile: **saffron** headscarf.
-- Bram: **red** knitted cap and fishbone toothpick.
-- Hesk: grey cloak with **teal sea-glass beads** in his beard.
-- Jory: **green** cap.
-- Tal: pearl, teal and cyan.
+## 7. Character bible (keep identical in every prompt)
+These are the exact descriptions used in all 120 image prompts. Paste them unchanged so faces and costumes stay consistent.
 
-Full voices and behaviors are in `06-characters-voices-behaviors.md`.
+- **MAREN:** a woman about 30, long wet tangled dark-brown hair with a single thin braid on the left, pale weathered freckled skin, tired grey-green eyes, faded indigo wool dress, moss-green knitted shawl, rope belt with a net-mending needle.
+- **MAREN (pregnant, prologue and Act I opening only):** the same description, heavily pregnant.
+- **TAL as a baby (cat-sized):** amphibian-dragon newborn, translucent pearl-grey skin with a wet sheen, oversized glassy dark-blue eyes, tiny fin-like wings, a soft frilled crest, webbed claws.
+- **TAL as a juvenile (pony-sized):** pearl-grey scales with an abalone-teal shimmer, long fin-like wings, frills along the spine, a faint electric-blue glow in the throat.
+- **TAL as an adult (fishing-boat-sized):** iridescent pearl and teal scales, deep sea-blue manta-fin wings, a crown of frilled spines, luminous cyan slit-pupil eyes, blue-white fire with bioluminescent blue veins.
+- **ODILE:** a plump woman about 45, grey-streaked auburn hair under a **saffron-yellow headscarf**, ruddy cheeks, oatmeal apron over a **rust-brown** wool dress.
+- **BRAM:** a burly man about 40, scarred jaw, matted red-brown beard, **red knitted fisherman's cap**, oiled leather fisherman's smock, sealskin vest, **a fishbone toothpick between his teeth**.
+- **HESK:** about 70, long white beard **braided with tiny teal sea-glass beads**, heavy grey hooded cloak, wooden staff carved with wave patterns.
+- **JORY (new in v2):** a lanky young fisherman about 18, messy blond hair under a **green wool cap**. He speaks the VILLAGER lines.
+- **VILLAGERS:** layered undyed wool and oilskins with **colorful dyed scarves**; torches, gaffs and harpoons.
+
+**Changes from v1 (bold above):** Odile's headscarf went from linen to saffron. Bram gained a red cap and a fishbone toothpick. Hesk's beard gained teal sea-glass beads. Jory was added, and the villagers got dyed scarves. Each main character now has a signature color, so viewers can tell them apart at a glance:
+
+- Maren: indigo and moss green
+- Odile: saffron
+- Bram: red
+- Hesk: grey and teal
+- Jory: green
+- Tal: pearl, teal and cyan
+
+Voices and behaviors for every character are in `06-characters-voices-behaviors.md`.
