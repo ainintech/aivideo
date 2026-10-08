@@ -31,36 +31,36 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
   - his glow pulses brighter with emotion
 
 ## ODILE — the neighbor
-- **Look:** plump, about 45, grey-streaked auburn hair under a **saffron-yellow headscarf**, ruddy cheeks, oatmeal apron.
+- **Look:** about 45, grey-streaked auburn hair under a linen headscarf, ruddy cheeks, oatmeal apron over a brown wool dress.
 - **Voice prompt:** quick, chattering, high sing-song voice, with little gasps between phrases.
 - **Signature behaviors:**
   - wrings her apron in both hands
   - touches two fingers to her lips and then toward the sea (Kelvhaven's superstitious sign)
-  - fusses with her headscarf knot
+  - fusses with the knot of her linen headscarf
   - quick, fluttering hand gestures
 - **Arc:** her gossip starts the danger, and she's the first to say "We were wrong."
 
 ## BRAM — the fish-trader
-- **Look:** burly, about 40, scarred jaw, matted red-brown beard, **red knitted cap**, oiled leather smock, sealskin vest, **fishbone toothpick**.
+- **Look:** burly, about 40, scarred jaw, matted red-brown beard, oiled leather fisherman's smock, sealskin vest.
 - **Voice prompt:** low gravelly bass, clipped and sneering, rolled R's, words spat out.
 - **Signature behaviors:**
-  - chews and shifts the fishbone toothpick
+  - drums his thick fingers on whatever is near
   - cracks his knuckles
   - leans in uncomfortably close
   - spits on the ground
 
 ## HESK — the elder
-- **Look:** about 70, long white beard braided with **teal sea-glass beads**, grey hooded cloak, staff carved with waves.
+- **Look:** about 70, long white beard, wooden staff carved with wave patterns, heavy grey hooded cloak.
 - **Voice prompt:** very slow, deep, wheezing old voice with long pauses between words, formal and cold.
 - **Signature behaviors:**
   - **taps his staff twice before he speaks**
-  - strokes his beaded beard
+  - strokes his long white beard
   - closes his eyes instead of looking at anyone when he judges
 
 ## JORY — the young fisherman (speaks the VILLAGER lines)
-- **Look:** lanky, about 18, messy blond hair, **green wool cap**.
+- **Look:** lanky, about 18, messy blond hair, grey wool cap.
 - **Voice prompt:** a nasal, cracking teenage voice that stammers when scared.
-- **Signature behaviors:** fidgets and tugs at his green cap.
+- **Signature behaviors:** fidgets and tugs at his grey cap.
 - **Arc:** first to blame the storm, first to see that Tal saved her.
 
 ---

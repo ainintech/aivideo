@@ -51,4 +51,4 @@
 - **Retention techniques:** a new visual escalation every 2–3 minutes, callback lines, an antagonist who always has a concrete next step, an echo montage before the ending, a small cast with names repeated.
 - **Direct address:** none. No fourth wall, no CTA inside the film.
 - **Words per second:** about 0.4 for MYTHRA-style films.
-- **Word count target:** 700 spoken words of dialogue ±5% (665–735). The final script has 692 dialogue words, plus 268 words of narration (prologue, act bridges, lesson epilogue) added in v2, for a 30-minute film at about 0.53 words per second.
+- **Word count target:** 700 spoken words of dialogue ±5% (665–735). The final script has 692 dialogue words, plus 266 words of narration (prologue, act bridges, lesson epilogue) added in v2, for a 30-minute film at about 0.53 words per second.

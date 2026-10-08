@@ -1,7 +1,7 @@
 # SHE GAVE BIRTH TO A DRAGON | THE TIDE MOTHER
 *Full Fantasy Movie 4K · FABLEON · runtime 30:00 · 120 beats of 15 s*
 
-**Spoken words:** 960 (692 dialogue + 268 narration) · about 0.53 words per second, between MYTHRA (0.41) and The Next Show (0.54).
+**Spoken words:** 958 (692 dialogue + 266 narration) · about 0.53 words per second, between MYTHRA (0.41) and The Next Show (0.54).
 
 **Characters:** NARRATOR (voice-over) · MAREN (a widowed net-mender) · TAL (her dragon son) · ODILE (her neighbor) · BRAM (the harbor fish-trader) · HESK (the village elder) · JORY and the VILLAGERS of Kelvhaven
 
@@ -15,7 +15,7 @@
 
 > **NARRATOR (V.O.):** On the far edge of the northern sea, there is a village the maps forget. Its name is Kelvhaven.
 
-> **NARRATOR (V.O.):** Three hundred years ago, its first families crawled ashore from a shipwreck with nothing but their nets. They painted their boats in the colors of the dawn that saved them.
+> **NARRATOR (V.O.):** Three hundred years ago, its first families crawled ashore from a shipwreck with nothing but their nets. They built their homes from the stones the tide gave them.
 
 > **NARRATOR (V.O.):** They carved the old sea-beasts over their doors, to honor the deep. Then, one by one, they forgot why.
 
@@ -73,7 +73,7 @@ Dawn comes grey and quiet, as if the storm never happened. She hides the creatur
 
 **5:30 — Harbor village, morning**
 
-Kelvhaven wakes up the way it always does. Smoke. Gulls. Painted boats. Maren walks home pale, with empty arms. Her neighbor Odile notices first. Odile always notices first.
+Kelvhaven wakes up the way it always does. Smoke. Gulls. Creaking boats. Maren walks home pale, with empty arms. Her neighbor Odile notices first. Odile always notices first.
 
 > **ODILE:** Maren! Your belly. Where is the child?
 
