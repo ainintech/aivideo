@@ -13,7 +13,7 @@
 
 **Beat 001 · 0:00–0:15**
 
-- **Script segment:** "NARRATOR: On the far edge of the northern sea, there is a village the maps forget. Its name is Kelvhaven."
+- **Script segment:** "NARRATOR: At the very edge of the northern sea sits a village most maps forget. Its name is Kelvhaven. And it lives by one strange rule."
 - **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Aerial wide shot: a sweeping drone view skimming the grey northern sea at dusk toward black cliffs and a small fishing village on the bay. Setting: the northern sea at dusk under heavy grey cloud, black sea cliffs ahead and a small fishing village of grey fieldstone cottages with turf roofs on the bay. Lighting: the last cold light of dusk through heavy grey cloud, soft and diffused. Mood: mythic, mysterious, ominous. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 - **Camera angle:** Aerial wide shot
 - **Lighting:** the last cold light of dusk through heavy grey cloud, soft and diffused
@@ -49,7 +49,7 @@
 
 **Beat 005 · 1:00–1:15**
 
-- **Script segment:** "NARRATOR: For three hundred years, no one broke that law. Then came the winter of the great storm."
+- **Script segment:** "NARRATOR: For three hundred years, nobody broke that law. Not once. Then came the winter of the great storm."
 - **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Aerial wide shot, night: the fishing village asleep under a moonlit sky, one cottage window glowing with candlelight. Setting: a cold northern fishing village at night, grey fieldstone cottages with turf roofs, one small window glowing with candlelight, the dark sea beyond. Lighting: cold moonlight through drifting cloud, deep shadows, one warm candle-lit window. Mood: foreboding. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 - **Camera angle:** Aerial wide shot, night
 - **Lighting:** cold moonlight through drifting cloud, deep shadows, one warm candle-lit window
@@ -201,7 +201,7 @@
 
 **Beat 020 · 4:45–5:00**
 
-- **Script segment:** "Dawn comes grey and quiet, as if the storm never happened."
+- **Script segment:** "Dawn comes grey and quiet, as if the storm never happened. As if nothing happened at all."
 - **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Wide shot from deep inside the cave: grey dawn light pouring through the cave mouth over a calm sea, Maren asleep against the rock with the shawl bundle. Setting: inside a tidal sea cave of black basalt at dawn, rock pools, kelp, a calm grey sea framed in the cave mouth. Lighting: soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, secretive. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair and a single thin braid on the left side, pale weathered freckled skin, tired grey-green eyes, wearing a faded indigo wool dress, a moss-green knitted shawl and a rope belt with a net-mending needle. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal glowing pearl-grey and electric cyan-blue. No text, no watermark, no modern objects.
 - **Camera angle:** Wide shot from deep inside the cave
 - **Lighting:** soft flat grey dawn light through mist, gentle volumetric rays
@@ -270,7 +270,7 @@
 
 **Beat 027 · 6:30–6:45**
 
-- **Script segment:** "That night, back in the cave, there is a new problem. Maren offers a cup of milk. The creature turns its head away. MAREN: Milk? No?"
+- **Script segment:** "That night, back in the cave, Maren runs into a problem no mother has ever had to solve. Maren offers a cup of milk. The creature turns its head away. MAREN: Milk? No?"
 - **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Wide shot: Maren kneeling by a wicker basket in the dark cave by candlelight, holding out a wooden cup. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. Mood: warm, curious, gently humorous. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair and a single thin braid on the left side, pale weathered freckled skin, tired grey-green eyes, wearing a faded indigo wool dress, a moss-green knitted shawl and a rope belt with a net-mending needle; Tal, a cat-sized newborn amphibian sea dragon with translucent pearl-grey skin and a wet sheen, oversized glassy dark-blue eyes, tiny fin-like wings, a soft frilled crest and webbed claws. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal glowing pearl-grey and electric cyan-blue. No text, no watermark, no modern objects.
 - **Camera angle:** Wide shot
 - **Lighting:** a single warm tallow candle, high-contrast chiaroscuro, deep shadows
@@ -389,7 +389,7 @@
 
 **Beat 039 · 9:30–9:45**
 
-- **Script segment:** "Morning at the tidal pools. The happiest weeks of Maren's life begin. She lies flat on the rocks and puffs out her cheeks like a child."
+- **Script segment:** "And for a while, life is good. Mornings at the tidal pools become the happiest weeks of Maren's life. She lies flat on the rocks and puffs out her cheeks like a child."
 - **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Wide shot: Maren and newborn Tal on black rocks beside clear tidal pools in pale morning light. Setting: black rock tidal pools below sea cliffs, clear green water, kelp, crabs and barnacles, a sheltered cove. Lighting: pale grey-gold morning light breaking through clouds, soft reflections on wet rock. Mood: joyful, warm, playful. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair and a single thin braid on the left side, pale weathered freckled skin, tired grey-green eyes, wearing a faded indigo wool dress, a moss-green knitted shawl and a rope belt with a net-mending needle; Tal, a cat-sized newborn amphibian sea dragon with translucent pearl-grey skin and a wet sheen, oversized glassy dark-blue eyes, tiny fin-like wings, a soft frilled crest and webbed claws. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal glowing pearl-grey and electric cyan-blue. No text, no watermark, no modern objects.
 - **Camera angle:** Wide shot
 - **Lighting:** pale grey-gold morning light breaking through clouds, soft reflections on wet rock
@@ -572,7 +572,7 @@
 
 **Beat 058 · 14:15–14:30**
 
-- **Script segment:** "That same night, in the hidden cove, something new happens. Tal, big as a horse now, rises from the water and breathes out. And the sea catches fire. Blue flame, rolling across the waves."
+- **Script segment:** "That same night, in the hidden cove, Tal does something he has never done before. Tal, big as a horse now, rises from the water and breathes out. And the sea catches fire. Blue flame, rolling across the waves."
 - **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Wide shot, low angle: a still moonlit cove wrapped in fog, a horse-sized sea dragon rising from the black water with a glowing blue throat. Setting: a sheltered sea cove at night beneath black cliffs, still dark water, drifting fog. Lighting: cold moonlight through fog plus electric-blue bioluminescent glow from the water. Mood: awe. Characters: Tal, a pony-sized juvenile sea dragon with pearl-grey scales shimmering abalone-teal, long fin-like wings, frills along the spine and a faint electric-blue glow in the throat; Maren, a woman about 30 with long wet tangled dark-brown hair and a single thin braid on the left side, pale weathered freckled skin, tired grey-green eyes, wearing a faded indigo wool dress, a moss-green knitted shawl and a rope belt with a net-mending needle. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal glowing pearl-grey and electric cyan-blue. No text, no watermark, no modern objects.
 - **Camera angle:** Wide shot, low angle
 - **Lighting:** cold moonlight through fog plus electric-blue bioluminescent glow from the water
@@ -975,7 +975,7 @@
 
 **Beat 099 · 24:30–24:45**
 
-- **Script segment:** "A hidden beach, far from the village. Maren coughs up the sea. She is alive."
+- **Script segment:** "Later. A hidden beach, far from the village. Maren coughs up the sea. She is alive."
 - **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Wide shot: a moonlit black-sand beach, a woman lying beside a huge dragon. Setting: a hidden black-sand beach in a small cove at night, gentle surf, wet stones, distant village lights across the water. Lighting: soft cold moonlight, silver highlights on wet sand. Mood: survival. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair and a single thin braid on the left side, pale weathered freckled skin, tired grey-green eyes, wearing a faded indigo wool dress, a moss-green knitted shawl and a rope belt with a net-mending needle; Tal, a colossal adult sea dragon the size of a fishing boat, iridescent pearl and teal scales, deep sea-blue wing membranes shaped like manta fins, a crown of frilled spines, luminous cyan slit-pupil eyes and bioluminescent blue veins. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal glowing pearl-grey and electric cyan-blue. No text, no watermark, no modern objects.
 - **Camera angle:** Wide shot
 - **Lighting:** soft cold moonlight, silver highlights on wet sand
@@ -1071,7 +1071,7 @@
 
 **Beat 109 · 27:00–27:15**
 
-- **Script segment:** "Silence in the harbor. Slowly, the villagers come closer. Odile steps out first. ODILE: Maren. We were wrong."
+- **Script segment:** "For a long moment, the harbor is completely silent. Slowly, the villagers come closer. Odile steps out first. ODILE: Maren. We were wrong."
 - **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Wide shot: villagers slowly approaching a dragon and a woman in blue-lit harbor. Setting: a fishing harbor at night, timber jetty, moored boats, grey fieldstone cottages, a bell tower. Lighting: a lingering cyan-blue glow over the harbor mixed with a few orange torches. Mood: redemptive, bittersweet. Characters: villagers, fishermen and fishwives in layered undyed wool and oilskins; Odile, a woman about 45 with grey-streaked auburn hair under a linen headscarf, ruddy cheeks, an oatmeal apron over a brown wool dress; Maren, a woman about 30 with long wet tangled dark-brown hair and a single thin braid on the left side, pale weathered freckled skin, tired grey-green eyes, wearing a faded indigo wool dress, a moss-green knitted shawl and a rope belt with a net-mending needle; Tal, a colossal adult sea dragon the size of a fishing boat, iridescent pearl and teal scales, deep sea-blue wing membranes shaped like manta fins, a crown of frilled spines, luminous cyan slit-pupil eyes and bioluminescent blue veins. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal glowing pearl-grey and electric cyan-blue. No text, no watermark, no modern objects.
 - **Camera angle:** Wide shot
 - **Lighting:** a lingering cyan-blue glow over the harbor mixed with a few orange torches
@@ -1128,7 +1128,7 @@
 
 **Beat 115 · 28:30–28:45**
 
-- **Script segment:** "Dawn over the open ocean. Tal flies low, his wings brushing the waves. MAREN: Hold on, Tal."
+- **Script segment:** "By dawn, Kelvhaven is far behind them. Tal flies low, his wings brushing the waves. MAREN: Hold on, Tal."
 - **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Aerial wide shot: a colossal sea dragon flying low over the dawn ocean with a woman on its back. Setting: the open northern ocean at dawn, endless rolling grey-blue waves, sea mist on the horizon. Lighting: low golden dawn sun breaking through sea mist, long highlights on the waves. Mood: free, hopeful, mysterious. Characters: Tal, a colossal adult sea dragon the size of a fishing boat, iridescent pearl and teal scales, deep sea-blue wing membranes shaped like manta fins, a crown of frilled spines, luminous cyan slit-pupil eyes and bioluminescent blue veins; Maren, a woman about 30 with long wet tangled dark-brown hair and a single thin braid on the left side, pale weathered freckled skin, tired grey-green eyes, wearing a faded indigo wool dress, a moss-green knitted shawl and a rope belt with a net-mending needle. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal glowing pearl-grey and electric cyan-blue. No text, no watermark, no modern objects.
 - **Camera angle:** Aerial wide shot
 - **Lighting:** low golden dawn sun breaking through sea mist, long highlights on the waves

@@ -19,11 +19,11 @@
 
 **Video 001 · 0:00–0:15 · 15s** (start frame: Image Beat 001)
 
-- **Script segment:** "NARRATOR: On the far edge of the northern sea, there is a village the maps forget. Its name is Kelvhaven."
-- **Grok Imagine prompt:** 15-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image. 0–5s: The drone skims low over the grey waves, gulls crossing the frame. 5–10s: It rises over the black sea cliffs; Narrator voice-over: "On the far edge of the northern sea, there is a village the maps forget. Its name is Kelvhaven." (a deep, resonant, unhurried older male storyteller with warm gravel and a faint Nordic lilt, like telling a legend by a fire). 10–15s: The village is revealed: turf roofs, chimney smoke, boats in the harbor. Camera: low aerial glide, then a rising crane reveal. Lighting stays the last cold light of dusk through heavy grey cloud, soft and diffused. Mood: mythic, mysterious, ominous. Sound: gentle waves, gulls, soft wind. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Script segment:** "NARRATOR: At the very edge of the northern sea sits a village most maps forget. Its name is Kelvhaven. And it lives by one strange rule."
+- **Grok Imagine prompt:** 15-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image. 0–5s: The drone skims low over the grey waves, gulls crossing the frame. 5–10s: It rises over the black sea cliffs; Narrator voice-over: "At the very edge of the northern sea sits a village most maps forget. Its name is Kelvhaven. And it lives by one strange rule." (a deep, resonant, unhurried older male storyteller with warm gravel and a faint Nordic lilt, like telling a legend by a fire). 10–15s: The village is revealed: turf roofs, chimney smoke, boats in the harbor. Camera: low aerial glide, then a rising crane reveal. Lighting stays the last cold light of dusk through heavy grey cloud, soft and diffused. Mood: mythic, mysterious, ominous. Sound: gentle waves, gulls, soft wind. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 - **Camera movement:** low aerial glide, then a rising crane reveal
 - **Character performance:** none
-- **Dialogue:** Narrator: "On the far edge of the northern sea, there is a village the maps forget. Its name is Kelvhaven."
+- **Dialogue:** Narrator: "At the very edge of the northern sea sits a village most maps forget. Its name is Kelvhaven. And it lives by one strange rule."
 
 **Video 002 · 0:15–0:30 · 15s** (start frame: Image Beat 002)
 
@@ -51,11 +51,11 @@
 
 **Video 005 · 1:00–1:15 · 15s** (start frame: Image Beat 005)
 
-- **Script segment:** "NARRATOR: For three hundred years, no one broke that law. Then came the winter of the great storm."
-- **Grok Imagine prompt:** 15-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image. 0–5s: Moonlight lies over the sleeping village; Narrator voice-over: "For three hundred years, no one broke that law. Then came the winter of the great storm." (a deep, resonant, unhurried older male storyteller with warm gravel and a faint Nordic lilt, like telling a legend by a fire). 5–10s: Black storm clouds roll in from the sea. 10–15s: The clouds swallow the moon and the first rain hits. Camera: slow aerial drift as the sky darkens. Lighting stays cold moonlight through drifting cloud, deep shadows, one warm candle-lit window. Mood: foreboding. Sound: night wind, faint surf, a dog barking far away. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Script segment:** "NARRATOR: For three hundred years, nobody broke that law. Not once. Then came the winter of the great storm."
+- **Grok Imagine prompt:** 15-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image. 0–5s: Moonlight lies over the sleeping village; Narrator voice-over: "For three hundred years, nobody broke that law. Not once. Then came the winter of the great storm." (a deep, resonant, unhurried older male storyteller with warm gravel and a faint Nordic lilt, like telling a legend by a fire). 5–10s: Black storm clouds roll in from the sea. 10–15s: The clouds swallow the moon and the first rain hits. Camera: slow aerial drift as the sky darkens. Lighting stays cold moonlight through drifting cloud, deep shadows, one warm candle-lit window. Mood: foreboding. Sound: night wind, faint surf, a dog barking far away. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 - **Camera movement:** slow aerial drift as the sky darkens
 - **Character performance:** none
-- **Dialogue:** Narrator: "For three hundred years, no one broke that law. Then came the winter of the great storm."
+- **Dialogue:** Narrator: "For three hundred years, nobody broke that law. Not once. Then came the winter of the great storm."
 
 **Video 006 · 1:15–1:30 · 15s** (start frame: Image Beat 006)
 
@@ -188,7 +188,7 @@
 
 **Video 020 · 4:45–5:00 · 15s** (start frame: Image Beat 020)
 
-- **Script segment:** "Dawn comes grey and quiet, as if the storm never happened."
+- **Script segment:** "Dawn comes grey and quiet, as if the storm never happened. As if nothing happened at all."
 - **Grok Imagine prompt:** 15-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image. 0–5s: Mist drifts and the dawn light slowly grows. 5–10s: The light reaches Maren asleep with the bundle in her arms. 10–15s: She wakes, weak and pale, and looks down at the bundle. Camera: slow push-in from wide. Character performance: Maren twists the thin braid on the left side of her hair between her fingers. Lighting stays soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, secretive. Sound: soft lapping water, distant gulls, dripping; no dialogue. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 - **Camera movement:** slow push-in from wide
 - **Character performance:** Maren twists the thin braid on the left side of her hair between her fingers
@@ -250,7 +250,7 @@
 
 **Video 027 · 6:30–6:45 · 15s** (start frame: Image Beat 027)
 
-- **Script segment:** "That night, back in the cave, there is a new problem. Maren offers a cup of milk. The creature turns its head away. MAREN: Milk? No?"
+- **Script segment:** "That night, back in the cave, Maren runs into a problem no mother has ever had to solve. Maren offers a cup of milk. The creature turns its head away. MAREN: Milk? No?"
 - **Grok Imagine prompt:** 15-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image. 0–5s: Candlelight flickers in the dark cave as Maren kneels by the basket. 5–10s: She holds a wooden cup of milk toward newborn Tal, who turns its head away. 10–15s: She tilts her head, puzzled, and says "Milk? No?" (Maren: soft husky alto with a gentle northern-coastal lilt, breathy when afraid, her sentences trailing off quietly). Camera: slow push-in. Character performance: Maren hums three soft notes of an old sea lullaby under her breath; Tal tilts its head to the left when curious. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. Mood: warm, curious, gently humorous. Sound: dripping water, faint surf, a candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 - **Camera movement:** slow push-in
 - **Character performance:** Maren hums three soft notes of an old sea lullaby under her breath; Tal tilts its head to the left when curious
@@ -357,7 +357,7 @@
 
 **Video 039 · 9:30–9:45 · 15s** (start frame: Image Beat 039)
 
-- **Script segment:** "Morning at the tidal pools. The happiest weeks of Maren's life begin. She lies flat on the rocks and puffs out her cheeks like a child."
+- **Script segment:** "And for a while, life is good. Mornings at the tidal pools become the happiest weeks of Maren's life. She lies flat on the rocks and puffs out her cheeks like a child."
 - **Grok Imagine prompt:** 15-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image. 0–5s: Morning light glints on the tidal pools under the cliffs. 5–10s: Maren lies flat on the rock beside a pool. 10–15s: She puffs her cheeks full of air, eyes playful. Camera: slow crane down to the pool. Character performance: Maren hums three soft notes of an old sea lullaby under her breath; Tal tilts its head to the left when curious. Lighting stays pale grey-gold morning light breaking through clouds, soft reflections on wet rock. Mood: joyful, warm, playful. Sound: gentle waves, gulls, splashing water; Tal's tiny crystalline chirps and clicks; no dialogue. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 - **Camera movement:** slow crane down to the pool
 - **Character performance:** Maren hums three soft notes of an old sea lullaby under her breath; Tal tilts its head to the left when curious
@@ -521,7 +521,7 @@
 
 **Video 058 · 14:15–14:30 · 15s** (start frame: Image Beat 058)
 
-- **Script segment:** "That same night, in the hidden cove, something new happens. Tal, big as a horse now, rises from the water and breathes out. And the sea catches fire. Blue flame, rolling across the waves."
+- **Script segment:** "That same night, in the hidden cove, Tal does something he has never done before. Tal, big as a horse now, rises from the water and breathes out. And the sea catches fire. Blue flame, rolling across the waves."
 - **Grok Imagine prompt:** 15-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image. 0–5s: Fog drifts over the still, moonlit cove. 5–10s: Horse-sized Tal rises from the water, his throat glowing electric blue. 10–15s: He breathes out and a sheet of blue flame rolls across the waves. Camera: slow push-in, tilting up as Tal rises. Character performance: Tal curls his tail around Maren's ankles; Maren lifts her chin when she is defiant. Lighting stays cold moonlight through fog plus electric-blue bioluminescent glow from the water. Mood: awe. Sound: still water, a low ambient hum, soft fog; Tal's warbling whale-calf hum; no dialogue. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 - **Camera movement:** slow push-in, tilting up as Tal rises
 - **Character performance:** Tal curls his tail around Maren's ankles; Maren lifts her chin when she is defiant
@@ -883,7 +883,7 @@
 
 **Video 099 · 24:30–24:45 · 15s** (start frame: Image Beat 099)
 
-- **Script segment:** "A hidden beach, far from the village. Maren coughs up the sea. She is alive."
+- **Script segment:** "Later. A hidden beach, far from the village. Maren coughs up the sea. She is alive."
 - **Grok Imagine prompt:** 15-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image. 0–5s: Moonlit surf slides up the black sand. 5–10s: Maren lies motionless beside the dragon. 10–15s: She coughs up seawater and gasps, alive. Camera: slow push-in. Character performance: Maren hums three soft notes of an old sea lullaby under her breath; Tal tilts his huge head to the left, just like when he was small. Lighting stays soft cold moonlight, silver highlights on wet sand. Mood: survival. Sound: soft surf on sand, a huge creature breathing slowly; Tal's deep, resonant whale-song roar with a bell-like ring; no dialogue. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 - **Camera movement:** slow push-in
 - **Character performance:** Maren hums three soft notes of an old sea lullaby under her breath; Tal tilts his huge head to the left, just like when he was small
@@ -969,7 +969,7 @@
 
 **Video 109 · 27:00–27:15 · 15s** (start frame: Image Beat 109)
 
-- **Script segment:** "Silence in the harbor. Slowly, the villagers come closer. Odile steps out first. ODILE: Maren. We were wrong."
+- **Script segment:** "For a long moment, the harbor is completely silent. Slowly, the villagers come closer. Odile steps out first. ODILE: Maren. We were wrong."
 - **Grok Imagine prompt:** 15-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image. 0–5s: Villagers slowly come forward in the blue light. 5–10s: Odile steps out first. 10–15s: With tears in her eyes, she says "Maren. We were wrong." (Odile: quick, chattering, high sing-song voice, little gasps between phrases). Camera: slow push-in. Character performance: Jory, a young fisherman, fidgets and tugs at his grey cap; Odile touches two fingers to her lips, then toward the sea (the village's superstitious sign); Maren touches the bone net-mending needle at her belt for comfort; Tal curls his tail protectively around Maren. Lighting stays a lingering cyan-blue glow over the harbor mixed with a few orange torches. Mood: redemptive, bittersweet. Sound: bells clanging, screams, a dragon roar, rushing water; Tal's deep, resonant whale-song roar with a bell-like ring. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 - **Camera movement:** slow push-in
 - **Character performance:** Jory, a young fisherman, fidgets and tugs at his grey cap; Odile touches two fingers to her lips, then toward the sea (the village's superstitious sign); Maren touches the bone net-mending needle at her belt for comfort; Tal curls his tail protectively around Maren
@@ -1020,7 +1020,7 @@
 
 **Video 115 · 28:30–28:45 · 15s** (start frame: Image Beat 115)
 
-- **Script segment:** "Dawn over the open ocean. Tal flies low, his wings brushing the waves. MAREN: Hold on, Tal."
+- **Script segment:** "By dawn, Kelvhaven is far behind them. Tal flies low, his wings brushing the waves. MAREN: Hold on, Tal."
 - **Grok Imagine prompt:** 15-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image. 0–5s: Tal flies low over golden dawn waves. 5–10s: Maren smiles, wind in her hair, and says "Hold on, Tal." (Maren: soft husky alto with a gentle northern-coastal lilt, breathy when afraid, her sentences trailing off quietly). 10–15s: His wingtip skims the water. Camera: aerial tracking alongside Tal. Character performance: Tal curls his tail protectively around Maren; Maren hums three soft notes of an old sea lullaby under her breath. Lighting stays low golden dawn sun breaking through sea mist, long highlights on the waves. Mood: free, hopeful, mysterious. Sound: wind, rolling waves, slow powerful wingbeats; Tal's deep, resonant whale-song roar with a bell-like ring. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 - **Camera movement:** aerial tracking alongside Tal
 - **Character performance:** Tal curls his tail protectively around Maren; Maren hums three soft notes of an old sea lullaby under her breath

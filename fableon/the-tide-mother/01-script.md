@@ -1,7 +1,7 @@
 # SHE GAVE BIRTH TO A DRAGON | THE TIDE MOTHER
 *Full Fantasy Movie 4K · FABLEON · runtime 30:00 · 120 beats of 15 s*
 
-**Spoken words:** 958 (692 dialogue + 266 narration) · about 0.53 words per second, between MYTHRA (0.41) and The Next Show (0.54).
+**Spoken words:** 965 (692 dialogue + 273 narration) · about 0.54 words per second, between MYTHRA (0.41) and The Next Show (0.54).
 
 **Characters:** NARRATOR (voice-over) · MAREN (a widowed net-mender) · TAL (her dragon son) · ODILE (her neighbor) · BRAM (the harbor fish-trader) · HESK (the village elder) · JORY and the VILLAGERS of Kelvhaven
 
@@ -13,7 +13,7 @@
 
 **0:00 — Prologue — Kelvhaven**
 
-> **NARRATOR (V.O.):** On the far edge of the northern sea, there is a village the maps forget. Its name is Kelvhaven.
+> **NARRATOR (V.O.):** At the very edge of the northern sea sits a village most maps forget. Its name is Kelvhaven. And it lives by one strange rule.
 
 > **NARRATOR (V.O.):** Three hundred years ago, its first families crawled ashore from a shipwreck with nothing but their nets. They built their homes from the stones the tide gave them.
 
@@ -21,7 +21,7 @@
 
 > **NARRATOR (V.O.):** Only one law survived. Whatever the sea gives, the sea may take back. And anyone who hides the sea's gift is given back to it.
 
-> **NARRATOR (V.O.):** For three hundred years, no one broke that law. Then came the winter of the great storm.
+> **NARRATOR (V.O.):** For three hundred years, nobody broke that law. Not once. Then came the winter of the great storm.
 
 > **NARRATOR (V.O.):** That night, a young widow named Maren walked down to the sea alone. What she carried back would break that law, split the village in two, and wake something that had been sleeping for a very long time.
 
@@ -66,7 +66,7 @@ Every instinct tells her to run. She doesn't. She wraps it in her shawl.
 
 **4:45 — Sea cave, dawn**
 
-Dawn comes grey and quiet, as if the storm never happened. She hides the creature in a fish basket, deep in the cave where no one ever goes.
+Dawn comes grey and quiet, as if the storm never happened. As if nothing happened at all. She hides the creature in a fish basket, deep in the cave where no one ever goes.
 
 > **MAREN:** Stay low. Stay quiet. I'll come for you at dark.
 
@@ -94,7 +94,7 @@ In a doorway, Elder Hesk lowers his head.
 
 **6:30 — Sea cave, night — the first feeding**
 
-That night, back in the cave, there is a new problem. Maren offers a cup of milk. The creature turns its head away.
+That night, back in the cave, Maren runs into a problem no mother has ever had to solve. Maren offers a cup of milk. The creature turns its head away.
 
 > **MAREN:** Milk? No?
 
@@ -147,7 +147,7 @@ She walks away with the fish, fast. Bram turns the knife over in his hands. But 
 
 **9:30 — Tidal pools — growth montage**
 
-Morning at the tidal pools. The happiest weeks of Maren's life begin. She lies flat on the rocks and puffs out her cheeks like a child.
+And for a while, life is good. Mornings at the tidal pools become the happiest weeks of Maren's life. She lies flat on the rocks and puffs out her cheeks like a child.
 
 > **MAREN:** Hold your breath, Tal. Like this.
 
@@ -223,7 +223,7 @@ The hearth is cold. The bed hasn't been slept in. Then a shadow fills the doorwa
 
 **14:15 — The cove, night — first fire**
 
-That same night, in the hidden cove, something new happens. Tal, big as a horse now, rises from the water and breathes out. And the sea catches fire. Blue flame, rolling across the waves.
+That same night, in the hidden cove, Tal does something he has never done before. Tal, big as a horse now, rises from the water and breathes out. And the sea catches fire. Blue flame, rolling across the waves.
 
 > **MAREN:** Tal. You made fire. On the water.
 
@@ -375,7 +375,7 @@ Something huge cuts through the dark below her. Tal. Fully grown. He bites throu
 
 **24:30 — Hidden beach, night**
 
-A hidden beach, far from the village. Maren coughs up the sea. She is alive. Tal lays his giant head down beside her.
+Later. A hidden beach, far from the village. Maren coughs up the sea. She is alive. Tal lays his giant head down beside her.
 
 > **MAREN:** Tal. You came. You heard me.
 
@@ -409,7 +409,7 @@ Tal turns his head and breathes his fire into the empty sky. The whole harbor gl
 
 **27:00 — Harbor — reconciliation**
 
-Silence in the harbor. Slowly, the villagers come closer. Odile steps out first.
+For a long moment, the harbor is completely silent. Slowly, the villagers come closer. Odile steps out first.
 
 > **ODILE:** Maren. We were wrong.
 
@@ -434,7 +434,7 @@ Maren climbs onto Tal's back.
 
 **28:30 — Open ocean, dawn**
 
-Dawn over the open ocean. Tal flies low, his wings brushing the waves.
+By dawn, Kelvhaven is far behind them. Tal flies low, his wings brushing the waves.
 
 > **MAREN:** Hold on, Tal.
 
