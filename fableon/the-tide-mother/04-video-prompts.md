@@ -250,7 +250,7 @@
 
 **Video 027 · 6:30–6:45 · 15s** (start frame: Image Beat 027)
 
-- **Script segment:** "That night, back in the cave, Maren runs into a problem no mother has ever had to solve. Maren offers a cup of milk. The creature turns its head away. MAREN: Milk? No?"
+- **Script segment:** "That night, back in the cave, Maren runs into a problem no mother has ever had to solve. First she offers a cup of milk. The creature turns its head away. MAREN: Milk? No?"
 - **Grok Imagine prompt:** 15-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image. 0–5s: Candlelight flickers in the dark cave as Maren kneels by the basket. 5–10s: She holds a wooden cup of milk toward newborn Tal, who turns its head away. 10–15s: She tilts her head, puzzled, and says "Milk? No?" (Maren: soft husky alto with a gentle northern-coastal lilt, breathy when afraid, her sentences trailing off quietly). Camera: slow push-in. Character performance: Maren hums three soft notes of an old sea lullaby under her breath; Tal tilts its head to the left when curious. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. Mood: warm, curious, gently humorous. Sound: dripping water, faint surf, a candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 - **Camera movement:** slow push-in
 - **Character performance:** Maren hums three soft notes of an old sea lullaby under her breath; Tal tilts its head to the left when curious

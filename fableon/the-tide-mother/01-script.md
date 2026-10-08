@@ -94,7 +94,7 @@ In a doorway, Elder Hesk lowers his head.
 
 **6:30 — Sea cave, night — the first feeding**
 
-That night, back in the cave, Maren runs into a problem no mother has ever had to solve. Maren offers a cup of milk. The creature turns its head away.
+That night, back in the cave, Maren runs into a problem no mother has ever had to solve. First she offers a cup of milk. The creature turns its head away.
 
 > **MAREN:** Milk? No?
 

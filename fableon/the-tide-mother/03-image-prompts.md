@@ -270,7 +270,7 @@
 
 **Beat 027 · 6:30–6:45**
 
-- **Script segment:** "That night, back in the cave, Maren runs into a problem no mother has ever had to solve. Maren offers a cup of milk. The creature turns its head away. MAREN: Milk? No?"
+- **Script segment:** "That night, back in the cave, Maren runs into a problem no mother has ever had to solve. First she offers a cup of milk. The creature turns its head away. MAREN: Milk? No?"
 - **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Wide shot: Maren kneeling by a wicker basket in the dark cave by candlelight, holding out a wooden cup. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. Mood: warm, curious, gently humorous. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair and a single thin braid on the left side, pale weathered freckled skin, tired grey-green eyes, wearing a faded indigo wool dress, a moss-green knitted shawl and a rope belt with a net-mending needle; Tal, a cat-sized newborn amphibian sea dragon with translucent pearl-grey skin and a wet sheen, oversized glassy dark-blue eyes, tiny fin-like wings, a soft frilled crest and webbed claws. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal glowing pearl-grey and electric cyan-blue. No text, no watermark, no modern objects.
 - **Camera angle:** Wide shot
 - **Lighting:** a single warm tallow candle, high-contrast chiaroscuro, deep shadows
