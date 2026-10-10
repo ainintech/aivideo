@@ -65,4 +65,4 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 
 ---
 
-**Grok tip:** when a clip has two speakers, keep their lines in separate 5-second windows, as the prompts already do, so Grok doesn't blend the voices.
+**Grok tip:** when a clip has two speakers, keep their lines in separate time-coded parts, as the prompts already do, so Grok doesn't blend the voices.

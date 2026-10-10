@@ -27,7 +27,7 @@ Built from a NexLev visual analysis of MYTHRA's "She Gave Birth to a Dragon" (0:
 - Lenses: 85mm for portraits with shallow depth of field, 35mm for mediums, 24mm and drone for scale.
 - Angles: eye level for Maren; low angle for grown Tal and the mob; high angle for Maren at the judgment.
 - Movement: slow push-ins on emotional beats, handheld in storm and mob scenes, slow motion for fire, dives and the fall.
-- Beat length: 15 s per Grok Imagine clip, with one continuous camera move per clip.
+- Beat length: 3–5 s.
 
 ## 5. Composition
 - Frames within frames: cave mouth, cottage doorway, net mesh, boat ribs.
@@ -37,7 +37,6 @@ Built from a NexLev visual analysis of MYTHRA's "She Gave Birth to a Dragon" (0:
 
 ## 6. World design
 - Setting: a cold northern fishing village. Wind-bent grey fieldstone cottages with turf roofs, a timber harbor, clinker-built rowboats, fish drying racks, lobster pots, tangled nets. Black basalt sea cliffs with a tidal sea cave full of rock pools.
-- Prologue and epilogue locations, in the same formal style: an aerial view of the bay at dusk under heavy grey cloud; the village asleep under cold moonlight; a worn, moss-covered sea-dragon carving over the old longhouse door; an ancient rope-grooved stone at the cliff edge.
 - Era: early-medieval Nordic and Celtic coast, with no armor and no castles.
 - Textures: wet stone, salt-crusted wood, coarse wool, frayed rope, fish scales, barnacles, kelp.
 
@@ -53,9 +52,6 @@ Storm-grey, salt-wind and lonely. Particles: sea spray, drizzle, mist, foam, tor
 - **BRAM:** a burly man about 40, scarred jaw, matted red-brown beard, oiled leather fisherman's smock, sealskin vest.
 - **HESK:** about 70, long white beard, wooden staff carved with wave patterns, heavy grey hooded cloak.
 - **VILLAGERS:** layered undyed wool and oilskins; torches, gaffs and harpoons.
-- **JORY** (the young fisherman who speaks the villager lines): a lanky young fisherman about 18 with messy blond hair under a grey wool cap.
-
-Voices and signature behaviors for every character are in `06-characters-voices-behaviors.md`.
 
 ## 9. Editing reference
 Hard cuts on sound (a wave crash, a roar, a scream). Time skips shown through Tal's growth stages. Fades to black between acts. Slow dissolves in the underwater echo sequence.
