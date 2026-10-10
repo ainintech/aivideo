@@ -16,14 +16,14 @@
 |---|---|---|---|
 | 0:00–0:15 | **1. The Law** | Video 002, 0–5 s (aerial over the golden sea into Kelvhaven) → Video 005, 5–15 s (rope grooves in the drowning stone, tipping over the cliff) | **NARRATOR:** "Every village has a law. In Kelvhaven, it was simple." *(beat)* "Whatever the sea gives… the sea takes back." |
 | 0:15–0:30 | **2. The Birth** | Video 008, 3 s (lantern on the storm cliff) → Video 011, 4 s (scream, lightning flash to white) → Video 015, 5 s (first chirp, Maren's horror) → **Text card 1**, 3 s | Maren (Video 015 audio): "No. No. That can't have come from me." · **TEXT CARD 1:** *ONE STORMY NIGHT, SHE GAVE BIRTH TO A SECRET* |
-| 0:30–0:45 | **3. The Bond** | Video 031, 4 s (the herring gulp, Maren's first laugh) → Video 041, 4 s ("Hold your breath, Tal") → Video 042, 3 s (crab) → Video 045, 4 s (Tal stuck in the tub) | **NARRATOR:** "She should have given it back to the sea. Instead…" · Maren (Video 033 audio): "You'll be Tal." |
-| 0:45–1:00 | **4. The Secret Cracks** | Video 059, 5 s (blue fire across the moonlit cove) → Video 060, 4 s (the lantern on the cliff) → Video 067, 3 s (Bram) → **Text card 2**, 3 s | Bram (Video 067 audio): "I know what I saw." · **TEXT CARD 2:** *SECRETS DON'T STAY BURIED* |
-| 1:00–1:15 | **5. The Mob** | Video 075, 4 s (torches, Tal rising behind Maren) → Video 076, 5 s → Video 079, 4 s (nets, "Swim!") → 2 s black with a drum hit | Bram: "Witch! She gave birth to a sea devil!" · Maren: "He's a child!" · Maren: "Tal, swim!" |
-| 1:15–1:30 | **6. The Judgment** | Video 084, 4 s (Hesk raises his staff) → Video 089, 3 s (stone tied to her ankles) → Video 092, 3 s (the push) → Video 093, 5 s (slow-motion fall, splash) | Hesk: "Let the sea judge her." → **music cuts to silence and a heartbeat** on the push |
-| 1:30–1:45 | **7. The Return** | Video 098, 4 s (the glowing eye in the dark) → Video 099, 4 s (the breach) → Video 104, 4 s (Tal rises from the harbor with Maren on his back) → 3 s held on villagers' faces | Maren (Video 091 audio, whispered): "The sea keeps what it loves." · choir swell |
-| 1:45–2:00 | **8. The Title** | Video 105, 3 s (blue fire builds in Tal's jaws) → Video 108, 3 s (Maren: "Not like them…") → **Trailer Shot B**, 9 s (title) | **NARRATOR:** "This winter…" · Tal's bell-like roar on the title hit · **TEXT CARD 3** (title) |
+| 0:30–0:45 | **3. The Bond** | Video 034, 4 s (the herring gulp, Maren's first laugh) → Video 051, 4 s ("Hold your breath, Tal") → Video 052, 3 s (crab) → Video 055, 4 s (Tal stuck in the tub) | **NARRATOR:** "She should have given it back to the sea. Instead…" · Maren (Video 036 audio): "You'll be Tal." |
+| 0:45–1:00 | **4. The Secret Cracks** | Video 081, 5 s (blue fire across the moonlit cove) → Video 082, 4 s (the lantern on the cliff) → Video 089, 3 s (Bram) → **Text card 2**, 3 s | Bram (Video 089 audio): "I know what I saw." · **TEXT CARD 2:** *SECRETS DON'T STAY BURIED* |
+| 1:00–1:15 | **5. The Mob** | Video 107, 4 s (torches, Tal rising behind Maren) → Video 108, 5 s → Video 111, 4 s (nets, "Swim!") → 2 s black with a drum hit | Bram: "Witch! She gave birth to a sea devil!" · Maren: "He's a child!" · Maren: "Tal, swim!" |
+| 1:15–1:30 | **6. The Judgment** | Video 119, 4 s (Hesk raises his staff) → Video 128, 3 s (stone tied to her ankles) → Video 131, 3 s (the push) → Video 132, 5 s (slow-motion fall, splash) | Hesk: "Let the sea judge her." → **music cuts to silence and a heartbeat** on the push |
+| 1:30–1:45 | **7. The Return** | Video 137, 4 s (the glowing eye in the dark) → Video 138, 4 s (the breach) → Video 151, 4 s (Tal rises from the harbor with Maren on his back) → 3 s held on villagers' faces | Maren (Video 130 audio, whispered): "The sea keeps what it loves." · choir swell |
+| 1:45–2:00 | **8. The Title** | Video 152, 3 s (blue fire builds in Tal's jaws) → Video 155, 3 s (Maren: "Not like them…") → **Trailer Shot B**, 9 s (title) | **NARRATOR:** "This winter…" · Tal's bell-like roar on the title hit · **TEXT CARD 3** (title) |
 
-**Spoiler rule:** cut Video 105 *before* the fire is released, and never use Video 109 (fire into the sky). The question "does he burn them?" stays open.
+**Spoiler rule:** cut Video 152 *before* the fire is released, and never use Video 156 (fire into the sky). The question "does he burn them?" stays open.
 
 ---
 
