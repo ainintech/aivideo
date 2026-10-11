@@ -66,3 +66,15 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 ---
 
 **Grok tip:** when a clip has two speakers, keep their lines in separate time-coded parts, as the prompts already do, so Grok doesn't blend the voices.
+
+---
+
+## Winter costumes (Beats 63–92: "Then winter bites" through "the last calm night")
+From the freezing night in the cave to the last calm night, everyone is in medieval winter clothing. Snow falls outdoors (and drifts in through cave mouths and doorways indoors), and every time anyone speaks or breathes, a visible cloud of breath vapor comes out of their mouth. Voices and behaviors stay the same.
+
+- **MAREN:** long **black** wool winter dress, heavy black hooded wool cloak lined with grey sheepskin, black wool leg-wraps, fur-lined leather boots, rope belt with the net-mending needle. She wears her moss-green shawl only in Beats 63–64. After she wraps it around Tal (Beat 64), she goes without it, which matches Odile's line "Your shawl is gone."
+- **TAL (juvenile):** unchanged, with frost on his scales. He wears Maren's moss-green shawl around his neck in the cave scenes after Beat 64.
+- **ODILE:** **faded red** wool winter dress, thick faded red hooded wool shawl over her linen headscarf, oatmeal apron, sheepskin-lined boots.
+- **BRAM:** all **black**: black knitted wool cap, heavy black oiled sealskin coat with a black fur collar, black wool trousers, black leather boots, frost in his beard.
+- **HESK:** **animal colors**: a heavy cloak of brown and grey wolf fur over a tan deer-hide tunic, sheepskin hood, deer-hide boots, his carved staff.
+- **JORY and the VILLAGERS:** layered undyed wool, sheepskin vests, fur-trimmed hoods, knitted wool caps, mittens, wool leg-wraps and fur boots.
