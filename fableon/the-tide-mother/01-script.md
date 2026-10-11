@@ -1,7 +1,7 @@
 # SHE GAVE BIRTH TO A DRAGON | THE TIDE MOTHER
 *Full Fantasy Movie 4K · FABLEON · runtime 28:29 · 172 beats timed with the thriller formula (hook 6 s · suspense 10 s · dialogue 10–15 s · reveal 6 s · climax 15 s · cliffhanger 6–10 s)*
 
-**Spoken words:** 1144 (813 dialogue + 331 narration) · about 0.67 words per second, between MYTHRA (0.41) and The Next Show (0.54).
+**Spoken words:** 1148 (813 dialogue + 335 narration) · about 0.67 words per second, between MYTHRA (0.41) and The Next Show (0.54).
 
 **Characters:** NARRATOR (voice-over) · MAREN (a widowed net-mender) · TAL (her dragon son) · ODILE (her neighbor) · BRAM (the harbor fish-trader) · HESK (the village elder) · JORY and the VILLAGERS of Kelvhaven
 
@@ -212,7 +212,7 @@ She is laughing. She has no idea how soon she'll need those wings.
 
 **10:17 — Sea cave, freezing night**
 
-> **NARRATOR (V.O.):** The great storm was only winter knocking. Weeks later, it walked in. Overnight, snow buried the boats, the roofs, the paths. The harbor froze at its edges. And the fish stopped coming.
+> **NARRATOR (V.O.):** The great storm passed. But the cold it brought stayed. The winds grew sharper, the nights grew longer, and the fish swam deeper than any net could reach. Kelvhaven wrapped itself in wool, and waited.
 
 Then winter bites. A freezing night in the cave. One fish left. Just one. She holds it out to him.
 
@@ -587,7 +587,7 @@ Behind them, the coast of Kelvhaven shrinks to a thin grey line. Maren doesn't l
 
 And every winter since, on the coldest night of the year, someone leaves a fish at the mouth of the sea cave.
 
-> **NARRATOR (V.O.):** Winters came and went. The ice broke. And when spring finally returned to Kelvhaven, it found a village that was learning to see the sea differently.
+> **NARRATOR (V.O.):** Winters came and went. The cold winds softened. And when spring finally returned to Kelvhaven, it found a village that was learning to see the sea differently.
 
 > **NARRATOR (V.O.):** Kelvhaven still tells this story. They say the law was never really about the sea. It was about fear, and what people do with what they don't understand.
 
