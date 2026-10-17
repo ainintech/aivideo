@@ -19,7 +19,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 - **Never:** shouts at Tal. She commands him quietly.
 
 ## TAL — the dragon son
-- **Look:** baby (cat-sized, translucent pearl skin, huge dark-blue eyes) → juvenile (pony-sized, teal shimmer, glowing throat) → adult (fishing-boat-sized, manta-fin wings, cyan eyes, glowing veins).
+- **Look:** baby (cat-sized, translucent pearl skin, huge dark-blue eyes) → juvenile (pony-sized, teal shimmer, glowing throat) → adult (the size of an adult horse, big enough to carry Maren on his back, manta-fin wings, cyan eyes, glowing veins).
 - **Vocal signature:**
   - baby: crystalline dolphin-like chirps and clicks
   - juvenile: a warbling whale-calf hum

@@ -287,7 +287,7 @@ Mothers pull their children indoors when Maren walks past. She keeps her head do
 
 **13:38 — The cove, night — first fire**
 
-That same night, in the hidden cove, Tal does something he has never done before. Tal, big as a horse now, rises from the water and breathes out. And the sea catches fire. Blue flame, rolling across the waves.
+That same night, in the hidden cove, Tal does something he has never done before. Tal, bigger than a pony now, rises from the water and breathes out. And the sea catches fire. Blue flame, rolling across the waves.
 
 > **MAREN:** Tal. You made fire. On the water.
 
@@ -385,7 +385,7 @@ But Tal won't go. He curls his whole body around her, like a wall.
 
 **17:26 — Cave mouth — the mob**
 
-Low tide. The sea pulls back, and the cave lies open. Torches. Dozens of them. The villagers push inside. And behind Maren, Tal rises. He is as big as a fishing boat now.
+Low tide. The sea pulls back, and the cave lies open. Torches. Dozens of them. The villagers push inside. And behind Maren, Tal rises. He is as big as a full-grown horse now.
 
 > **ODILE:** Mother of mercy.
 
@@ -484,7 +484,7 @@ Something huge cuts through the dark below her. Tal. Fully grown. He bites throu
 
 **22:54 — Hidden beach, night**
 
-Later. A hidden beach, far from the village. Maren coughs up the sea. She is alive. Tal lays his giant head down beside her.
+Later. A hidden beach, far from the village. Maren coughs up the sea. She is alive. Tal lays his great head down beside her.
 
 > **MAREN:** Tal. You came. You heard me.
 
