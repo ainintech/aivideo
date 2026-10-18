@@ -74,9 +74,9 @@ The whole film stays in a **chilly early winter**. There is no falling snow, no 
 
 | Part | Beats | Time | Weather on screen | Narrated transition |
 |---|---|---|---|---|
-| **A. Start of winter: the great storm** | 1–62 | 0:00–10:17 | Storm, cold rain, wind and sea spray; no snow | The prologue: *"Then came the winter of the great storm."* |
-| **B. Early winter chill** | 63–168 | 10:17–27:34 | Bitter wind, low grey clouds, cold drizzle, sea mist, wet stone and mud, dry brown grass; faint breath vapor when people speak (not underwater); no snow, no ice | **Beat 63 (15 s):** *"The great storm passed. But the cold it brought stayed. The winds grew sharper, the nights grew longer, and the fish swam deeper than any net could reach. Kelvhaven wrapped itself in wool, and waited."* |
-| **C. Spring, years later** | 169–171 | 27:34–28:19 | Green grass on the turf roofs, pink sea-thrift on the cliffs, a calm silver sea, soft warm light | **Beat 169 (15 s):** *"Winters came and went. The cold winds softened. And when spring finally returned to Kelvhaven, it found a village that was learning to see the sea differently."* |
+| **A. Start of winter: the great storm** | 1–62 | 0:00–11:22 | Storm, cold rain, wind and sea spray; no snow | The prologue: *"Then came the winter of the great storm."* |
+| **B. Early winter chill** | 63–168 | 11:22–31:14 | Bitter wind, low grey clouds, cold drizzle, sea mist, wet stone and mud, dry brown grass; faint breath vapor when people speak (not underwater); no snow, no ice | **Beat 63 (15 s):** *"The great storm passed. But the cold it brought stayed. The winds grew sharper, the nights grew longer, and the fish swam deeper than any net could reach. Kelvhaven wrapped itself in wool, and waited."* |
+| **C. Spring, years later** | 169–171 | 31:14–31:59 | Green grass on the turf roofs, pink sea-thrift on the cliffs, a calm silver sea, soft warm light | **Beat 169 (15 s):** *"Winters came and went. The cold winds softened. And when spring finally returned to Kelvhaven, it found a village that was learning to see the sea differently."* |
 
 Beat 168 (someone leaves a fish at the cave mouth "every winter since") stays in the cold on purpose. It shows a later winter, just before the spring transition.
 
@@ -131,9 +131,41 @@ Use these to **re-dress your existing reference images** (1 = front, 2 = back, 3
 
 **Tal:** no costume sheet is needed. For juvenile Tal from Beat 66 on, the prompts add Maren's moss-green shawl around his neck.
 
+
 ---
 
-## TAL (adult) — size reference sheet
-Make this sheet once before Beat 108 and use it as Tal's reference for every adult beat. Upload two images: your best adult Tal image (for his design), and a simple drawing of a standing horse (for his size and stance).
+## Cinematic rules (applied to every image and video prompt)
 
-> Create a 3-panel character reference sheet in the same layout as my other character sheets: panel 1 full-body side view, panel 2 full-body front view with a woman for scale, panel 3 close-up of the head. White numbers 1, 2 and 3 in the top-left corners, dark grey studio backdrop, soft studio light, photorealistic cinematic style. The character is Tal, a fully grown adult sea dragon with exactly the design from the first uploaded image: iridescent pearl and teal scales, deep sea-blue manta-fin wings folded along his sides, a crown of frilled spines, luminous cyan slit-pupil eyes and bioluminescent blue veins. Use the second uploaded image (a horse) ONLY for his size and stance: he stands on four legs exactly as tall and as long as a real adult horse, about 6 feet (1.8 m) tall at the head and about 8 feet (2.4 m) long from chest to rump, with his tail extending behind. Panel 2: a woman 5 ft 6 in (1.68 m) tall in a long black wool medieval dress stands beside his shoulder; his head is level with her head. He is not giant, not towering, and not bigger than a horse. No text other than the panel numbers, no watermark.
+**1. Shoot from behind the listener.** In every conversation or face-off, the person listening is in the foreground with their **back to the camera**, and the speaker is in the background **facing the camera**. One side shows faces and the other shows backs, so the two sides always face each other. When both sides speak, the beat has an **A/B pair of shots**, each with its own image (for example Shot 153A from behind Tal and Maren to see Bram, and Shot 153B from behind Bram to see Tal and Maren). Put the clips back to back in the edit.
+
+**2. Aerial view first, then close-ups.** Every conversation clip opens with a high aerial view of everyone, so viewers see where all the characters stand. Then the camera moves in to a close-up of each speaker, using a slow push-in, a dolly-in, a crash zoom or an extreme close-up. The camera always stays on the same side of the action (the 180° rule).
+
+**3. One speaker at a time.** Each line has its own time window that names the **SPEAKER** and how to recognise them ("the bearded man in the black coat"). Everyone else is **SILENT, mouths closed**, and there is a short silence between lines.
+
+**4. Runs, charges and processions are shot from behind.** The camera follows the runners from behind and above, so we only see their backs. What they run toward faces the camera, far away and small. The gap closes gradually over the whole clip: about 70 m to 35 m to 10 m in 15 seconds.
+
+**5. Real distance.** Each face-off keeps a fixed distance: about 2 m indoors, 3–4 m for two people outdoors, 6 m between a crowd and Maren, and 20 m between the jetty and Tal in the harbor.
+
+**6. The crowd holds its position.** Villagers wait for their leader. Each one makes small movements of their own at different moments (glancing down, looking up, turning to look behind, shifting their weight, whispering), with their lights held at uneven heights. They never move in step as one block.
+
+**7. Nobody looks into the lens.**
+
+**8. True night.** At night the sky is black, faces are lit only by the nearby flame or Tal's glow, and everything else falls into black. There is no daylight look.
+
+**9. Four fixed medieval light sources.** Each looks the same in every scene:
+| Light | Design |
+|---|---|
+| **Clay oil lamp** | A shallow fired-clay bowl of fish oil with a single wick, used indoors |
+| **Tallow candle** | Thick and yellowish, stuck in its own drippings, used indoors and in the cave |
+| **Horn lantern** | A small black iron-framed lantern with scraped-horn panes and a tallow candle inside, the only lantern in the film |
+| **Pitch torch** | A wooden stave with a rag head soaked in fish oil and pitch, carried by the mob |
+
+## Recurring villagers (the same faces in every crowd)
+- **JORY:** about 18, lanky, messy blond hair, grey wool cap (he speaks the VILLAGER lines).
+- **ULF:** a big man in his 30s, shaved head, sheepskin vest, iron gaff.
+- **SEF:** a wiry man in his 30s, black beard, crooked nose, dark leather jerkin.
+- **GARTH:** about 60, bald, short grey beard, oilskin cape.
+- **BRENNA:** a fishwife in her 40s, red-brown braid, grey wool shawl.
+- **MAGS:** about 70, white hair, black wool shawl.
+
+Everyone else in a crowd keeps their hood up, with their face in shadow. Jory, Ulf and Sef are Bram's three men in the shed and on the jetty.
