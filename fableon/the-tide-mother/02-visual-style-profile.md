@@ -45,9 +45,9 @@ Storm-grey, salt-wind and lonely. Particles: sea spray, drizzle, mist, foam, tor
 
 ## 8. Character bible (keep identical in every prompt)
 - **MAREN:** a woman about 30, long wet tangled dark-brown hair with a single thin braid on the left, pale weathered freckled skin, tired grey-green eyes, faded indigo wool dress, moss-green knitted shawl, rope belt with a net-mending needle.
-- **TAL as a baby (cat-sized):** amphibian-dragon newborn, translucent pearl-grey skin with a wet sheen, oversized glassy dark-blue eyes, tiny fin-like wings, a soft frilled crest, webbed claws.
-- **TAL as a juvenile (pony-sized):** pearl-grey scales with an abalone-teal shimmer, longer fin-wings, frills along the spine, a faint fiery orange glow in the throat.
-- **TAL as an adult (horse-sized, about 6 ft tall at the head):** iridescent pearl and teal scales, deep sea-blue manta-fin wings, a crown of frilled spines, luminous cyan slit-pupil eyes, yellow-orange fire with bioluminescent veins.
+- **TAL as a baby (cat-sized):** amphibian-dragon newborn, wet, translucent pale-grey skin with a wet sheen, oversized glassy dark-blue eyes, tiny bat-like wings, a soft frilled crest, webbed claws.
+- **TAL as a juvenile (pony-sized):** silver-grey scales with an opal-like rainbow sheen, longer wings, frills along the spine, a faint fiery orange glow in the throat.
+- **TAL as an adult (horse-sized, about 6 ft tall at the head):** dark gunmetal-grey scales shimmering with iridescent blue and teal, bat-like wings with glowing electric-blue veins, a crest of spiky fin-frills on his head and neck, luminous cyan slit-pupil eyes, yellow-orange fire with bioluminescent veins.
 - **ODILE:** a woman about 45, grey-streaked auburn hair under a linen headscarf, ruddy cheeks, oatmeal apron over a brown wool dress.
 - **BRAM:** a burly man about 40, scarred jaw, matted red-brown beard, oiled leather fisherman's smock, sealskin vest.
 - **HESK:** about 70, long white beard, wooden staff carved with wave patterns, heavy grey hooded cloak.
