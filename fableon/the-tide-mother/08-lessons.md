@@ -31,4 +31,4 @@ The film teaches these lessons through the story rather than lecturing. The narr
 ## Use outside the film
 - **Description (first lines):** *She hid a dragon to save its life. Her village drowned her for it. A story about fear, love and the choice to show mercy.*
 - **Pinned comment:** *Which lesson hit you hardest: "Fear isn't wrong, cruelty is a choice", or "love is loud enough to call someone home"? 💙*
-- **Shorts idea:** Beat 156 ("Not like them. We are not like them.") plus Beat 157 (blue fire into the sky), captioned *"She could have burned them all. She chose this."*
+- **Shorts idea:** Beat 156 ("Not like them. We are not like them.") plus Beat 157 (yellow-orange fire into the sky), captioned *"She could have burned them all. She chose this."*

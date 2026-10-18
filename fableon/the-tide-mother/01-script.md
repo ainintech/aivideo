@@ -1,7 +1,7 @@
 # SHE GAVE BIRTH TO A DRAGON | THE TIDE MOTHER
 *Full Fantasy Movie 4K · FABLEON · runtime 32:09 · 172 beats timed with the thriller formula (hook 6 s · suspense 10 s · dialogue 10–15 s · reveal 6 s · climax 15 s · cliffhanger 6–10 s)*
 
-**Spoken words:** 1148 (813 dialogue + 335 narration) · about 0.60 words per second, between MYTHRA (0.41) and The Next Show (0.54).
+**Spoken words:** 1147 (812 dialogue + 335 narration) · about 0.59 words per second, between MYTHRA (0.41) and The Next Show (0.54).
 
 **Characters:** NARRATOR (voice-over) · MAREN (a widowed net-mender) · TAL (her dragon son) · ODILE (her neighbor) · BRAM (the harbor fish-trader) · HESK (the village elder) · JORY and the VILLAGERS of Kelvhaven
 
@@ -287,7 +287,7 @@ Mothers pull their children indoors when Maren walks past. She keeps her head do
 
 **15:06 — The cove, night — first fire**
 
-That same night, in the hidden cove, Tal does something he has never done before. Tal, bigger than a pony now, rises from the water and breathes out. And the sea catches fire. Blue flame, rolling across the waves.
+That same night, in the hidden cove, Tal does something he has never done before. Tal, bigger than a pony now, rises from the water and breathes out. And the sea catches fire. Yellow-orange flame, rolling across the waves.
 
 > **MAREN:** Tal. You made fire. On the water.
 
@@ -310,7 +310,7 @@ On the cliff path, the lantern stops. It's Bram. He holds the light out over the
 
 > **MAREN:** Grief doesn't keep hours, Bram.
 
-> **BRAM:** I saw a light on the water. Blue light.
+> **BRAM:** I saw a light on the water. Fire.
 
 > **MAREN:** Then you've been drinking. Go home.
 
@@ -395,7 +395,7 @@ Low tide. The sea pulls back, and the cave lies open. Torches. Dozens of them. T
 
 > **BRAM:** My boat says otherwise!
 
-Tal growls. The cave shakes. Blue light gathers in his throat. One breath, and this ends very differently.
+Tal growls. The cave shakes. A fiery orange glow gathers in his throat. One breath, and this ends very differently.
 
 > **JORY:** Look at its eyes. It's going to burn us all!
 
@@ -523,7 +523,7 @@ That night, the bells of Kelvhaven start ringing. Tal rises out of the harbor. A
 
 > **BRAM:** The devil came back!
 
-Tal opens his jaws. Blue fire builds in his throat. This time, nothing is holding it back.
+Tal opens his jaws. Yellow-orange fire builds in his throat. This time, nothing is holding it back.
 
 > **MAREN:** Tal! No!
 
