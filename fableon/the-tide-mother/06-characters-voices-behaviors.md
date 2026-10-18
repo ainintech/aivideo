@@ -27,7 +27,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 - **Signature behaviors:**
   - **tilts his head to the left** when curious, at every age (viewers will recognize him by it)
   - puffs out his cheeks, a callback to "Hold your breath"
-  - curls his tail around Maren
+  - nudges Maren's hand with his snout, and as an adult lowers his head beside her
   - his glow pulses brighter with emotion
 
 ## ODILE — the neighbor
@@ -75,10 +75,10 @@ The whole film stays in a **chilly early winter**. There is no falling snow, no 
 | Part | Beats | Time | Weather on screen | Narrated transition |
 |---|---|---|---|---|
 | **A. Start of winter: the great storm** | 1–62 | 0:00–11:22 | Storm, cold rain, wind and sea spray; no snow | The prologue: *"Then came the winter of the great storm."* |
-| **B. Early winter chill** | 63–168 | 11:22–31:14 | Bitter wind, low grey clouds, cold drizzle, sea mist, wet stone and mud, dry brown grass; faint breath vapor when people speak (not underwater); no snow, no ice | **Beat 63 (15 s):** *"The great storm passed. But the cold it brought stayed. The winds grew sharper, the nights grew longer, and the fish swam deeper than any net could reach. Kelvhaven wrapped itself in wool, and waited."* |
-| **C. Spring, years later** | 169–171 | 31:14–31:59 | Green grass on the turf roofs, pink sea-thrift on the cliffs, a calm silver sea, soft warm light | **Beat 169 (15 s):** *"Winters came and went. The cold winds softened. And when spring finally returned to Kelvhaven, it found a village that was learning to see the sea differently."* |
+| **B. Early winter chill** | 63–167 | 11:22–31:04 | Bitter wind, low grey clouds, cold drizzle, sea mist, wet stone and mud, dry brown grass; faint breath vapor when people speak (not underwater); no snow, no ice | **Beat 63 (15 s):** *"The great storm passed. But the cold it brought stayed. The winds grew sharper, the nights grew longer, and the fish swam deeper than any net could reach. Kelvhaven wrapped itself in wool, and waited."* |
+| **C. Spring, years later** | 168–170 | 31:04–31:49 | Green grass on the turf roofs, pink sea-thrift on the cliffs, a calm silver sea, soft warm light | **Beat 168 (15 s):** *"Winters came and went. The cold winds softened. And when spring finally returned to Kelvhaven, it found a village that was learning to see the sea differently."* |
 
-Beat 168 (someone leaves a fish at the cave mouth "every winter since") stays in the cold on purpose. It shows a later winter, just before the spring transition.
+Beat 167 (someone leaves a fish at the cave mouth "every winter since") stays in the cold on purpose. It shows a later winter, just before the spring transition.
 
 ### A. Start of winter: original costumes (from the Visual Style Profile character bible, unchanged)
 - **MAREN:** faded indigo wool dress, moss-green knitted shawl, rope belt with net-mending needle.
@@ -87,7 +87,7 @@ Beat 168 (someone leaves a fish at the cave mouth "every winter since") stays in
 - **HESK:** heavy grey hooded cloak, staff carved with wave patterns.
 - **VILLAGERS:** layered undyed wool and oilskins.
 
-### B. Early winter chill costumes (Beats 63–168)
+### B. Early winter chill costumes (Beats 63–167)
 - **MAREN:** a long **black** wool kirtle with long sleeves, a black hooded wool mantle fastened at the throat with a bone toggle, the same braided rope belt with the net-mending needle, black wool leg-wraps and dark leather turnshoes. She wears the moss-green shawl only until Beat 65, when she wraps it around Tal. After that she goes without it, which matches Odile's line "Your shawl is gone."
 - **TAL:** unchanged design. As a juvenile, from Beat 66 on, he wears Maren's moss-green shawl around his neck.
 - **ODILE:** a long **faded red** wool kirtle with long sleeves, a faded red hooded wool shawl wrapped over her linen headscarf and shoulders, the same oatmeal linen apron and dark leather shoes.
@@ -95,7 +95,7 @@ Beat 168 (someone leaves a fish at the cave mouth "every winter since") stays in
 - **HESK:** **animal colors**: a heavy hooded cloak of brown and grey wolf pelts, hood up, over a long tan deer-hide tunic with a plain leather belt, and brown deer-hide boots. He keeps his carved staff.
 - **JORY and the VILLAGERS:** layered undyed wool tunics and kirtles, hooded wool cloaks and capes, sheepskin vests, wool hoods, leg-wraps and leather turnshoes. Jory keeps his grey wool cap.
 
-### C. Spring costumes (Beats 169–171)
+### C. Spring costumes (Beats 168–170)
 - **ODILE:** a **faded red** linen kirtle with rolled sleeves, a light faded red wool shawl, her linen headscarf and oatmeal apron. She keeps the same color as her cold-weather look so viewers still recognize her.
 - **VILLAGERS and CHILDREN:** undyed linen tunics and kirtles, light wool vests, bare heads; the children barefoot.
 
@@ -114,16 +114,16 @@ Use these to **re-dress your existing reference images** (1 = front, 2 = back, 3
 
 *Tip: run this one on the "with shawl" result, so both Maren sheets match exactly.*
 
-### ODILE — early winter (Beats 63–168)
+### ODILE — early winter (Beats 63–167)
 > Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same woman, face, wrinkles, eyes, grey-streaked auburn hair, body shape, pose, hand positions, framing, the dark studio backdrop, the lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Change ONLY her clothing, identically in all three panels: replace the brown wool dress with a long faded red wool medieval kirtle with long sleeves, keep the same oatmeal linen apron tied at the waist with its bow at the back, keep the same linen headscarf, and wrap a thick faded red hooded wool shawl over the headscarf and around her shoulders, crossed over her chest. Dark brown leather shoes. The red is soft and sun-faded, close to dusty brick, not bright. Panel 2 shows the shawl's hood and fringe hanging down her back over the apron bow. Panel 3 shows the faded red shawl framing her face over the headscarf. Hand-woven, slightly worn wool, medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern shoes.
 
-### ODILE — spring (Beats 169–171)
+### ODILE — spring (Beats 168–170)
 > Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same woman, face, hair, body, pose, framing, backdrop, lighting, panel numbers and photorealistic style. Change ONLY her clothing, identically in all three panels: replace the brown wool dress with a long faded red linen medieval kirtle with elbow sleeves rolled up, keep the same oatmeal linen apron and linen headscarf, and drape a light faded red wool shawl loosely over her shoulders. Dark brown leather shoes. Soft sun-faded red. Medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern shoes.
 
-### BRAM — early winter (Beats 63–168)
+### BRAM — early winter (Beats 63–167)
 > Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same man, face, scarred skin, eyes, messy red-brown hair and long red-brown beard, body shape, pose, hand positions, the burning torch in his right hand and the iron harpoon in his left hand, framing, the dark studio backdrop, the lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Change ONLY his clothing to all black, identically in all three panels: a heavy knee-length black wool coat lined with black sheep fleece, with a thick shaggy black fleece collar and black fleece trim at the cuffs and hem, closed with leather toggles and a wide black leather belt with an iron buckle, a black wool tunic underneath, black wool trousers wrapped with black wool leg-wraps, and black leather boots. Matte, worn, rain-damp black with natural texture, not shiny. Panel 2 shows the back of the black coat and the fleece collar. Panel 3 shows the shaggy black fleece collar around his neck and beard. Medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern boots.
 
-### HESK — early winter (Beats 63–168)
+### HESK — early winter (Beats 63–167)
 > Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same old man, face, wrinkles, eyes, long white beard, body, pose, the hand gripping the carved wooden staff, the staff itself, framing, the dark studio backdrop, the lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Change ONLY his clothing, identically in all three panels: replace the grey wool cloak with a heavy hooded cloak made of stitched brown and grey wolf pelts, natural fur in animal colors, the hood up over his head exactly where the grey hood was, falling to his calves. Under it, a long tan deer-hide tunic with a plain brown leather belt, and brown deer-hide boots tied with leather thongs. Panel 2 shows the back of the wolf-pelt cloak with the fur pattern and pelt seams. Panel 3 shows the fur hood framing his face and beard. Medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no modern boots.
 
 ### JORY — early winter (only if you make a sheet for him)

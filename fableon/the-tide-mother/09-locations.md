@@ -41,7 +41,7 @@ Upload L0 as the reference and start every prompt with this line:
 Then add the panels for the location:
 
 ### L1 — Harbor, jetty and bell tower
-*Beats 094–097 (wreck at dawn), 149–163 (Tal's return at night), 169 (spring)*
+*Beats 094–097 (wreck at dawn), 148–162 (Tal's return at night), 168 (spring)*
 > Panel 1: wide shot from the waterfront along a long weathered timber jetty on tarred wooden piles, clinker-built rowboats moored along it, a squat square bell tower of grey fieldstone with a bronze bell in an open arch at the root of the jetty, grey fieldstone cottages with turf roofs rising behind. Panel 2: reverse angle from the end of the jetty looking back at the village and the bell tower, a black-tarred timber shed at the jetty's end on the right, the black north cliffs at the far right edge. Panel 3: detail of the jetty boards with coiled rope, lobster pots, an iron mooring ring and a rowboat's wet clinker planks.
 
 ### L2 — Harbor market
@@ -53,11 +53,11 @@ Then add the panels for the location:
 > Panel 1: a narrow muddy cobbled lane climbing gently between wind-bent grey fieldstone cottages with turf roofs, low wooden doors, closed wooden shutters, fish hanging to dry under the eaves, puddles, a carved sea-beast above one door. Panel 2: looking down the lane toward the harbor and the bell tower, the grey sea beyond. Panel 3: looking up the lane to its north end, where two small cottages stand apart from the rest under the black cliffs.
 
 ### L4 — The village square
-*Beats 117–123 (the judgment)*
+*Beats 116–122 (the judgment)*
 > Panel 1: wide shot of a small open square paved with uneven flagstones, turf-roofed cottages around it, a single tall weathered standing stone covered in faded carvings of sea-dragons and waves at the center. Panel 2: reverse angle across the square toward a long old stone longhouse at its top edge, its oak door under a moss-covered dragon carving. Panel 3: close detail of the standing stone's worn dragon carving, lichen and rain streaks.
 
 ### L5 — Hesk's longhouse (exterior and interior)
-*Beats 004 and 170 (door), 068–071 (inside)*
+*Beats 004 and 169 (door), 068–071 (inside)*
 > Panel 1: exterior of a long, low medieval stone longhouse, the oldest house in the village, thick grey fieldstone walls, a heavy turf roof with smoke seeping through a roof hole, a weathered oak door. Panel 2: close shot of the door: a worn, moss-covered carving of a coiled sea-dragon over the lintel, iron hinges, a smooth stone step. Panel 3: interior: low smoky timber beams, a long central peat hearth glowing orange, carved driftwood benches and a high-backed elder's chair, dried fish and nets hanging from the beams, light from the roof hole.
 
 ### L6 — Bram's fishing shed
@@ -77,15 +77,15 @@ Then add the panels for the location:
 > Panel 1: a narrow wet rock path climbing steeply along black basalt sea cliffs, worn stone steps, tough dry grass and heather, the dark sea crashing far below on the right. Panel 2: looking back down the path to the small last cottage at the edge of the village and the bay beyond. Panel 3: the fork where a smaller, steeper side path drops down the rocks toward a hidden cove.
 
 ### L10 — The cliff edge and the drowning stone
-*Beats 005, 058–062, 124–133*
+*Beats 005, 058–062, 123–132*
 > Panel 1: wide shot of the flat top of a high black basalt sea cliff, gale wind bending the grass, a single squat ancient standing stone near the edge, the churning sea far below. Panel 2: from behind the stone looking out over the edge to the open grey sea. Panel 3: close detail of the drowning stone: deep rope grooves worn smooth into the rock over centuries, lichen, a frayed old rope end.
 
 ### L11 — The hidden cove: beach, tidepools and cave mouth
-*Beats 050–054, 056–057, 082–084, 108–113, 135, 137, 140–148, 171*
+*Beats 050–054, 056–057, 082–084, 107–112, 134, 136, 139–147, 170*
 > Panel 1: wide shot of a small hidden cove enclosed by black cliffs, a curved black-sand beach, wet black stones, gentle surf, the dark mouth of a sea cave in the cliff at one end. Panel 2: black rock tidepools below the cliffs with clear green water, kelp, crabs and barnacles, the open sea beyond, and far across the water the faint shapes of the village. Panel 3: the arched mouth of the sea cave at low tide, exposed wet rocks and kelp, the sea pulled back.
 
 ### L12 — The sea cave (interior)
-*Beats 010–023, 031–040, 055, 064–067, 091–093, 105–107, 136, 168*
+*Beats 010–023, 031–040, 055, 064–067, 091–093, 105–106, 135, 167*
 > Panel 1: wide shot inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, a raised dry ledge at the back, the sea framed in the arched cave mouth. Panel 2: reverse angle from the ledge looking out through the cave mouth to the cove. Panel 3: detail of the dry ledge: a wicker fish basket, a tallow candle stub, kelp-draped stones.
 
 ---
