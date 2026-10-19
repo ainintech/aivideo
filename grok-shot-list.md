@@ -1,8 +1,8 @@
 "The Surprise" — Grok Shot List (Camera, Color, Cast)
 
-Companion to production-bible.md and generation-prompts.md. This file rebuilds the whole film for Grok Imagine clip lengths (6s, 10s, 15s only) and spells out the exact camera work, lenses, light and color for every shot. The story stays the same; this file is about the picture.
+Companion to production-bible.md and generation-prompts.md. This file rebuilds the whole film for Grok Imagine clip lengths and gives each shot the length its action needs and spells out the exact camera work, lenses, light and color for every shot. The story stays the same; this file is about the picture.
 
-Runtime: 2:18 | Clips: 16 (8 x 6s, 6 x 10s, 2 x 15s) | Aspect: 16:9 | 24fps look
+Runtime: 2:30 | Clips: 16 (5 x 5s, 8 x 10s, 3 x 15s) | Aspect: 16:9 | 24fps look
 
 
 1. Why it "glows" (the look in one list)
@@ -117,10 +117,19 @@ Camera movements:
 
 Each shot lists: length, story beat, shot size + angle, lens + aperture, movement, light, palette, then the full Grok prompt to copy.
 
+Clip length rule:
+
+* 5s — quick actions: a gesture, a knock, a walk, a transition.
+* 10s — most cinematic shots: one clear beat with one slow camera move.
+* 15s — slow, dramatic scenes: the emotional moments that need time to breathe.
+* Mix them. Never run several clips of the same length in a row without a reason — the change in rhythm keeps viewers watching.
+
+Rhythm of the film: 10 · 10 · 10 · 10 · 5 · 5 · 10 · 5 · 5 · 15 · 10 · 10 · 5 · 10 · 15 · 15
+
 For 10s and 15s clips the prompt uses time beats (0–5s, 5–10s). Keep it one continuous shot — no cuts inside a clip.
 
 
-Shot 1 — 6s — Aerial: Airport arrival
+Shot 1 — 10s — Aerial: Airport arrival
 
 * Beat: Establish the airport. The day starts.
 * Shot: EWS aerial, high angle about 60 degrees down, drone at about 40m.
@@ -130,7 +139,7 @@ Shot 1 — 6s — Aerial: Airport arrival
 * Palette: warm greys #B8B2A7, cream concrete #E6DCCB, honey glass #F2C48D.
 
 Grok prompt:
-Cinematic aerial drone shot, slow forward glide descending toward a modern airport arrivals curb on a soft overcast morning, glass terminal facade with warm honey reflections, small figures with suitcases and luggage carts, cars gently pulling in. The camera starts high looking down at 60 degrees and slowly tilts up toward the terminal entrance as it descends. 24mm wide lens, deep focus, muted warm grey and cream palette. [glow tag] [avoid line]
+Cinematic aerial drone shot, slow forward glide descending toward a modern airport arrivals curb on a soft overcast morning, glass terminal facade with warm honey reflections, small figures with suitcases and luggage carts, cars gently pulling in. 0–5s: the camera starts high looking down at 60 degrees and glides slowly forward. 5–10s: it descends and slowly tilts up toward the terminal entrance, the glass catching soft honey light. 24mm wide lens, deep focus, muted warm grey and cream palette. [glow tag] [avoid line]
 
 
 Shot 2 — 10s — Airport curb: Waiting, then Emily appears
@@ -146,17 +155,17 @@ Grok prompt:
 Cinematic medium close-up at eye level of DANIEL standing at an airport arrivals curb, holding his phone, scanning the crowd with excited, slightly nervous eyes, shifting his weight. Behind him, soft and out of focus, the glass terminal doors glow with soft daylight. 0–5s: focus on Daniel's face, gentle breathing handheld. 5–10s: the focus slowly racks to the background as EMILY walks out through the glass doors pulling her suitcase, spots him, and breaks into a wide smile; the camera slowly pushes in. 85mm lens at f/1.8, creamy bokeh, rim light on hair. [glow tag] [avoid line]
 
 
-Shot 3 — 6s — Airport curb: The hug
+Shot 3 — 10s — Airport curb: The hug
 
 * Beat: Ten years apart — they hug and laugh.
 * Shot: MS two-shot, eye level.
 * Lens: 50mm, f/2.
-* Movement: Slow 90-degree arc orbit around the hug.
+* Movement: Slow 120-degree arc orbit around the hug.
 * Light: Backlit by the bright terminal glass; glowing rim around both.
 * Palette: cream + navy + honey rim light.
 
 Grok prompt:
-Cinematic medium two-shot at eye level, DANIEL and EMILY step into a tight, joyful hug at the airport curb, both laughing, rocking gently, her suitcase beside them; Daniel reaches for the suitcase handle. The camera makes a slow, smooth 90-degree arc around them. Bright terminal glass behind them creates a soft glowing backlight and golden rim light on their hair and shoulders. 50mm lens at f/2. [glow tag] [avoid line]
+Cinematic medium two-shot at eye level, 0–5s: DANIEL and EMILY step into a tight, joyful hug at the airport curb, both laughing, rocking gently, her suitcase beside them. 5–10s: they pull back still holding each other's arms, smiling, and Daniel reaches for the suitcase handle. The camera makes one slow, smooth 120-degree arc around them the whole time. Bright terminal glass behind them creates a soft glowing backlight and golden rim light on their hair and shoulders. 50mm lens at f/2. [glow tag] [avoid line]
 
 
 Shot 4 — 10s — Car interior: The drive
@@ -172,7 +181,7 @@ Grok prompt:
 Cinematic frontal two-shot through a car windshield, camera mounted on the hood with soft road vibration. DANIEL drives with relaxed hands on the wheel; EMILY sits in the passenger seat. 0–5s: Emily gazes out the side window with a soft nostalgic smile while golden sunlight and tree shadows flicker across her face, faint reflections of trees sliding over the glass. 5–10s: she turns to Daniel and they both laugh mid-conversation; he glances at her, then back at the road; the camera drifts very slowly toward Emily. 35mm lens at f/2. [glow tag] [avoid line]
 
 
-Shot 5 — 6s — Aerial: Top-down drive through the suburb
+Shot 5 — 5s — Aerial: Top-down drive through the suburb
 
 * Beat: Time passes; they arrive in the neighbourhood at golden hour.
 * Shot: EWS bird's-eye, camera straight down at 90 degrees, drone at about 50m.
@@ -185,7 +194,7 @@ Grok prompt:
 Cinematic top-down bird's-eye drone shot, camera pointing straight down, tracking a single dark sedan driving slowly along a quiet tree-lined suburban street at golden hour. Long soft tree shadows stretch across the warm road, rooftops and green treetops glow in golden light. The drone follows smoothly and slowly rotates about 20 degrees. 24mm lens, deep focus, warm gold and sage-green palette. [glow tag] [avoid line]
 
 
-Shot 6 — 6s — Driveway: "Shh"
+Shot 6 — 5s — Driveway: "Shh"
 
 * Beat: The car stops; Daniel grins and gives the "shh" sign.
 * Shot: MS low angle (knee height) from the front three-quarter, through the windshield.
@@ -211,7 +220,7 @@ Grok prompt:
 Cinematic wide shot from the corner of a cozy living room, eye level, glowing sheer curtains backlit by warm afternoon sun, a warm floor lamp on, cream sofa, framed family photos. 0–5s: DANIEL quietly leads EMILY in by the hand on tiptoe, finger to his lips, both holding back smiles. 5–10s: Emily sits on the cream sofa, hands on her knees, glancing toward the hallway with an excited, anticipating smile. The camera slowly dollies in the whole time, ending on a medium shot of Emily. 24mm lens at f/2.8. [glow tag] [avoid line]
 
 
-Shot 8 — 6s — Hallway: Daniel goes to the bedroom
+Shot 8 — 5s — Hallway: Daniel goes to the bedroom
 
 * Beat: Daniel walks down the hall and glances back with a grin.
 * Shot: MS from behind, shoulder height.
@@ -224,7 +233,7 @@ Grok prompt:
 Cinematic gimbal follow shot from behind at shoulder height, DANIEL walks quietly down a warm wood-floored hallway toward a closed bedroom door glowing with golden light at the far end, passing soft pools of warm lamp light. Halfway, he glances back over his shoulder at the camera with a playful grin, then keeps walking. Smooth, slow follow. 32mm lens at f/2. [glow tag] [avoid line]
 
 
-Shot 9 — 6s — Bedroom door: The knock
+Shot 9 — 5s — Bedroom door: The knock
 
 * Beat: Soft knock; the door opens; golden light spills out.
 * Shot: MCU, slight low angle, from the hallway side.
@@ -237,17 +246,17 @@ Grok prompt:
 Cinematic medium close-up from a slight low angle in a dim warm hallway, DANIEL softly knocks twice on a bedroom door, then slowly pushes it open and peeks in with a tender smile. As the door opens, a beam of warm golden light spills out and slowly widens across his face, dust specks floating in the light. Very slow push-in. 50mm lens at f/1.8. [glow tag] [avoid line]
 
 
-Shot 10 — 10s — Bedroom: Sarah asleep (top-down)
+Shot 10 — 15s — Bedroom: Sarah asleep (top-down)
 
 * Beat: Sarah sleeps peacefully; Daniel sits gently on the edge of the bed.
 * Shot: Top-down bird's-eye directly above the bed, then MS.
 * Lens: 35mm, f/2.8.
-* Movement: Slow overhead rotation (about 30 degrees) while descending slightly.
+* Movement: Slow overhead rotation (about 45 degrees) while descending slightly; hold still at the end.
 * Light: A stripe of golden window light across the bed through linen curtains.
 * Palette: linen #F5E9D6, golden stripe #F2C48D, bedding #E9DFD0, chestnut hair on the pillow.
 
 Grok prompt:
-Cinematic top-down overhead shot directly above a bed in a softly lit bedroom, SARAH asleep peacefully on her side, wavy chestnut hair spread on a neutral pillow, a stripe of warm golden window light falling across the bedding through linen curtains. 0–5s: the camera slowly rotates about 30 degrees and descends slightly. 5–10s: DANIEL quietly enters the frame and sits gently on the edge of the bed beside her; the mattress dips; he looks at her tenderly. 35mm lens at f/2.8. [glow tag] [avoid line]
+Cinematic top-down overhead shot directly above a bed in a softly lit bedroom, SARAH asleep peacefully on her side, wavy chestnut hair spread on a neutral pillow, a stripe of warm golden window light falling across the bedding through linen curtains. 0–5s: the camera slowly rotates and descends slightly; the curtains breathe and the light stripe shimmers. 5–10s: DANIEL quietly enters the frame and sits gently on the edge of the bed beside her; the mattress dips. 10–15s: he softly brushes a strand of hair from her face and watches her sleep with a tender smile; the camera finishes its 45-degree rotation and holds still. 35mm lens at f/2.8. [glow tag] [avoid line]
 
 
 Shot 11 — 10s — Bedroom: "Wake up, sleepyhead"
@@ -276,7 +285,7 @@ Grok prompt:
 Cinematic medium two-shot from the foot of the bed at a slight low angle, warm golden window light behind them creating rim light on their hair. 0–5s: SARAH sits up in bed with tousled hair, laughing sleepily, "Mmm... what time is it?" DANIEL holds her hand, grinning: "I have a surprise for you." 5–10s: her face turns curious and excited, "A surprise? What kind of surprise?" and he gently pulls her up off the bed. Slow push-in. 50mm lens at f/2. [glow tag] [avoid line]
 
 
-Shot 13 — 6s — Hallway: Walking together
+Shot 13 — 5s — Hallway: Walking together
 
 * Beat: Hand in hand toward the sitting room. Sarah now wears the blush-pink cardigan.
 * Shot: MS, eye level, from the front (opposite of shot 8).
@@ -289,7 +298,7 @@ Grok prompt:
 Cinematic leading shot at eye level, the camera moves slowly backward down a warm wood-floored hallway in front of DANIEL and SARAH (cardigan) walking hand in hand toward the camera, Sarah curious and smiling, Daniel beaming with anticipation, warm glowing light from the room ahead falling on their faces, soft lamp pools on the walls. 35mm lens at f/2. [glow tag] [avoid line]
 
 
-Shot 14 — 6s — Sitting room: The reveal
+Shot 14 — 10s — Sitting room: The reveal
 
 * Beat: Sarah freezes when she sees Emily.
 * Shot: CU on Sarah, eye level.
@@ -299,7 +308,7 @@ Shot 14 — 6s — Sitting room: The reveal
 * Palette: skin #D9A07A, blush cardigan, lamp #FFB36B.
 
 Grok prompt:
-Cinematic close-up at eye level of SARAH (cardigan) stepping into a warm living room and freezing mid-step, eyes widening, hand rising to her mouth in stunned recognition; she gasps, "Emily?! Oh my god — is that really you?!" Off-screen a woman's voice answers warmly, "Happy birthday, Sarah!" Subtle dolly-zoom: the camera slowly pushes in while the background gently stretches. 85mm lens at f/1.8, warm lamp and window glow. [glow tag] [avoid line]
+Cinematic close-up at eye level of SARAH (cardigan) stepping into a warm living room. 0–5s: she freezes mid-step, eyes widening, hand rising slowly to her mouth in stunned recognition, a silent held breath. 5–10s: she gasps, "Emily?! Oh my god — is that really you?!" and tears fill her eyes; off-screen a woman's voice answers warmly, "Happy birthday, Sarah!" Subtle dolly-zoom across the full 10 seconds: the camera slowly pushes in while the background gently stretches. 85mm lens at f/1.8, warm lamp and window glow. [glow tag] [avoid line]
 
 
 Shot 15 — 15s — Sitting room: The hug
@@ -346,11 +355,11 @@ Cinematic medium shot in a warm living room at golden hour, DANIEL and EMILY sta
 7. How to Generate in Grok
 
 1. Make the start frame first. Use Grok Imagine (image) with the same prompt, minus the time beats and movement words. Pick the best image.
-2. Animate that image with the full prompt and the clip length listed (6s, 10s or 15s).
+2. Animate that image with the full prompt and the clip length listed (5s, 10s or 15s).
 3. Write the camera first. Grok follows the beginning of the prompt most strongly, so shot size, angle and lens come early.
 4. One main camera move per clip. For 10s and 15s clips, use the time beats exactly as written.
 5. Never change the character blocks. Same words, same clothes, every time.
 6. Same room, same start image. For the bedroom (10, 11, 12), sitting room (7, 14, 15, 16) and hallway (8, 13), reuse the same room picture as the base so the space does not change.
 7. If Grok makes the move too fast, add "very slow, smooth, gentle" in front of the move.
-8. If faces drift, regenerate the start frame and keep the clip shorter (6s) rather than accepting a different face.
+8. If faces drift, regenerate the start frame and keep the clip shorter (5s) rather than accepting a different face.
 9. Grade all 16 clips the same way at the end (production-bible.md section 7), then add music: soft piano starting at shot 9, rising through shots 15–16.
