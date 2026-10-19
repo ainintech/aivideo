@@ -2,7 +2,7 @@
 
 Companion to production-bible.md and generation-prompts.md. This file rebuilds the whole film for Grok Imagine clip lengths and gives each shot the length its action needs and spells out the exact camera work, lenses, light and color for every shot. The story stays the same; this file is about the picture.
 
-Runtime: 2:30 | Clips: 16 (5 x 5s, 8 x 10s, 3 x 15s) | Aspect: 16:9 | 24fps look
+Runtime: 2:35 | Clips: 16 (5 x 6s, 8 x 10s, 3 x 15s) | Aspect: 16:9 | 24fps look
 
 
 1. Why it "glows" (the look in one list)
@@ -119,12 +119,12 @@ Each shot lists: length, story beat, shot size + angle, lens + aperture, movemen
 
 Clip length rule:
 
-* 5s — quick actions: a gesture, a knock, a walk, a transition.
+* 6s — quick actions: a gesture, a knock, a walk, a transition.
 * 10s — most cinematic shots: one clear beat with one slow camera move.
 * 15s — slow, dramatic scenes: the emotional moments that need time to breathe.
 * Mix them. Never run several clips of the same length in a row without a reason — the change in rhythm keeps viewers watching.
 
-Rhythm of the film: 10 · 10 · 10 · 10 · 5 · 5 · 10 · 5 · 5 · 15 · 10 · 10 · 5 · 10 · 15 · 15
+Rhythm of the film: 10 · 10 · 10 · 10 · 6 · 6 · 10 · 6 · 6 · 15 · 10 · 10 · 6 · 10 · 15 · 15
 
 For 10s and 15s clips the prompt uses time beats (0–5s, 5–10s). Keep it one continuous shot — no cuts inside a clip.
 
@@ -181,7 +181,7 @@ Grok prompt:
 Cinematic frontal two-shot through a car windshield, camera mounted on the hood with soft road vibration. DANIEL drives with relaxed hands on the wheel; EMILY sits in the passenger seat. 0–5s: Emily gazes out the side window with a soft nostalgic smile while golden sunlight and tree shadows flicker across her face, faint reflections of trees sliding over the glass. 5–10s: she turns to Daniel and they both laugh mid-conversation; he glances at her, then back at the road; the camera drifts very slowly toward Emily. 35mm lens at f/2. [glow tag] [avoid line]
 
 
-Shot 5 — 5s — Aerial: Top-down drive through the suburb
+Shot 5 — 6s — Aerial: Top-down drive through the suburb
 
 * Beat: Time passes; they arrive in the neighbourhood at golden hour.
 * Shot: EWS bird's-eye, camera straight down at 90 degrees, drone at about 50m.
@@ -194,7 +194,7 @@ Grok prompt:
 Cinematic top-down bird's-eye drone shot, camera pointing straight down, tracking a single dark sedan driving slowly along a quiet tree-lined suburban street at golden hour. Long soft tree shadows stretch across the warm road, rooftops and green treetops glow in golden light. The drone follows smoothly and slowly rotates about 20 degrees. 24mm lens, deep focus, warm gold and sage-green palette. [glow tag] [avoid line]
 
 
-Shot 6 — 5s — Driveway: "Shh"
+Shot 6 — 6s — Driveway: "Shh"
 
 * Beat: The car stops; Daniel grins and gives the "shh" sign.
 * Shot: MS low angle (knee height) from the front three-quarter, through the windshield.
@@ -220,7 +220,7 @@ Grok prompt:
 Cinematic wide shot from the corner of a cozy living room, eye level, glowing sheer curtains backlit by warm afternoon sun, a warm floor lamp on, cream sofa, framed family photos. 0–5s: DANIEL quietly leads EMILY in by the hand on tiptoe, finger to his lips, both holding back smiles. 5–10s: Emily sits on the cream sofa, hands on her knees, glancing toward the hallway with an excited, anticipating smile. The camera slowly dollies in the whole time, ending on a medium shot of Emily. 24mm lens at f/2.8. [glow tag] [avoid line]
 
 
-Shot 8 — 5s — Hallway: Daniel goes to the bedroom
+Shot 8 — 6s — Hallway: Daniel goes to the bedroom
 
 * Beat: Daniel walks down the hall and glances back with a grin.
 * Shot: MS from behind, shoulder height.
@@ -233,7 +233,7 @@ Grok prompt:
 Cinematic gimbal follow shot from behind at shoulder height, DANIEL walks quietly down a warm wood-floored hallway toward a closed bedroom door glowing with golden light at the far end, passing soft pools of warm lamp light. Halfway, he glances back over his shoulder at the camera with a playful grin, then keeps walking. Smooth, slow follow. 32mm lens at f/2. [glow tag] [avoid line]
 
 
-Shot 9 — 5s — Bedroom door: The knock
+Shot 9 — 6s — Bedroom door: The knock
 
 * Beat: Soft knock; the door opens; golden light spills out.
 * Shot: MCU, slight low angle, from the hallway side.
@@ -285,7 +285,7 @@ Grok prompt:
 Cinematic medium two-shot from the foot of the bed at a slight low angle, warm golden window light behind them creating rim light on their hair. 0–5s: SARAH sits up in bed with tousled hair, laughing sleepily, "Mmm... what time is it?" DANIEL holds her hand, grinning: "I have a surprise for you." 5–10s: her face turns curious and excited, "A surprise? What kind of surprise?" and he gently pulls her up off the bed. Slow push-in. 50mm lens at f/2. [glow tag] [avoid line]
 
 
-Shot 13 — 5s — Hallway: Walking together
+Shot 13 — 6s — Hallway: Walking together
 
 * Beat: Hand in hand toward the sitting room. Sarah now wears the blush-pink cardigan.
 * Shot: MS, eye level, from the front (opposite of shot 8).
@@ -355,11 +355,11 @@ Cinematic medium shot in a warm living room at golden hour, DANIEL and EMILY sta
 7. How to Generate in Grok
 
 1. Make the start frame first. Use Grok Imagine (image) with the same prompt, minus the time beats and movement words. Pick the best image.
-2. Animate that image with the full prompt and the clip length listed (5s, 10s or 15s).
+2. Animate that image with the full prompt and the clip length listed (6s, 10s or 15s).
 3. Write the camera first. Grok follows the beginning of the prompt most strongly, so shot size, angle and lens come early.
 4. One main camera move per clip. For 10s and 15s clips, use the time beats exactly as written.
 5. Never change the character blocks. Same words, same clothes, every time.
 6. Same room, same start image. For the bedroom (10, 11, 12), sitting room (7, 14, 15, 16) and hallway (8, 13), reuse the same room picture as the base so the space does not change.
 7. If Grok makes the move too fast, add "very slow, smooth, gentle" in front of the move.
-8. If faces drift, regenerate the start frame and keep the clip shorter (5s) rather than accepting a different face.
+8. If faces drift, regenerate the start frame and keep the clip shorter (6s) rather than accepting a different face.
 9. Grade all 16 clips the same way at the end (production-bible.md section 7), then add music: soft piano starting at shot 9, rising through shots 15–16.
