@@ -58,7 +58,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
   - closes his eyes instead of looking at anyone when he judges
 
 ## JORY — the young fisherman (speaks the VILLAGER lines)
-- **Look:** lanky, about 18, messy blond hair, grey wool cap, black leather jerkin like the other villagers.
+- **Look:** lanky, about 18, messy blond hair, grey wool cap, faded woad-blue tunic and sheepskin vest.
 - **Voice prompt:** a nasal, cracking teenage voice that stammers when scared.
 - **Signature behaviors:** fidgets and tugs at his grey cap.
 - **Arc:** first to blame the storm, first to see that Tal saved her.
@@ -87,9 +87,9 @@ Every character wears **the same outfit from the first beat to the last**, in ev
 - **ODILE:** your uploaded sheet: faded brick-red dress, fringed red shawl worn as a hood, oatmeal apron.
 - **BRAM:** your uploaded sheet: shaggy brown and tan sheepskin coat, brown tunic and trousers, tall brown boots.
 - **HESK:** your uploaded sheet: hooded wolf-pelt cloak, tan deer-hide tunic, fur-trimmed boots, carved staff.
-- **JORY and the VILLAGERS:** all in **black leather**: black oiled-leather jerkins and black leather hooded cloaks over black wool tunics and kirtles. Jory keeps his grey wool cap so viewers can pick him out.
+- **JORY and the VILLAGERS:** real everyday village clothing in **many different natural colours**, every person dressed differently, as in MYTHRA's villages: layered hand-woven wool in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps. All colours are muted and weathered, never bright. Green is kept for Maren's shawl and red for Odile, so they stay easy to spot.
 
-*Bram (brown fur), Odile (faded red) and Hesk (wolf fur) each have their own colour, so they stand out from a crowd that is all in black.*
+*Bram (brown fur), Odile (faded red), Hesk (wolf fur) and Maren (black dress, green shawl) each have a look no villager shares, so they stand out in any crowd.*
 
 ---
 
@@ -103,7 +103,7 @@ Upload the sheet into an image editor (Grok Imagine edit, ChatGPT image edit or 
 Use your uploaded sheets as they are. No edit needed: every prompt now describes exactly these outfits.
 
 ### JORY (only if you make a sheet for him)
-> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same young man, face, messy blond hair, body, pose, framing, backdrop, lighting, panel numbers and photorealistic style. Change ONLY his clothing, identically in all three panels: keep his grey wool cap, and dress him in a black oiled-leather jerkin over a black wool tunic, a short black leather hooded cape, black wool trousers with leg-wraps and black leather turnshoes. Medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern shoes.
+> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same young man, face, messy blond hair, body, pose, framing, backdrop, lighting, panel numbers and photorealistic style. Change ONLY his clothing, identically in all three panels: keep his grey wool cap, and dress him in a faded woad-blue wool tunic with a sheepskin vest over it, a leather belt, grey wool trousers with leg-wraps and worn leather turnshoes. Medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern shoes.
 
 ### TAL (all three sheets: baby, juvenile, adult)
 > Edit this 3-panel character reference sheet. Keep everything exactly the same: the same dragon, body shape, size, pose, wings, frills, spikes, claws, tail, scale pattern, framing, the dark studio backdrop, the lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Change ONLY the colours: make the scales and skin pale blush-pink and rose-white with a soft pearly sheen, the wing membranes pale translucent pink with faint violet veins, the frills and spikes pink-white, and the eyes violet with dark slit pupils. If there is fire or glow in the mouth, make it natural yellow-orange flame. No other changes.
@@ -136,12 +136,12 @@ Use your uploaded sheets as they are. No edit needed: every prompt now describes
 | **Horn lantern** | A small black iron-framed lantern with scraped-horn panes and a tallow candle inside, the only lantern in the film |
 | **Pitch torch** | A wooden stave with a rag head soaked in fish oil and pitch, carried by the mob |
 
-## Recurring villagers (the same faces in every crowd)
-- **JORY:** about 18, lanky, messy blond hair, grey wool cap (he speaks the VILLAGER lines).
-- **ULF:** a big man in his 30s, shaved head, sheepskin vest, iron gaff.
-- **SEF:** a wiry man in his 30s, black beard, crooked nose, dark leather jerkin.
-- **GARTH:** about 60, bald, short grey beard, oilskin cape.
-- **BRENNA:** a fishwife in her 40s, red-brown braid, grey wool shawl.
-- **MAGS:** about 70, white hair, black wool shawl.
+## Recurring villagers (the same faces and clothes in every crowd)
+- **JORY:** about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest (he speaks the VILLAGER lines).
+- **ULF:** a big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff.
+- **SEF:** a wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic.
+- **GARTH:** about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic.
+- **BRENNA:** a fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl.
+- **MAGS:** about 70, white hair, sheep-grey kirtle, black wool shawl.
 
-Everyone else in a crowd keeps their hood up, with their face in shadow. Jory, Ulf and Sef are Bram's three men in the shed and on the jetty.
+Everyone else in a crowd wears the same mix of muted natural colours, hood up, face in shadow. Jory, Ulf and Sef are Bram's three men in the shed and on the jetty.
