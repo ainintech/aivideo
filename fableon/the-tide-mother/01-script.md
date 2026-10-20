@@ -218,7 +218,7 @@ She didn't. And somehow, he knows. Tal pushes the fish back to her with his nose
 
 > **MAREN:** Stubborn. Just like your father.
 
-She feeds it to him anyway, and wraps her only shawl around his neck. Now she is the one shivering.
+She feeds it to him anyway, and wraps her late husband's old wool scarf around his neck. Now she is the one shivering.
 
 > **MAREN:** Do you want to hear about him? Your father?
 
@@ -263,7 +263,7 @@ The next day, Odile goes to see for herself. She knocks. No answer. She steps in
 
 The hearth is cold. The bed hasn't been slept in. Then a shadow fills the doorway behind her. Maren.
 
-> **ODILE:** Your shawl is gone. Your fire is cold. Where do you sleep?
+> **ODILE:** Your fire is cold. You're thinner every day. Where do you sleep?
 
 > **MAREN:** Wherever my grief puts me, Odile.
 

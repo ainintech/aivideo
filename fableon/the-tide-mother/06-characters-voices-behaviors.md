@@ -9,7 +9,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 - **Delivery:** long pauses before reveals. He speaks **only in the prologue** (Beats 2–7); after that the film has no narration.
 
 ## MAREN — the Tide Mother
-- **Look:** about 30, long wet tangled dark-brown hair with thin braids, freckles, grey-green eyes; long black wool dress, black hooded capelet fastened with a carved bone toggle, braided rope belt with an iron net-mending needle, dark leg-wraps, brown leather shoes (as in your uploaded sheet). Moss-green shawl only until Beat 148.
+- **Look:** about 30, long wet tangled dark-brown hair with thin braids, freckles, grey-green eyes; long black wool dress, a **moss-green knitted shawl** worn over both shoulders all film long and fastened with a carved bone toggle (no black capelet), braided rope belt with an iron net-mending needle, dark leg-wraps and **brown leather sandals**.
 - **Voice prompt:** soft husky alto with a gentle northern-coastal lilt, breathy when afraid, sentences trailing off quietly.
 - **Signature behaviors:**
   - twists the thin braid on the left when anxious
@@ -82,8 +82,8 @@ Beats 410–412 (someone leaves a fish at the cave mouth "every winter since") s
 
 ### Wardrobe: one outfit per character for the whole film
 Every character wears **the same outfit from the first beat to the last**, in every season, so each character needs only **one** reference sheet. The weather changes; the clothes don't.
-- **MAREN:** your uploaded black sheet: long black wool dress, black hooded capelet with a carved bone toggle, braided rope belt with the iron net-mending needle, dark leg-wraps, brown leather shoes. She also wears a moss-green knitted shawl over it **only until Beat 148**, when she wraps it around Tal. Odile's line "Your shawl is gone" still works.
-- **TAL:** no clothes; from Beat 149, juvenile Tal wears Maren's moss-green shawl around his neck.
+- **MAREN:** long black wool dress, **moss-green knitted shawl fastened with the bone toggle (worn the whole film)**, braided rope belt with the iron net-mending needle, dark wool leg-wraps, **brown leather sandals**. When she warms baby Tal she wraps him in her shawl, then wears it again. In the cave (Beat 148) she gives juvenile Tal her late husband's old brown wool scarf, so her green shawl never leaves her.
+- **TAL:** no clothes; from Beat 149, juvenile Tal wears the old brown wool scarf around his neck.
 - **ODILE:** your uploaded sheet: faded brick-red dress, fringed red shawl worn as a hood, oatmeal apron.
 - **BRAM:** your uploaded sheet: shaggy brown and tan sheepskin coat, brown tunic and trousers, tall brown boots.
 - **HESK:** your uploaded sheet: hooded wolf-pelt cloak, tan deer-hide tunic, fur-trimmed boots, carved staff.
@@ -96,8 +96,8 @@ Every character wears **the same outfit from the first beat to the last**, in ev
 ## Reference-sheet prompts (use on your existing 3-panel sheets)
 Upload the sheet into an image editor (Grok Imagine edit, ChatGPT image edit or Gemini/Nano Banana) and paste the prompt. Only what the prompt names changes.
 
-### MAREN
-Use your uploaded black sheet as it is. No edit needed.
+### MAREN — correct your master sheet (green shawl, sandals)
+> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same woman, face, freckles, grey-green eyes, skin, long wet dark-brown hair and thin braids, body, pose, hand positions, framing, the dark studio backdrop, the lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Keep the long black wool dress, the braided brown rope belt and the iron net-mending needle exactly as they are. Change ONLY two things, identically in all three panels: (1) Remove the black hooded capelet completely and replace it with a moss-green knitted wool shawl with a ragged fringed edge, worn over both shoulders and falling to mid-back, fastened at the throat with the same carved bone toggle. The shawl must be clearly moss-green, not black, with no black cape or hood over it; in panel 2 the green shawl covers her upper back under her hair; in panel 3 the green knit and the bone toggle show at her neck. (2) Replace the brown shoes with simple medieval brown leather sandals with thin leather straps laced up over the dark wool leg-wraps. Medieval northern fishing village around 1100 AD; no modern elements.
 
 ### ODILE, BRAM and HESK
 Use your uploaded sheets as they are. No edit needed: every prompt now describes exactly these outfits.

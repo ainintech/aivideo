@@ -13,7 +13,7 @@ The film teaches these lessons only through the story: what the characters do an
 - **Takeaway:** ask questions before you accuse anyone.
 
 ## 3. Love is louder than the law.
-- **Shown:** Maren gives up her husband's knife, her food and her shawl for Tal. In the end, the voice she taught him to obey brings him back to save her.
+- **Shown:** Maren gives up her husband's knife, her food and her late husband's scarf for Tal. In the end, the voice she taught him to obey brings him back to save her.
 - **Shown at the end:** the voice she taught him to obey brings Tal back from the sea to save her.
 - **Takeaway:** what we give the people we love comes back to us.
 
