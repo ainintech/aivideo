@@ -1,7 +1,7 @@
 # SHE GAVE BIRTH TO A DRAGON | THE TIDE MOTHER
 *Full Fantasy Movie 4K · FABLEON · runtime 31:03 · 172 beats timed with the thriller formula (hook 6 s · suspense 10 s · dialogue 10–15 s · reveal 6 s · climax 15 s · cliffhanger 6–10 s)*
 
-**Spoken words:** 1147 (812 dialogue + 335 narration) · about 0.62 words per second, between MYTHRA (0.41) and The Next Show (0.54).
+**Spoken words:** 965 (812 dialogue + 153 narration) · about 0.52 words per second, between MYTHRA (0.41) and The Next Show (0.54).
 
 **Characters:** NARRATOR (voice-over) · MAREN (a widowed net-mender) · TAL (her dragon son) · ODILE (her neighbor) · BRAM (the harbor fish-trader) · HESK (the village elder) · JORY and the VILLAGERS of Kelvhaven
 
@@ -146,9 +146,7 @@ She lifts it out and holds it against her heart. And then she sings. The same th
 
 **7:06 — Harbor market**
 
-> **NARRATOR (V.O.):** Secrets are heavy in a village this small. And Maren's secret was getting hungrier by the day.
-
-The harbor market. Loud, crowded, and full of eyes. Maren sets her coins in front of Bram, the one trader who never forgets a face.
+The harbor market. Maren walks in with her head down, carrying a secret heavier than her basket. The harbor market. Loud, crowded, and full of eyes. Maren sets her coins in front of Bram, the one trader who never forgets a face.
 
 > **MAREN:** Herring, Bram. A full basket.
 
@@ -212,9 +210,7 @@ She is laughing. She has no idea how soon she'll need those wings.
 
 **10:51 — Sea cave, freezing night**
 
-> **NARRATOR (V.O.):** The great storm passed. But the cold it brought stayed. The winds grew sharper, the nights grew longer, and the fish swam deeper than any net could reach. Kelvhaven wrapped itself in wool, and waited.
-
-Then winter bites. A freezing night in the cave. One fish left. Just one. She holds it out to him.
+Weeks pass. The cold settles over Kelvhaven, and the fish stop coming. Then winter bites. A freezing night in the cave. One fish left. Just one. She holds it out to him.
 
 > **MAREN:** Take it. I ate at the market.
 
@@ -237,9 +233,7 @@ She feeds it to him anyway, and wraps her only shawl around his neck. Now she is
 
 **12:04 — Elder Hesk's house**
 
-> **NARRATOR (V.O.):** In Kelvhaven, whispers travel faster than the tide. Within days, they reached the elder's door.
-
-Across the village, in Elder Hesk's smoky longhouse, two people are about to change everything. Odile and Bram stand before the elder.
+Across the village, the whispers reach the elder's door. Across the village, in Elder Hesk's smoky longhouse, two people are about to change everything. Odile and Bram stand before the elder.
 
 > **ODILE:** She buys fish she never cooks. She walks to the cliffs every night.
 
@@ -333,9 +327,7 @@ He answers the only way he knows. Three soft notes. Her lullaby. For tonight, it
 
 **16:27 — Harbor, dawn — the wreck**
 
-> **NARRATOR (V.O.):** By morning, the whispers had become proof. Or something that looked a lot like it.
-
-Dawn. And something is wrong in the harbor. Bram's boat lies smashed on the rocks. Its nets are torn to ribbons. The catch is gone. A crowd gathers. And Bram finally has an audience.
+Morning comes to the harbor, and with it, something everyone will call proof. Dawn. And something is wrong in the harbor. Bram's boat lies smashed on the rocks. Its nets are torn to ribbons. The catch is gone. A crowd gathers. And Bram finally has an audience.
 
 > **BRAM:** Look at it! Teeth through the hull!
 
@@ -469,9 +461,7 @@ Bram doesn't wait for the elder. He pushes her. She falls. The sea swallows her,
 
 **23:52 — Underwater — the rescue**
 
-> **NARRATOR (V.O.):** The law had been kept. The sea had been given what it was owed. But the sea had other plans.
-
-Down here, there is no storm. No crowd. Only the dark. The light above her shrinks. Her last breath escapes in bubbles. And then, from somewhere, her own voice comes back to her:
+Far below, in the dark water, something moves. Down here, there is no storm. No crowd. Only the dark. The light above her shrinks. Her last breath escapes in bubbles. And then, from somewhere, her own voice comes back to her:
 
 > **MAREN (ECHO):** Hold your breath, Tal.
 
@@ -585,13 +575,7 @@ Behind them, the coast of Kelvhaven shrinks to a thin grey line. Maren doesn't l
 
 **29:58 — Epilogue — what Kelvhaven learned**
 
-And every winter since, on the coldest night of the year, someone leaves a fish at the mouth of the sea cave.
-
-> **NARRATOR (V.O.):** Winters came and went. The cold winds softened. And when spring finally returned to Kelvhaven, it found a village that was learning to see the sea differently.
-
-> **NARRATOR (V.O.):** Kelvhaven still tells this story. They say the law was never really about the sea. It was about fear, and what people do with what they don't understand.
-
-> **NARRATOR (V.O.):** Fear isn't wrong. Cruelty is a choice. And love, real love, is loud enough to call someone home, even from the bottom of the sea.
+And every winter since, on the coldest night of the year, someone leaves a fish at the mouth of the sea cave. Years later. Spring returns to Kelvhaven. Children run laughing past the old dragon carving above the elder's door. At the water's edge, the whole village stands quietly and looks out to sea.
 
 
 **30:53 — Title card**

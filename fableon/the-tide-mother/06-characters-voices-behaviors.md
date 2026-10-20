@@ -6,7 +6,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 
 ## NARRATOR (voice-over only)
 - **Voice prompt:** a deep, resonant, unhurried older male storyteller with warm gravel and a faint Nordic lilt, like telling a legend by a fire.
-- **Delivery:** long pauses before reveals, and he drops to near-whisper on the last words of each act bridge.
+- **Delivery:** long pauses before reveals. He speaks **only in the prologue** (Beats 2–7); after that the film has no narration.
 
 ## MAREN — the Tide Mother
 - **Look:** about 30, long wet tangled dark-brown hair with thin braids, freckles, grey-green eyes; long black wool dress, black hooded capelet fastened with a carved bone toggle, braided rope belt with an iron net-mending needle, dark leg-wraps, brown leather shoes (as in your uploaded sheet). Moss-green shawl only until Beat 65.
@@ -31,17 +31,17 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
   - his glow pulses brighter with emotion
 
 ## ODILE — the neighbor
-- **Look:** about 45, grey-streaked auburn hair under a linen headscarf, ruddy cheeks; faded red wool kirtle and faded red hooded wool shawl over the headscarf, oatmeal apron.
+- **Look:** about 45, grey-streaked hair, ruddy cheeks; long faded brick-red wool dress, a thick faded red fringed wool shawl draped over her head as a hood and crossed over her chest, oatmeal linen apron (as in your uploaded sheet).
 - **Voice prompt:** quick, chattering, high sing-song voice, with little gasps between phrases.
 - **Signature behaviors:**
   - wrings her apron in both hands
   - touches two fingers to her lips and then toward the sea (Kelvhaven's superstitious sign)
-  - fusses with the knot of her linen headscarf
+  - pulls her fringed red shawl tighter around her head
   - quick, fluttering hand gestures
 - **Arc:** her gossip starts the danger, and she's the first to say "We were wrong."
 
 ## BRAM — the fish-trader
-- **Look:** burly, about 40, scarred jaw, matted red-brown beard; all in black: heavy knee-length black fleece-lined coat with a shaggy black fleece collar, wide black leather belt, black leg-wraps and boots.
+- **Look:** burly, about 40, scarred jaw, curly red-brown hair and thick red-brown beard; heavy shaggy knee-length coat of brown and tan sheepskin fleece, stained brown tunic, wide leather belt, brown trousers and tall brown boots; carries a torch and an iron harpoon (as in your uploaded sheet).
 - **Voice prompt:** low gravelly bass, clipped and sneering, rolled R's, words spat out.
 - **Signature behaviors:**
   - drums his thick fingers on whatever is near
@@ -50,7 +50,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
   - spits on the ground
 
 ## HESK — the elder
-- **Look:** about 70, long white beard, staff carved with wave patterns; hooded cloak of brown and grey wolf pelts over a tan deer-hide tunic.
+- **Look:** about 70, long white beard; hooded cloak of shaggy brown and grey wolf pelts over a tan deer-hide tunic, leather belt, fur-trimmed laced hide boots, tall staff carved with spirals (as in your uploaded sheet).
 - **Voice prompt:** very slow, deep, wheezing old voice with long pauses between words, formal and cold.
 - **Signature behaviors:**
   - **taps his staff twice before he speaks**
@@ -70,13 +70,13 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 ---
 
 ## Season map and wardrobe (whole film)
-The whole film stays in a **chilly early winter**. There is no falling snow, no ice and no frozen sea or harbor; those are saved for a possible season two. Every image and video prompt carries a **Season** line for the weather; the costumes stay the same all film. The narrator announces each change of season so viewers always know where they are in time. Voices and behaviors never change. All costumes stay **medieval** (northern fishing village, around 1100 AD): hand-woven wool, linen, fleece, fur and leather, with no zippers, modern buttons, printed patterns or modern footwear.
+The whole film stays in a **chilly early winter**. There is no falling snow, no ice and no frozen sea or harbor; those are saved for a possible season two. Every image and video prompt carries a **Season** line for the weather; the costumes stay the same all film. There is **no narration after the prologue**: each change of season is shown by the landscape, with an optional text card (WEEKS LATER, YEARS LATER). Voices and behaviors never change. All costumes stay **medieval** (northern fishing village, around 1100 AD): hand-woven wool, linen, fleece, fur and leather, with no zippers, modern buttons, printed patterns or modern footwear.
 
-| Part | Beats | Time | Weather on screen | Narrated transition |
+| Part | Beats | Time | Weather on screen | Transition |
 |---|---|---|---|---|
 | **A. Start of winter: the great storm** | 1–62 | 0:00–10:51 | Storm, cold rain, wind and sea spray; no snow | The prologue: *"Then came the winter of the great storm."* |
-| **B. Early winter chill** | 63–168 | 10:51–30:08 | Bitter wind, low grey clouds, cold drizzle, sea mist, wet stone and mud, dry brown grass; faint breath vapor when people speak (not underwater); no snow, no ice | **Beat 63 (15 s):** *"The great storm passed. But the cold it brought stayed. The winds grew sharper, the nights grew longer, and the fish swam deeper than any net could reach. Kelvhaven wrapped itself in wool, and waited."* |
-| **C. Spring, years later** | 169–171 | 30:08–30:53 | Green grass on the turf roofs, pink sea-thrift on the cliffs, a calm silver sea, soft warm light | **Beat 169 (15 s):** *"Winters came and went. The cold winds softened. And when spring finally returned to Kelvhaven, it found a village that was learning to see the sea differently."* |
+| **B. Early winter chill** | 63–168 | 10:51–30:08 | Bitter wind, low grey clouds, cold drizzle, sea mist, wet stone and mud, dry brown grass; faint breath vapor when people speak (not underwater); no snow, no ice | **Beat 63 (15 s, silent):** aerial of the cold village, optional text card *WEEKS LATER* |
+| **C. Spring, years later** | 169–171 | 30:08–30:53 | Green grass on the turf roofs, pink sea-thrift on the cliffs, a calm silver sea, soft warm light | **Beat 169 (15 s, silent):** spring over the village, optional text card *YEARS LATER* |
 
 Beat 168 (someone leaves a fish at the cave mouth "every winter since") stays in the cold on purpose. It shows a later winter, just before the spring transition.
 
@@ -84,12 +84,12 @@ Beat 168 (someone leaves a fish at the cave mouth "every winter since") stays in
 Every character wears **the same outfit from the first beat to the last**, in every season, so each character needs only **one** reference sheet. The weather changes; the clothes don't.
 - **MAREN:** your uploaded black sheet: long black wool dress, black hooded capelet with a carved bone toggle, braided rope belt with the iron net-mending needle, dark leg-wraps, brown leather shoes. She also wears a moss-green knitted shawl over it **only until Beat 65**, when she wraps it around Tal. Odile's line "Your shawl is gone" still works.
 - **TAL:** no clothes; from Beat 66, juvenile Tal wears Maren's moss-green shawl around his neck.
-- **ODILE:** faded red wool kirtle, faded red hooded wool shawl over her linen headscarf, oatmeal apron.
-- **BRAM:** all black: black fleece-lined coat with a shaggy black fleece collar, black belt, leg-wraps and boots.
-- **HESK:** hooded cloak of brown and grey wolf pelts over a tan deer-hide tunic, carved staff.
+- **ODILE:** your uploaded sheet: faded brick-red dress, fringed red shawl worn as a hood, oatmeal apron.
+- **BRAM:** your uploaded sheet: shaggy brown and tan sheepskin coat, brown tunic and trousers, tall brown boots.
+- **HESK:** your uploaded sheet: hooded wolf-pelt cloak, tan deer-hide tunic, fur-trimmed boots, carved staff.
 - **JORY and the VILLAGERS:** all in **black leather**: black oiled-leather jerkins and black leather hooded cloaks over black wool tunics and kirtles. Jory keeps his grey wool cap so viewers can pick him out.
 
-*Odile (faded red) and Hesk (wolf fur) keep their own colours on purpose, so they stand out from a crowd that is all in black. If you want them in black too, say so and I'll switch them.*
+*Bram (brown fur), Odile (faded red) and Hesk (wolf fur) each have their own colour, so they stand out from a crowd that is all in black.*
 
 ---
 
@@ -99,14 +99,8 @@ Upload the sheet into an image editor (Grok Imagine edit, ChatGPT image edit or 
 ### MAREN
 Use your uploaded black sheet as it is. No edit needed.
 
-### ODILE
-> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same woman, face, wrinkles, eyes, grey-streaked auburn hair, body shape, pose, hand positions, framing, the dark studio backdrop, the lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Change ONLY her clothing, identically in all three panels: replace the brown wool dress with a long faded red wool medieval kirtle with long sleeves, keep the same oatmeal linen apron tied at the waist with its bow at the back, keep the same linen headscarf, and wrap a thick faded red hooded wool shawl over the headscarf and around her shoulders, crossed over her chest. Dark brown leather shoes. The red is soft and sun-faded, close to dusty brick, not bright. Hand-woven, slightly worn wool, medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern shoes.
-
-### BRAM
-> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same man, face, scarred skin, eyes, messy red-brown hair and long red-brown beard, body shape, pose, hand positions, the burning torch in his right hand and the iron harpoon in his left hand, framing, the dark studio backdrop, the lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Change ONLY his clothing to all black, identically in all three panels: a heavy knee-length black wool coat lined with black sheep fleece, with a thick shaggy black fleece collar and black fleece trim at the cuffs and hem, closed with leather toggles and a wide black leather belt with an iron buckle, a black wool tunic underneath, black wool trousers wrapped with black wool leg-wraps, and black leather boots. Matte, worn, rain-damp black with natural texture, not shiny. Medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern boots.
-
-### HESK
-> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same old man, face, wrinkles, eyes, long white beard, body, pose, the hand gripping the carved wooden staff, the staff itself, framing, the dark studio backdrop, the lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Change ONLY his clothing, identically in all three panels: replace the grey wool cloak with a heavy hooded cloak made of stitched brown and grey wolf pelts, natural fur in animal colors, the hood up over his head exactly where the grey hood was, falling to his calves. Under it, a long tan deer-hide tunic with a plain brown leather belt, and brown deer-hide boots tied with leather thongs. Medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no modern boots.
+### ODILE, BRAM and HESK
+Use your uploaded sheets as they are. No edit needed: every prompt now describes exactly these outfits.
 
 ### JORY (only if you make a sheet for him)
 > Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same young man, face, messy blond hair, body, pose, framing, backdrop, lighting, panel numbers and photorealistic style. Change ONLY his clothing, identically in all three panels: keep his grey wool cap, and dress him in a black oiled-leather jerkin over a black wool tunic, a short black leather hooded cape, black wool trousers with leg-wraps and black leather turnshoes. Medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern shoes.
@@ -116,7 +110,7 @@ Use your uploaded black sheet as it is. No edit needed.
 
 ## Cinematic rules (applied to every image and video prompt)
 
-**0. Short clips, one image each.** Every clip is **3–6 seconds** and starts from **its own image** (Clip 099-1, 099-2…). Generate each one as a 6-second Grok video and trim it. Never chain a clip from the last frame of the previous clip, because that is where faces, costumes and voices drift. Each clip has at most one speaking character, and their voice line is repeated in every clip. Narration is recorded separately and laid over the clips in the edit.
+**0. Short clips, one image each.** Every clip is **3–6 seconds** and starts from **its own image** (Clip 099-1, 099-2…). Generate each one as a 6-second Grok video and trim it. Never chain a clip from the last frame of the previous clip, because that is where faces, costumes and voices drift. Each clip has at most one speaking character, and their voice line is repeated in every clip. Narration (prologue only) is recorded separately and laid over the clips in the edit.
 
 **1. Shoot from behind the listener.** In every conversation or face-off, the person listening is in the foreground with their **back to the camera**, and the speaker is in the background **facing the camera**. One side shows faces and the other shows backs, so the two sides always face each other. When both sides speak, the beat has an **A/B pair of shots**, each with its own image (for example Shot 153A from behind Tal and Maren to see Bram, and Shot 153B from behind Bram to see Tal and Maren). Put the clips back to back in the edit.
 

@@ -1,10 +1,10 @@
 # Lessons from *The Tide Mother*
 
-The film teaches these lessons through the story rather than lecturing. The narrator then says them out loud in the **Epilogue (Beats 170–171, 30:23–30:53)**, so every viewer leaves with the message.
+The film teaches these lessons only through the story: what the characters do and say. There is no narration after the prologue, so nothing is lectured at the viewer.
 
 ## 1. Fear isn't wrong. Cruelty is a choice.
 - **Shown:** the village is afraid of something it doesn't understand, and turns that fear into a mob, a trial and a drowning.
-- **Said:** Maren in Beat 159: *"You were afraid. Fear isn't wrong. What you did with it was."* The narrator repeats it in Beat 171.
+- **Said:** Maren in Beat 159: *"You were afraid. Fear isn't wrong. What you did with it was."*
 - **Takeaway for viewers:** feeling afraid is human. Hurting someone because of it is a decision.
 
 ## 2. Don't judge what you don't understand.
@@ -14,7 +14,7 @@ The film teaches these lessons through the story rather than lecturing. The narr
 
 ## 3. Love is louder than the law.
 - **Shown:** Maren gives up her husband's knife, her food and her shawl for Tal. In the end, the voice she taught him to obey brings him back to save her.
-- **Said:** the narrator in Beat 171: *"Love, real love, is loud enough to call someone home, even from the bottom of the sea."*
+- **Shown at the end:** the voice she taught him to obey brings Tal back from the sea to save her.
 - **Takeaway:** what we give the people we love comes back to us.
 
 ## 4. Strength means choosing mercy.
@@ -23,7 +23,7 @@ The film teaches these lessons through the story rather than lecturing. The narr
 
 ## 5. Old rules deserve new questions.
 - **Shown:** Kelvhaven's founders carved dragons to honor the sea, then "forgot why", and kept only a cruel law.
-- **Said:** the narrator in Beat 170: *"The law was never really about the sea. It was about fear."*
+- **Shown in the epilogue:** children now run laughing past the old dragon carving that the village once feared.
 - **Takeaway:** ask why a tradition exists before you follow it.
 
 ---
