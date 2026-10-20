@@ -9,7 +9,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 - **Delivery:** long pauses before reveals. He speaks **only in the prologue** (Beats 2–7); after that the film has no narration.
 
 ## MAREN — the Tide Mother
-- **Look:** about 30, long wet tangled dark-brown hair with thin braids, freckles, grey-green eyes; long black wool dress, black hooded capelet fastened with a carved bone toggle, braided rope belt with an iron net-mending needle, dark leg-wraps, brown leather shoes (as in your uploaded sheet). Moss-green shawl only until Beat 65.
+- **Look:** about 30, long wet tangled dark-brown hair with thin braids, freckles, grey-green eyes; long black wool dress, black hooded capelet fastened with a carved bone toggle, braided rope belt with an iron net-mending needle, dark leg-wraps, brown leather shoes (as in your uploaded sheet). Moss-green shawl only until Beat 148.
 - **Voice prompt:** soft husky alto with a gentle northern-coastal lilt, breathy when afraid, sentences trailing off quietly.
 - **Signature behaviors:**
   - twists the thin braid on the left when anxious
@@ -74,16 +74,16 @@ The whole film stays in a **chilly early winter**. There is no falling snow, no 
 
 | Part | Beats | Time | Weather on screen | Transition |
 |---|---|---|---|---|
-| **A. Start of winter: the great storm** | 1–62 | 0:00–10:51 | Storm, cold rain, wind and sea spray; no snow | The prologue: *"Then came the winter of the great storm."* |
-| **B. Early winter chill** | 63–168 | 10:51–30:08 | Bitter wind, low grey clouds, cold drizzle, sea mist, wet stone and mud, dry brown grass; faint breath vapor when people speak (not underwater); no snow, no ice | **Beat 63 (15 s, silent):** aerial of the cold village, optional text card *WEEKS LATER* |
-| **C. Spring, years later** | 169–171 | 30:08–30:53 | Green grass on the turf roofs, pink sea-thrift on the cliffs, a calm silver sea, soft warm light | **Beat 169 (15 s, silent):** spring over the village, optional text card *YEARS LATER* |
+| **A. Start of winter: the great storm** | 1–141 | 0:00–10:51 | Storm, cold rain, wind and sea spray; no snow | The prologue: *"Then came the winter of the great storm."* |
+| **B. Early winter chill** | 142–412 | 10:51–30:08 | Bitter wind, low grey clouds, cold drizzle, sea mist, wet stone and mud, dry brown grass; faint breath vapor when people speak (not underwater); no snow, no ice | **Beats 142–144 (15 s, silent):** aerial of the cold village, optional text card *WEEKS LATER* |
+| **C. Spring, years later** | 413–421 | 30:08–30:53 | Green grass on the turf roofs, pink sea-thrift on the cliffs, a calm silver sea, soft warm light | **Beats 413–415 (15 s, silent):** spring over the village, optional text card *YEARS LATER* |
 
-Beat 168 (someone leaves a fish at the cave mouth "every winter since") stays in the cold on purpose. It shows a later winter, just before the spring transition.
+Beats 410–412 (someone leaves a fish at the cave mouth "every winter since") stay in the cold on purpose. It shows a later winter, just before the spring transition.
 
 ### Wardrobe: one outfit per character for the whole film
 Every character wears **the same outfit from the first beat to the last**, in every season, so each character needs only **one** reference sheet. The weather changes; the clothes don't.
-- **MAREN:** your uploaded black sheet: long black wool dress, black hooded capelet with a carved bone toggle, braided rope belt with the iron net-mending needle, dark leg-wraps, brown leather shoes. She also wears a moss-green knitted shawl over it **only until Beat 65**, when she wraps it around Tal. Odile's line "Your shawl is gone" still works.
-- **TAL:** no clothes; from Beat 66, juvenile Tal wears Maren's moss-green shawl around his neck.
+- **MAREN:** your uploaded black sheet: long black wool dress, black hooded capelet with a carved bone toggle, braided rope belt with the iron net-mending needle, dark leg-wraps, brown leather shoes. She also wears a moss-green knitted shawl over it **only until Beat 148**, when she wraps it around Tal. Odile's line "Your shawl is gone" still works.
+- **TAL:** no clothes; from Beat 149, juvenile Tal wears Maren's moss-green shawl around his neck.
 - **ODILE:** your uploaded sheet: faded brick-red dress, fringed red shawl worn as a hood, oatmeal apron.
 - **BRAM:** your uploaded sheet: shaggy brown and tan sheepskin coat, brown tunic and trousers, tall brown boots.
 - **HESK:** your uploaded sheet: hooded wolf-pelt cloak, tan deer-hide tunic, fur-trimmed boots, carved staff.
