@@ -4,12 +4,12 @@ The film teaches these lessons only through the story: what the characters do an
 
 ## 1. Fear isn't wrong. Cruelty is a choice.
 - **Shown:** the village is afraid of something it doesn't understand, and turns that fear into a mob, a trial and a drowning.
-- **Said:** Maren in Beats 387–390: *"You were afraid. Fear isn't wrong. What you did with it was."*
+- **Said:** Maren in Beats 277–280: *"You were afraid. Fear isn't wrong. What you did with it was."*
 - **Takeaway for viewers:** feeling afraid is human. Hurting someone because of it is a decision.
 
 ## 2. Don't judge what you don't understand.
 - **Shown:** Tal is called a "sea devil" and blamed for the wrecked boat with no proof. He never hurts anyone, even while netted and attacked.
-- **Said:** Hesk's own words in Beats 165–166: *"Then bring me proof. Not fear."* He ignores his own rule later.
+- **Said:** Hesk's own words in Beats 120–121: *"Then bring me proof. Not fear."* He ignores his own rule later.
 - **Takeaway:** ask questions before you accuse anyone.
 
 ## 3. Love is louder than the law.
@@ -31,4 +31,4 @@ The film teaches these lessons only through the story: what the characters do an
 ## Use outside the film
 - **Description (first lines):** *She hid a dragon to save its life. Her village drowned her for it. A story about fear, love and the choice to show mercy.*
 - **Pinned comment:** *Which lesson hit you hardest: "Fear isn't wrong, cruelty is a choice", or "love is loud enough to call someone home"? 💙*
-- **Shorts idea:** Beats 380–381 ("Not like them. We are not like them.") plus Beats 382–384 (yellow-orange fire into the sky), captioned *"She could have burned them all. She chose this."*
+- **Shorts idea:** Beats 272–273 ("Not like them. We are not like them.") plus Beat 274 (yellow-orange fire into the sky), captioned *"She could have burned them all. She chose this."*

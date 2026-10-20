@@ -74,16 +74,16 @@ The whole film stays in a **chilly early winter**. There is no falling snow, no 
 
 | Part | Beats | Time | Weather on screen | Transition |
 |---|---|---|---|---|
-| **A. Start of winter: the great storm** | 1–141 | 0:00–10:51 | Storm, cold rain, wind and sea spray; no snow | The prologue: *"Then came the winter of the great storm."* |
-| **B. Early winter chill** | 142–412 | 10:51–30:08 | Bitter wind, low grey clouds, cold drizzle, sea mist, wet stone and mud, dry brown grass; faint breath vapor when people speak (not underwater); no snow, no ice | **Beats 142–144 (15 s, silent):** aerial of the cold village, optional text card *WEEKS LATER* |
-| **C. Spring, years later** | 413–421 | 30:08–30:53 | Green grass on the turf roofs, pink sea-thrift on the cliffs, a calm silver sea, soft warm light | **Beats 413–415 (15 s, silent):** spring over the village, optional text card *YEARS LATER* |
+| **A. Start of winter: the great storm** | 1–98 | 0:00–10:32 | Storm, cold rain, wind and sea spray; no snow | The prologue: *"Then came the winter of the great storm."* |
+| **B. Early winter chill** | 99–298 | 10:32–30:32 | Bitter wind, low grey clouds, cold drizzle, sea mist, wet stone and mud, dry brown grass; faint breath vapor when people speak (not underwater); no snow, no ice | **Beat 99 (15 s, silent):** aerial of the cold village, optional text card *WEEKS LATER* |
+| **C. Spring, years later** | 299–301 | 30:32–30:50 | Green grass on the turf roofs, pink sea-thrift on the cliffs, a calm silver sea, soft warm light | **Beat 299 (15 s, silent):** spring over the village, optional text card *YEARS LATER* |
 
-Beats 410–412 (someone leaves a fish at the cave mouth "every winter since") stay in the cold on purpose. It shows a later winter, just before the spring transition.
+Beat 298 (someone leaves a fish at the cave mouth "every winter since") stays in the cold on purpose. It shows a later winter, just before the spring transition.
 
 ### Wardrobe: one outfit per character for the whole film
 Every character wears **the same outfit from the first beat to the last**, in every season, so each character needs only **one** reference sheet. The weather changes; the clothes don't.
-- **MAREN:** long black wool dress, **moss-green knitted shawl fastened with the bone toggle (worn the whole film)**, braided rope belt with the iron net-mending needle, dark wool leg-wraps, **brown leather sandals**. When she warms baby Tal she wraps him in her shawl, then wears it again. In the cave (Beat 148) she gives juvenile Tal her late husband's old brown wool scarf, so her green shawl never leaves her.
-- **TAL:** no clothes; from Beat 149, juvenile Tal wears the old brown wool scarf around his neck.
+- **MAREN:** long black wool dress, **moss-green knitted shawl fastened with the bone toggle (worn the whole film)**, braided rope belt with the iron net-mending needle, dark wool leg-wraps, **brown leather sandals**. When she warms baby Tal she wraps him in her shawl, then wears it again. In the cave (Beat 102) she gives juvenile Tal her late husband's old brown wool scarf, so her green shawl never leaves her.
+- **TAL:** no clothes; from Beat 104, juvenile Tal wears the old brown wool scarf around his neck.
 - **ODILE:** your uploaded sheet: faded brick-red dress, fringed red shawl worn as a hood, oatmeal apron.
 - **BRAM:** your uploaded sheet: shaggy brown and tan sheepskin coat, brown tunic and trousers, tall brown boots.
 - **HESK:** your uploaded sheet: hooded wolf-pelt cloak, tan deer-hide tunic, fur-trimmed boots, carved staff.
@@ -110,7 +110,7 @@ Use your uploaded sheets as they are. No edit needed: every prompt now describes
 
 ## Cinematic rules (applied to every image and video prompt)
 
-**0. Short clips, one image each.** Every clip is **3–6 seconds** and starts from **its own image** (Clip 099-1, 099-2…). Generate each one as a 6-second Grok video and trim it. Never chain a clip from the last frame of the previous clip, because that is where faces, costumes and voices drift. Each clip has at most one speaking character, and their voice line is repeated in every clip. Narration (prologue only) is recorded separately and laid over the clips in the edit.
+**0. 6-second beats, one image each.** Every beat is **exactly 6 seconds** (Grok's clip length) and starts from **its own image**. Generate each one as a 6-second Grok video; no trimming. Never chain a clip from the last frame of the previous clip, because that is where faces, costumes and voices drift. Each clip has at most one speaking character, and their voice line is repeated in every clip. Narration (prologue only) is recorded separately and laid over the clips in the edit.
 
 **1. Shoot from behind the listener.** In every conversation or face-off, the person listening is in the foreground with their **back to the camera**, and the speaker is in the background **facing the camera**. One side shows faces and the other shows backs, so the two sides always face each other. When both sides speak, the beat has an **A/B pair of shots**, each with its own image (for example Shot 153A from behind Tal and Maren to see Bram, and Shot 153B from behind Bram to see Tal and Maren). Put the clips back to back in the edit.
 
