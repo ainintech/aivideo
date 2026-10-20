@@ -46,7 +46,7 @@ Her legs give way against the cold rock. The baby is coming. Here. Now. [screami
 
 **2:22 — Sea cave, after the birth**
 
-Then, silence. Only the surf, breathing in and out. Under her cloak, something moves. Something wet. Something grey. Grey scales. A tail. Two small folded wings. And then it makes a sound. A tiny chirp.
+Then, silence. Only the surf, breathing in and out. Under her cloak, something moves. Something wet. Something pale. Pink scales. A tail. Two small folded wings. And then it makes a sound. A tiny chirp.
 
 > **MAREN:** No. No. That can't have come from me.
 
@@ -365,7 +365,7 @@ He tests the harpoon's point against his thumb. A bead of blood.
 
 **17:46 — Maren's cottage — the search**
 
-At the same hour, men break down Maren's door. They tear through everything. The bed. The nets. The baskets. Then, under the bed, one of them finds it. A single scale. Silver-grey, with a rainbow sheen. Bigger than a man's hand.
+At the same hour, men break down Maren's door. They tear through everything. The bed. The nets. The baskets. Then, under the bed, one of them finds it. A single scale. Blush-pink, with a pearly sheen. Bigger than a man's hand.
 
 > **HESK:** So. It's true.
 

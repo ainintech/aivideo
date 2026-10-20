@@ -10,8 +10,8 @@ Built from a NexLev visual analysis of MYTHRA's "She Gave Birth to a Dragon" (0:
 - Sea (night): deep navy #0F1C2B · black-teal #12302F
 - Interiors (cottage, cave): driftwood brown #5A4634 · tallow amber #E0A84E · soot #2B2B2B
 - Village and costumes: wet wool grey #6F6A62 · kelp olive #4F5A3A · rust brown #7A3F24 · undyed linen #CFC6B4
-- Tal (the dragon): pearl grey #D9DDDE · abalone teal sheen #6FB7B1 · deep sea blue #1F4E6B on wing membranes and spine fins
-- Tal's fire and eyes: electric cyan-blue #3FC6F2 with a white-hot core #E8FAFF
+- Tal (the dragon): blush pink #E7C3C6 · rose-white pearly sheen #F3E5E6 · soft violet #7B5EA7 on eyes and wing veins
+- Tal's fire and eyes: violet #3FC6F2 with a white-hot core #E8FAFF
 - Mob torches: orange flame #F28C28 (the only warm light at night, and it signals danger)
 
 **Grade rule:** keep the world desaturated so that blue means Tal and orange means the mob.
@@ -45,9 +45,9 @@ Storm-grey, salt-wind and lonely. Particles: sea spray, drizzle, mist, foam, tor
 
 ## 8. Character bible (keep identical in every prompt)
 - **MAREN:** a woman about 30, long wet tangled dark-brown hair with a single thin braid on the left, pale weathered freckled skin, tired grey-green eyes, faded indigo wool dress, moss-green knitted shawl, rope belt with a net-mending needle.
-- **TAL as a baby (cat-sized):** amphibian-dragon newborn, wet, translucent pale-grey skin with a wet sheen, oversized glassy dark-blue eyes, tiny bat-like wings, a soft frilled crest, webbed claws.
-- **TAL as a juvenile (pony-sized):** silver-grey scales with an opal-like rainbow sheen, longer wings, frills along the spine, a faint fiery orange glow in the throat.
-- **TAL as an adult (horse-sized, about 6 ft tall at the head):** dark gunmetal-grey scales shimmering with iridescent blue and teal, bat-like wings with glowing electric-blue veins, a crest of spiky fin-frills on his head and neck, luminous cyan slit-pupil eyes, yellow-orange fire with bioluminescent veins.
+- **TAL as a baby (cat-sized):** amphibian-dragon newborn, wet, translucent pale blush-pink skin with a wet sheen, oversized glassy violet eyes, tiny bat-like wings, a soft frilled crest, webbed claws.
+- **TAL as a juvenile (pony-sized):** pale blush-pink scales with a soft pearly opal sheen, longer wings, frills along the spine, a faint fiery orange glow in the throat.
+- **TAL as an adult (horse-sized, about 6 ft tall at the head):** blush-pink and rose-white scales with a soft pearly sheen, pale pink bat-like wings with faint violet veins, a crest of spiky fin-frills on his head and neck, luminous violet slit-pupil eyes, yellow-orange fire with bioluminescent veins.
 - **ODILE:** a woman about 45, grey-streaked auburn hair under a linen headscarf, ruddy cheeks, oatmeal apron over a brown wool dress.
 - **BRAM:** a burly man about 40, scarred jaw, matted red-brown beard, oiled leather fisherman's smock, sealskin vest.
 - **HESK:** about 70, long white beard, wooden staff carved with wave patterns, heavy grey hooded cloak.

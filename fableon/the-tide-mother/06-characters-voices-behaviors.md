@@ -9,7 +9,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 - **Delivery:** long pauses before reveals, and he drops to near-whisper on the last words of each act bridge.
 
 ## MAREN — the Tide Mother
-- **Look:** about 30, long wet tangled dark-brown hair with a thin braid on the left, freckles, grey-green eyes, faded indigo wool dress, moss-green shawl, rope belt with a bone net-mending needle.
+- **Look:** about 30, long wet tangled dark-brown hair with thin braids, freckles, grey-green eyes; long black wool dress, black hooded capelet fastened with a carved bone toggle, braided rope belt with an iron net-mending needle, dark leg-wraps, brown leather shoes (as in your uploaded sheet). Moss-green shawl only until Beat 65.
 - **Voice prompt:** soft husky alto with a gentle northern-coastal lilt, breathy when afraid, sentences trailing off quietly.
 - **Signature behaviors:**
   - twists the thin braid on the left when anxious
@@ -19,7 +19,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 - **Never:** shouts at Tal. She commands him quietly.
 
 ## TAL — the dragon son
-- **Look (from your three reference sheets):** baby (cat-sized, stands upright like a tiny child, wet translucent pale-grey skin, huge dark-blue eyes, soft fin-frills around the head, small translucent wings) → juvenile (pony-sized, about 4 ft, slender, silver-grey scales with an opal rainbow sheen, translucent iridescent bat-like wings, spiky silver crest, pale-blue eyes) → adult (horse-sized, only about 6 ft tall at the head, head level with Maren's, dark gunmetal-grey scales shimmering blue, teal and violet, bat-like wings with glowing electric-blue veins, spiky crest, glowing cyan eyes). His fire is yellow-orange.
+- **Look (from your three reference sheets):** same designs as your three sheets, recoloured **pale blush-pink with a pearly sheen and violet eyes** (the colour of your reference). Baby: cat-sized, upright, wet translucent pink skin, huge violet eyes. Juvenile: pony-sized, about 4 ft, slender, pink pearly scales, translucent pink wings. Adult: horse-sized, only about 6 ft at the head, head level with Maren's, blush-pink and rose-white scales, pale pink wings with faint violet veins, violet slit-pupil eyes. His fire is yellow-orange.
 - **Vocal signature:**
   - baby: crystalline dolphin-like chirps and clicks
   - juvenile: a warbling whale-calf hum
@@ -31,7 +31,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
   - his glow pulses brighter with emotion
 
 ## ODILE — the neighbor
-- **Look:** about 45, grey-streaked auburn hair under a linen headscarf, ruddy cheeks, oatmeal apron over a brown wool dress.
+- **Look:** about 45, grey-streaked auburn hair under a linen headscarf, ruddy cheeks; faded red wool kirtle and faded red hooded wool shawl over the headscarf, oatmeal apron.
 - **Voice prompt:** quick, chattering, high sing-song voice, with little gasps between phrases.
 - **Signature behaviors:**
   - wrings her apron in both hands
@@ -41,7 +41,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 - **Arc:** her gossip starts the danger, and she's the first to say "We were wrong."
 
 ## BRAM — the fish-trader
-- **Look:** burly, about 40, scarred jaw, matted red-brown beard, oiled leather fisherman's smock, sealskin vest.
+- **Look:** burly, about 40, scarred jaw, matted red-brown beard; all in black: heavy knee-length black fleece-lined coat with a shaggy black fleece collar, wide black leather belt, black leg-wraps and boots.
 - **Voice prompt:** low gravelly bass, clipped and sneering, rolled R's, words spat out.
 - **Signature behaviors:**
   - drums his thick fingers on whatever is near
@@ -50,7 +50,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
   - spits on the ground
 
 ## HESK — the elder
-- **Look:** about 70, long white beard, wooden staff carved with wave patterns, heavy grey hooded cloak.
+- **Look:** about 70, long white beard, staff carved with wave patterns; hooded cloak of brown and grey wolf pelts over a tan deer-hide tunic.
 - **Voice prompt:** very slow, deep, wheezing old voice with long pauses between words, formal and cold.
 - **Signature behaviors:**
   - **taps his staff twice before he speaks**
@@ -58,7 +58,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
   - closes his eyes instead of looking at anyone when he judges
 
 ## JORY — the young fisherman (speaks the VILLAGER lines)
-- **Look:** lanky, about 18, messy blond hair, grey wool cap.
+- **Look:** lanky, about 18, messy blond hair, grey wool cap, black leather jerkin like the other villagers.
 - **Voice prompt:** a nasal, cracking teenage voice that stammers when scared.
 - **Signature behaviors:** fidgets and tugs at his grey cap.
 - **Arc:** first to blame the storm, first to see that Tal saved her.
@@ -70,7 +70,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 ---
 
 ## Season map and wardrobe (whole film)
-The whole film stays in a **chilly early winter**. There is no falling snow, no ice and no frozen sea or harbor; those are saved for a possible season two. Every image and video prompt carries a **Season** line and dresses the characters for it. The narrator announces each change of season so viewers always know where they are in time. Voices and behaviors never change. All costumes stay **medieval** (northern fishing village, around 1100 AD): hand-woven wool, linen, fleece, fur and leather, with no zippers, modern buttons, printed patterns or modern footwear.
+The whole film stays in a **chilly early winter**. There is no falling snow, no ice and no frozen sea or harbor; those are saved for a possible season two. Every image and video prompt carries a **Season** line for the weather; the costumes stay the same all film. The narrator announces each change of season so viewers always know where they are in time. Voices and behaviors never change. All costumes stay **medieval** (northern fishing village, around 1100 AD): hand-woven wool, linen, fleece, fur and leather, with no zippers, modern buttons, printed patterns or modern footwear.
 
 | Part | Beats | Time | Weather on screen | Narrated transition |
 |---|---|---|---|---|
@@ -80,59 +80,39 @@ The whole film stays in a **chilly early winter**. There is no falling snow, no 
 
 Beat 168 (someone leaves a fish at the cave mouth "every winter since") stays in the cold on purpose. It shows a later winter, just before the spring transition.
 
-### A. Start of winter: original costumes (from the Visual Style Profile character bible, unchanged)
-- **MAREN:** faded indigo wool dress, moss-green knitted shawl, rope belt with net-mending needle.
-- **ODILE:** linen headscarf, oatmeal apron over a brown wool dress.
-- **BRAM:** oiled leather fisherman's smock, sealskin vest.
-- **HESK:** heavy grey hooded cloak, staff carved with wave patterns.
-- **VILLAGERS:** layered undyed wool and oilskins.
+### Wardrobe: one outfit per character for the whole film
+Every character wears **the same outfit from the first beat to the last**, in every season, so each character needs only **one** reference sheet. The weather changes; the clothes don't.
+- **MAREN:** your uploaded black sheet: long black wool dress, black hooded capelet with a carved bone toggle, braided rope belt with the iron net-mending needle, dark leg-wraps, brown leather shoes. She also wears a moss-green knitted shawl over it **only until Beat 65**, when she wraps it around Tal. Odile's line "Your shawl is gone" still works.
+- **TAL:** no clothes; from Beat 66, juvenile Tal wears Maren's moss-green shawl around his neck.
+- **ODILE:** faded red wool kirtle, faded red hooded wool shawl over her linen headscarf, oatmeal apron.
+- **BRAM:** all black: black fleece-lined coat with a shaggy black fleece collar, black belt, leg-wraps and boots.
+- **HESK:** hooded cloak of brown and grey wolf pelts over a tan deer-hide tunic, carved staff.
+- **JORY and the VILLAGERS:** all in **black leather**: black oiled-leather jerkins and black leather hooded cloaks over black wool tunics and kirtles. Jory keeps his grey wool cap so viewers can pick him out.
 
-### B. Early winter chill costumes (Beats 63–168)
-- **MAREN:** a long **black** wool kirtle with long sleeves, a black hooded wool mantle fastened at the throat with a bone toggle, the same braided rope belt with the net-mending needle, black wool leg-wraps and dark leather turnshoes. She wears the moss-green shawl only until Beat 65, when she wraps it around Tal. After that she goes without it, which matches Odile's line "Your shawl is gone."
-- **TAL:** unchanged design. As a juvenile, from Beat 66 on, he wears Maren's moss-green shawl around his neck.
-- **ODILE:** a long **faded red** wool kirtle with long sleeves, a faded red hooded wool shawl wrapped over her linen headscarf and shoulders, the same oatmeal linen apron and dark leather shoes.
-- **BRAM:** all **black**: a heavy knee-length black wool coat lined with black sheep fleece, with a shaggy black fleece collar, leather toggles and a wide black leather belt, a black wool tunic, black wool trousers with leg-wraps and black leather boots.
-- **HESK:** **animal colors**: a heavy hooded cloak of brown and grey wolf pelts, hood up, over a long tan deer-hide tunic with a plain leather belt, and brown deer-hide boots. He keeps his carved staff.
-- **JORY and the VILLAGERS:** layered undyed wool tunics and kirtles, hooded wool cloaks and capes, sheepskin vests, wool hoods, leg-wraps and leather turnshoes. Jory keeps his grey wool cap.
-
-### C. Spring costumes (Beats 169–171)
-- **ODILE:** a **faded red** linen kirtle with rolled sleeves, a light faded red wool shawl, her linen headscarf and oatmeal apron. She keeps the same color as her cold-weather look so viewers still recognize her.
-- **VILLAGERS and CHILDREN:** undyed linen tunics and kirtles, light wool vests, bare heads; the children barefoot.
+*Odile (faded red) and Hesk (wolf fur) keep their own colours on purpose, so they stand out from a crowd that is all in black. If you want them in black too, say so and I'll switch them.*
 
 ---
 
-## Costume-change prompts for your 3-panel character sheets
-Use these to **re-dress your existing reference images** (1 = front, 2 = back, 3 = close-up). Upload the sheet into an image editor (Grok Imagine edit, ChatGPT image edit or Gemini/Nano Banana) and paste the prompt. Only the clothing changes. Save each result as a new sheet, for example "Maren — early winter", and use the sheet that matches the beat's **Season** line as the character reference.
+## Reference-sheet prompts (use on your existing 3-panel sheets)
+Upload the sheet into an image editor (Grok Imagine edit, ChatGPT image edit or Gemini/Nano Banana) and paste the prompt. Only what the prompt names changes.
 
-**Rule shared by every prompt (already included in each one):** keep the same person, face, hair, body, pose, framing, background, lighting, panel numbers and photorealistic style.
+### MAREN
+Use your uploaded black sheet as it is. No edit needed.
 
-### MAREN — early winter, with shawl (Beats 63–65)
-> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same woman, face, freckles, grey-green eyes, skin, long wet tangled dark-brown hair and the thin braids, body shape, pose, hand positions, camera angles and framing in every panel, the dark studio backdrop, the soft lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Change ONLY her clothing, identically in all three panels: replace the faded indigo dress with a long black wool medieval kirtle with long fitted sleeves reaching the ankles, and add a black hooded wool mantle (cloak) over her shoulders, hood down, falling to mid-calf and fastened at the throat with a small carved bone toggle. Keep her moss-green knitted shawl over the black mantle, and keep the same braided rope belt with the metal net-mending needle hanging from it. Add black wool leg-wraps and dark brown leather turnshoes. Panel 2 shows the black mantle and the shawl from behind with her hair falling over them. Panel 3 shows the bone toggle and the edge of the black hood at her neck. Hand-woven, slightly worn, rain-damp wool, medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern shoes.
+### ODILE
+> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same woman, face, wrinkles, eyes, grey-streaked auburn hair, body shape, pose, hand positions, framing, the dark studio backdrop, the lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Change ONLY her clothing, identically in all three panels: replace the brown wool dress with a long faded red wool medieval kirtle with long sleeves, keep the same oatmeal linen apron tied at the waist with its bow at the back, keep the same linen headscarf, and wrap a thick faded red hooded wool shawl over the headscarf and around her shoulders, crossed over her chest. Dark brown leather shoes. The red is soft and sun-faded, close to dusty brick, not bright. Hand-woven, slightly worn wool, medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern shoes.
 
-### MAREN — early winter, without shawl (Beats 66–168)
-> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same woman, face, freckles, eyes, hair and braids, body, pose, framing, backdrop, lighting, panel numbers and photorealistic style. Change ONLY her clothing, identically in all three panels: she wears a long black wool medieval kirtle with long fitted sleeves, a black hooded wool mantle over her shoulders, hood down, fastened at the throat with a small carved bone toggle, the same braided rope belt with the metal net-mending needle, black wool leg-wraps and dark brown leather turnshoes. Remove the moss-green shawl completely. Hand-woven, slightly worn, rain-damp wool, medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern shoes.
+### BRAM
+> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same man, face, scarred skin, eyes, messy red-brown hair and long red-brown beard, body shape, pose, hand positions, the burning torch in his right hand and the iron harpoon in his left hand, framing, the dark studio backdrop, the lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Change ONLY his clothing to all black, identically in all three panels: a heavy knee-length black wool coat lined with black sheep fleece, with a thick shaggy black fleece collar and black fleece trim at the cuffs and hem, closed with leather toggles and a wide black leather belt with an iron buckle, a black wool tunic underneath, black wool trousers wrapped with black wool leg-wraps, and black leather boots. Matte, worn, rain-damp black with natural texture, not shiny. Medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern boots.
 
-*Tip: run this one on the "with shawl" result, so both Maren sheets match exactly.*
+### HESK
+> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same old man, face, wrinkles, eyes, long white beard, body, pose, the hand gripping the carved wooden staff, the staff itself, framing, the dark studio backdrop, the lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Change ONLY his clothing, identically in all three panels: replace the grey wool cloak with a heavy hooded cloak made of stitched brown and grey wolf pelts, natural fur in animal colors, the hood up over his head exactly where the grey hood was, falling to his calves. Under it, a long tan deer-hide tunic with a plain brown leather belt, and brown deer-hide boots tied with leather thongs. Medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no modern boots.
 
-### ODILE — early winter (Beats 63–168)
-> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same woman, face, wrinkles, eyes, grey-streaked auburn hair, body shape, pose, hand positions, framing, the dark studio backdrop, the lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Change ONLY her clothing, identically in all three panels: replace the brown wool dress with a long faded red wool medieval kirtle with long sleeves, keep the same oatmeal linen apron tied at the waist with its bow at the back, keep the same linen headscarf, and wrap a thick faded red hooded wool shawl over the headscarf and around her shoulders, crossed over her chest. Dark brown leather shoes. The red is soft and sun-faded, close to dusty brick, not bright. Panel 2 shows the shawl's hood and fringe hanging down her back over the apron bow. Panel 3 shows the faded red shawl framing her face over the headscarf. Hand-woven, slightly worn wool, medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern shoes.
+### JORY (only if you make a sheet for him)
+> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same young man, face, messy blond hair, body, pose, framing, backdrop, lighting, panel numbers and photorealistic style. Change ONLY his clothing, identically in all three panels: keep his grey wool cap, and dress him in a black oiled-leather jerkin over a black wool tunic, a short black leather hooded cape, black wool trousers with leg-wraps and black leather turnshoes. Medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern shoes.
 
-### ODILE — spring (Beats 169–171)
-> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same woman, face, hair, body, pose, framing, backdrop, lighting, panel numbers and photorealistic style. Change ONLY her clothing, identically in all three panels: replace the brown wool dress with a long faded red linen medieval kirtle with elbow sleeves rolled up, keep the same oatmeal linen apron and linen headscarf, and drape a light faded red wool shawl loosely over her shoulders. Dark brown leather shoes. Soft sun-faded red. Medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern shoes.
-
-### BRAM — early winter (Beats 63–168)
-> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same man, face, scarred skin, eyes, messy red-brown hair and long red-brown beard, body shape, pose, hand positions, the burning torch in his right hand and the iron harpoon in his left hand, framing, the dark studio backdrop, the lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Change ONLY his clothing to all black, identically in all three panels: a heavy knee-length black wool coat lined with black sheep fleece, with a thick shaggy black fleece collar and black fleece trim at the cuffs and hem, closed with leather toggles and a wide black leather belt with an iron buckle, a black wool tunic underneath, black wool trousers wrapped with black wool leg-wraps, and black leather boots. Matte, worn, rain-damp black with natural texture, not shiny. Panel 2 shows the back of the black coat and the fleece collar. Panel 3 shows the shaggy black fleece collar around his neck and beard. Medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern boots.
-
-### HESK — early winter (Beats 63–168)
-> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same old man, face, wrinkles, eyes, long white beard, body, pose, the hand gripping the carved wooden staff, the staff itself, framing, the dark studio backdrop, the lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Change ONLY his clothing, identically in all three panels: replace the grey wool cloak with a heavy hooded cloak made of stitched brown and grey wolf pelts, natural fur in animal colors, the hood up over his head exactly where the grey hood was, falling to his calves. Under it, a long tan deer-hide tunic with a plain brown leather belt, and brown deer-hide boots tied with leather thongs. Panel 2 shows the back of the wolf-pelt cloak with the fur pattern and pelt seams. Panel 3 shows the fur hood framing his face and beard. Medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no modern boots.
-
-### JORY — early winter (only if you make a sheet for him)
-> Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same young man, face, messy blond hair, body, pose, framing, backdrop, lighting, panel numbers and photorealistic style. Change ONLY his clothing, identically in all three panels: keep his grey wool cap, and dress him in a brown wool tunic, a sheepskin vest, a short hooded undyed wool cape over his shoulders, grey wool trousers with leg-wraps and leather turnshoes. Medieval northern fishing village around 1100 AD; no zippers, no modern buttons, no printed patterns, no modern shoes.
-
-**Tal:** no costume sheet is needed. For juvenile Tal from Beat 66 on, the prompts add Maren's moss-green shawl around his neck.
-
-
----
+### TAL (all three sheets: baby, juvenile, adult)
+> Edit this 3-panel character reference sheet. Keep everything exactly the same: the same dragon, body shape, size, pose, wings, frills, spikes, claws, tail, scale pattern, framing, the dark studio backdrop, the lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Change ONLY the colours: make the scales and skin pale blush-pink and rose-white with a soft pearly sheen, the wing membranes pale translucent pink with faint violet veins, the frills and spikes pink-white, and the eyes violet with dark slit pupils. If there is fire or glow in the mouth, make it natural yellow-orange flame. No other changes.
 
 ## Cinematic rules (applied to every image and video prompt)
 
