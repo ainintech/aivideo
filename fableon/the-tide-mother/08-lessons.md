@@ -1,6 +1,6 @@
 # Lessons from *The Tide Mother*
 
-The film teaches these lessons through the story rather than lecturing. The narrator then says them out loud in the **Epilogue (Beats 170–171, 31:29–31:59)**, so every viewer leaves with the message.
+The film teaches these lessons through the story rather than lecturing. The narrator then says them out loud in the **Epilogue (Beats 170–171, 30:23–30:53)**, so every viewer leaves with the message.
 
 ## 1. Fear isn't wrong. Cruelty is a choice.
 - **Shown:** the village is afraid of something it doesn't understand, and turns that fear into a mob, a trial and a drowning.

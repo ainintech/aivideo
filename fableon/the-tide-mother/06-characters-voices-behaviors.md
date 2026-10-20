@@ -74,9 +74,9 @@ The whole film stays in a **chilly early winter**. There is no falling snow, no 
 
 | Part | Beats | Time | Weather on screen | Narrated transition |
 |---|---|---|---|---|
-| **A. Start of winter: the great storm** | 1–62 | 0:00–11:22 | Storm, cold rain, wind and sea spray; no snow | The prologue: *"Then came the winter of the great storm."* |
-| **B. Early winter chill** | 63–168 | 11:22–31:14 | Bitter wind, low grey clouds, cold drizzle, sea mist, wet stone and mud, dry brown grass; faint breath vapor when people speak (not underwater); no snow, no ice | **Beat 63 (15 s):** *"The great storm passed. But the cold it brought stayed. The winds grew sharper, the nights grew longer, and the fish swam deeper than any net could reach. Kelvhaven wrapped itself in wool, and waited."* |
-| **C. Spring, years later** | 169–171 | 31:14–31:59 | Green grass on the turf roofs, pink sea-thrift on the cliffs, a calm silver sea, soft warm light | **Beat 169 (15 s):** *"Winters came and went. The cold winds softened. And when spring finally returned to Kelvhaven, it found a village that was learning to see the sea differently."* |
+| **A. Start of winter: the great storm** | 1–62 | 0:00–10:51 | Storm, cold rain, wind and sea spray; no snow | The prologue: *"Then came the winter of the great storm."* |
+| **B. Early winter chill** | 63–168 | 10:51–30:08 | Bitter wind, low grey clouds, cold drizzle, sea mist, wet stone and mud, dry brown grass; faint breath vapor when people speak (not underwater); no snow, no ice | **Beat 63 (15 s):** *"The great storm passed. But the cold it brought stayed. The winds grew sharper, the nights grew longer, and the fish swam deeper than any net could reach. Kelvhaven wrapped itself in wool, and waited."* |
+| **C. Spring, years later** | 169–171 | 30:08–30:53 | Green grass on the turf roofs, pink sea-thrift on the cliffs, a calm silver sea, soft warm light | **Beat 169 (15 s):** *"Winters came and went. The cold winds softened. And when spring finally returned to Kelvhaven, it found a village that was learning to see the sea differently."* |
 
 Beat 168 (someone leaves a fish at the cave mouth "every winter since") stays in the cold on purpose. It shows a later winter, just before the spring transition.
 
@@ -135,6 +135,8 @@ Use these to **re-dress your existing reference images** (1 = front, 2 = back, 3
 ---
 
 ## Cinematic rules (applied to every image and video prompt)
+
+**0. Short clips, one image each.** Every clip is **3–6 seconds** and starts from **its own image** (Clip 099-1, 099-2…). Generate each one as a 6-second Grok video and trim it. Never chain a clip from the last frame of the previous clip, because that is where faces, costumes and voices drift. Each clip has at most one speaking character, and their voice line is repeated in every clip. Narration is recorded separately and laid over the clips in the edit.
 
 **1. Shoot from behind the listener.** In every conversation or face-off, the person listening is in the foreground with their **back to the camera**, and the speaker is in the background **facing the camera**. One side shows faces and the other shows backs, so the two sides always face each other. When both sides speak, the beat has an **A/B pair of shots**, each with its own image (for example Shot 153A from behind Tal and Maren to see Bram, and Shot 153B from behind Bram to see Tal and Maren). Put the clips back to back in the edit.
 
