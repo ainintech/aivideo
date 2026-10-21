@@ -42,12 +42,12 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 
 ## BRAM — the fish-trader
 - **Look:** burly, about 40, scarred jaw, curly red-brown hair and thick red-brown beard; heavy shaggy knee-length coat of brown and tan sheepskin fleece, stained brown tunic, wide leather belt, brown trousers and tall brown boots; carries a torch and an iron harpoon (as in your uploaded sheet).
-- **Voice prompt:** low gravelly bass, clipped and sneering, rolled R's, words spat out.
+- **Voice prompt:** low gravelly bass, clipped and sneering, rolled R's, words bitten off short.
 - **Signature behaviors:**
   - drums his thick fingers on whatever is near
   - cracks his knuckles
   - leans in uncomfortably close
-  - spits on the ground
+  - folds his thick arms across his chest
 
 ## HESK — the elder
 - **Look:** about 70, long white beard; hooded cloak of shaggy brown and grey wolf pelts over a tan deer-hide tunic, leather belt, fur-trimmed laced hide boots, tall staff carved with spirals (as in your uploaded sheet).
