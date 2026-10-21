@@ -131,6 +131,7 @@ Use your uploaded sheets as they are. No edit needed: every prompt now describes
 - **Everyday scenes** (market, lanes, harbor by day): busy village life. People haggle, hand over coins, gut and salt fish, carry baskets and barrels, mend nets and chat, and children run between the stalls. Everyone faces a different direction and gets on with their own task; nobody stands staring.
 - **Gatherings by day** (the wreck at dawn, the judgment in the square, the cliff top): people stand in loose, uneven groups, pointing, whispering and holding their children close.
 - **The mob at night:** the villagers hold their ground and wait for Bram's command, each making small movements of their own, with torches at uneven heights.
+- **Public places are never empty:** in every daytime beat at the market, in the lanes or at the harbor, even a close conversation between two characters has villagers going about their business in the background, slightly out of focus. They never stop to stare.
 - **Lights by time of day:** lanterns, torches and candles are carried **only at night or indoors in the dark**, never in daylight.
 
 **7. Nobody looks into the lens.**
