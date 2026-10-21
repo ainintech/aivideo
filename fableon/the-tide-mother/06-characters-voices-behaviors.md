@@ -114,7 +114,12 @@ Use your uploaded sheets as they are. No edit needed: every prompt now describes
 
 **1. Natural conversation, faces always visible.** Characters who talk **face each other**, with their bodies turned about 45° toward the camera so every face is clearly visible (three-quarter view). Nobody ever has their back to the camera. One side of the conversation always stays on the **left** of the frame and the other on the **right**, so their eyelines meet. A speaker looks at **whoever they are talking to**. If the line names someone else ("Tal! No!"), they turn to look at that person, and if they refer to an object, they look at it, then back. Each speaking beat is a three-quarter **close-up or medium close-up** of the speaker, looking toward the listener just out of frame; silent beats are **two-shots** or **reaction close-ups** of the listener.
 
-**2. Moving, cinematic camera.** Every conversation opens with an establishing two-shot or wide shot of everyone, then cuts in close. The camera keeps changing between eye level, a slight low angle for menace (Bram, Hesk, the mob), a slight high angle when Maren is vulnerable, three-quarter close-ups and extreme close-ups on the eyes. It moves with slow push-ins, gentle arcs, dolly-ins, crash zooms on shocks and slow drifts on wide shots, never at random. It always stays on the same side of the action (the 180° rule).
+**2. Static camera, chosen angles (the camera DNA of the reference film).** Like *She Gave Birth to a Dragon Part 2*, every shot is **static, locked off on a tripod**: no zooms, pans or tracking. All the motion comes from the characters, wind, water and light. The cinematic feel comes from the **angle and shot size**:
+- **Dialogue:** medium or medium close-up at eye level, the speaker three-quarter to the camera, looking at the listener.
+- **Emotion:** close-up at eye level.
+- **Menace** (Bram, Hesk, the mob): a slight low angle.
+- **Establishing and action:** wide shots, usually from a low angle, which also make Tal and the landscape feel big.
+- **Exceptions:** camera movement is used only in the narrated prologue's aerial shots and in the rear-view runs and procession.
 
 **3. One speaker at a time.** Each line has its own time window that names the **SPEAKER** and how to recognise them ("the bearded man in the black coat"). Everyone else is **SILENT, mouths closed**, and there is a short silence between lines.
 
