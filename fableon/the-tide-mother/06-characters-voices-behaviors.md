@@ -127,7 +127,11 @@ Use your uploaded sheets as they are. No edit needed: every prompt now describes
 
 **5. Real distance.** Each face-off keeps a fixed distance: about 2 m indoors, 3–4 m for two people outdoors, 6 m between a crowd and Maren, and 20 m between the jetty and Tal in the harbor.
 
-**6. The crowd holds its position.** Villagers wait for their leader. Each one makes small movements of their own at different moments (glancing down, looking up, turning to look behind, shifting their weight, whispering), with their lights held at uneven heights. They never move in step as one block.
+**6. Crowds behave like real people, depending on the scene.**
+- **Everyday scenes** (market, lanes, harbor by day): busy village life. People haggle, hand over coins, gut and salt fish, carry baskets and barrels, mend nets and chat, and children run between the stalls. Everyone faces a different direction and gets on with their own task; nobody stands staring.
+- **Gatherings by day** (the wreck at dawn, the judgment in the square, the cliff top): people stand in loose, uneven groups, pointing, whispering and holding their children close.
+- **The mob at night:** the villagers hold their ground and wait for Bram's command, each making small movements of their own, with torches at uneven heights.
+- **Lights by time of day:** lanterns, torches and candles are carried **only at night or indoors in the dark**, never in daylight.
 
 **7. Nobody looks into the lens.**
 
