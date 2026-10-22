@@ -81,8 +81,11 @@ The whole film stays in a **chilly early winter**. There is no falling snow, no 
 Beat 298 (someone leaves a fish at the cave mouth "every winter since") stays in the cold on purpose. It shows a later winter, just before the spring transition.
 
 ### Wardrobe: one outfit per character for the whole film
-Every character wears **the same outfit from the first beat to the last**, in every season, so each character needs only **one** reference sheet. The weather changes; the clothes don't.
-- **MAREN:** long black wool dress, **moss-green knitted shawl fastened with the bone toggle (worn the whole film)**, braided rope belt with the iron net-mending needle, dark wool leg-wraps, **brown leather sandals**. When she warms baby Tal she wraps him in her shawl, then wears it again. In the cave (Beat 102) she gives juvenile Tal her late husband's old brown wool scarf, so her green shawl never leaves her.
+Every character wears **one outfit** for the whole film, so each needs only **one** reference sheet. The exception is **Maren**, who has two looks: her shawl look until Beat 98 and her winter cloak from Beat 100.
+- **MAREN — two looks:**
+  - **Beats 1–98 (the storm and the first days):** long black wool dress, **moss-green knitted shawl fastened with the bone toggle**, braided rope belt with the iron net-mending needle, dark wool leg-wraps, **brown leather sandals**. When she warms baby Tal she wraps him in her shawl, then wears it again.
+  - **Beats 100–298 (winter is coming):** your **winter sheet**: a long, heavy black wool hooded cloak to the ankles with a ragged hem, the hood up, fastened with a round dark iron disc clasp; a long black wool dress with a long brown leather belt; dark grey knitted mittens; worn dark leather ankle boots.
+  - In the cave (Beat 102) she gives juvenile Tal her late husband's old brown wool scarf.
 - **TAL:** no clothes; from Beat 104, juvenile Tal wears the old brown wool scarf around his neck.
 - **ODILE:** your uploaded sheet: faded brick-red dress, fringed red shawl worn as a hood, oatmeal apron.
 - **BRAM:** your uploaded sheet: shaggy brown and tan sheepskin coat, brown tunic and trousers, tall brown boots.
@@ -96,8 +99,11 @@ Every character wears **the same outfit from the first beat to the last**, in ev
 ## Reference-sheet prompts (use on your existing 3-panel sheets)
 Upload the sheet into an image editor (Grok Imagine edit, ChatGPT image edit or Gemini/Nano Banana) and paste the prompt. Only what the prompt names changes.
 
-### MAREN — correct your master sheet (green shawl, sandals)
+### MAREN — sheet 1 (Beats 1–98): correct your master sheet (green shawl, sandals)
 > Edit this 3-panel character reference sheet (panel 1 full-body front view, panel 2 full-body back view, panel 3 close-up portrait). Keep everything exactly the same: the same woman, face, freckles, grey-green eyes, skin, long wet dark-brown hair and thin braids, body, pose, hand positions, framing, the dark studio backdrop, the lighting, the white panel numbers 1, 2 and 3, and the photorealistic style. Keep the long black wool dress, the braided brown rope belt and the iron net-mending needle exactly as they are. Change ONLY two things, identically in all three panels: (1) Remove the black hooded capelet completely and replace it with a moss-green knitted wool shawl with a ragged fringed edge, worn over both shoulders and falling to mid-back, fastened at the throat with the same carved bone toggle. The shawl must be clearly moss-green, not black, with no black cape or hood over it; in panel 2 the green shawl covers her upper back under her hair; in panel 3 the green knit and the bone toggle show at her neck. (2) Replace the brown shoes with simple medieval brown leather sandals with thin leather straps laced up over the dark wool leg-wraps. Medieval northern fishing village around 1100 AD; no modern elements.
+
+### MAREN — sheet 2 (Beats 100–298): winter
+Use your uploaded winter sheet (black hooded cloak, mittens, boots) as it is. Its background shows snow, but the film has no snow; the prompts say so, and the character sheet only sets her clothes.
 
 ### ODILE, BRAM and HESK
 Use your uploaded sheets as they are. No edit needed: every prompt now describes exactly these outfits.
