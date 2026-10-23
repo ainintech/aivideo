@@ -132,6 +132,17 @@ Use your uploaded sheets as they are. No edit needed: every prompt now describes
 - **When Maren tells Tal a story or opens her heart to him** (for example Beats 103–111, about Tal's father): **close two-shots** of the two of them, Maren sitting, Tal lying beside her, both faces visible. Grok cannot keep Tal consistent if he drops out of the frame between beats, so he stays in shot.
 - **Face-only close-ups are used only when Maren is truly alone**, for example in her cottage thinking or talking to herself (Beats 041–043) or in labour in the cave (Beat 013), and for silent thoughtful moments such as the cliff edge (Beat 232).
 
+**2c. Master Cinematic Prompt format (every image prompt).** Each image prompt is written in four parts, in this order:
+- **[FRAMING & LENS]** the shot size and angle (a medium wide shot for full-length shots), a **35mm anamorphic lens**, breathing room around the subject so nothing is cut off at the top or bottom, and **shallow depth of field with cinematic bokeh**.
+- **[LIGHTING]** the scene's light plus a dramatic style that suits the time of day:
+  - **Golden-hour light** at dawn and dusk.
+  - **Rembrandt lighting** and volumetric haze from a single flame at night and indoors.
+  - **Volumetric firelight** for torches and dragon fire.
+  - **Volumetric light through sea mist** on grey days.
+  - **Volumetric light shafts** underwater.
+- **[SUBJECT & ACTION]** the characters, what they are doing, who faces whom, and the state of every object.
+- **[CAMERA & ENVIRONMENT]** the location and weather, a static locked-off camera, and the photorealistic dark-fantasy film look.
+
 **3. One speaker at a time.** Each line has its own time window that names the **SPEAKER** and how to recognise them ("the bearded man in the black coat"). Everyone else is **SILENT, mouths closed**, and there is a short silence between lines.
 
 **4. Runs, charges and processions are shot from behind.** A static camera sits behind the runners, so we only see their backs. What they run toward faces the camera, far away and small. The gap closes gradually over the whole clip: about 70 m to 35 m to 10 m in 15 seconds.
