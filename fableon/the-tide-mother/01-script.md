@@ -1,7 +1,7 @@
 # SHE GAVE BIRTH TO A DRAGON | THE TIDE MOTHER
-*Full Fantasy Movie 4K · FABLEON · runtime 30:56 · 302 beats of 6 s each (only the narrated prologue beats run 10–15 s)*
+*Full Fantasy Movie 4K · FABLEON · runtime 32:08 · 314 beats of 6 s each (only the narrated prologue beats run 10–15 s)*
 
-**Spoken words:** 965 (812 dialogue + 153 narration) · about 0.52 words per second, between MYTHRA (0.41) and The Next Show (0.54).
+**Spoken words:** 965 (812 dialogue + 153 narration) · about 0.50 words per second, between MYTHRA (0.41) and The Next Show (0.54).
 
 **Characters:** NARRATOR (voice-over) · MAREN (a widowed net-mender) · TAL (her dragon son) · ODILE (her neighbor) · BRAM (the harbor fish-trader) · HESK (the village elder) · JORY and the VILLAGERS of Kelvhaven
 
@@ -66,14 +66,14 @@ Every instinct tells her to run. She doesn't. She wraps it in her shawl.
 > **MAREN:** You're cold. So am I.
 
 
-**3:20 — Sea cave, dawn**
+**3:32 — Sea cave, dawn**
 
 Dawn comes grey and quiet, as if the storm never happened. As if nothing happened at all. She hides the creature in a fish basket, deep in the cave where no one ever goes.
 
 > **MAREN:** Stay low. Stay quiet. I'll come for you at dark.
 
 
-**3:50 — Harbor village, morning**
+**4:14 — Harbor village, morning**
 
 Kelvhaven wakes up the way it always does. Smoke. Gulls. Creaking boats. Maren walks home pale, with empty arms. Her neighbor Odile notices first. Odile always notices first.
 
@@ -94,7 +94,7 @@ In a doorway, Elder Hesk lowers his head.
 > **MAREN:** Alone is all I have left.
 
 
-**4:44 — Maren's cottage, that evening**
+**5:08 — Maren's cottage, that evening**
 
 That evening, the cottage is too quiet. Talen's chair still sits by the hearth, exactly where he left it. She hums three notes of an old sea lullaby. Then she stops.
 
@@ -103,7 +103,7 @@ That evening, the cottage is too quiet. Talen's chair still sits by the hearth, 
 Outside, the wind is rising. And somewhere out there, something small is waiting for her in the dark.
 
 
-**5:08 — Sea cave, night — the first feeding**
+**5:32 — Sea cave, night — the first feeding**
 
 That night, back in the cave, Maren runs into a problem no mother has ever had to solve. First she offers a cup of milk. The creature turns its head away.
 
@@ -128,7 +128,7 @@ She strokes its head. It leans into her hand.
 > **MAREN:** Your father was Talen. You'll be Tal.
 
 
-**6:20 — Sea cave — the first thunder**
+**6:44 — Sea cave — the first thunder**
 
 Two nights later, the storm comes back. Thunder cracks over the cliffs, and the creature panics.
 
@@ -144,7 +144,7 @@ She lifts it out and holds it against her heart. And then she sings. The same th
 ## ACT II — THE SECRET
 
 
-**6:56 — Harbor market**
+**7:26 — Harbor market**
 
 The harbor market. Maren walks in with her head down, carrying a secret heavier than her basket. The harbor market. Loud, crowded, and full of eyes. Maren sets her coins in front of Bram, the one trader who never forgets a face.
 
@@ -165,7 +165,7 @@ She walks away with the fish, fast. Bram turns the knife over in his hands. But 
 > **BRAM:** Grief doesn't make a woman hungry. Something's wrong with that one.
 
 
-**8:08 — Maren's cottage — mending for fish**
+**8:50 — Maren's cottage — mending for fish**
 
 Without the knife, there is nothing left to sell. So Maren sells the only thing she has left: her hands. She mends other people's nets until dawn, for a few fish each. Her fingers bleed. She keeps going.
 
@@ -174,7 +174,7 @@ Without the knife, there is nothing left to sell. So Maren sells the only thing 
 > **MAREN:** Half is enough.
 
 
-**8:32 — Tidal pools — growth montage**
+**9:14 — Tidal pools — growth montage**
 
 And for a while, life is good. Mornings at the tidal pools become the happiest weeks of Maren's life. She lies flat on the rocks and puffs out her cheeks like a child.
 
@@ -195,7 +195,7 @@ Tal discovers fishing nets. And decides they are food.
 [laughter] Moments like this never last.
 
 
-**9:50 — Sea cliffs — learning to fly**
+**10:32 — Sea cliffs — learning to fly**
 
 Then one morning, Tal climbs the rocks. And looks down.
 
@@ -208,7 +208,7 @@ He jumps. For one second, he flies. For the next three, he falls. He surfaces, s
 She is laughing. She has no idea how soon she'll need those wings.
 
 
-**10:32 — Sea cave, freezing night**
+**11:14 — Sea cave, freezing night**
 
 Weeks pass. The cold settles over Kelvhaven, and the fish stop coming. Then winter bites. A freezing night in the cave. One fish left. Just one. She holds it out to him.
 
@@ -231,7 +231,7 @@ She feeds it to him anyway, and wraps her late husband's old wool scarf around h
 > **MAREN:** Sleep now. The sea is only loud.
 
 
-**11:56 — Elder Hesk's house**
+**12:50 — Elder Hesk's house**
 
 Across the village, the whispers reach the elder's door. Across the village, in Elder Hesk's smoky longhouse, two people are about to change everything. Odile and Bram stand before the elder.
 
@@ -246,7 +246,7 @@ Across the village, the whispers reach the elder's door. Across the village, in 
 > **HESK:** Then bring me proof. Not fear.
 
 
-**12:50 — Dusk — Odile follows**
+**13:44 — Dusk — Odile follows**
 
 That same dusk, Odile does something she has never done. She follows her neighbor. Maren takes the cliff path. Fast. Like someone who has walked it a hundred times.
 
@@ -255,7 +255,7 @@ That same dusk, Odile does something she has never done. She follows her neighbo
 Halfway down, the fog rolls in. Thick. White. Total. When it clears, Maren is gone. From somewhere below, Odile hears it. Three soft notes, hummed by something that isn't human.
 
 
-**13:20 — Maren's cottage**
+**14:14 — Maren's cottage**
 
 The next day, Odile goes to see for herself. She knocks. No answer. She steps in.
 
@@ -270,7 +270,7 @@ The hearth is cold. The bed hasn't been slept in. Then a shadow fills the doorwa
 > **ODILE:** Grief doesn't smell of fish and smoke.
 
 
-**14:02 — Kelvhaven — the whispers spread**
+**14:56 — Kelvhaven — the whispers spread**
 
 By morning, Odile has told three people. By noon, the whole market knows.
 
@@ -279,7 +279,7 @@ By morning, Odile has told three people. By noon, the whole market knows.
 Mothers pull their children indoors when Maren walks past. She keeps her head down. She keeps walking. But she can feel every eye.
 
 
-**14:26 — The cove, night — first fire**
+**15:20 — The cove, night — first fire**
 
 That same night, in the hidden cove, Tal does something he has never done before. Tal, bigger than a pony now, rises from the water and breathes out. And the sea catches fire. Yellow-orange flame, rolling across the waves.
 
@@ -292,7 +292,7 @@ She laughs. Then she stops laughing. Up on the cliff, a lantern is moving. Someo
 Tal sinks without a sound. But a light like that is hard to unsee.
 
 
-**14:56 — Cliff path, night**
+**15:50 — Cliff path, night**
 
 On the cliff path, the lantern stops. It's Bram. He holds the light out over the edge.
 
@@ -311,7 +311,7 @@ On the cliff path, the lantern stops. It's Bram. He holds the light out over the
 > **BRAM:** I know what I saw.
 
 
-**16:08 — Sea cave — the last calm night**
+**17:02 — Sea cave — the last calm night**
 
 Back in the cave, Maren doesn't sleep. She sits with her back against Tal's warm side, listening to the sea.
 
@@ -325,7 +325,7 @@ He answers the only way he knows. Three soft notes. Her lullaby. For tonight, it
 ## ACT III — THE JUDGMENT
 
 
-**16:38 — Harbor, dawn — the wreck**
+**17:32 — Harbor, dawn — the wreck**
 
 Morning comes to the harbor, and with it, something everyone will call proof. Dawn. And something is wrong in the harbor. Bram's boat lies smashed on the rocks. Its nets are torn to ribbons. The catch is gone. A crowd gathers. And Bram finally has an audience.
 
@@ -342,7 +342,7 @@ Morning comes to the harbor, and with it, something everyone will call proof. Da
 > **HESK:** Enough. We go together. At low tide.
 
 
-**17:32 — Bram's shed — the harpoons**
+**18:26 — Bram's shed — the harpoons**
 
 While Maren runs to warn Tal, Bram is already getting ready.
 
@@ -355,7 +355,7 @@ He tests the harpoon's point against his thumb. A bead of blood.
 > **BRAM:** Nobody hides things from this village. Nobody.
 
 
-**18:02 — Maren's cottage — the search**
+**18:56 — Maren's cottage — the search**
 
 At the same hour, men break down Maren's door. They tear through everything. The bed. The nets. The baskets. Then, under the bed, one of them finds it. A single scale. Blush-pink, with a pearly sheen. Bigger than a man's hand.
 
@@ -364,7 +364,7 @@ At the same hour, men break down Maren's door. They tear through everything. The
 He closes his hand around the scale. And for the first time, the elder looks afraid.
 
 
-**18:32 — Sea cave — the warning**
+**19:32 — Sea cave — the warning**
 
 In the cave, Maren knows she is out of time. She runs in, breathless.
 
@@ -375,7 +375,7 @@ But Tal won't go. He plants his feet on the stone beside her and won't move, lik
 > **MAREN:** Please. Stay low. Stay quiet. Go!
 
 
-**19:02 — Cave mouth — the mob**
+**20:02 — Cave mouth — the mob**
 
 Low tide. The sea pulls back, and the cave lies open. Torches. Dozens of them. The villagers push inside. And behind Maren, Tal rises. He is as big as a full-grown horse now.
 
@@ -410,12 +410,12 @@ Tal rips through the nets and dives into the sea. And just like that, he's gone.
 > **BRAM:** Let him come. We'll have harpoons waiting.
 
 
-**20:50 — Beneath the waves — Tal waits**
+**21:50 — Beneath the waves — Tal waits**
 
 Out past the harbor, under forty feet of black water, Tal circles. He doesn't swim away. He can't. He calls for her. A long, low sound that shakes the fish out of the kelp. No answer comes. So he waits. Exactly where she told him to stay. Low. And quiet.
 
 
-**21:08 — Village square — the judgment**
+**22:08 — Village square — the judgment**
 
 The village square. All of Kelvhaven has come. Maren kneels in the middle with her wrists tied. Nobody looks away. Nobody steps in.
 
@@ -436,7 +436,7 @@ The village square. All of Kelvhaven has come. Maren kneels in the middle with h
 > **HESK:** And you lied to all of us. The sea will decide what you are.
 
 
-**22:50 — Cliff path — the procession**
+**23:50 — Cliff path — the procession**
 
 They walk her up the cliff path in silence. The whole village behind her. And Maren does something strange. She hums. Three soft notes, over and over.
 
@@ -445,7 +445,7 @@ They walk her up the cliff path in silence. The whole village behind her. And Ma
 Nobody answers her. At the top, Hesk stops by the old stone. For a moment, his hand shakes on his staff.
 
 
-**23:38 — Cliff edge — the fall**
+**24:38 — Cliff edge — the fall**
 
 The cliff edge. The same cliff where it all began. They tie a stone to Maren's ankles. The old way. She doesn't look at them. She looks at the water.
 
@@ -459,7 +459,7 @@ Bram doesn't wait for the elder. He pushes her. She falls. The sea swallows her,
 ## ACT IV — THE RETURN
 
 
-**24:20 — Underwater — the rescue**
+**25:26 — Underwater — the rescue**
 
 Far below, in the dark water, something moves. Down here, there is no storm. No crowd. Only the dark. The light above her shrinks. Her last breath escapes in bubbles. And then, from somewhere, her own voice comes back to her:
 
@@ -472,7 +472,7 @@ Far below, in the dark water, something moves. Down here, there is no storm. No 
 Something huge cuts through the dark below her. Tal. Fully grown. He bites through the rope and carries her up toward the light.
 
 
-**24:56 — Hidden beach, night**
+**26:08 — Hidden beach, night**
 
 Later. A hidden beach, far from the village. Maren coughs up the sea. She is alive. Tal lays his great head down beside her.
 
@@ -481,7 +481,7 @@ Later. A hidden beach, far from the village. Maren coughs up the sea. She is ali
 > **MAREN:** I told you to go. You never listen. Just like him.
 
 
-**25:38 — Hidden beach — the wounds**
+**26:50 — Hidden beach — the wounds**
 
 Then she sees the rope burns across his scales. The nets cut deep.
 
@@ -496,7 +496,7 @@ Tal pulls away. He growls low.
 > **MAREN:** Not for revenge. For the truth. They need to see what you are.
 
 
-**26:38 — Harbor — the night watch**
+**27:50 — Harbor — the night watch**
 
 In Kelvhaven, nobody sleeps that night. Bram has posted men along the jetty, harpoons in hand.
 
@@ -507,7 +507,7 @@ In Kelvhaven, nobody sleeps that night. Bram has posted men along the jetty, har
 Bram doesn't answer. He's watching the water. Because far out in the harbor, something is moving.
 
 
-**27:02 — Harbor, night — the return**
+**28:14 — Harbor, night — the return**
 
 That night, the bells of Kelvhaven start ringing. Tal rises out of the harbor. And on his back is the woman they drowned. People scream and scatter.
 
@@ -532,7 +532,7 @@ Maren slides down and does something no one expects. She stands between Tal and 
 Tal turns his head and breathes his fire into the empty sky. The whole harbor glows blue. Bram's harpoon falls from his hands.
 
 
-**28:08 — Harbor — reconciliation**
+**29:20 — Harbor — reconciliation**
 
 For a long moment, the harbor is completely silent. Slowly, the villagers come closer. Odile steps out first.
 
@@ -557,7 +557,7 @@ Maren climbs onto Tal's back.
 > **MAREN:** Mine. That's all you ever needed to know.
 
 
-**29:50 — Open ocean, dawn**
+**31:02 — Open ocean, dawn**
 
 By dawn, Kelvhaven is far behind them. Tal flies low, his wings brushing the waves.
 
@@ -573,11 +573,11 @@ Behind them, the coast of Kelvhaven shrinks to a thin grey line. Maren doesn't l
 ## EPILOGUE — THE LESSON
 
 
-**30:26 — Epilogue — what Kelvhaven learned**
+**31:38 — Epilogue — what Kelvhaven learned**
 
 And every winter since, on the coldest night of the year, someone leaves a fish at the mouth of the sea cave. Years later. Spring returns to Kelvhaven. Children run laughing past the old dragon carving above the elder's door. At the water's edge, the whole village stands quietly and looks out to sea.
 
 
-**30:50 — Title card**
+**32:02 — Title card**
 
 In the deep, the eye opens one last time. Then, black. FABLEON

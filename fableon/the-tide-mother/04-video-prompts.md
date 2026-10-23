@@ -1,6 +1,6 @@
 # The Tide Mother — Video Prompts for Grok Imagine (3–6 s clips)
 
-*302 beats, 30:56 total. Generate each beat as a **6-second** Grok video from its own image; no trimming needed (the narrated prologue beats are generated at 10 or 15 s). Each beat has at most **one speaking character**, and their voice line is repeated in every beat so the voice stays the same.*
+*314 beats, 32:08 total. Generate each beat as a **6-second** Grok video from its own image; no trimming needed (the narrated prologue beats are generated at 10 or 15 s). Each beat has at most **one speaking character**, and their voice line is repeated in every beat so the voice stays the same.*
 
 **How to use in Grok Imagine**
 - Upload the beat's image, choose **Make video**, set **16:9** and **6 s**, and paste the prompt.
@@ -118,35 +118,35 @@
 &nbsp;
 
 
-**Video 009 · 1:32–1:38 · 6s · Suspense and atmosphere** (start frame: Image Beat 009)
+**Video 009 — Image A — Grabbing the rope rail · 1:32–1:38 · 6s · Suspense and atmosphere** (start frame: Image Beat 009)
 
-- **Script segment:** "Her bare foot slips on wet rock and she grabs the rope rail, gasping. She pushes on downward as sea spray soaks her cloak. She reaches the black mouth of a sea cave and stumbles inside out of the rain."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Maren (pregnant)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 009). 0–2s — Her bare foot slips on wet rock and she grabs the rope rail, gasping. NO DIALOGUE. 2–4s — She pushes on downward as sea spray soaks her cloak. NO DIALOGUE. 4–6s — She reaches the black mouth of a sea cave and stumbles inside out of the rain. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren twists the thin braid on the left side of her hair. Lighting stays lightning flashes and a single horn lantern, deep black shadows, cold blue-grey rim light. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: desperate, isolated, dangerous. Sound: howling gale, roaring surf, heavy rain, distant thunder. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Lantern: lit, held in Maren's left hand; Rope rail: gripped in Maren's right hand
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 009). START STATE, already true in the image: she has slipped and caught the rope rail; Lantern: lit, held in Maren's left hand; Rope rail: gripped in Maren's right hand. Continue forward from this exact state. 0–3s: she steadies herself on the rope, gasping, sea spray soaking her. 3–6s: she lets go of the rope and pushes on downward toward the black mouth of a sea cave, the horn lantern still lit in her left hand. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays lightning flashes and a single horn lantern, deep black shadows, cold blue-grey rim light. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: desperate, isolated, dangerous. Sound: howling gale, roaring surf, heavy rain, distant thunder. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 010 · 1:38–1:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 010)
+**Video 010 — Image A — Lantern still in hand · 1:38–1:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 010)
 
-- **Script segment:** "MAREN: Not here. Not now. A contraction doubles her over, she drops the lantern."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (pregnant)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 010). 0–2.5s — SPEAKER: Maren, the dark-haired woman in the green shawl. She presses her back to the cave wall, eyes wide. Maren says: "Not here. Not now." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 2.5–6s — A contraction doubles her over, she drops the horn lantern. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren cradles her belly with one hand. Lighting stays one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: desperate, isolated, dangerous. Sound: soft surf at the cave mouth, water dripping, muffled storm outside. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Lantern: lit, held low in Maren's left hand
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 010). START STATE, already true in the image: she is inside, in pain, still holding the horn lantern; Lantern: lit, held low in Maren's left hand. Continue forward from this exact state. 0–3s: Maren gasps through her teeth. 3–6s: a contraction doubles her over and her fingers open: the horn lantern drops onto the pebbles and lands upright, still burning. DIALOGUE during the action: SPEAKER: Maren, the pregnant dark-haired woman. Maren says: "Not here. Not now." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: desperate, isolated, dangerous. Sound: soft surf at the cave mouth, water dripping, muffled storm outside. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 011 · 1:44–1:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 011)
+**Video 011 — Image A — Lantern on the ground · 1:44–1:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 011)
 
-- **Script segment:** "She slides down the barnacled wall onto the wet pebbles, the lantern flickering beside her."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (pregnant)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 011). 0–6s — She slides down the barnacled wall onto the wet pebbles, the horn lantern flickering beside her. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren cradles her belly with one hand. Lighting stays one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: desperate, isolated, dangerous. Sound: soft surf at the cave mouth, water dripping, muffled storm outside. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Lantern: standing on the pebbles beside her, lit; Maren's hands: empty, one on her belly, one against the wall
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 011). START STATE, already true in the image: the horn lantern is on the ground; she is sinking down the wall; Lantern: standing on the pebbles beside her, lit; Maren's hands: empty, one on her belly, one against the wall. Continue forward from this exact state. 0–6s: she slides slowly down the wall until she sits on the wet pebbles, breathing hard; the horn lantern stays where it is on the ground, flickering. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: desperate, isolated, dangerous. Sound: soft surf at the cave mouth, water dripping, muffled storm outside. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
@@ -267,57 +267,79 @@
 ### Sea cave, the first embrace
 
 
-**Video 022 · 2:50–2:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 022)
+**Video 022 — Image A — Hand above the newborn · 2:50–2:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 022)
 
-- **Script segment:** "Her hand hesitates above the creature. Her fingertip touches its wet frilled crest and it leans into her touch. She unwinds her moss-green shawl, wraps the newborn in it and lifts it to her chest."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 022). 0–2s — Her hand hesitates above the creature. NO DIALOGUE. 2–4s — Her fingertip touches its wet frilled crest and it leans into her touch. NO DIALOGUE. 4–6s — She unwinds her moss-green shawl, wraps the newborn in it and lifts it to her chest. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren lifts her chin when she is defiant; Tal tilts its head to the left when curious. Lighting stays one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, fragile. Sound: soft surf at the cave mouth, water dripping, muffled storm outside; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Moss-green shawl: on Maren's shoulders; Newborn Tal: curled on the stone, not yet touched
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 022). START STATE, already true in the image: her hand hovers above it; Moss-green shawl: on Maren's shoulders; Newborn Tal: curled on the stone, not yet touched. Continue forward from this exact state. 0–3s: her fingertip comes down and touches its wet frilled crest. 3–6s: the newborn leans its head into her touch. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, fragile. Sound: soft surf at the cave mouth, water dripping, muffled storm outside; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 023 · 2:56–3:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 023)
+**Video 022b — Image B — Shawl off, held open · 2:56–3:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 022b)
+
+- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
+- **Visual state requirements:** Moss-green shawl: off her shoulders, held open in both hands; Newborn Tal: on the stone below the shawl
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 022b). START STATE, already true in the image: she has taken off her shawl and holds it open; Moss-green shawl: off her shoulders, held open in both hands; Newborn Tal: on the stone below the shawl. Continue forward from this exact state. 0–6s: she lowers the shawl over the newborn and gently wraps it until only its eyes and snout peek out. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, fragile. Sound: soft surf at the cave mouth, water dripping, muffled storm outside; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
+
+&nbsp;
+
+
+**Video 022c — Image C — Wrapped newborn lifted · 3:02–3:08 · 6s · Suspense and atmosphere** (start frame: Image Beat 022c)
+
+- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
+- **Visual state requirements:** Moss-green shawl: wrapped around the newborn, not on Maren; Newborn Tal: in her arms against her chest
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 022c). START STATE, already true in the image: she has lifted the bundle to her chest; Moss-green shawl: wrapped around the newborn, not on Maren; Newborn Tal: in her arms against her chest. Continue forward from this exact state. 0–6s: she holds the bundle close and rocks it gently, her cheek near its head. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, fragile. Sound: soft surf at the cave mouth, water dripping, muffled storm outside; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
+
+&nbsp;
+
+
+**Video 023 · 3:08–3:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 023)
 
 - **Script segment:** "MAREN: Shh. Shh. I've got you."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 023). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. She rocks the bundle gently. Maren says: "Shh. Shh. I've got you." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal puffs out its cheeks. Lighting stays one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, maternal. Sound: soft surf at the cave mouth, water dripping, muffled storm outside; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 023). START STATE, already true in the image: newborn Tal is wrapped in Maren's moss-green shawl and held in her arms; the shawl is around the baby, so Maren's shoulders are bare (black dress only); these objects stay exactly where they are unless the action moves them. 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. She rocks the bundle gently. Maren says: "Shh. Shh. I've got you." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal puffs out its cheeks. Lighting stays one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, maternal. Sound: soft surf at the cave mouth, water dripping, muffled storm outside; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 024 · 3:02–3:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 024)
+**Video 024 · 3:14–3:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 024)
 
 - **Script segment:** "Newborn Tal's glassy eyes peek out of the green shawl and slowly calm. The camera pulls back to show her against the cave wall, the storm fading in the cave mouth."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 024). 0–2s — Newborn Tal's glassy eyes peek out of the green shawl and slowly calm. NO DIALOGUE. 2–4s — The camera pulls back to show her against the cave wall, the storm fading in the cave mouth. NO DIALOGUE. 4–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal puffs out its cheeks. Lighting stays one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, maternal. Sound: soft surf at the cave mouth, water dripping, muffled storm outside; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 024). START STATE, already true in the image: newborn Tal is wrapped in Maren's moss-green shawl and held in her arms; the shawl is around the baby, so Maren's shoulders are bare (black dress only); these objects stay exactly where they are unless the action moves them. 0–2s — Newborn Tal's glassy eyes peek out of the green shawl and slowly calm. NO DIALOGUE. 2–4s — The camera pulls back to show her against the cave wall, the storm fading in the cave mouth. NO DIALOGUE. 4–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal puffs out its cheeks. Lighting stays one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, maternal. Sound: soft surf at the cave mouth, water dripping, muffled storm outside; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 025 · 3:08–3:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 025)
+**Video 025 · 3:20–3:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 025)
 
 - **Script segment:** "MAREN: You're cold. So am I."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 025). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. She shivers, smiles faintly. Maren says: "You're cold. So am I." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Tal makes tiny crystalline dolphin-like clicks. Lighting stays one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: quiet, lonely. Sound: soft surf at the cave mouth, water dripping, muffled storm outside; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 025). START STATE, already true in the image: newborn Tal is wrapped in Maren's moss-green shawl and held in her arms; the shawl is around the baby, so Maren's shoulders are bare (black dress only); these objects stay exactly where they are unless the action moves them. 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. She shivers, smiles faintly. Maren says: "You're cold. So am I." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Tal makes tiny crystalline dolphin-like clicks. Lighting stays one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: quiet, lonely. Sound: soft surf at the cave mouth, water dripping, muffled storm outside; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 026 · 3:14–3:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 026)
+**Video 026 · 3:26–3:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 026)
 
 - **Script segment:** "Their frosty breaths mingle in the cold air. The lantern flame gutters out and the cave fades into soft darkness."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 026). 0–2s — Their frosty breaths mingle in the cold air. NO DIALOGUE. 2–4s — The horn lantern flame gutters out and the cave fades into soft darkness. NO DIALOGUE. 4–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Tal makes tiny crystalline dolphin-like clicks. Lighting stays one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: quiet, lonely. Sound: soft surf at the cave mouth, water dripping, muffled storm outside; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 026). START STATE, already true in the image: newborn Tal is wrapped in Maren's moss-green shawl and held in her arms; the shawl is around the baby, so Maren's shoulders are bare (black dress only); these objects stay exactly where they are unless the action moves them. 0–2s — Their frosty breaths mingle in the cold air. NO DIALOGUE. 2–4s — The horn lantern flame gutters out and the cave fades into soft darkness. NO DIALOGUE. 4–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Tal makes tiny crystalline dolphin-like clicks. Lighting stays one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: quiet, lonely. Sound: soft surf at the cave mouth, water dripping, muffled storm outside; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
@@ -325,40 +347,62 @@
 ### Sea cave, dawn
 
 
-**Video 027 · 3:20–3:26 · 6s · Suspense and atmosphere** (start frame: Image Beat 027)
+**Video 027 — Image A — Asleep with the bundle · 3:32–3:38 · 6s · Suspense and atmosphere** (start frame: Image Beat 027)
 
-- **Script segment:** "Mist drifts and the dawn light slowly grows. The light reaches Maren asleep with the bundle in her arms. She wakes, weak and pale, and looks down at the bundle."
-- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
-- **Location sheet:** L12 The sea cave
-- **Attach (location + character sheets):** L12 · Maren (shawl sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 027). 0–2s — Mist drifts and the dawn light slowly grows. NO DIALOGUE. 2–4s — The light reaches Maren asleep with the bundle in her arms. NO DIALOGUE. 4–6s — She wakes, weak and pale, and looks down at the bundle. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren touches the bone net-mending needle at her belt for comfort. Lighting stays soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, secretive. Sound: soft lapping water, distant gulls, dripping. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
-
-&nbsp;
-
-
-**Video 028 · 3:26–3:32 · 6s · Suspense and atmosphere** (start frame: Image Beat 028)
-
-- **Script segment:** "She lays the bundle gently into a wicker fish basket. She covers the basket with kelp and an old fishing net. She pushes the basket deep into a narrow rock niche."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 028). 0–2s — She lays the bundle gently into a wicker fish basket. NO DIALOGUE. 2–4s — She covers the basket with kelp and an old fishing net. NO DIALOGUE. 4–6s — She pushes the basket deep into a narrow rock niche. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren lifts her chin when she is defiant; Tal puffs out its cheeks. Lighting stays soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, secretive. Sound: soft lapping water, distant gulls, dripping; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Moss-green shawl: wrapped around the newborn; Newborn Tal: in Maren's arms
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 027). START STATE, already true in the image: dawn; she sleeps holding the bundle; Moss-green shawl: wrapped around the newborn; Newborn Tal: in Maren's arms. Continue forward from this exact state. 0–3s: mist drifts and the dawn light grows across her. 3–6s: she wakes, weak and pale, and looks down at the bundle in her arms. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, secretive. Sound: soft lapping water, distant gulls, dripping. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 029 · 3:32–3:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 029)
+**Video 028 — Image A — Bundle over the empty basket · 3:38–3:44 · 6s · Suspense and atmosphere** (start frame: Image Beat 028)
+
+- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
+- **Visual state requirements:** Bundle: in Maren's hands, above the basket; Wicker basket: empty, on the stones; Kelp and old net: in a pile beside the basket
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 028). START STATE, already true in the image: she holds the bundle over the empty basket; Bundle: in Maren's hands, above the basket; Wicker basket: empty, on the stones; Kelp and old net: in a pile beside the basket. Continue forward from this exact state. 0–6s: she lowers the bundle gently into the basket and tucks the green wool around it. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, secretive. Sound: soft lapping water, distant gulls, dripping; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
+
+&nbsp;
+
+
+**Video 028b — Image B — Covering the basket · 3:44–3:50 · 6s · Suspense and atmosphere** (start frame: Image Beat 028b)
+
+- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
+- **Visual state requirements:** Bundle: inside the basket; Old net and kelp: in Maren's hands above the basket
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 028b). START STATE, already true in the image: she holds the net and kelp ready to cover it; Bundle: inside the basket; Old net and kelp: in Maren's hands above the basket. Continue forward from this exact state. 0–6s: she lays the kelp and the net over the basket until the bundle is hidden. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, secretive. Sound: soft lapping water, distant gulls, dripping; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
+
+&nbsp;
+
+
+**Video 028c — Image C — Pushing into the niche · 3:50–3:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 028c)
+
+- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (shawl sheet)
+- **Visual state requirements:** Basket: covered with kelp and net, half inside the rock niche; Maren's hands: on the basket, pushing
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 028c). START STATE, already true in the image: she is pushing it into the niche; Basket: covered with kelp and net, half inside the rock niche; Maren's hands: on the basket, pushing. Continue forward from this exact state. 0–6s: she pushes the basket deep into the niche until it disappears into the shadow, then sits back on her heels. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, secretive. Sound: soft lapping water, distant gulls, dripping; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
+
+&nbsp;
+
+
+**Video 029 · 3:56–4:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 029)
 
 - **Script segment:** "Maren kneeling at the rock niche, whispering to the hidden basket."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 029). 0–6s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal makes tiny crystalline dolphin-like clicks. Lighting stays soft flat grey dawn light through mist, gentle volumetric rays. Mood: protective. Sound: soft lapping water, distant gulls, dripping; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 029). START STATE, already true in the image: the wicker basket is hidden deep in the rock niche, covered with kelp and the old net; Maren's hands are empty; these objects stay exactly where they are unless the action moves them. 0–6s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal makes tiny crystalline dolphin-like clicks. Lighting stays soft flat grey dawn light through mist, gentle volumetric rays. Mood: protective. Sound: soft lapping water, distant gulls, dripping; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 030 · 3:38–3:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 030)
+**Video 030 · 4:02–4:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 030)
 
 - **Script segment:** "MAREN: Stay low. Stay quiet. I'll come for you at dark."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -369,7 +413,7 @@
 &nbsp;
 
 
-**Video 031 · 3:44–3:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 031)
+**Video 031 · 4:08–4:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 031)
 
 - **Script segment:** "Through the wicker gaps, newborn Tal's dark-blue eye watches her. She walks toward the bright cave mouth, glancing back once."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -383,7 +427,7 @@
 ### Harbor village, morning
 
 
-**Video 032 · 3:50–3:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 032)
+**Video 032 · 4:14–4:20 · 6s · Suspense and atmosphere** (start frame: Image Beat 032)
 
 - **Script segment:** "Chimney smoke drifts over turf roofs and boats bob in the harbor. Pale Maren walks down the lane with empty arms as villagers glance at her. Odile drops a basket of wet laundry and runs toward her."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -394,7 +438,7 @@
 &nbsp;
 
 
-**Video 033 · 3:56–4:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 033)
+**Video 033 · 4:20–4:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 033)
 
 - **Script segment:** "ODILE: Maren! Your belly. Where is the child?"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -405,7 +449,7 @@
 &nbsp;
 
 
-**Video 034 · 4:02–4:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 034)
+**Video 034 · 4:26–4:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 034)
 
 - **Script segment:** "Odile's eyes drop to Maren's flat belly. MAREN: Born too early. Born still."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -416,7 +460,7 @@
 &nbsp;
 
 
-**Video 035 · 4:08–4:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 035)
+**Video 035 · 4:32–4:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 035)
 
 - **Script segment:** "ODILE: Oh, Maren. Where did you lay him?"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -427,7 +471,7 @@
 &nbsp;
 
 
-**Video 036 · 4:14–4:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 036)
+**Video 036 · 4:38–4:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 036)
 
 - **Script segment:** "MAREN: I gave him to the sea. Like his father."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -438,7 +482,7 @@
 &nbsp;
 
 
-**Video 037 · 4:20–4:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 037)
+**Video 037 · 4:44–4:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 037)
 
 - **Script segment:** "HESK: The sea keeps what it loves."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -449,7 +493,7 @@
 &nbsp;
 
 
-**Video 038 · 4:26–4:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 038)
+**Video 038 · 4:50–4:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 038)
 
 - **Script segment:** "ODILE: You shouldn't be alone in that house."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -460,7 +504,7 @@
 &nbsp;
 
 
-**Video 039 · 4:32–4:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 039)
+**Video 039 · 4:56–5:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 039)
 
 - **Script segment:** "MAREN: Alone is all I have left."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -471,7 +515,7 @@
 &nbsp;
 
 
-**Video 040 · 4:38–4:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 040)
+**Video 040 · 5:02–5:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 040)
 
 - **Script segment:** "Maren walks into her stone cottage and closes the weathered door."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -485,7 +529,7 @@
 ### Maren's cottage, that evening
 
 
-**Video 041 · 4:44–4:50 · 6s · Suspense and atmosphere** (start frame: Image Beat 041)
+**Video 041 · 5:08–5:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 041)
 
 - **Script segment:** "A low fire crackles in the silent cottage. The camera drifts to the empty wooden chair by the hearth. Maren sits alone on the bed, staring at it."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -496,7 +540,7 @@
 &nbsp;
 
 
-**Video 042 · 4:50–4:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 042)
+**Video 042 · 5:14–5:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 042)
 
 - **Script segment:** "Maren hums three soft notes. Her voice breaks and she stops."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -507,7 +551,7 @@
 &nbsp;
 
 
-**Video 043 · 4:56–5:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 043)
+**Video 043 · 5:20–5:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 043)
 
 - **Script segment:** "MAREN: He'd have known what to do."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -518,13 +562,13 @@
 &nbsp;
 
 
-**Video 044 · 5:02–5:08 · 6s · Final cliffhanger** (start frame: Image Beat 044)
+**Video 044 — Image A — Basket in hand at the door · 5:26–5:32 · 6s · Final cliffhanger** (start frame: Image Beat 044)
 
-- **Script segment:** "Maren gets up and grabs a small basket. She wraps her cloak tight and opens the door into the wind. She slips out into the dark toward the cliffs."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Maren (shawl sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 044). 0–2s — Maren gets up and grabs a small basket. NO DIALOGUE. 2–4s — She wraps her cloak tight and opens the door into the wind. NO DIALOGUE. 4–6s — She slips out into the dark toward the cliffs. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren lifts her chin when she is defiant. Lighting stays lightning flashes and a single horn lantern, deep black shadows, cold blue-grey rim light. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: secretive. Sound: rising gale, rain on shutters, rolling thunder. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Small wicker basket: empty, in Maren's right hand; Door: closed
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 044). START STATE, already true in the image: she is up, basket in hand, at the door; Small wicker basket: empty, in Maren's right hand; Door: closed. Continue forward from this exact state. 0–6s: she opens the door into the wind, her shawl and hair blowing, and slips out into the dark toward the cliffs. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays lightning flashes and a single horn lantern, deep black shadows, cold blue-grey rim light. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: secretive. Sound: rising gale, rain on shutters, rolling thunder. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
@@ -532,106 +576,106 @@
 ### Sea cave, night — the first feeding
 
 
-**Video 045 · 5:08–5:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 045)
+**Video 045 — Image A — Cup held out · 5:32–5:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 045)
 
-- **Script segment:** "Candlelight flickers in the dark cave as Maren kneels by the basket. She holds a wooden cup of milk toward newborn Tal, who turns its head away."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 045). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–4s — Candlelight flickers in the dark cave as Maren kneels by the basket. NO DIALOGUE. 4–6s — She holds a wooden cup of milk toward newborn Tal, who turns its head away. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal puffs out its cheeks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: warm, curious, gently humorous. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Wooden cup of milk: in Maren's right hand, held toward the newborn; Newborn Tal: in the basket
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 045). START STATE, already true in the image: she offers the milk; Wooden cup of milk: in Maren's right hand, held toward the newborn; Newborn Tal: in the basket. Continue forward from this exact state. 0–6s: she tips the cup a little closer; the newborn sniffs once and turns its head away. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: warm, curious, gently humorous. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 046 · 5:14–5:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 046)
+**Video 046 · 5:38–5:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 046)
 
 - **Script segment:** "MAREN: Milk? No?"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 046). 0–2.5s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. She tilts her head, puzzled. Maren says: "Milk? No?" (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 2.5–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal puffs out its cheeks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: warm, curious, gently humorous. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 046). START STATE, already true in the image: Maren holds the wooden cup of milk in her right hand near the newborn; the newborn's head is turned away; these objects stay exactly where they are unless the action moves them. 0–2.5s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. She tilts her head, puzzled. Maren says: "Milk? No?" (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 2.5–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal puffs out its cheeks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: warm, curious, gently humorous. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 047 · 5:20–5:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 047)
+**Video 047 — Image A — Bread held out · 5:44–5:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 047)
 
-- **Script segment:** "She offers a crust of dark bread. Newborn Tal sniffs it and sneezes, spraying droplets all over the bread."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 047). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–4s — She offers a crust of dark bread. NO DIALOGUE. 4–6s — Newborn Tal sniffs it and sneezes, spraying droplets all over the bread. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Tal makes tiny crystalline dolphin-like clicks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: playful. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Crust of dark bread: in Maren's right hand, near the newborn's snout; Wooden cup: set down on the stone beside her
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 047). START STATE, already true in the image: she offers bread; Crust of dark bread: in Maren's right hand, near the newborn's snout; Wooden cup: set down on the stone beside her. Continue forward from this exact state. 0–6s: the newborn sniffs the bread and sneezes, spraying tiny droplets over it; Maren pulls the bread back. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: playful. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 048 · 5:26–5:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 048)
+**Video 048 · 5:50–5:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 048)
 
 - **Script segment:** "MAREN: Bread? Not bread either."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 048). 0–2.5s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. Maren lets out a tired half-laugh. Maren says: "Bread? Not bread either." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 2.5–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Tal makes tiny crystalline dolphin-like clicks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: playful. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 048). START STATE, already true in the image: Maren holds the crust of bread, wet with sneeze droplets; the wooden cup stands on the stone beside her; these objects stay exactly where they are unless the action moves them. 0–2.5s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. Maren lets out a tired half-laugh. Maren says: "Bread? Not bread either." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 2.5–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Tal makes tiny crystalline dolphin-like clicks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: playful. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 049 · 5:32–5:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 049)
+**Video 049 · 5:56–6:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 049)
 
 - **Script segment:** "MAREN: Then what do you want, little one?"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 049). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. Maren sits back, exhausted. Maren says: "Then what do you want, little one?" (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren touches the bone net-mending needle at her belt for comfort; Tal tilts its head to the left when curious. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: warm, curious, gently humorous. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 049). START STATE, already true in the image: the bread and the cup lie on the stone beside Maren; her hands are empty; a small woven basket of silver herring sits nearby; these objects stay exactly where they are unless the action moves them. 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. Maren sits back, exhausted. Maren says: "Then what do you want, little one?" (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren touches the bone net-mending needle at her belt for comfort; Tal tilts its head to the left when curious. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: warm, curious, gently humorous. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 050 · 5:38–5:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 050)
+**Video 050 — Image A — Herring in the basket · 6:02–6:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 050)
 
-- **Script segment:** "Newborn Tal waddles to her woven basket and sniffs the silver herring. It snaps a herring in its tiny jaws."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 050). 0–2s — Newborn Tal waddles to her woven basket and sniffs the silver herring. NO DIALOGUE. 2–4s — It snaps a herring in its tiny jaws. NO DIALOGUE. 4–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren touches the bone net-mending needle at her belt for comfort; Tal tilts its head to the left when curious. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: warm, curious, gently humorous. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Herring: all inside the woven basket; Maren's hands: empty
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 050). START STATE, already true in the image: it heads for the herring basket; Herring: all inside the woven basket; Maren's hands: empty. Continue forward from this exact state. 0–3s: the newborn reaches the basket and sniffs the silver herring. 3–6s: it snaps one herring in its tiny jaws and lifts it out of the basket. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: warm, curious, gently humorous. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 051 · 5:44–5:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 051)
+**Video 051 — Image A — Herring in its jaws · 6:08–6:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 051)
 
-- **Script segment:** "MAREN: Fish. You want fish."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 051). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. Maren's eyes widen. Maren says: "Fish. You want fish." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren lifts her chin when she is defiant; Tal puffs out its cheeks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: joyful. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Herring: held in the newborn's jaws; Other herring: still in the basket
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 051). START STATE, already true in the image: it holds the herring in its jaws; Herring: held in the newborn's jaws; Other herring: still in the basket. Continue forward from this exact state. 0–6s: the newborn holds the fish in its jaws, tail flicking, while Maren stares at it in wonder. DIALOGUE during the action: SPEAKER: Maren, the dark-haired woman in the green shawl. Maren says: "Fish. You want fish." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: joyful. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 052 · 5:50–5:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 052)
+**Video 052 — Image A — Head tipping back · 6:14–6:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 052)
 
-- **Script segment:** "Newborn Tal tosses its head back and swallows the herring whole. Maren bursts into laughter, her hand over her mouth."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 052). 0–2s — Newborn Tal tosses its head back and swallows the herring whole. NO DIALOGUE. 2–4s — Maren bursts into laughter, her hand over her mouth. NO DIALOGUE. 4–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren lifts her chin when she is defiant; Tal puffs out its cheeks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: joyful. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Herring: half swallowed, tail sticking out of the newborn's jaws
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 052). START STATE, already true in the image: it is swallowing; Herring: half swallowed, tail sticking out of the newborn's jaws. Continue forward from this exact state. 0–3s: the newborn swallows the herring whole. 3–6s: Maren bursts into laughter, her hand over her mouth. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: joyful. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 053 · 5:56–6:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 053)
+**Video 053 · 6:20–6:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 053)
 
 - **Script segment:** "MAREN: Slowly! You'll choke."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 053). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. Newborn Tal snatches a second herring and Maren laughs. Maren says: "Slowly! You'll choke." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal makes tiny crystalline dolphin-like clicks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 053). START STATE, already true in the image: the newborn is gulping down a herring, the fish tail disappearing into its jaws; the basket of herring is beside it; these objects stay exactly where they are unless the action moves them. 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. Newborn Tal snatches a second herring and Maren laughs. Maren says: "Slowly! You'll choke." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal makes tiny crystalline dolphin-like clicks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 054 · 6:02–6:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 054)
+**Video 054 · 6:26–6:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 054)
 
 - **Script segment:** "It gulps the fish down happily. Her fingers gently stroke its frilled crest."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -642,7 +686,7 @@
 &nbsp;
 
 
-**Video 055 · 6:08–6:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 055)
+**Video 055 · 6:32–6:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 055)
 
 - **Script segment:** "Maren gazes down with love."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -653,13 +697,13 @@
 &nbsp;
 
 
-**Video 056 · 6:14–6:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 056)
+**Video 056 — Image A — Newborn in her lap · 6:38–6:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 056)
 
-- **Script segment:** "MAREN: Your father was Talen. You'll be Tal. Newborn Tal falls asleep in her lap as the candle glows."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
-- **Attach (location + character sheets):** L12 · Maren (shawl sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 056). 0–3.5s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. Maren says: "Your father was Talen. You'll be Tal." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 3.5–6s — Newborn Tal falls asleep in her lap as the tallow candle glows. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: static close-up on her face for the whole beat, no zoom; her face fills the frame. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Tal tilts its head to the left when curious. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, safe. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
+- **Visual state requirements:** Newborn Tal: asleep in Maren's lap
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 056). START STATE, already true in the image: it sleeps in her lap; Newborn Tal: asleep in Maren's lap. Continue forward from this exact state. 0–6s: she looks down at the sleeping newborn and speaks softly; it breathes slowly in her lap. DIALOGUE during the action: SPEAKER: Maren, the dark-haired woman in the green shawl. Maren says: "Your father was Talen. You'll be Tal." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, safe. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
@@ -667,68 +711,79 @@
 ### Sea cave — the first thunder
 
 
-**Video 057 · 6:20–6:26 · 6s · Shocking reveal** (start frame: Image Beat 057)
+**Video 057 · 6:44–6:50 · 6s · Shocking reveal** (start frame: Image Beat 057)
 
 - **Script segment:** "Lightning flashes in the cave mouth. Thunder booms and newborn Tal shrieks, scrambling deeper into the basket. Maren rushes over and kneels beside it."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 057). 0–2s — Lightning flashes in the cave mouth. NO DIALOGUE. 2–4s — Thunder booms and newborn Tal shrieks, scrambling deeper into the basket. NO DIALOGUE. 4–6s — Maren rushes over and kneels beside it. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren touches the bone net-mending needle at her belt for comfort; Tal puffs out its cheeks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: fearful. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 057). START STATE, already true in the image: the newborn is inside the wicker basket; Maren's hands are empty; these objects stay exactly where they are unless the action moves them. 0–2s — Lightning flashes in the cave mouth. NO DIALOGUE. 2–4s — Thunder booms and newborn Tal shrieks, scrambling deeper into the basket. NO DIALOGUE. 4–6s — Maren rushes over and kneels beside it. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren touches the bone net-mending needle at her belt for comfort; Tal puffs out its cheeks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: fearful. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 058 · 6:26–6:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 058)
+**Video 058 · 6:50–6:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 058)
 
 - **Script segment:** "MAREN: It's only noise. Only the sea being loud."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 058). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. Maren strokes its trembling crest. Maren says: "It's only noise. Only the sea being loud." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren lifts her chin when she is defiant; Tal makes tiny crystalline dolphin-like clicks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 058). START STATE, already true in the image: the newborn is inside the wicker basket; Maren's hands are empty; these objects stay exactly where they are unless the action moves them. 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. Maren strokes its trembling crest. Maren says: "It's only noise. Only the sea being loud." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren lifts her chin when she is defiant; Tal makes tiny crystalline dolphin-like clicks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 059 · 6:32–6:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 059)
+**Video 059 — Image A — Hands into the basket · 6:56–7:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 059)
 
-- **Script segment:** "She lifts the newborn out of the basket. She presses it against her heart."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 059). 0–2s — She lifts the newborn out of the basket. NO DIALOGUE. 2–4s — She presses it against her heart. NO DIALOGUE. 4–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren lifts her chin when she is defiant; Tal makes tiny crystalline dolphin-like clicks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Newborn Tal: inside the basket; Maren's hands: around the newborn, inside the basket
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 059). START STATE, already true in the image: her hands are around it in the basket; Newborn Tal: inside the basket; Maren's hands: around the newborn, inside the basket. Continue forward from this exact state. 0–6s: she lifts the newborn gently up out of the basket. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 060 · 6:38–6:44 · 6s · Suspense and atmosphere** (start frame: Image Beat 060)
+**Video 059b — Image B — Held to her heart · 7:02–7:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 059b)
+
+- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
+- **Visual state requirements:** Newborn Tal: in Maren's arms against her chest; Basket: empty beside her
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 059b). START STATE, already true in the image: she holds it to her heart; Newborn Tal: in Maren's arms against her chest; Basket: empty beside her. Continue forward from this exact state. 0–6s: she presses it to her heart and rocks slowly; its trembling begins to slow. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
+
+&nbsp;
+
+
+**Video 060 · 7:08–7:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 060)
 
 - **Script segment:** "Maren begins to sing three soft notes. Newborn Tal's trembling slows. Its eyes slowly close."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 060). 0–2s — Maren begins to sing three soft notes. NO DIALOGUE. 2–4s — Newborn Tal's trembling slows. NO DIALOGUE. 4–6s — Its eyes slowly close. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal tilts its head to the left when curious. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 060). START STATE, already true in the image: Maren holds the newborn against her chest in both arms; the wicker basket is empty beside her; these objects stay exactly where they are unless the action moves them. 0–2s — Maren begins to sing three soft notes. NO DIALOGUE. 2–4s — Newborn Tal's trembling slows. NO DIALOGUE. 4–6s — Its eyes slowly close. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal tilts its head to the left when curious. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 061 · 6:44–6:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 061)
+**Video 061 · 7:14–7:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 061)
 
 - **Script segment:** "Newborn Tal opens its mouth and hums three tiny notes back. Maren freezes, astonished."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 061). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–4s — Newborn Tal opens its mouth and hums three tiny notes back. NO DIALOGUE. 4–6s — Maren freezes, astonished. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Tal puffs out its cheeks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: wonder. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 061). START STATE, already true in the image: Maren holds the newborn against her chest in both arms; the wicker basket is empty beside her; these objects stay exactly where they are unless the action moves them. 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–4s — Newborn Tal opens its mouth and hums three tiny notes back. NO DIALOGUE. 4–6s — Maren freezes, astonished. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Tal puffs out its cheeks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: wonder. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 062 · 6:50–6:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 062)
+**Video 062 · 7:20–7:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 062)
 
 - **Script segment:** "MAREN: You learn fast, little one."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 062). 0–3s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. She laughs softly. Maren says: "You learn fast, little one." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 3–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Tal puffs out its cheeks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: wonder. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 062). START STATE, already true in the image: Maren holds the newborn against her chest in both arms; the wicker basket is empty beside her; these objects stay exactly where they are unless the action moves them. 0–3s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the newborn dragon to the right. She laughs softly. Maren says: "You learn fast, little one." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 3–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the newborn dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Tal puffs out its cheeks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: wonder. Sound: dripping water, faint surf, a tallow candle crackling; Tal's tiny crystalline chirps and clicks. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
@@ -741,128 +796,150 @@
 ### Harbor market
 
 
-**Video 063 · 6:56–7:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 063)
+**Video 063 — Image A — Coins in her hand · 7:26–7:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 063)
 
-- **Script segment:** "Gulls wheel over the busy fish market. Maren weaves through the crowd to Bram's stall. She sets a few copper coins on the salt-crusted plank."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, Villagers
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 063). 0–2s — Gulls wheel over the busy fish market. NO DIALOGUE. 2–4s — Maren weaves through the crowd to Bram's stall. NO DIALOGUE. 4–6s — She sets a few copper coins on the salt-crusted plank. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: one slow, smooth pan following the movement across the wide frame, no zoom; otherwise steady. Signature habits: Maren touches the bone net-mending needle at her belt for comfort; Bram cracks his knuckles; Jory, a young fisherman, fidgets and tugs at his grey cap. CROWD: real, busy everyday village life all through the shot: people walk past in both directions, haggle, hand over coins, gut and salt fish, carry baskets and barrels, mend nets, chat and laugh; children run between the stalls; nobody stands still staring and nobody looks at the camera; each person does their own task at their own pace. It is daytime: nobody carries any light. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: tense, suspicious. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Copper coins: in Maren's open right palm; Wicker basket: empty, on Maren's arm
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 063). START STATE, already true in the image: she reaches the stall with the coins in her hand; Copper coins: in Maren's open right palm; Wicker basket: empty, on Maren's arm. Continue forward from this exact state. 0–6s: she weaves the last steps through the crowd and sets the copper coins on the salt-crusted plank in front of Bram. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: tense, suspicious. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 064 · 7:02–7:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 064)
+**Video 064 · 7:32–7:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 064)
 
 - **Script segment:** "MAREN: Herring, Bram. A full basket."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, villagers in the background (no sheet needed)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 064). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–5s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the bearded man in the shaggy fur coat to the right. Maren looks Bram in the eye. Maren says: "Herring, Bram. A full basket." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 5–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the bearded man in the shaggy fur coat on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren lifts her chin when she is defiant; Bram leans in uncomfortably close. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: mocking. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 064). START STATE, already true in the image: a few copper coins lie on the salt-crusted plank in front of Bram; Maren's empty wicker basket hangs on her arm; her knife still hangs on her rope belt; these objects stay exactly where they are unless the action moves them. 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–5s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the bearded man in the shaggy fur coat to the right. Maren looks Bram in the eye. Maren says: "Herring, Bram. A full basket." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 5–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the bearded man in the shaggy fur coat on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren lifts her chin when she is defiant; Bram leans in uncomfortably close. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: mocking. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 065 · 7:08–7:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 065)
+**Video 065 · 7:38–7:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 065)
 
 - **Script segment:** "Bram smirks and looks her thin frame up and down."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, villagers in the background (no sheet needed)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 065). 0–1s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 1–6s — Bram smirks and looks her thin frame up and down. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the bearded man in the shaggy fur coat on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren lifts her chin when she is defiant; Bram leans in uncomfortably close. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: mocking. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 065). START STATE, already true in the image: a few copper coins lie on the salt-crusted plank in front of Bram; Maren's empty wicker basket hangs on her arm; her knife still hangs on her rope belt; these objects stay exactly where they are unless the action moves them. 0–1s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 1–6s — Bram smirks and looks her thin frame up and down. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the bearded man in the shaggy fur coat on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren lifts her chin when she is defiant; Bram leans in uncomfortably close. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: mocking. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 066 · 7:14–7:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 066)
+**Video 066 · 7:44–7:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 066)
 
 - **Script segment:** "BRAM: A full basket? For a widow who eats like a sparrow?"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Bram, Maren (shawl sheet), villagers in the background (no sheet needed)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 066). 0–5s — SPEAKER: Bram, the bearded man in the shaggy fur coat. Face three-quarters to the camera, eyes on the dark-haired woman in the green shawl to the left. Bram says: "A full basket? For a widow who eats like a sparrow?" (Bram's own voice (man, about 40): a very deep, rough, gravelly American voice, loud, hard and sneering, with short clipped words). SILENT: everyone else, mouths closed. 5–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the bearded man in the shaggy fur coat on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren lifts her chin when she is defiant; Bram leans in uncomfortably close. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: mocking. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 066). START STATE, already true in the image: a few copper coins lie on the salt-crusted plank in front of Bram; Maren's empty wicker basket hangs on her arm; her knife still hangs on her rope belt; these objects stay exactly where they are unless the action moves them. 0–5s — SPEAKER: Bram, the bearded man in the shaggy fur coat. Face three-quarters to the camera, eyes on the dark-haired woman in the green shawl to the left. Bram says: "A full basket? For a widow who eats like a sparrow?" (Bram's own voice (man, about 40): a very deep, rough, gravelly American voice, loud, hard and sneering, with short clipped words). SILENT: everyone else, mouths closed. 5–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the bearded man in the shaggy fur coat on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren lifts her chin when she is defiant; Bram leans in uncomfortably close. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: mocking. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 067 · 7:20–7:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 067)
+**Video 067 · 7:50–7:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 067)
 
 - **Script segment:** "MAREN: I'm mending. I need my strength."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, villagers in the background (no sheet needed)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 067). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the bearded man in the shaggy fur coat to the right. Maren holds his gaze. Maren says: "I'm mending. I need my strength." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the bearded man in the shaggy fur coat on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Bram folds his thick arms across his chest. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: tense, suspicious. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 067). START STATE, already true in the image: a few copper coins lie on the salt-crusted plank in front of Bram; Maren's empty wicker basket hangs on her arm; her knife still hangs on her rope belt; these objects stay exactly where they are unless the action moves them. 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the bearded man in the shaggy fur coat to the right. Maren holds his gaze. Maren says: "I'm mending. I need my strength." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the bearded man in the shaggy fur coat on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Bram folds his thick arms across his chest. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: tense, suspicious. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 068 · 7:26–7:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 068)
+**Video 068 — Image A — Finger on the coins · 7:56–8:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 068)
 
-- **Script segment:** "Bram's thick finger pushes the coins back across the plank. BRAM: Your coin is short."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
-- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, villagers in the background (no sheet needed)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 068). 0–1s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 1–3s — Bram's thick finger pushes the coins back across the plank. NO DIALOGUE. 3–6s — SPEAKER: Bram, the bearded man in the shaggy fur coat. Face three-quarters to the camera, eyes on the dark-haired woman in the green shawl to the left. Bram says: "Your coin is short." (Bram's own voice (man, about 40): a very deep, rough, gravelly American voice, loud, hard and sneering, with short clipped words). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the bearded man in the shaggy fur coat on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Bram folds his thick arms across his chest. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: tense, suspicious. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram
+- **Visual state requirements:** Copper coins: on the plank, under Bram's finger; Wicker basket: empty
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 068). START STATE, already true in the image: Bram's finger is on the coins; Copper coins: on the plank, under Bram's finger; Wicker basket: empty. Continue forward from this exact state. 0–6s: his finger slowly pushes the coins back across the plank toward Maren. DIALOGUE during the action: SPEAKER: Bram, the bearded man in the shaggy fur coat. Bram says: "Your coin is short." (Bram's own voice (man, about 40): a very deep, rough, gravelly American voice, loud, hard and sneering, with short clipped words). SILENT: everyone else, mouths closed. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: tense, suspicious. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 069 · 7:32–7:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 069)
+**Video 069 — Image A — Hand on the knife at her belt · 8:02–8:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 069)
 
-- **Script segment:** "She unhooks a knife with a carved bone handle from her belt. Close on the wave pattern carved into the handle."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
-- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, villagers in the background (no sheet needed)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 069). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–4s — She unhooks a knife with a carved bone handle from her belt. NO DIALOGUE. 4–6s — Close on the wave pattern carved into the handle. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the bearded man in the shaggy fur coat on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Bram drums his thick fingers on whatever is near. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: painful sacrifice. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram
+- **Visual state requirements:** Knife: still hanging on Maren's belt, her hand on the handle; Coins: on the plank on her side
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 069). START STATE, already true in the image: her hand is on the knife at her belt; Knife: still hanging on Maren's belt, her hand on the handle; Coins: on the plank on her side. Continue forward from this exact state. 0–6s: she unhooks the knife from her belt and lifts it in front of her. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: painful sacrifice. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 070 · 7:38–7:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 070)
+**Video 069b — Image B — The knife in her hand · 8:08–8:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 069b)
 
-- **Script segment:** "MAREN: It was Talen's knife. Take it."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
-- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, villagers in the background (no sheet needed)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 070). 0–3.5s — SPEAKER: Maren, the dark-haired woman in the green shawl. Face three-quarters to the camera, eyes on the bearded man in the shaggy fur coat to the right. Her eyes glisten as she places it in Bram's palm. Maren says: "It was Talen's knife. Take it." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 3.5–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the green shawl stay on the left of the frame and the bearded man in the shaggy fur coat on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Bram drums his thick fingers on whatever is near. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: painful sacrifice. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Attach (location + character sheets):** L2 · Maren (shawl sheet)
+- **Visual state requirements:** Knife: in Maren's hand, handle with the wave carving facing the camera
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 069b). START STATE, already true in the image: she holds it in her hand; Knife: in Maren's hand, handle with the wave carving facing the camera. Continue forward from this exact state. 0–6s: her thumb runs once over the carved waves on the handle; her hand trembles slightly. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: painful sacrifice. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 071 · 7:44–7:50 · 6s · Suspense and atmosphere** (start frame: Image Beat 071)
+**Video 070 — Image A — Knife held out to Bram · 8:14–8:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 070)
 
-- **Script segment:** "Bram shovels herring into her basket. Maren walks away with the heavy basket. Bram turns the bone-handled knife over in his hands, watching her go."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
-- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, villagers in the background (no sheet needed)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 071). 0–2s — Bram shovels herring into her basket. NO DIALOGUE. 2–4s — Maren walks away with the heavy basket. NO DIALOGUE. 4–6s — Bram turns the bone-handled knife over in his hands, watching her go. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren touches the bone net-mending needle at her belt for comfort; Bram cracks his knuckles. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: suspicious. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram
+- **Visual state requirements:** Knife: in Maren's outstretched hand, handle toward Bram; Coins: on the plank
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 070). START STATE, already true in the image: she offers it, handle first; Knife: in Maren's outstretched hand, handle toward Bram; Coins: on the plank. Continue forward from this exact state. 0–4s: she holds it out and speaks. 4–6s: Bram closes his fingers around the handle and takes the knife from her hand. DIALOGUE during the action: SPEAKER: Maren, the dark-haired woman in the green shawl. Maren says: "It was Talen's knife. Take it." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: painful sacrifice. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 072 · 7:50–7:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 072)
+**Video 071 — Image A — Shovelling herring · 8:20–8:26 · 6s · Suspense and atmosphere** (start frame: Image Beat 071)
 
-- **Script segment:** "The blade reflects Bram's narrowed eye."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
-- **Attach (location + character sheets):** L2 · Bram, Odile, villagers in the background (no sheet needed)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 072). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — The blade reflects Bram's narrowed eye. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The bearded man in the shaggy fur coat stay on the left of the frame and the auburn-haired woman in faded red on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Bram leans in uncomfortably close; Odile pulls her fringed red shawl tighter around her head. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: menacing. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram
+- **Visual state requirements:** Knife: tucked in Bram's belt; Herring: going into Maren's basket from the scoop; Basket: on the plank, half full
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 071). START STATE, already true in the image: he fills her basket; Knife: tucked in Bram's belt; Herring: going into Maren's basket from the scoop; Basket: on the plank, half full. Continue forward from this exact state. 0–6s: he shovels until the basket is full; Maren lifts the heavy basket onto her arm. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: suspicious. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 073 · 7:56–8:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 073)
+**Video 071b — Image B — Walking away, knife in his hands · 8:26–8:32 · 6s · Suspense and atmosphere** (start frame: Image Beat 071b)
+
+- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
+- **Location sheet:** L2 Harbor market
+- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram
+- **Visual state requirements:** Basket: full of herring, on Maren's arm; Knife: in Bram's hands
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 071b). START STATE, already true in the image: she walks away; he holds the knife; Basket: full of herring, on Maren's arm; Knife: in Bram's hands. Continue forward from this exact state. 0–6s: she walks away into the crowd; Bram turns the knife over slowly, his eyes on her back. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: suspicious. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
+
+&nbsp;
+
+
+**Video 072 — Image A — Blade up close · 8:32–8:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 072)
+
+- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
+- **Location sheet:** L2 Harbor market
+- **Attach (location + character sheets):** L2 · Bram
+- **Visual state requirements:** Knife: in Bram's hand, blade toward the camera
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 072). START STATE, already true in the image: he holds the blade up; Knife: in Bram's hand, blade toward the camera. Continue forward from this exact state. 0–6s: the blade tilts slightly; his reflected eye narrows. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: menacing. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
+
+&nbsp;
+
+
+**Video 073 · 8:38–8:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 073)
 
 - **Script segment:** "BRAM: Grief doesn't make a woman hungry. Something's wrong with that one."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Bram, Odile, villagers in the background (no sheet needed)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 073). 0–6s — SPEAKER: Bram, the bearded man in the shaggy fur coat. Face three-quarters to the camera, eyes on the auburn-haired woman in faded red to the right. He mutters darkly. Bram says: "Grief doesn't make a woman hungry. Something's wrong with that one." (Bram's own voice (man, about 40): a very deep, rough, gravelly American voice, loud, hard and sneering, with short clipped words). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The bearded man in the shaggy fur coat stay on the left of the frame and the auburn-haired woman in faded red on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Bram leans in uncomfortably close; Odile pulls her fringed red shawl tighter around her head. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: menacing. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 073). START STATE, already true in the image: Bram holds the bone-handled knife in his hand; these objects stay exactly where they are unless the action moves them. 0–6s — SPEAKER: Bram, the bearded man in the shaggy fur coat. Face three-quarters to the camera, eyes on the auburn-haired woman in faded red to the right. He mutters darkly. Bram says: "Grief doesn't make a woman hungry. Something's wrong with that one." (Bram's own voice (man, about 40): a very deep, rough, gravelly American voice, loud, hard and sneering, with short clipped words). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The bearded man in the shaggy fur coat stay on the left of the frame and the auburn-haired woman in faded red on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Bram leans in uncomfortably close; Odile pulls her fringed red shawl tighter around her head. BACKGROUND LIFE: behind the main characters, out of focus, the villagers keep going about their everyday business the whole time (walking past, working, haggling, carrying things, children running); they never stop to stare and never look at the camera. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: menacing. Sound: market chatter, gulls, wind, coins clinking. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 074 · 8:02–8:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 074)
+**Video 074 · 8:44–8:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 074)
 
 - **Script segment:** "At a nearby stall, Odile overhears and frowns."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -876,7 +953,7 @@
 ### Maren's cottage — mending for fish
 
 
-**Video 075 · 8:08–8:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 075)
+**Video 075 · 8:50–8:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 075)
 
 - **Script segment:** "Candlelight flickers over a mountain of torn nets. Maren's needle flies through the knots. She winces and sucks a cut fingertip."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -887,7 +964,7 @@
 &nbsp;
 
 
-**Video 076 · 8:14–8:20 · 6s · Suspense and atmosphere** (start frame: Image Beat 076)
+**Video 076 · 8:56–9:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 076)
 
 - **Script segment:** "Close on her raw fingers pulling the cord tight. The candle burns low. Grey dawn creeps through the window as she ties the last knot."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -898,7 +975,7 @@
 &nbsp;
 
 
-**Video 077 · 8:20–8:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 077)
+**Video 077 · 9:02–9:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 077)
 
 - **Script segment:** "ODILE: You look half-dead, Maren."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -909,7 +986,7 @@
 &nbsp;
 
 
-**Video 078 · 8:26–8:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 078)
+**Video 078 · 9:08–9:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 078)
 
 - **Script segment:** "MAREN: Half is enough. She closes the door, leaving Odile frowning on the step."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -923,7 +1000,7 @@
 ### Tidal pools — growth montage
 
 
-**Video 079 · 8:32–8:38 · 6s · Suspense and atmosphere** (start frame: Image Beat 079)
+**Video 079 · 9:14–9:20 · 6s · Suspense and atmosphere** (start frame: Image Beat 079)
 
 - **Script segment:** "Morning light glints on the tidal pools under the cliffs. Maren lies flat on the rock beside a pool. She puffs her cheeks full of air, eyes playful."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -934,7 +1011,7 @@
 &nbsp;
 
 
-**Video 080 · 8:38–8:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 080)
+**Video 080 · 9:20–9:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 080)
 
 - **Script segment:** "MAREN: Hold your breath, Tal. Like this."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -945,7 +1022,7 @@
 &nbsp;
 
 
-**Video 081 · 8:44–8:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 081)
+**Video 081 · 9:26–9:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 081)
 
 - **Script segment:** "She dips her face into the clear pool. Newborn Tal copies her, cheeks puffed comically."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -956,7 +1033,7 @@
 &nbsp;
 
 
-**Video 082 · 8:50–8:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 082)
+**Video 082 · 9:32–9:38 · 6s · Suspense and atmosphere** (start frame: Image Beat 082)
 
 - **Script segment:** "Newborn Tal dives into the rock pool. It swims through kelp in the clear green water. It bursts out of the surface with a crab in its jaws."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -967,7 +1044,7 @@
 &nbsp;
 
 
-**Video 083 · 8:56–9:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 083)
+**Video 083 · 9:38–9:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 083)
 
 - **Script segment:** "MAREN: Good boy! Good!"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -978,7 +1055,7 @@
 &nbsp;
 
 
-**Video 084 · 9:02–9:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 084)
+**Video 084 · 9:44–9:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 084)
 
 - **Script segment:** "Newborn Tal proudly shakes seawater all over her. She laughs, wiping her face."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -989,7 +1066,7 @@
 &nbsp;
 
 
-**Video 085 · 9:08–9:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 085)
+**Video 085 · 9:50–9:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 085)
 
 - **Script segment:** "Goat-sized Tal bounds over the rocks after Maren. Seasons pass in mist; Tal grows larger. Now pony-sized, Tal swims powerfully across the cove at sunrise."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1000,7 +1077,7 @@
 &nbsp;
 
 
-**Video 086 · 9:14–9:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 086)
+**Video 086 · 9:56–10:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 086)
 
 - **Script segment:** "Pony-sized Tal is wedged in a cracked wooden washtub, legs hanging out."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1011,7 +1088,7 @@
 &nbsp;
 
 
-**Video 087 · 9:20–9:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 087)
+**Video 087 · 10:02–10:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 087)
 
 - **Script segment:** "MAREN: You've outgrown the basket. And the tub. And soon the cave."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1022,7 +1099,7 @@
 &nbsp;
 
 
-**Video 088 · 9:26–9:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 088)
+**Video 088 · 10:08–10:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 088)
 
 - **Script segment:** "Tal's long tail sweeps across the whole cave passage."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1033,7 +1110,7 @@
 &nbsp;
 
 
-**Video 089 · 9:32–9:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 089)
+**Video 089 · 10:14–10:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 089)
 
 - **Script segment:** "Tal chews happily on a fishing net."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1044,7 +1121,7 @@
 &nbsp;
 
 
-**Video 090 · 9:38–9:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 090)
+**Video 090 · 10:20–10:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 090)
 
 - **Script segment:** "MAREN: Not the nets, Tal! Those are mine! A playful tug-of-war across the rocks."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1055,7 +1132,7 @@
 &nbsp;
 
 
-**Video 091 · 9:44–9:50 · 6s · Final cliffhanger** (start frame: Image Beat 091)
+**Video 091 · 10:26–10:32 · 6s · Final cliffhanger** (start frame: Image Beat 091)
 
 - **Script segment:** "Maren falls back on the rocks laughing. Tal nuzzles her face. A still wide view of the hidden cove at day's end."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1069,7 +1146,7 @@
 ### Sea cliffs — learning to fly
 
 
-**Video 092 · 9:50–9:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 092)
+**Video 092 · 10:32–10:38 · 6s · Suspense and atmosphere** (start frame: Image Beat 092)
 
 - **Script segment:** "Tal clambers up a tall rock above the cove. He peers over the edge at the sea far below. His wings twitch open."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1080,7 +1157,7 @@
 &nbsp;
 
 
-**Video 093 · 9:56–10:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 093)
+**Video 093 · 10:38–10:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 093)
 
 - **Script segment:** "Maren runs onto the rocks below."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1091,7 +1168,7 @@
 &nbsp;
 
 
-**Video 094 · 10:02–10:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 094)
+**Video 094 · 10:44–10:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 094)
 
 - **Script segment:** "MAREN: Tal. No. Get down from there. Far above, Tal tilts his head at her."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1102,7 +1179,7 @@
 &nbsp;
 
 
-**Video 095 · 10:08–10:14 · 6s · Shocking reveal** (start frame: Image Beat 095)
+**Video 095 · 10:50–10:56 · 6s · Shocking reveal** (start frame: Image Beat 095)
 
 - **Script segment:** "Tal leaps off the rock, wings spread. He glides for a single moment. He tumbles and crashes into the water in a huge splash."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1113,7 +1190,7 @@
 &nbsp;
 
 
-**Video 096 · 10:14–10:20 · 6s · Suspense and atmosphere** (start frame: Image Beat 096)
+**Video 096 · 10:56–11:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 096)
 
 - **Script segment:** "Tal bursts out of the water, spluttering. He climbs back up and leaps again. This time the wind catches his wings and he skims across the cove."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1124,7 +1201,7 @@
 &nbsp;
 
 
-**Video 097 · 10:20–10:26 · 6s · Final cliffhanger** (start frame: Image Beat 097)
+**Video 097 · 11:02–11:08 · 6s · Final cliffhanger** (start frame: Image Beat 097)
 
 - **Script segment:** "MAREN: That's it! That's it!"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1135,7 +1212,7 @@
 &nbsp;
 
 
-**Video 098 · 10:26–10:32 · 6s · Final cliffhanger** (start frame: Image Beat 098)
+**Video 098 · 11:08–11:14 · 6s · Final cliffhanger** (start frame: Image Beat 098)
 
 - **Script segment:** "Tal glides back toward her. She laughs, shielding her eyes from the spray."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1149,7 +1226,7 @@
 ### Sea cave, freezing night
 
 
-**Video 099 · 10:32–10:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 099)
+**Video 099 · 11:14–11:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 099)
 
 - **Script segment:** "A still wide view over the village as a cold wind bends the dry grass. The boats lie pulled up on the shingle and the fish-drying racks stand empty. Villagers in hooded cloaks of mixed natural colours hurry home as the grey light fades."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1160,139 +1237,161 @@
 &nbsp;
 
 
-**Video 100 · 10:38–10:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 100)
+**Video 100 — Image A — The last herring in the basket · 11:20–11:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 100)
 
-- **Script segment:** "Frost glitters on the stones around a single candle. A single herring lies in the empty basket."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 100). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–4s — Frost glitters on the stones around a single tallow candle. NO DIALOGUE. 4–6s — A single herring lies in the empty basket. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Tal nudges Maren's hand with his snout. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: self-sacrificing. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Herring: one, inside the basket; Maren's hands: empty
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 100). START STATE, already true in the image: one fish is left; Herring: one, inside the basket; Maren's hands: empty. Continue forward from this exact state. 0–6s: frost glitters on the stones; Maren looks at the single fish, then at Tal. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: self-sacrificing. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 101 · 10:44–10:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 101)
+**Video 101 — Image A — Herring in her hand · 11:26–11:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 101)
 
-- **Script segment:** "MAREN: Take it. I ate at the market."
-- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
-- **Location sheet:** L12 The sea cave
-- **Attach (location + character sheets):** L12 · Maren (winter sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 101). 0–3.5s — SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Face three-quarters to the camera, eyes on the young dragon to the right. Maren holds it out to Tal with a brave smile. Maren says: "Take it. I ate at the market." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 3.5–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: static close-up on her face for the whole beat, no zoom; her face fills the frame. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Tal nudges Maren's hand with his snout. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: self-sacrificing. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
-
-&nbsp;
-
-
-**Video 102 · 10:50–10:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 102)
-
-- **Script segment:** "Tal gently nudges the fish back toward her."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 102). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — Tal gently nudges the fish back toward her. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren touches the bone net-mending needle at her belt for comfort; Tal makes his throat glow pulse softly with his mood. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: touching. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Herring: in Maren's open hand, held toward Tal; Basket: empty
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 101). START STATE, already true in the image: she holds it out to him; Herring: in Maren's open hand, held toward Tal; Basket: empty. Continue forward from this exact state. 0–6s: she holds the fish out to him and speaks with a brave smile. DIALOGUE during the action: SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Maren says: "Take it. I ate at the market." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: self-sacrificing. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 103 · 10:56–11:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 103)
+**Video 102 — Image A — Snout at the herring · 11:32–11:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 102)
 
-- **Script segment:** "MAREN: Stubborn. Just like your father. She feeds it to him anyway, wraps her late husband's old wool scarf around his neck and shivers in her thin dress."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
-- **Attach (location + character sheets):** L12 · Maren (winter sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 103). 0–3s — SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Face three-quarters to the camera, eyes on the young dragon to the right. Maren smiles through tears. Maren says: "Stubborn. Just like your father." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 3–5s — She feeds it to him anyway, wraps her late husband's old wool scarf around his neck and shivers in her thin dress. NO DIALOGUE. 5–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: static close-up on her face for the whole beat, no zoom; her face fills the frame. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren touches the bone net-mending needle at her belt for comfort; Tal makes his throat glow pulse softly with his mood. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: touching. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
+- **Visual state requirements:** Herring: in Maren's hand, Tal's snout against it
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 102). START STATE, already true in the image: his snout is on it; Herring: in Maren's hand, Tal's snout against it. Continue forward from this exact state. 0–6s: Tal gently nudges her hand and the fish back toward her chest. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: touching. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 104 · 11:02–11:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 104)
+**Video 103 — Image A — Fish back in her hand · 11:38–11:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 103)
+
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
+- **Visual state requirements:** Herring: in Maren's hand at her chest
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 103). START STATE, already true in the image: she holds it and scolds him; Herring: in Maren's hand at her chest. Continue forward from this exact state. 0–6s: she shakes her head fondly at him and speaks. DIALOGUE during the action: SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Maren says: "Stubborn. Just like your father." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: touching. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
+
+&nbsp;
+
+
+**Video 103b — Image B — Feeding him · 11:44–11:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 103b)
+
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
+- **Visual state requirements:** Herring: between Maren's fingers and Tal's jaws
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 103b). START STATE, already true in the image: she is feeding him; Herring: between Maren's fingers and Tal's jaws. Continue forward from this exact state. 0–6s: Tal takes the fish gently from her fingers and swallows it. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: touching. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
+
+&nbsp;
+
+
+**Video 103c — Image C — The scarf · 11:50–11:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 103c)
+
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
+- **Visual state requirements:** Old brown wool scarf: half wrapped around Tal's neck, one end in Maren's hands; Herring: eaten, gone
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 103c). START STATE, already true in the image: she wraps the scarf around his neck; Old brown wool scarf: half wrapped around Tal's neck, one end in Maren's hands; Herring: eaten, gone. Continue forward from this exact state. 0–4s: she finishes wrapping the scarf and tucks the end in. 4–6s: she pulls her cloak tight and shivers. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: touching. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
+
+&nbsp;
+
+
+**Video 104 · 11:56–12:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 104)
 
 - **Script segment:** "Maren leaning close to Tal by the candle, eyes glistening with memory."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 104). 0–6s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren lifts her chin when she is defiant; Tal tilts his head to the left when curious. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 104). START STATE, already true in the image: the old brown wool scarf is wrapped around Tal's neck; no fish anywhere; the empty basket on the stones; these objects stay exactly where they are unless the action moves them. 0–6s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren lifts her chin when she is defiant; Tal tilts his head to the left when curious. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 105 · 11:08–11:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 105)
+**Video 105 · 12:02–12:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 105)
 
 - **Script segment:** "MAREN: Do you want to hear about him? Your father?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 105). 0–6s — SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Face three-quarters to the camera, eyes on the young dragon to the right. Maren leans close. Maren says: "Do you want to hear about him? Your father?" (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: static close-up on her face for the whole beat, no zoom; her face fills the frame. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren lifts her chin when she is defiant; Tal tilts his head to the left when curious. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 105). START STATE, already true in the image: the old brown wool scarf is wrapped around Tal's neck; no fish anywhere; the empty basket on the stones; these objects stay exactly where they are unless the action moves them. 0–6s — SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Face three-quarters to the camera, eyes on the young dragon to the right. Maren leans close. Maren says: "Do you want to hear about him? Your father?" (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: static close-up on her face for the whole beat, no zoom; her face fills the frame. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren lifts her chin when she is defiant; Tal tilts his head to the left when curious. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 106 · 11:14–11:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 106)
+**Video 106 · 12:08–12:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 106)
 
 - **Script segment:** "Tal lifts his head, listening."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 106). 0–6s — Tal lifts his head, listening. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren lifts her chin when she is defiant; Tal tilts his head to the left when curious. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 106). START STATE, already true in the image: the old brown wool scarf is wrapped around Tal's neck; no fish anywhere; the empty basket on the stones; these objects stay exactly where they are unless the action moves them. 0–6s — Tal lifts his head, listening. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren lifts her chin when she is defiant; Tal tilts his head to the left when curious. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 107 · 11:20–11:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 107)
+**Video 107 · 12:14–12:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 107)
 
 - **Script segment:** "MAREN: He was the best net-man on this whole coast. He laughed at storms."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 107). 0–6s — SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Face three-quarters to the camera, eyes on the young dragon to the right. Maren says: "He was the best net-man on this whole coast. He laughed at storms." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: static close-up on her face for the whole beat, no zoom; her face fills the frame. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren lifts her chin when she is defiant; Tal tilts his head to the left when curious. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 107). START STATE, already true in the image: the old brown wool scarf is wrapped around Tal's neck; no fish anywhere; the empty basket on the stones; these objects stay exactly where they are unless the action moves them. 0–6s — SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Face three-quarters to the camera, eyes on the young dragon to the right. Maren says: "He was the best net-man on this whole coast. He laughed at storms." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: static close-up on her face for the whole beat, no zoom; her face fills the frame. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren lifts her chin when she is defiant; Tal tilts his head to the left when curious. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 108 · 11:26–11:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 108)
+**Video 108 · 12:20–12:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 108)
 
 - **Script segment:** "MAREN: He said the sea was only loud, never cruel."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 108). 0–4.5s — SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Face three-quarters to the camera, eyes on the young dragon to the right. Maren continues: "He said the sea was only loud, never cruel." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 4.5–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: static close-up on her face for the whole beat, no zoom; her face fills the frame. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren lifts her chin when she is defiant; Tal tilts his head to the left when curious. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 108). START STATE, already true in the image: the old brown wool scarf is wrapped around Tal's neck; no fish anywhere; the empty basket on the stones; these objects stay exactly where they are unless the action moves them. 0–4.5s — SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Face three-quarters to the camera, eyes on the young dragon to the right. Maren continues: "He said the sea was only loud, never cruel." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 4.5–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: static close-up on her face for the whole beat, no zoom; her face fills the frame. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren lifts her chin when she is defiant; Tal tilts his head to the left when curious. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 109 · 11:32–11:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 109)
+**Video 109 · 12:26–12:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 109)
 
 - **Script segment:** "Maren and Tal side by side by a guttering candle in the frosted cave."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 109). 0–6s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal nudges Maren's hand with his snout. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: grief, love, peace. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 109). START STATE, already true in the image: the old brown wool scarf is wrapped around Tal's neck; no fish anywhere; the empty basket on the stones; these objects stay exactly where they are unless the action moves them. 0–6s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal nudges Maren's hand with his snout. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: grief, love, peace. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 110 · 11:38–11:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 110)
+**Video 110 · 12:32–12:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 110)
 
 - **Script segment:** "MAREN: One winter, he went out and the sea kept him."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 110). 0–6s — SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Face three-quarters to the camera, eyes on the young dragon to the right. She stares into the tallow candle flame. Maren says: "One winter, he went out and the sea kept him." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: static close-up on her face for the whole beat, no zoom; her face fills the frame. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal nudges Maren's hand with his snout. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: grief, love, peace. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 110). START STATE, already true in the image: the old brown wool scarf is wrapped around Tal's neck; no fish anywhere; the empty basket on the stones; these objects stay exactly where they are unless the action moves them. 0–6s — SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Face three-quarters to the camera, eyes on the young dragon to the right. She stares into the tallow candle flame. Maren says: "One winter, he went out and the sea kept him." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: static close-up on her face for the whole beat, no zoom; her face fills the frame. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal nudges Maren's hand with his snout. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: grief, love, peace. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 111 · 11:44–11:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 111)
+**Video 111 · 12:38–12:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 111)
 
 - **Script segment:** "MAREN: And then it gave me you."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 111). 0–6s — SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Face three-quarters to the camera, eyes on the young dragon to the right. Her hand rests on his iridescent scales as. Maren says: "And then it gave me you." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: static close-up on her face for the whole beat, no zoom; her face fills the frame. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal nudges Maren's hand with his snout. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: grief, love, peace. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 111). START STATE, already true in the image: the old brown wool scarf is wrapped around Tal's neck; no fish anywhere; the empty basket on the stones; these objects stay exactly where they are unless the action moves them. 0–6s — SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Face three-quarters to the camera, eyes on the young dragon to the right. Her hand rests on his iridescent scales as. Maren says: "And then it gave me you." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the young dragon on the right (180° rule); the two sides stay about 2 meters apart unless the action says otherwise. Camera: static close-up on her face for the whole beat, no zoom; her face fills the frame. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Tal nudges Maren's hand with his snout. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: grief, love, peace. Sound: near silence, faint surf, a young dragon's soft breathing; Tal's warbling whale-calf hum. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 112 · 11:50–11:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 112)
+**Video 112 · 12:44–12:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 112)
 
 - **Script segment:** "MAREN: Sleep now. The sea is only loud."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1306,7 +1405,7 @@
 ### Elder Hesk's house
 
 
-**Video 113 · 11:56–12:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 113)
+**Video 113 · 12:50–12:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 113)
 
 - **Script segment:** "Peat smoke curls up to the rafters as Hesk sits by the hearth. Odile and Bram stand before him."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1317,7 +1416,7 @@
 &nbsp;
 
 
-**Video 114 · 12:02–12:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 114)
+**Video 114 · 12:56–13:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 114)
 
 - **Script segment:** "ODILE: She buys fish she never cooks. She walks to the cliffs every night."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1328,7 +1427,7 @@
 &nbsp;
 
 
-**Video 115 · 12:08–12:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 115)
+**Video 115 · 13:02–13:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 115)
 
 - **Script segment:** "Bram steps forward angrily."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1339,7 +1438,7 @@
 &nbsp;
 
 
-**Video 116 · 12:14–12:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 116)
+**Video 116 · 13:08–13:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 116)
 
 - **Script segment:** "BRAM: And my drying racks were stripped bare. Teeth marks, Hesk. Big ones."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1350,7 +1449,7 @@
 &nbsp;
 
 
-**Video 117 · 12:20–12:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 117)
+**Video 117 · 13:14–13:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 117)
 
 - **Script segment:** "Close on the splintered wood and the deep teeth marks."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1361,7 +1460,7 @@
 &nbsp;
 
 
-**Video 118 · 12:26–12:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 118)
+**Video 118 · 13:20–13:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 118)
 
 - **Script segment:** "HESK: Foxes."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1372,7 +1471,7 @@
 &nbsp;
 
 
-**Video 119 · 12:32–12:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 119)
+**Video 119 · 13:26–13:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 119)
 
 - **Script segment:** "BRAM: Foxes don't swim. Tense silence crackles between them."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1383,7 +1482,7 @@
 &nbsp;
 
 
-**Video 120 · 12:38–12:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 120)
+**Video 120 · 13:32–13:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 120)
 
 - **Script segment:** "HESK: Then bring me proof. Not fear."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1394,7 +1493,7 @@
 &nbsp;
 
 
-**Video 121 · 12:44–12:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 121)
+**Video 121 · 13:38–13:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 121)
 
 - **Script segment:** "Odile and Bram exchange an uneasy glance. Outside, Bram steps into the wind and stares toward the cliffs."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1408,7 +1507,7 @@
 ### Dusk — Odile follows
 
 
-**Video 122 · 12:50–12:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 122)
+**Video 122 · 13:44–13:50 · 6s · Suspense and atmosphere** (start frame: Image Beat 122)
 
 - **Script segment:** "Odile peers over a stone wall. Far ahead, Maren walks toward the cliffs with a basket. Odile slips out and follows."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1419,7 +1518,7 @@
 &nbsp;
 
 
-**Video 123 · 12:56–13:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 123)
+**Video 123 · 13:50–13:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 123)
 
 - **Script segment:** "Maren hurries down the narrow cliff path. Odile creeps after her, keeping low."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1430,7 +1529,7 @@
 &nbsp;
 
 
-**Video 124 · 13:02–13:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 124)
+**Video 124 · 13:56–14:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 124)
 
 - **Script segment:** "ODILE: Where are you going, Maren?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1441,7 +1540,7 @@
 &nbsp;
 
 
-**Video 125 · 13:08–13:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 125)
+**Video 125 · 14:02–14:08 · 6s · Suspense and atmosphere** (start frame: Image Beat 125)
 
 - **Script segment:** "Thick fog rolls up from the sea over the path. Odile stops, lost in white. The fog thins: the path below is empty."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1452,7 +1551,7 @@
 &nbsp;
 
 
-**Video 126 · 13:14–13:20 · 6s · Final cliffhanger** (start frame: Image Beat 126)
+**Video 126 · 14:08–14:14 · 6s · Final cliffhanger** (start frame: Image Beat 126)
 
 - **Script segment:** "Odile freezes. She leans over the edge, listening. Her face drains of color; she backs away from the edge."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1466,7 +1565,7 @@
 ### Maren's cottage
 
 
-**Video 127 · 13:20–13:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 127)
+**Video 127 · 14:14–14:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 127)
 
 - **Script segment:** "Odile knocks on the weathered door. She pushes it open and steps into the dim room."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1477,7 +1576,7 @@
 &nbsp;
 
 
-**Video 128 · 13:26–13:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 128)
+**Video 128 · 14:20–14:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 128)
 
 - **Script segment:** "ODILE: Maren? Are you home?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1488,7 +1587,7 @@
 &nbsp;
 
 
-**Video 129 · 13:32–13:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 129)
+**Video 129 · 14:26–14:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 129)
 
 - **Script segment:** "The camera passes the cold grey hearth. It finds the untouched straw bed; a silhouette appears in the doorway behind Odile."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1499,7 +1598,7 @@
 &nbsp;
 
 
-**Video 130 · 13:38–13:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 130)
+**Video 130 · 14:32–14:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 130)
 
 - **Script segment:** "ODILE: Your fire is cold. You're thinner every day. Where do you sleep?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1510,7 +1609,7 @@
 &nbsp;
 
 
-**Video 131 · 13:44–13:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 131)
+**Video 131 · 14:38–14:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 131)
 
 - **Script segment:** "MAREN: Wherever my grief puts me, Odile."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1521,7 +1620,7 @@
 &nbsp;
 
 
-**Video 132 · 13:50–13:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 132)
+**Video 132 · 14:44–14:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 132)
 
 - **Script segment:** "ODILE: Grief doesn't smell of fish and smoke."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1532,7 +1631,7 @@
 &nbsp;
 
 
-**Video 133 · 13:56–14:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 133)
+**Video 133 · 14:50–14:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 133)
 
 - **Script segment:** "Close on silver fish scales stuck to Maren's sleeve."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1546,7 +1645,7 @@
 ### Kelvhaven — the whispers spread
 
 
-**Video 134 · 14:02–14:08 · 6s · Suspense and atmosphere** (start frame: Image Beat 134)
+**Video 134 · 14:56–15:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 134)
 
 - **Script segment:** "Villagers gather in small groups along the lane. Odile whispers to two women, gesturing toward the cliffs. Heads turn toward Maren's cottage."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1557,7 +1656,7 @@
 &nbsp;
 
 
-**Video 135 · 14:08–14:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 135)
+**Video 135 · 15:02–15:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 135)
 
 - **Script segment:** "JORY: A sea witch? Here?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1568,7 +1667,7 @@
 &nbsp;
 
 
-**Video 136 · 14:14–14:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 136)
+**Video 136 · 15:08–15:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 136)
 
 - **Script segment:** "Maren walks down the lane with her basket. A mother pulls her child inside and slams the door."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1579,7 +1678,7 @@
 &nbsp;
 
 
-**Video 137 · 14:20–14:26 · 6s · Suspense and atmosphere** (start frame: Image Beat 137)
+**Video 137 · 15:14–15:20 · 6s · Suspense and atmosphere** (start frame: Image Beat 137)
 
 - **Script segment:** "Close on Maren's face as she walks. Behind her, blurred figures stop and stare. She grips her basket tighter and walks faster."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1593,7 +1692,7 @@
 ### The cove, night — first fire
 
 
-**Video 138 · 14:26–14:32 · 6s · Shocking reveal** (start frame: Image Beat 138)
+**Video 138 · 15:20–15:26 · 6s · Shocking reveal** (start frame: Image Beat 138)
 
 - **Script segment:** "Fog drifts over the still, moonlit cove. Pony-sized Tal rises from the water, his throat glowing fiery orange. He breathes out and a sheet of yellow-orange flame rolls across the waves."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1604,7 +1703,7 @@
 &nbsp;
 
 
-**Video 139 · 14:32–14:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 139)
+**Video 139 · 15:26–15:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 139)
 
 - **Script segment:** "MAREN: Tal. You made fire. On the water. She laughs, then freezes."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1615,7 +1714,7 @@
 &nbsp;
 
 
-**Video 140 · 14:38–14:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 140)
+**Video 140 · 15:32–15:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 140)
 
 - **Script segment:** "The camera whips up to a single lantern moving along the cliff top."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1626,7 +1725,7 @@
 &nbsp;
 
 
-**Video 141 · 14:44–14:50 · 6s · Final cliffhanger** (start frame: Image Beat 141)
+**Video 141 · 15:38–15:44 · 6s · Final cliffhanger** (start frame: Image Beat 141)
 
 - **Script segment:** "MAREN: Down. Under. Hold your breath!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1637,7 +1736,7 @@
 &nbsp;
 
 
-**Video 142 · 14:50–14:56 · 6s · Final cliffhanger** (start frame: Image Beat 142)
+**Video 142 · 15:44–15:50 · 6s · Final cliffhanger** (start frame: Image Beat 142)
 
 - **Script segment:** "Tal sinks silently beneath the surface. The last bubbles rise and the black water goes still."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1651,7 +1750,7 @@
 ### Cliff path, night
 
 
-**Video 143 · 14:56–15:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 143)
+**Video 143 · 15:50–15:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 143)
 
 - **Script segment:** "Fog rolls along the cliff path. Bram holds his lantern out over the edge."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1662,7 +1761,7 @@
 &nbsp;
 
 
-**Video 144 · 15:02–15:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 144)
+**Video 144 · 15:56–16:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 144)
 
 - **Script segment:** "BRAM: Who's down there?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1673,7 +1772,7 @@
 &nbsp;
 
 
-**Video 145 · 15:08–15:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 145)
+**Video 145 · 16:02–16:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 145)
 
 - **Script segment:** "The lantern beam sweeps the rocks below. It lands on Maren, who raises a fishing net."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1684,7 +1783,7 @@
 &nbsp;
 
 
-**Video 146 · 15:14–15:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 146)
+**Video 146 · 16:08–16:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 146)
 
 - **Script segment:** "MAREN: Only me. Mending."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1695,7 +1794,7 @@
 &nbsp;
 
 
-**Video 147 · 15:20–15:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 147)
+**Video 147 · 16:14–16:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 147)
 
 - **Script segment:** "BRAM: In the dark?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1706,7 +1805,7 @@
 &nbsp;
 
 
-**Video 148 · 15:26–15:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 148)
+**Video 148 · 16:20–16:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 148)
 
 - **Script segment:** "Maren climbs the path toward him. MAREN: Grief doesn't keep hours, Bram."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1717,7 +1816,7 @@
 &nbsp;
 
 
-**Video 149 · 15:32–15:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 149)
+**Video 149 · 16:26–16:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 149)
 
 - **Script segment:** "Bram leans in close. BRAM: I saw a light on the water. Fire."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1728,7 +1827,7 @@
 &nbsp;
 
 
-**Video 150 · 15:38–15:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 150)
+**Video 150 · 16:32–16:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 150)
 
 - **Script segment:** "Close on his eyes, a remembered blue glint in them."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1739,7 +1838,7 @@
 &nbsp;
 
 
-**Video 151 · 15:44–15:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 151)
+**Video 151 · 16:38–16:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 151)
 
 - **Script segment:** "They stand face to face on the path."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1750,7 +1849,7 @@
 &nbsp;
 
 
-**Video 152 · 15:50–15:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 152)
+**Video 152 · 16:44–16:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 152)
 
 - **Script segment:** "MAREN: Then you've been drinking. Go home. Bram's jaw tightens."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1761,7 +1860,7 @@
 &nbsp;
 
 
-**Video 153 · 15:56–16:02 · 6s · Final cliffhanger** (start frame: Image Beat 153)
+**Video 153 · 16:50–16:56 · 6s · Final cliffhanger** (start frame: Image Beat 153)
 
 - **Script segment:** "BRAM: I know what I saw."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1772,7 +1871,7 @@
 &nbsp;
 
 
-**Video 154 · 16:02–16:08 · 6s · Final cliffhanger** (start frame: Image Beat 154)
+**Video 154 · 16:56–17:02 · 6s · Final cliffhanger** (start frame: Image Beat 154)
 
 - **Script segment:** "He walks away, his lantern swinging into the fog. Maren looks down at the cove, where a faint blue glow pulses beneath the black water."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1786,7 +1885,7 @@
 ### Sea cave — the last calm night
 
 
-**Video 155 · 16:08–16:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 155)
+**Video 155 · 17:02–17:08 · 6s · Suspense and atmosphere** (start frame: Image Beat 155)
 
 - **Script segment:** "Candlelight flickers on the wet rock. Maren sits with her back against Tal's warm side. She stares toward the cave mouth, wide awake."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1797,7 +1896,7 @@
 &nbsp;
 
 
-**Video 156 · 16:14–16:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 156)
+**Video 156 · 17:08–17:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 156)
 
 - **Script segment:** "Maren turns to Tal."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1808,7 +1907,7 @@
 &nbsp;
 
 
-**Video 157 · 16:20–16:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 157)
+**Video 157 · 17:14–17:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 157)
 
 - **Script segment:** "MAREN: We have to be careful now, Tal. More careful than ever."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1819,7 +1918,7 @@
 &nbsp;
 
 
-**Video 158 · 16:26–16:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 158)
+**Video 158 · 17:20–17:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 158)
 
 - **Script segment:** "Tal tilts his head to the left, not understanding."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1830,7 +1929,7 @@
 &nbsp;
 
 
-**Video 159 · 16:32–16:38 · 6s · Final cliffhanger** (start frame: Image Beat 159)
+**Video 159 · 17:26–17:32 · 6s · Final cliffhanger** (start frame: Image Beat 159)
 
 - **Script segment:** "Tal hums three soft notes. Maren closes her eyes and leans her head against his neck. The candle burns down as they sleep."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1849,7 +1948,7 @@
 ### Harbor, dawn — the wreck
 
 
-**Video 160 · 16:38–16:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 160)
+**Video 160 · 17:32–17:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 160)
 
 - **Script segment:** "Grey dawn over the harbor reveals a boat smashed on the rocks. Close on splintered planks and shredded nets. Villagers gather around the wreck."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1860,7 +1959,7 @@
 &nbsp;
 
 
-**Video 161 · 16:44–16:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 161)
+**Video 161 · 17:38–17:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 161)
 
 - **Script segment:** "BRAM: Look at it! Teeth through the hull!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1871,7 +1970,7 @@
 &nbsp;
 
 
-**Video 162 · 16:50–16:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 162)
+**Video 162 · 17:44–17:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 162)
 
 - **Script segment:** "JORY: The storm did that."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1882,7 +1981,7 @@
 &nbsp;
 
 
-**Video 163 · 16:56–17:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 163)
+**Video 163 · 17:50–17:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 163)
 
 - **Script segment:** "BRAM: Storms don't eat the catch!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1893,7 +1992,7 @@
 &nbsp;
 
 
-**Video 164 · 17:02–17:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 164)
+**Video 164 · 17:56–18:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 164)
 
 - **Script segment:** "ODILE: Maren goes to the cliffs every night."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1904,7 +2003,7 @@
 &nbsp;
 
 
-**Video 165 · 17:08–17:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 165)
+**Video 165 · 18:02–18:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 165)
 
 - **Script segment:** "BRAM: The widow is feeding something. Something from the sea."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1915,7 +2014,7 @@
 &nbsp;
 
 
-**Video 166 · 17:14–17:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 166)
+**Video 166 · 18:08–18:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 166)
 
 - **Script segment:** "Fearful faces in the crowd."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1926,7 +2025,7 @@
 &nbsp;
 
 
-**Video 167 · 17:20–17:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 167)
+**Video 167 · 18:14–18:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 167)
 
 - **Script segment:** "Hesk raises his hand and the crowd falls silent."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1937,7 +2036,7 @@
 &nbsp;
 
 
-**Video 168 · 17:26–17:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 168)
+**Video 168 · 18:20–18:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 168)
 
 - **Script segment:** "HESK: Enough. We go together. At low tide. He leads the crowd off toward the cliffs."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1951,7 +2050,7 @@
 ### Bram's shed — the harpoons
 
 
-**Video 169 · 17:32–17:38 · 6s · Suspense and atmosphere** (start frame: Image Beat 169)
+**Video 169 · 18:26–18:32 · 6s · Suspense and atmosphere** (start frame: Image Beat 169)
 
 - **Script segment:** "The whetstone scrapes along a harpoon point. Bram works with slow, heavy strokes. A young fisherman stands in the corner holding coils of rope."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1962,7 +2061,7 @@
 &nbsp;
 
 
-**Video 170 · 17:38–17:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 170)
+**Video 170 · 18:32–18:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 170)
 
 - **Script segment:** "JORY: W-what if it's big?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1973,7 +2072,7 @@
 &nbsp;
 
 
-**Video 171 · 17:44–17:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 171)
+**Video 171 · 18:38–18:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 171)
 
 - **Script segment:** "Bram doesn't look up. BRAM: Then we bring more rope."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1984,7 +2083,7 @@
 &nbsp;
 
 
-**Video 172 · 17:50–17:56 · 6s · Final cliffhanger** (start frame: Image Beat 172)
+**Video 172 · 18:44–18:50 · 6s · Final cliffhanger** (start frame: Image Beat 172)
 
 - **Script segment:** "Close on the harpoon point pressed to his thumb. A bead of blood wells up."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1995,13 +2094,13 @@
 &nbsp;
 
 
-**Video 173 · 17:56–18:02 · 6s · Final cliffhanger** (start frame: Image Beat 173)
+**Video 173 · 18:50–18:56 · 6s · Final cliffhanger** (start frame: Image Beat 173)
 
 - **Script segment:** "BRAM: Nobody hides things from this village. Nobody."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L6 Bram's fishing shed
 - **Attach (location + character sheets):** L6 · Bram
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 173). 0–6s — SPEAKER: Bram, the bearded man in the shaggy fur coat. Bram looks up toward the harbor, eyes hard. Bram says: "Nobody hides things from this village. Nobody." (Bram's own voice (man, about 40): a very deep, rough, gravelly American voice, loud, hard and sneering, with short clipped words). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Bram drums his thick fingers on whatever is near. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single clay oil lamp and grey daylight through one small window, hard shadows. Mood: threatening. Sound: the scrape of a whetstone, rope creaking, gulls outside. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 173). START STATE, already true in the image: Bram holds the harpoon, a bead of blood on his thumb; these objects stay exactly where they are unless the action moves them. 0–6s — SPEAKER: Bram, the bearded man in the shaggy fur coat. Bram looks up toward the harbor, eyes hard. Bram says: "Nobody hides things from this village. Nobody." (Bram's own voice (man, about 40): a very deep, rough, gravelly American voice, loud, hard and sneering, with short clipped words). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Bram drums his thick fingers on whatever is near. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays a single clay oil lamp and grey daylight through one small window, hard shadows. Mood: threatening. Sound: the scrape of a whetstone, rope creaking, gulls outside. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
@@ -2009,57 +2108,68 @@
 ### Maren's cottage — the search
 
 
-**Video 174 · 18:02–18:08 · 6s · Shocking reveal** (start frame: Image Beat 174)
+**Video 174 — Image A — Boot at the door · 18:56–19:02 · 6s · Shocking reveal** (start frame: Image Beat 174)
 
-- **Script segment:** "A boot slams into the weathered door. The door bursts open. Villagers push into the dim cottage."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Villagers
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 174). 0–2s — A boot slams into the weathered door. NO DIALOGUE. 2–4s — The door bursts open. NO DIALOGUE. 4–6s — Villagers push into the dim cottage. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Jory, a young fisherman, fidgets and tugs at his grey cap. CROWD: the villagers hold their position unless the action says they move, and wait for their leader; each makes small, individual movements at different moments, never all together (one glances down, one looks up, one turns to look behind him, one shifts his weight, one tightens his grip, one leans to whisper to his neighbour); lights are held at uneven heights; they keep their eyes on whoever is speaking; mouths stay closed while anyone speaks. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays dim grey daylight through a small window and doorway, dust in the air. Mood: violent. Sound: wind outside, a creaking door, silence. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Door: still closed, splintering
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 174). START STATE, already true in the image: the door is being kicked; Door: still closed, splintering. Continue forward from this exact state. 0–6s: the door bursts open and villagers in muted wool push into the dim cottage. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays dim grey daylight through a small window and doorway, dust in the air. Mood: violent. Sound: wind outside, a creaking door, silence. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 175 · 18:08–18:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 175)
+**Video 175 · 19:02–19:08 · 6s · Suspense and atmosphere** (start frame: Image Beat 175)
 
 - **Script segment:** "Hands rip the straw bed apart. Nets and baskets are thrown across the floor. Dust and straw hang in the air."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Villagers
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 175). 0–2s — Hands rip the straw bed apart. NO DIALOGUE. 2–4s — Nets and baskets are thrown across the floor. NO DIALOGUE. 4–6s — Dust and straw hang in the air. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Jory, a young fisherman, fidgets and tugs at his grey cap. CROWD: the villagers hold their position unless the action says they move, and wait for their leader; each makes small, individual movements at different moments, never all together (one glances down, one looks up, one turns to look behind him, one shifts his weight, one tightens his grip, one leans to whisper to his neighbour); lights are held at uneven heights; they keep their eyes on whoever is speaking; mouths stay closed while anyone speaks. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays dim grey daylight through a small window and doorway, dust in the air. Mood: violating, tense. Sound: wind outside, a creaking door, silence. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 175). START STATE, already true in the image: the cottage door hangs broken open behind the villagers; these objects stay exactly where they are unless the action moves them. 0–2s — Hands rip the straw bed apart. NO DIALOGUE. 2–4s — Nets and baskets are thrown across the floor. NO DIALOGUE. 4–6s — Dust and straw hang in the air. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Jory, a young fisherman, fidgets and tugs at his grey cap. CROWD: the villagers hold their position unless the action says they move, and wait for their leader; each makes small, individual movements at different moments, never all together (one glances down, one looks up, one turns to look behind him, one shifts his weight, one tightens his grip, one leans to whisper to his neighbour); lights are held at uneven heights; they keep their eyes on whoever is speaking; mouths stay closed while anyone speaks. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays dim grey daylight through a small window and doorway, dust in the air. Mood: violating, tense. Sound: wind outside, a creaking door, silence. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 176 · 18:14–18:20 · 6s · Shocking reveal** (start frame: Image Beat 176)
+**Video 176 — Image A — Hand under the bed · 19:08–19:14 · 6s · Shocking reveal** (start frame: Image Beat 176)
 
-- **Script segment:** "A hand reaches under the bed. It pulls out something that catches the light. Close on a blush-pink scale bigger than a man's hand."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Villagers
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 176). 0–2s — A hand reaches under the bed. NO DIALOGUE. 2–4s — It pulls out something that catches the light. NO DIALOGUE. 4–6s — Close on a blush-pink scale bigger than a man's hand. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Jory, a young fisherman, fidgets and tugs at his grey cap. CROWD: the villagers hold their position unless the action says they move, and wait for their leader; each makes small, individual movements at different moments, never all together (one glances down, one looks up, one turns to look behind him, one shifts his weight, one tightens his grip, one leans to whisper to his neighbour); lights are held at uneven heights; they keep their eyes on whoever is speaking; mouths stay closed while anyone speaks. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays dim grey daylight through a small window and doorway, dust in the air. Mood: shock. Sound: wind outside, a creaking door, silence. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Hand: empty, reaching under the bed
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 176). START STATE, already true in the image: a hand reaches under the bed; Hand: empty, reaching under the bed. Continue forward from this exact state. 0–6s: the hand gropes in the dark and pulls out something that catches the light. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays dim grey daylight through a small window and doorway, dust in the air. Mood: shock. Sound: wind outside, a creaking door, silence. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 177 · 18:20–18:26 · 6s · Final cliffhanger** (start frame: Image Beat 177)
+**Video 176b — Image B — The scale in his hand · 19:14–19:20 · 6s · Shocking reveal** (start frame: Image Beat 176b)
 
-- **Script segment:** "Hesk takes the scale and turns it in the grey light. HESK: So. It's true."
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** L7 Maren's cottage
+- **Attach (location + character sheets):** L7 · Villagers
+- **Visual state requirements:** Dragon scale: in the villager's hand, held up
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 176b). START STATE, already true in the image: he holds up the scale; Dragon scale: in the villager's hand, held up. Continue forward from this exact state. 0–6s: he turns the scale slowly; it gleams pink and pearly in the light. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays dim grey daylight through a small window and doorway, dust in the air. Mood: shock. Sound: wind outside, a creaking door, silence. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
+
+&nbsp;
+
+
+**Video 177 — Image A — Scale in Hesk's hand · 19:20–19:26 · 6s · Final cliffhanger** (start frame: Image Beat 177)
+
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Hesk
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 177). 0–2s — Hesk takes the scale and turns it in the grey light. NO DIALOGUE. 2–6s — SPEAKER: Hesk, the white-bearded elder with the staff. Hesk says: "So. It's true." (Hesk's own voice (old man, about 70): a slow, thin, raspy old American voice, calm, formal and cold, with long pauses between words). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Hesk closes his eyes instead of looking at anyone. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays dim grey daylight through a small window and doorway, dust in the air. Mood: dread. Sound: wind outside, a creaking door, silence. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Dragon scale: in Hesk's hand
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 177). START STATE, already true in the image: Hesk holds it; Dragon scale: in Hesk's hand. Continue forward from this exact state. 0–6s: he turns the scale in the light, then speaks. DIALOGUE during the action: SPEAKER: Hesk, the white-bearded elder with the staff. Hesk says: "So. It's true." (Hesk's own voice (old man, about 70): a slow, thin, raspy old American voice, calm, formal and cold, with long pauses between words). SILENT: everyone else, mouths closed. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays dim grey daylight through a small window and doorway, dust in the air. Mood: dread. Sound: wind outside, a creaking door, silence. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 178 · 18:26–18:32 · 6s · Final cliffhanger** (start frame: Image Beat 178)
+**Video 178 · 19:26–19:32 · 6s · Final cliffhanger** (start frame: Image Beat 178)
 
 - **Script segment:** "His hand closes around it; fear crosses his face."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Hesk
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 178). 0–6s — His hand closes around it; fear crosses his face. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Hesk closes his eyes instead of looking at anyone. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays dim grey daylight through a small window and doorway, dust in the air. Mood: dread. Sound: wind outside, a creaking door, silence. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 178). START STATE, already true in the image: Hesk holds the blush-pink dragon scale in his hand; these objects stay exactly where they are unless the action moves them. 0–6s — His hand closes around it; fear crosses his face. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Hesk closes his eyes instead of looking at anyone. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays dim grey daylight through a small window and doorway, dust in the air. Mood: dread. Sound: wind outside, a creaking door, silence. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
@@ -2067,7 +2177,7 @@
 ### Sea cave — the warning
 
 
-**Video 179 · 18:32–18:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 179)
+**Video 179 · 19:32–19:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 179)
 
 - **Script segment:** "Maren runs into the cave, breathless. Tal lifts his head."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2078,7 +2188,7 @@
 &nbsp;
 
 
-**Video 180 · 18:38–18:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 180)
+**Video 180 · 19:38–19:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 180)
 
 - **Script segment:** "MAREN: Tal, they're coming. You have to go. Out to sea."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2089,7 +2199,7 @@
 &nbsp;
 
 
-**Video 181 · 18:44–18:50 · 6s · Suspense and atmosphere** (start frame: Image Beat 181)
+**Video 181 · 19:44–19:50 · 6s · Suspense and atmosphere** (start frame: Image Beat 181)
 
 - **Script segment:** "Tal refuses to move. He plants his feet on the stone and lowers his head, refusing to move. He presses his head against her chest."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2100,7 +2210,7 @@
 &nbsp;
 
 
-**Video 182 · 18:50–18:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 182)
+**Video 182 · 19:50–19:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 182)
 
 - **Script segment:** "MAREN: Please. Stay low. Stay quiet. Go!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2111,7 +2221,7 @@
 &nbsp;
 
 
-**Video 183 · 18:56–19:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 183)
+**Video 183 · 19:56–20:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 183)
 
 - **Script segment:** "She pushes his snout toward the water. Close on Tal's sad eye."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2125,7 +2235,7 @@
 ### Cave mouth — the mob
 
 
-**Video 184 · 19:02–19:08 · 6s · Major climax** (start frame: Image Beat 184)
+**Video 184 · 20:02–20:08 · 6s · Major climax** (start frame: Image Beat 184)
 
 - **Script segment:** "A line of torches at a sea cave mouth at low tide, villagers pushing in, a horse-sized sea dragon rising behind a woman."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2136,7 +2246,7 @@
 &nbsp;
 
 
-**Video 185 · 19:08–19:14 · 6s · Major climax** (start frame: Image Beat 185)
+**Video 185 · 20:08–20:14 · 6s · Major climax** (start frame: Image Beat 185)
 
 - **Script segment:** "A line of torches at a sea cave mouth at low tide, villagers pushing in, a horse-sized sea dragon rising behind a woman."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2147,7 +2257,7 @@
 &nbsp;
 
 
-**Video 186 · 19:14–19:20 · 6s · Major climax** (start frame: Image Beat 186)
+**Video 186 · 20:14–20:20 · 6s · Major climax** (start frame: Image Beat 186)
 
 - **Script segment:** "A line of torches at a sea cave mouth at low tide, villagers pushing in, a horse-sized sea dragon rising behind a woman."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2158,7 +2268,7 @@
 &nbsp;
 
 
-**Video 187 · 19:20–19:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 187)
+**Video 187 · 20:20–20:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 187)
 
 - **Script segment:** "ODILE: Mother of mercy."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2169,7 +2279,7 @@
 &nbsp;
 
 
-**Video 188 · 19:26–19:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 188)
+**Video 188 · 20:26–20:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 188)
 
 - **Script segment:** "BRAM: Witch! She gave birth to a sea devil!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2180,7 +2290,7 @@
 &nbsp;
 
 
-**Video 189 · 19:32–19:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 189)
+**Video 189 · 20:32–20:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 189)
 
 - **Script segment:** "MAREN: He's a child! He has never hurt anyone!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2191,7 +2301,7 @@
 &nbsp;
 
 
-**Video 190 · 19:38–19:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 190)
+**Video 190 · 20:38–20:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 190)
 
 - **Script segment:** "BRAM: My boat says otherwise!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2202,7 +2312,7 @@
 &nbsp;
 
 
-**Video 191 · 19:44–19:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 191)
+**Video 191 · 20:44–20:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 191)
 
 - **Script segment:** "Tal growls and a fiery orange glow swells in his throat."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2213,7 +2323,7 @@
 &nbsp;
 
 
-**Video 192 · 19:50–19:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 192)
+**Video 192 · 20:50–20:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 192)
 
 - **Script segment:** "JORY: Look at its eyes. It's going to burn us all!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2224,7 +2334,7 @@
 &nbsp;
 
 
-**Video 193 · 19:56–20:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 193)
+**Video 193 · 20:56–21:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 193)
 
 - **Script segment:** "MAREN: No, Tal. Not them. Never them."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2235,7 +2345,7 @@
 &nbsp;
 
 
-**Video 194 · 20:02–20:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 194)
+**Video 194 · 21:02–21:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 194)
 
 - **Script segment:** "Men hurl weighted nets and ropes over him. Tal thrashes under the nets."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2246,7 +2356,7 @@
 &nbsp;
 
 
-**Video 195 · 20:08–20:14 · 6s · Major climax** (start frame: Image Beat 195)
+**Video 195 · 21:08–21:14 · 6s · Major climax** (start frame: Image Beat 195)
 
 - **Script segment:** "MAREN: Let him go!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2257,7 +2367,7 @@
 &nbsp;
 
 
-**Video 196 · 20:14–20:20 · 6s · Major climax** (start frame: Image Beat 196)
+**Video 196 · 21:14–21:20 · 6s · Major climax** (start frame: Image Beat 196)
 
 - **Script segment:** "BRAM: Hold her!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2268,7 +2378,7 @@
 &nbsp;
 
 
-**Video 197 · 20:20–20:26 · 6s · Major climax** (start frame: Image Beat 197)
+**Video 197 · 21:20–21:26 · 6s · Major climax** (start frame: Image Beat 197)
 
 - **Script segment:** "MAREN: Tal, swim! Don't look back! Swim!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2279,7 +2389,7 @@
 &nbsp;
 
 
-**Video 198 · 20:26–20:32 · 6s · Major climax** (start frame: Image Beat 198)
+**Video 198 · 21:26–21:32 · 6s · Major climax** (start frame: Image Beat 198)
 
 - **Script segment:** "Tal tears through the nets and dives into the sea in a burst of spray."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2290,7 +2400,7 @@
 &nbsp;
 
 
-**Video 199 · 20:32–20:38 · 6s · Final cliffhanger** (start frame: Image Beat 199)
+**Video 199 · 21:32–21:38 · 6s · Final cliffhanger** (start frame: Image Beat 199)
 
 - **Script segment:** "The water settles; Tal is gone."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2301,7 +2411,7 @@
 &nbsp;
 
 
-**Video 200 · 20:38–20:44 · 6s · Final cliffhanger** (start frame: Image Beat 200)
+**Video 200 · 21:38–21:44 · 6s · Final cliffhanger** (start frame: Image Beat 200)
 
 - **Script segment:** "MAREN: He'll hear me. Wherever he is, he'll hear me."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2312,7 +2422,7 @@
 &nbsp;
 
 
-**Video 201 · 20:44–20:50 · 6s · Final cliffhanger** (start frame: Image Beat 201)
+**Video 201 · 21:44–21:50 · 6s · Final cliffhanger** (start frame: Image Beat 201)
 
 - **Script segment:** "BRAM: Let him come. We'll have harpoons waiting."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2326,7 +2436,7 @@
 ### Beneath the waves — Tal waits
 
 
-**Video 202 · 20:50–20:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 202)
+**Video 202 · 21:50–21:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 202)
 
 - **Script segment:** "A vast shape circles slowly in the dark water. Tal's glowing veins pulse dimly. He turns back toward the shore again and again."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2337,7 +2447,7 @@
 &nbsp;
 
 
-**Video 203 · 20:56–21:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 203)
+**Video 203 · 21:56–22:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 203)
 
 - **Script segment:** "Tal lifts his head and lets out a long whale-song call. Shoals of fish scatter from the kelp. The call fades into the dark."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2348,7 +2458,7 @@
 &nbsp;
 
 
-**Video 204 · 21:02–21:08 · 6s · Final cliffhanger** (start frame: Image Beat 204)
+**Video 204 · 22:02–22:08 · 6s · Final cliffhanger** (start frame: Image Beat 204)
 
 - **Script segment:** "Tal sinks to the sea floor. He curls his tail around a rock. His glowing eye stays open, fixed on the surface."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2362,7 +2472,7 @@
 ### Village square — the judgment
 
 
-**Video 205 · 21:08–21:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 205)
+**Video 205 · 22:08–22:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 205)
 
 - **Script segment:** "The whole village gathers in the square. Maren kneels alone on the stones. Close on her rope-bound wrists."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2373,7 +2483,7 @@
 &nbsp;
 
 
-**Video 206 · 21:14–21:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 206)
+**Video 206 · 22:14–22:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 206)
 
 - **Script segment:** "HESK: Maren. Did you give birth to that creature?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2384,7 +2494,7 @@
 &nbsp;
 
 
-**Video 207 · 21:20–21:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 207)
+**Video 207 · 22:20–22:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 207)
 
 - **Script segment:** "Maren lifts her head."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2395,7 +2505,7 @@
 &nbsp;
 
 
-**Video 208 · 21:26–21:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 208)
+**Video 208 · 22:26–22:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 208)
 
 - **Script segment:** "MAREN: I gave birth to my son."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2406,7 +2516,7 @@
 &nbsp;
 
 
-**Video 209 · 21:32–21:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 209)
+**Video 209 · 22:32–22:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 209)
 
 - **Script segment:** "Bram pushes forward."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2417,7 +2527,7 @@
 &nbsp;
 
 
-**Video 210 · 21:38–21:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 210)
+**Video 210 · 22:38–22:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 210)
 
 - **Script segment:** "BRAM: She admits it! The crowd murmurs and stirs."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2428,7 +2538,7 @@
 &nbsp;
 
 
-**Video 211 · 21:44–21:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 211)
+**Video 211 · 22:44–22:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 211)
 
 - **Script segment:** "Hesk raises his staff."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2439,7 +2549,7 @@
 &nbsp;
 
 
-**Video 212 · 21:50–21:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 212)
+**Video 212 · 22:50–22:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 212)
 
 - **Script segment:** "HESK: The law is old. Let the sea judge her."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2450,7 +2560,7 @@
 &nbsp;
 
 
-**Video 213 · 21:56–22:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 213)
+**Video 213 · 22:56–23:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 213)
 
 - **Script segment:** "A cold gust sweeps the square."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2461,7 +2571,7 @@
 &nbsp;
 
 
-**Video 214 · 22:02–22:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 214)
+**Video 214 · 23:02–23:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 214)
 
 - **Script segment:** "Odile steps forward."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2472,7 +2582,7 @@
 &nbsp;
 
 
-**Video 215 · 22:08–22:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 215)
+**Video 215 · 23:08–23:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 215)
 
 - **Script segment:** "ODILE: Hesk, she's one of us."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2483,7 +2593,7 @@
 &nbsp;
 
 
-**Video 216 · 22:14–22:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 216)
+**Video 216 · 23:14–23:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 216)
 
 - **Script segment:** "HESK: She was."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2494,7 +2604,7 @@
 &nbsp;
 
 
-**Video 217 · 22:20–22:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 217)
+**Video 217 · 23:20–23:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 217)
 
 - **Script segment:** "Maren looks up at Hesk. MAREN: Hesk, you held my hand at Talen's burial."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2505,7 +2615,7 @@
 &nbsp;
 
 
-**Video 218 · 22:26–22:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 218)
+**Video 218 · 23:26–23:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 218)
 
 - **Script segment:** "MAREN: You told me I was not alone. Close on her tearful eyes."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2516,7 +2626,7 @@
 &nbsp;
 
 
-**Video 219 · 22:32–22:38 · 6s · Final cliffhanger** (start frame: Image Beat 219)
+**Video 219 · 23:32–23:38 · 6s · Final cliffhanger** (start frame: Image Beat 219)
 
 - **Script segment:** "HESK: And you lied to all of us."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2527,7 +2637,7 @@
 &nbsp;
 
 
-**Video 220 · 22:38–22:44 · 6s · Final cliffhanger** (start frame: Image Beat 220)
+**Video 220 · 23:38–23:44 · 6s · Final cliffhanger** (start frame: Image Beat 220)
 
 - **Script segment:** "HESK: The sea will decide what you are. He turns his back."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2538,7 +2648,7 @@
 &nbsp;
 
 
-**Video 221 · 22:44–22:50 · 6s · Final cliffhanger** (start frame: Image Beat 221)
+**Video 221 · 23:44–23:50 · 6s · Final cliffhanger** (start frame: Image Beat 221)
 
 - **Script segment:** "Men lift Maren to her feet and lead her toward the cliffs."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2552,7 +2662,7 @@
 ### Cliff path — the procession
 
 
-**Video 222 · 22:50–22:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 222)
+**Video 222 · 23:50–23:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 222)
 
 - **Script segment:** "A long procession of villagers walking a bound woman up a windswept cliff path."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2563,7 +2673,7 @@
 &nbsp;
 
 
-**Video 223 · 22:56–23:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 223)
+**Video 223 · 23:56–24:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 223)
 
 - **Script segment:** "A long procession of villagers walking a bound woman up a windswept cliff path."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2574,7 +2684,7 @@
 &nbsp;
 
 
-**Video 224 · 23:02–23:08 · 6s · Suspense and atmosphere** (start frame: Image Beat 224)
+**Video 224 · 24:02–24:08 · 6s · Suspense and atmosphere** (start frame: Image Beat 224)
 
 - **Script segment:** "A long procession of villagers walking a bound woman up a windswept cliff path."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2585,7 +2695,7 @@
 &nbsp;
 
 
-**Video 225 · 23:08–23:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 225)
+**Video 225 · 24:08–24:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 225)
 
 - **Script segment:** "Close on Maren humming quietly as she walks. Villagers behind her glance at each other uneasily. The wind carries the three notes out over the sea."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2596,7 +2706,7 @@
 &nbsp;
 
 
-**Video 226 · 23:14–23:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 226)
+**Video 226 · 24:14–24:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 226)
 
 - **Script segment:** "Odile goes pale and grabs a young fisherman's sleeve."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2607,7 +2717,7 @@
 &nbsp;
 
 
-**Video 227 · 23:20–23:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 227)
+**Video 227 · 24:20–24:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 227)
 
 - **Script segment:** "ODILE: That song. I heard that song in the fog."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2618,7 +2728,7 @@
 &nbsp;
 
 
-**Video 228 · 23:26–23:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 228)
+**Video 228 · 24:26–24:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 228)
 
 - **Script segment:** "He pulls away, frightened, and the procession keeps walking."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2629,13 +2739,13 @@
 &nbsp;
 
 
-**Video 229 · 23:32–23:38 · 6s · Suspense and atmosphere** (start frame: Image Beat 229)
+**Video 229 — Image A — Hand on the grooves · 24:32–24:38 · 6s · Suspense and atmosphere** (start frame: Image Beat 229)
 
-- **Script segment:** "Hesk reaches the ancient stone at the cliff top. He lays his hand on the rope grooves. His hand trembles; then he grips his staff and turns away."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Hesk
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 229). 0–2s — Hesk reaches the ancient stone at the cliff top. NO DIALOGUE. 2–4s — He lays his hand on the rope grooves. NO DIALOGUE. 4–6s — His hand trembles; then he grips his staff and turns away. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Hesk strokes his long white beard slowly. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: conflicted. Sound: a roaring gale, the sea crashing far below. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Hesk's left hand: on the stone; Staff: in Hesk's right hand
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 229). START STATE, already true in the image: his hand rests on the grooves; Hesk's left hand: on the stone; Staff: in Hesk's right hand. Continue forward from this exact state. 0–3s: his hand trembles on the stone. 3–6s: he takes his hand away, grips his staff with both hands and turns away. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: conflicted. Sound: a roaring gale, the sea crashing far below. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
@@ -2643,7 +2753,7 @@
 ### Cliff edge — the fall
 
 
-**Video 230 · 23:38–23:44 · 6s · Suspense and atmosphere** (start frame: Image Beat 230)
+**Video 230 · 24:38–24:44 · 6s · Suspense and atmosphere** (start frame: Image Beat 230)
 
 - **Script segment:** "A still wide view over the high cliff. The crowd stands at the edge, torches guttering. Maren stands at the front, hair whipping in the wind."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2654,68 +2764,79 @@
 &nbsp;
 
 
-**Video 231 · 23:44–23:50 · 6s · Suspense and atmosphere** (start frame: Image Beat 231)
+**Video 231 — Image A — Rope in their hands · 24:44–24:50 · 6s · Suspense and atmosphere** (start frame: Image Beat 231)
 
-- **Script segment:** "Hands knot rope around her ankles. The rope is tied to a heavy stone. Odile turns away, weeping."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
-- **Attach (location + character sheets):** L10 · Maren (winter sheet), Bram
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 231). 0–2s — Hands knot rope around her ankles. NO DIALOGUE. 2–4s — The rope is tied to a heavy stone. NO DIALOGUE. 4–6s — Odile turns away, weeping. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren touches the bone net-mending needle at her belt for comfort; Bram cracks his knuckles. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: cruel. Sound: a roaring gale, the sea crashing far below. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Attach (location + character sheets):** L10 · Maren (winter sheet), Bram, Villagers
+- **Visual state requirements:** Rope: coiled in their hands, not yet tied; Heavy stone: on the ground beside her feet
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 231). START STATE, already true in the image: they kneel at her feet with the rope; Rope: coiled in their hands, not yet tied; Heavy stone: on the ground beside her feet. Continue forward from this exact state. 0–6s: their hands knot the rope tightly around her ankles. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: cruel. Sound: a roaring gale, the sea crashing far below. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 232 · 23:50–23:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 232)
+**Video 231b — Image B — Tied to the stone · 24:50–24:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 231b)
+
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** L10 The cliff edge and the drowning stone
+- **Attach (location + character sheets):** L10 · Maren (winter sheet), Odile, Villagers
+- **Visual state requirements:** Rope: knotted around Maren's ankles and tied to the stone; Heavy stone: tied, at her feet
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 231b). START STATE, already true in the image: she is bound to the stone; Rope: knotted around Maren's ankles and tied to the stone; Heavy stone: tied, at her feet. Continue forward from this exact state. 0–6s: Odile turns away weeping; Maren stays still, looking out over the edge. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: cruel. Sound: a roaring gale, the sea crashing far below. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
+
+&nbsp;
+
+
+**Video 232 · 24:56–25:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 232)
 
 - **Script segment:** "Maren looks out over the edge. The churning sea far below. Her face is calm, almost serene."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 232). 0–2s — Maren looks out over the edge. NO DIALOGUE. 2–4s — The churning sea far below. NO DIALOGUE. 4–6s — Her face is calm, almost serene. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren lifts her chin when she is defiant. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: serene. Sound: a roaring gale, the sea crashing far below. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 232). START STATE, already true in the image: rope is knotted around Maren's ankles and tied to a heavy stone at her feet; these objects stay exactly where they are unless the action moves them. 0–2s — Maren looks out over the edge. NO DIALOGUE. 2–4s — The churning sea far below. NO DIALOGUE. 4–6s — Her face is calm, almost serene. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren lifts her chin when she is defiant. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: serene. Sound: a roaring gale, the sea crashing far below. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 233 · 23:56–24:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 233)
+**Video 233 · 25:02–25:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 233)
 
 - **Script segment:** "Maren closes her eyes."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet), Hesk
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 233). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — Maren closes her eyes. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the white-bearded elder with the staff on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Hesk closes his eyes instead of looking at anyone. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: serene. Sound: a roaring gale, the sea crashing far below. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 233). START STATE, already true in the image: rope is knotted around Maren's ankles and tied to a heavy stone at her feet; these objects stay exactly where they are unless the action moves them. 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — Maren closes her eyes. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the white-bearded elder with the staff on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Hesk closes his eyes instead of looking at anyone. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: serene. Sound: a roaring gale, the sea crashing far below. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 234 · 24:02–24:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 234)
+**Video 234 · 25:08–25:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 234)
 
 - **Script segment:** "MAREN: The sea keeps what it loves. Hesk stands unmoved behind her."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet), Hesk
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 234). 0–3.5s — SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Face three-quarters to the camera, eyes on the white-bearded elder with the staff to the right. Maren says: "The sea keeps what it loves." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 3.5–6s — Hesk stands unmoved behind her. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the white-bearded elder with the staff on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Hesk closes his eyes instead of looking at anyone. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: serene. Sound: a roaring gale, the sea crashing far below. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 234). START STATE, already true in the image: rope is knotted around Maren's ankles and tied to a heavy stone at her feet; these objects stay exactly where they are unless the action moves them. 0–3.5s — SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Face three-quarters to the camera, eyes on the white-bearded elder with the staff to the right. Maren says: "The sea keeps what it loves." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. 3.5–6s — Hesk stands unmoved behind her. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The dark-haired woman in the black hooded cloak stay on the left of the frame and the white-bearded elder with the staff on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren hums three soft notes of an old sea lullaby under her breath; Hesk closes his eyes instead of looking at anyone. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: serene. Sound: a roaring gale, the sea crashing far below. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 235 · 24:08–24:14 · 6s · Shocking reveal** (start frame: Image Beat 235)
+**Video 235 · 25:14–25:20 · 6s · Shocking reveal** (start frame: Image Beat 235)
 
 - **Script segment:** "Bram steps up behind her. He shoves her. Maren tips backward over the edge."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Bram, Maren (winter sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 235). 0–2s — Bram steps up behind her. NO DIALOGUE. 2–4s — He shoves her. NO DIALOGUE. 4–6s — Maren tips backward over the edge. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Bram drums his thick fingers on whatever is near; Maren twists the thin braid on the left side of her hair between her fingers. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: brutal. Sound: a roaring gale, the sea crashing far below. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 235). START STATE, already true in the image: rope is knotted around Maren's ankles and tied to a heavy stone at her feet; these objects stay exactly where they are unless the action moves them. 0–2s — Bram steps up behind her. NO DIALOGUE. 2–4s — He shoves her. NO DIALOGUE. 4–6s — Maren tips backward over the edge. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Bram drums his thick fingers on whatever is near; Maren twists the thin braid on the left side of her hair between her fingers. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: brutal. Sound: a roaring gale, the sea crashing far below. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 236 · 24:14–24:20 · 6s · Major climax** (start frame: Image Beat 236)
+**Video 236 · 25:20–25:26 · 6s · Major climax** (start frame: Image Beat 236)
 
 - **Script segment:** "In slow motion she falls down the cliff face, black cloak streaming. She hits the sea in a white splash. Underwater, the stone drags her down into deep blue."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 236). 0–2s — In slow motion she falls down the cliff face, black cloak streaming. NO DIALOGUE. 2–4s — She hits the sea in a white splash. NO DIALOGUE. 4–6s — Underwater, the stone drags her down into deep blue. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: one slow, smooth pan following the movement across the wide frame, no zoom; otherwise steady. Signature habits: Maren touches the bone net-mending needle at her belt for comfort. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: tragic. Sound: a roaring gale, the sea crashing far below. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 236). START STATE, already true in the image: rope is knotted around Maren's ankles and tied to a heavy stone, which falls with her; these objects stay exactly where they are unless the action moves them. 0–2s — In slow motion she falls down the cliff face, black cloak streaming. NO DIALOGUE. 2–4s — She hits the sea in a white splash. NO DIALOGUE. 4–6s — Underwater, the stone drags her down into deep blue. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: one slow, smooth pan following the movement across the wide frame, no zoom; otherwise steady. Signature habits: Maren touches the bone net-mending needle at her belt for comfort. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: tragic. Sound: a roaring gale, the sea crashing far below. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
@@ -2728,7 +2849,7 @@
 ### Underwater — the rescue
 
 
-**Video 237 · 24:20–24:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 237)
+**Video 237 · 25:26–25:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 237)
 
 - **Script segment:** "Maren sinks, hair floating. Bubbles escape her lips. The surface light fades far above."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2739,7 +2860,7 @@
 &nbsp;
 
 
-**Video 238 · 24:26–24:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 238)
+**Video 238 · 25:32–25:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 238)
 
 - **Script segment:** "Maren's eyes close underwater. Dissolve to a glowing memory of newborn Tal by the rock pool. ."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2750,7 +2871,7 @@
 &nbsp;
 
 
-**Video 239 · 24:32–24:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 239)
+**Video 239 · 25:38–25:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 239)
 
 - **Script segment:** "Dissolve to the memory of Maren at the hidden basket. . Dissolve back to Maren sinking, peaceful."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2761,7 +2882,7 @@
 &nbsp;
 
 
-**Video 240 · 24:38–24:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 240)
+**Video 240 · 25:44–25:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 240)
 
 - **Script segment:** "Dissolve to Tal tearing free of the nets. . Back underwater, Maren's last bubble rises."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2772,7 +2893,7 @@
 &nbsp;
 
 
-**Video 241 · 24:44–24:50 · 6s · Shocking reveal** (start frame: Image Beat 241)
+**Video 241 · 25:50–25:56 · 6s · Shocking reveal** (start frame: Image Beat 241)
 
 - **Script segment:** "A vast shadow moves in the dark. Electric-violet veins light up along its body. A luminous violet eye approaches Maren."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2783,13 +2904,24 @@
 &nbsp;
 
 
-**Video 242 · 24:50–24:56 · 6s · Major climax** (start frame: Image Beat 242)
+**Video 242 — Image A — Jaws on the rope · 25:56–26:02 · 6s · Major climax** (start frame: Image Beat 242)
 
-- **Script segment:** "Tal bites through the rope. He lifts Maren onto his snout. He surges upward and breaches the surface in an explosion of water."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** Tal (adult sheet), Maren (winter sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 242). 0–2s — Tal bites through the rope. NO DIALOGUE. 2–4s — He lifts Maren onto his snout. NO DIALOGUE. 4–6s — He surges upward and breaches the surface in an explosion of water. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Tal lowers his head beside Maren and huffs a warm breath; Maren hums three soft notes of an old sea lullaby under her breath. Early winter: the water is cold and dark. Lighting stays darkness pierced by soft violet glow. Mood: triumphant. Sound: muffled deep underwater rumble, a slow heartbeat, bubbles; Tal's deep, resonant whale-song roar with a bell-like ring. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Rope: tied to her ankles and the stone, in Tal's jaws; Stone: below, pulling down
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 242). START STATE, already true in the image: his jaws are on the rope; Rope: tied to her ankles and the stone, in Tal's jaws; Stone: below, pulling down. Continue forward from this exact state. 0–6s: he bites through the rope; the stone sinks away into the dark. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter: the water is cold and dark. Lighting stays darkness pierced by soft violet glow. Mood: triumphant. Sound: muffled deep underwater rumble, a slow heartbeat, bubbles; Tal's deep, resonant whale-song roar with a bell-like ring. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
+
+&nbsp;
+
+
+**Video 242b — Image B — On his snout · 26:02–26:08 · 6s · Major climax** (start frame: Image Beat 242b)
+
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** none (open sea or underwater)
+- **Attach (location + character sheets):** Tal (adult sheet), Maren (winter sheet)
+- **Visual state requirements:** Rope: cut, trailing from her ankles; Maren: across Tal's snout
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 242b). START STATE, already true in the image: she lies on his snout; Rope: cut, trailing from her ankles; Maren: across Tal's snout. Continue forward from this exact state. 0–6s: he surges upward with her toward the light and breaches the surface in an explosion of water. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter: the water is cold and dark. Lighting stays darkness pierced by soft violet glow. Mood: triumphant. Sound: muffled deep underwater rumble, a slow heartbeat, bubbles; Tal's deep, resonant whale-song roar with a bell-like ring. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
@@ -2797,29 +2929,29 @@
 ### Hidden beach, night
 
 
-**Video 243 · 24:56–25:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 243)
+**Video 243 · 26:08–26:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 243)
 
 - **Script segment:** "Moonlit surf slides up the black sand. Maren lies motionless beside the dragon. She coughs up seawater and gasps, alive."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 243). 0–2s — Moonlit surf slides up the black sand. NO DIALOGUE. 2–4s — Maren lies motionless beside the dragon. NO DIALOGUE. 4–6s — She coughs up seawater and gasps, alive. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Tal makes his violet veins pulse brighter with emotion. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays soft cold moonlight, silver highlights on wet sand. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: survival. Sound: soft surf on sand, a large creature breathing slowly; Tal's deep, resonant whale-song roar with a bell-like ring. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 243). START STATE, already true in the image: a cut rope end is still knotted around Maren's ankles; these objects stay exactly where they are unless the action moves them. 0–2s — Moonlit surf slides up the black sand. NO DIALOGUE. 2–4s — Maren lies motionless beside the dragon. NO DIALOGUE. 4–6s — She coughs up seawater and gasps, alive. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Maren twists the thin braid on the left side of her hair between her fingers; Tal makes his violet veins pulse brighter with emotion. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays soft cold moonlight, silver highlights on wet sand. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: survival. Sound: soft surf on sand, a large creature breathing slowly; Tal's deep, resonant whale-song roar with a bell-like ring. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 244 · 25:02–25:08 · 6s · Suspense and atmosphere** (start frame: Image Beat 244)
+**Video 244 · 26:14–26:20 · 6s · Suspense and atmosphere** (start frame: Image Beat 244)
 
 - **Script segment:** "Tal lowers his large head beside her. His luminous eye watches her. She turns her head to him."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Tal (adult sheet), Maren (winter sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 244). 0–2s — Tal lowers his large head beside her. NO DIALOGUE. 2–4s — His luminous eye watches her. NO DIALOGUE. 4–6s — She turns her head to him. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on a low flat rock, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Tal tilts his large head to the left, just like when he was small; Maren touches the bone net-mending needle at her belt for comfort. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays soft cold moonlight, silver highlights on wet sand. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Sound: soft surf on sand, a large creature breathing slowly; Tal's deep, resonant whale-song roar with a bell-like ring. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 244). START STATE, already true in the image: a cut rope end is still knotted around Maren's ankles; these objects stay exactly where they are unless the action moves them. 0–2s — Tal lowers his large head beside her. NO DIALOGUE. 2–4s — His luminous eye watches her. NO DIALOGUE. 4–6s — She turns her head to him. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. POSTURE: Maren sits on a low flat rock, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Signature habits: Tal tilts his large head to the left, just like when he was small; Maren touches the bone net-mending needle at her belt for comfort. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays soft cold moonlight, silver highlights on wet sand. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Sound: soft surf on sand, a large creature breathing slowly; Tal's deep, resonant whale-song roar with a bell-like ring. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 245 · 25:08–25:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 245)
+**Video 245 · 26:20–26:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 245)
 
 - **Script segment:** "She reaches up to his snout."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2830,7 +2962,7 @@
 &nbsp;
 
 
-**Video 246 · 25:14–25:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 246)
+**Video 246 · 26:26–26:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 246)
 
 - **Script segment:** "MAREN: Tal. You came. You heard me. Tears run down her face."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2841,7 +2973,7 @@
 &nbsp;
 
 
-**Video 247 · 25:20–25:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 247)
+**Video 247 · 26:32–26:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 247)
 
 - **Script segment:** "Maren pressing her forehead to Tal's snout on the moonlit beach."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2852,7 +2984,7 @@
 &nbsp;
 
 
-**Video 248 · 25:26–25:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 248)
+**Video 248 · 26:38–26:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 248)
 
 - **Script segment:** "MAREN: I told you to go. You never listen. Just like him."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2863,7 +2995,7 @@
 &nbsp;
 
 
-**Video 249 · 25:32–25:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 249)
+**Video 249 · 26:44–26:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 249)
 
 - **Script segment:** "She presses her forehead to his snout. She rises, looks at the distant village lights and climbs onto his lowered neck."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2877,7 +3009,7 @@
 ### Hidden beach — the wounds
 
 
-**Video 250 · 25:38–25:44 · 6s · Shocking reveal** (start frame: Image Beat 250)
+**Video 250 · 26:50–26:56 · 6s · Shocking reveal** (start frame: Image Beat 250)
 
 - **Script segment:** "Maren's hand moves along Tal's neck. She finds raw rope burns cut deep into his scales. Her face hardens."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2888,7 +3020,7 @@
 &nbsp;
 
 
-**Video 251 · 25:44–25:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 251)
+**Video 251 · 26:56–27:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 251)
 
 - **Script segment:** "Maren looks into his large eye."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2899,7 +3031,7 @@
 &nbsp;
 
 
-**Video 252 · 25:50–25:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 252)
+**Video 252 · 27:02–27:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 252)
 
 - **Script segment:** "MAREN: They hurt you. And you still didn't burn them."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2910,7 +3042,7 @@
 &nbsp;
 
 
-**Video 253 · 25:56–26:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 253)
+**Video 253 · 27:08–27:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 253)
 
 - **Script segment:** "Tal tilts his large head to the left, just like when he was small."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2921,7 +3053,7 @@
 &nbsp;
 
 
-**Video 254 · 26:02–26:08 · 6s · Suspense and atmosphere** (start frame: Image Beat 254)
+**Video 254 · 27:14–27:20 · 6s · Suspense and atmosphere** (start frame: Image Beat 254)
 
 - **Script segment:** "Maren tears a strip from the hem of her dress. She presses wet seaweed into the wounds. She ties the cloth gently; Tal does not flinch."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2932,7 +3064,7 @@
 &nbsp;
 
 
-**Video 255 · 26:08–26:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 255)
+**Video 255 · 27:20–27:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 255)
 
 - **Script segment:** "MAREN: We're going back."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2943,7 +3075,7 @@
 &nbsp;
 
 
-**Video 256 · 26:14–26:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 256)
+**Video 256 · 27:26–27:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 256)
 
 - **Script segment:** "Tal pulls his head back. A low growl rumbles in his chest."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2954,7 +3086,7 @@
 &nbsp;
 
 
-**Video 257 · 26:20–26:26 · 6s · Final cliffhanger** (start frame: Image Beat 257)
+**Video 257 · 27:32–27:38 · 6s · Final cliffhanger** (start frame: Image Beat 257)
 
 - **Script segment:** "Maren lays her hand on his snout."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2965,7 +3097,7 @@
 &nbsp;
 
 
-**Video 258 · 26:26–26:32 · 6s · Final cliffhanger** (start frame: Image Beat 258)
+**Video 258 · 27:38–27:44 · 6s · Final cliffhanger** (start frame: Image Beat 258)
 
 - **Script segment:** "MAREN: Not for revenge. For the truth. They need to see what you are."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2976,7 +3108,7 @@
 &nbsp;
 
 
-**Video 259 · 26:32–26:38 · 6s · Final cliffhanger** (start frame: Image Beat 259)
+**Video 259 · 27:44–27:50 · 6s · Final cliffhanger** (start frame: Image Beat 259)
 
 - **Script segment:** "Tal slowly lowers his neck for her to climb on."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2990,7 +3122,7 @@
 ### Harbor — the night watch
 
 
-**Video 260 · 26:38–26:44 · 6s · Suspense and atmosphere** (start frame: Image Beat 260)
+**Video 260 · 27:50–27:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 260)
 
 - **Script segment:** "Torches line the jetty in the dark. Men stand with harpoons, watching the water. Bram paces behind them."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3001,7 +3133,7 @@
 &nbsp;
 
 
-**Video 261 · 26:44–26:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 261)
+**Video 261 · 27:56–28:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 261)
 
 - **Script segment:** "BRAM: If it comes, aim for the eyes."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3012,7 +3144,7 @@
 &nbsp;
 
 
-**Video 262 · 26:50–26:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 262)
+**Video 262 · 28:02–28:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 262)
 
 - **Script segment:** "The young fisherman swallows hard. JORY: And if it doesn't come?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3023,7 +3155,7 @@
 &nbsp;
 
 
-**Video 263 · 26:56–27:02 · 6s · Final cliffhanger** (start frame: Image Beat 263)
+**Video 263 · 28:08–28:14 · 6s · Final cliffhanger** (start frame: Image Beat 263)
 
 - **Script segment:** "Bram stares out at the dark harbor. A long ripple moves across the still water. It keeps coming, straight toward the jetty."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3037,7 +3169,7 @@
 ### Harbor, night — the return
 
 
-**Video 264 · 27:02–27:08 · 6s · Shocking reveal** (start frame: Image Beat 264)
+**Video 264 · 28:14–28:20 · 6s · Shocking reveal** (start frame: Image Beat 264)
 
 - **Script segment:** "Tal rises out of the harbor, water cascading off his scales. Maren sits on his neck. Bells clang and villagers scatter in panic."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3048,7 +3180,7 @@
 &nbsp;
 
 
-**Video 265 · 27:08–27:14 · 6s · Major climax** (start frame: Image Beat 265)
+**Video 265 · 28:20–28:26 · 6s · Major climax** (start frame: Image Beat 265)
 
 - **Script segment:** "BRAM: The devil came back!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3059,7 +3191,7 @@
 &nbsp;
 
 
-**Video 266 · 27:14–27:20 · 6s · Major climax** (start frame: Image Beat 266)
+**Video 266 · 28:26–28:32 · 6s · Major climax** (start frame: Image Beat 266)
 
 - **Script segment:** "Tal opens his jaws as yellow-orange fire builds in his glowing throat. MAREN: Tal! No!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3070,51 +3202,51 @@
 &nbsp;
 
 
-**Video 267 · 27:20–27:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 267)
+**Video 267 — Image A — Harpoon in his hands · 28:32–28:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 267)
 
-- **Script segment:** "Bram raises a harpoon."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Maren (winter sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 267). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — Bram raises a harpoon. NO DIALOGUE. RULES: no one speaks on screen in this beat. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The bearded man in the shaggy fur coat stay on the left of the frame and the dark-haired woman in the black hooded cloak on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Bram leans in uncomfortably close; Maren lifts her chin when she is defiant. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: reckless. Sound: bells clanging, screams, a dragon roar, rushing water. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Harpoon: in Bram's hands, at chest height
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 267). START STATE, already true in the image: he grips the harpoon; Harpoon: in Bram's hands, at chest height. Continue forward from this exact state. 0–6s: he raises the harpoon to his shoulder, ready to throw. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: reckless. Sound: bells clanging, screams, a dragon roar, rushing water. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 268 · 27:26–27:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 268)
+**Video 268 · 28:38–28:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 268)
 
 - **Script segment:** "BRAM: Burn, then! Show them what she made!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Maren (winter sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 268). 0–3.5s — SPEAKER: Bram, the bearded man in the shaggy fur coat. Face three-quarters to the camera, eyes on the dark-haired woman in the black hooded cloak to the right. He screams: "Burn, then! Show them what she made!" (Bram's own voice (man, about 40): a very deep, rough, gravelly American voice, loud, hard and sneering, with short clipped words). SILENT: everyone else, mouths closed. 3.5–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The bearded man in the shaggy fur coat stay on the left of the frame and the dark-haired woman in the black hooded cloak on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Bram leans in uncomfortably close; Maren lifts her chin when she is defiant. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: reckless. Sound: bells clanging, screams, a dragon roar, rushing water. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 268). START STATE, already true in the image: Bram holds the iron harpoon raised at his shoulder; these objects stay exactly where they are unless the action moves them. 0–3.5s — SPEAKER: Bram, the bearded man in the shaggy fur coat. Face three-quarters to the camera, eyes on the dark-haired woman in the black hooded cloak to the right. He screams: "Burn, then! Show them what she made!" (Bram's own voice (man, about 40): a very deep, rough, gravelly American voice, loud, hard and sneering, with short clipped words). SILENT: everyone else, mouths closed. 3.5–6s — A silent reaction: eyes stay on the speaker, a small breath or blink. NO DIALOGUE. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The bearded man in the shaggy fur coat stay on the left of the frame and the dark-haired woman in the black hooded cloak on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Bram leans in uncomfortably close; Maren lifts her chin when she is defiant. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: reckless. Sound: bells clanging, screams, a dragon roar, rushing water. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 269 · 27:32–27:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 269)
+**Video 269 · 28:44–28:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 269)
 
 - **Script segment:** "MAREN: Put it down, Bram. He'll kill you before you lift it."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Maren (winter sheet)
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 269). 0–1s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 1–6s — SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Face three-quarters to the camera, eyes on the bearded man in the shaggy fur coat to the left. Maren, coldly certain. Maren says: "Put it down, Bram. He'll kill you before you lift it." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The bearded man in the shaggy fur coat stay on the left of the frame and the dark-haired woman in the black hooded cloak on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Bram leans in uncomfortably close; Maren lifts her chin when she is defiant. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: reckless. Sound: bells clanging, screams, a dragon roar, rushing water. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 269). START STATE, already true in the image: Bram holds the iron harpoon raised at his shoulder; these objects stay exactly where they are unless the action moves them. 0–1s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 1–6s — SPEAKER: Maren, the dark-haired woman in the black hooded cloak. Face three-quarters to the camera, eyes on the bearded man in the shaggy fur coat to the left. Maren, coldly certain. Maren says: "Put it down, Bram. He'll kill you before you lift it." (Maren's own voice (woman, about 30): a soft, clear, gentle American voice, warm and smooth in the middle range, calm and tender, with crisp, clean diction). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The bearded man in the shaggy fur coat stay on the left of the frame and the dark-haired woman in the black hooded cloak on the right (180° rule); the two sides stay about 3 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Bram leans in uncomfortably close; Maren lifts her chin when she is defiant. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: reckless. Sound: bells clanging, screams, a dragon roar, rushing water. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 270 · 27:38–27:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 270)
+**Video 270 · 28:50–28:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 270)
 
 - **Script segment:** "BRAM: Then let him! Let them all see!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Maren (winter sheet), Tal (adult sheet), Villagers
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 270). 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — SPEAKER: Bram, the bearded man in the shaggy fur coat. Face three-quarters to the camera, eyes on the dark-haired woman in the black hooded cloak and the dragon to the right. Wild-eyed, Bram. Bram says: "Then let him! Let them all see!" (Bram's own voice (man, about 40): a very deep, rough, gravelly American voice, loud, hard and sneering, with short clipped words). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The bearded man in the shaggy fur coat and the villagers stay on the left of the frame and the dark-haired woman in the black hooded cloak and the dragon on the right (180° rule); the two sides stay about 20 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Bram folds his thick arms across his chest; Maren hums three soft notes of an old sea lullaby under her breath; Tal makes his violet veins pulse brighter with emotion; Jory, a young fisherman, fidgets and tugs at his grey cap. CROWD: the villagers hold their position unless the action says they move, and wait for their leader; each makes small, individual movements at different moments, never all together (one glances down, one looks up, one turns to look behind him, one shifts his weight, one tightens his grip, one leans to whisper to his neighbour); lights are held at uneven heights; they keep their eyes on whoever is speaking; mouths stay closed while anyone speaks. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: heroic. Sound: bells clanging, screams, a dragon roar, rushing water; Tal's deep, resonant whale-song roar with a bell-like ring. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 270). START STATE, already true in the image: Bram holds the iron harpoon raised at his shoulder; these objects stay exactly where they are unless the action moves them. 0–2s — Everyone holds their place, facing each other; a breath of tense silence. NO DIALOGUE. 2–6s — SPEAKER: Bram, the bearded man in the shaggy fur coat. Face three-quarters to the camera, eyes on the dark-haired woman in the black hooded cloak and the dragon to the right. Wild-eyed, Bram. Bram says: "Then let him! Let them all see!" (Bram's own voice (man, about 40): a very deep, rough, gravelly American voice, loud, hard and sneering, with short clipped words). SILENT: everyone else, mouths closed. RULES: only the named SPEAKER talks, one voice only. AUDIO: the voice is dry, clear and close to the microphone, with no echo and no reverb, even in the cave; each character always has the same unique voice described above, so viewers know who is speaking without looking. Everyone looks at whoever they are talking to; if a line refers to someone or something else, the speaker turns to look at it, then back. Faces stay visible: nobody turns their back to the camera and nobody looks into the lens. The bearded man in the shaggy fur coat and the villagers stay on the left of the frame and the dark-haired woman in the black hooded cloak and the dragon on the right (180° rule); the two sides stay about 20 meters apart unless the action says otherwise. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Bram folds his thick arms across his chest; Maren hums three soft notes of an old sea lullaby under her breath; Tal makes his violet veins pulse brighter with emotion; Jory, a young fisherman, fidgets and tugs at his grey cap. CROWD: the villagers hold their position unless the action says they move, and wait for their leader; each makes small, individual movements at different moments, never all together (one glances down, one looks up, one turns to look behind him, one shifts his weight, one tightens his grip, one leans to whisper to his neighbour); lights are held at uneven heights; they keep their eyes on whoever is speaking; mouths stay closed while anyone speaks. Early winter chill: a cold wind tugs at hair and cloaks, light drizzle, no snow and no ice; a faint breath vapor shows when anyone speaks. Lighting stays orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: heroic. Sound: bells clanging, screams, a dragon roar, rushing water; Tal's deep, resonant whale-song roar with a bell-like ring. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 271 · 27:44–27:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 271)
+**Video 271 · 28:56–29:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 271)
 
 - **Script segment:** "Maren slides down Tal's flank. She stands between the dragon and the village, arms spread."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3125,7 +3257,7 @@
 &nbsp;
 
 
-**Video 272 · 27:50–27:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 272)
+**Video 272 · 29:02–29:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 272)
 
 - **Script segment:** "Maren faces Tal."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3136,7 +3268,7 @@
 &nbsp;
 
 
-**Video 273 · 27:56–28:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 273)
+**Video 273 · 29:08–29:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 273)
 
 - **Script segment:** "MAREN: Not like them. We are not like them. Tal's fierce eye softens."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3147,7 +3279,7 @@
 &nbsp;
 
 
-**Video 274 · 28:02–28:08 · 6s · Major climax** (start frame: Image Beat 274)
+**Video 274 · 29:14–29:20 · 6s · Major climax** (start frame: Image Beat 274)
 
 - **Script segment:** "Tal turns his head and breathes a pillar of yellow-orange fire into the sky. The whole harbor glows soft violet. Bram's harpoon clatters onto the stones."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3161,7 +3293,7 @@
 ### Harbor — reconciliation
 
 
-**Video 275 · 28:08–28:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 275)
+**Video 275 · 29:20–29:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 275)
 
 - **Script segment:** "Villagers slowly come forward in the blue light. Odile steps out first."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3172,7 +3304,7 @@
 &nbsp;
 
 
-**Video 276 · 28:14–28:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 276)
+**Video 276 · 29:26–29:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 276)
 
 - **Script segment:** "ODILE: Maren. We were wrong."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3183,7 +3315,7 @@
 &nbsp;
 
 
-**Video 277 · 28:20–28:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 277)
+**Video 277 · 29:32–29:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 277)
 
 - **Script segment:** "Maren and Odile face to face, a young fisherman behind them."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3194,7 +3326,7 @@
 &nbsp;
 
 
-**Video 278 · 28:26–28:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 278)
+**Video 278 · 29:38–29:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 278)
 
 - **Script segment:** "JORY: It saved her. It pulled her out of the sea."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3205,7 +3337,7 @@
 &nbsp;
 
 
-**Video 279 · 28:32–28:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 279)
+**Video 279 · 29:44–29:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 279)
 
 - **Script segment:** "Maren looks at Odile."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3216,7 +3348,7 @@
 &nbsp;
 
 
-**Video 280 · 28:38–28:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 280)
+**Video 280 · 29:50–29:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 280)
 
 - **Script segment:** "MAREN: You were afraid. Fear isn't wrong. What you did with it was."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3227,7 +3359,7 @@
 &nbsp;
 
 
-**Video 281 · 28:44–28:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 281)
+**Video 281 · 29:56–30:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 281)
 
 - **Script segment:** "HESK: Will he destroy us?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3238,7 +3370,7 @@
 &nbsp;
 
 
-**Video 282 · 28:50–28:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 282)
+**Video 282 · 30:02–30:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 282)
 
 - **Script segment:** "MAREN: He could. He won't. I raised him better than that."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3249,7 +3381,7 @@
 &nbsp;
 
 
-**Video 283 · 28:56–29:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 283)
+**Video 283 · 30:08–30:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 283)
 
 - **Script segment:** "Tal lowers his head gently beside her."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3260,7 +3392,7 @@
 &nbsp;
 
 
-**Video 284 · 29:02–29:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 284)
+**Video 284 · 30:14–30:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 284)
 
 - **Script segment:** "Maren climbs onto Tal's back."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3271,7 +3403,7 @@
 &nbsp;
 
 
-**Video 285 · 29:08–29:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 285)
+**Video 285 · 30:20–30:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 285)
 
 - **Script segment:** "ODILE: Where will you go?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3282,7 +3414,7 @@
 &nbsp;
 
 
-**Video 286 · 29:14–29:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 286)
+**Video 286 · 30:26–30:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 286)
 
 - **Script segment:** "MAREN: Wherever the sea takes us."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3293,7 +3425,7 @@
 &nbsp;
 
 
-**Video 287 · 29:20–29:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 287)
+**Video 287 · 30:32–30:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 287)
 
 - **Script segment:** "Hesk steps forward."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3304,7 +3436,7 @@
 &nbsp;
 
 
-**Video 288 · 29:26–29:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 288)
+**Video 288 · 30:38–30:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 288)
 
 - **Script segment:** "HESK: Maren. If he is a child, then whose child is he?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3315,7 +3447,7 @@
 &nbsp;
 
 
-**Video 289 · 29:32–29:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 289)
+**Video 289 · 30:44–30:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 289)
 
 - **Script segment:** "He waits for her answer."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3326,7 +3458,7 @@
 &nbsp;
 
 
-**Video 290 · 29:38–29:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 290)
+**Video 290 · 30:50–30:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 290)
 
 - **Script segment:** "MAREN: Mine. That's all you ever needed to know."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3337,7 +3469,7 @@
 &nbsp;
 
 
-**Video 291 · 29:44–29:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 291)
+**Video 291 · 30:56–31:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 291)
 
 - **Script segment:** "Tal spreads his bat-like wings. He launches into the night sky as the villagers watch."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3351,7 +3483,7 @@
 ### Open ocean, dawn
 
 
-**Video 292 · 29:50–29:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 292)
+**Video 292 · 31:02–31:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 292)
 
 - **Script segment:** "Tal flies low over golden dawn waves."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3362,7 +3494,7 @@
 &nbsp;
 
 
-**Video 293 · 29:56–30:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 293)
+**Video 293 · 31:08–31:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 293)
 
 - **Script segment:** "MAREN: Hold on, Tal. His wingtip skims the water."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3373,7 +3505,7 @@
 &nbsp;
 
 
-**Video 294 · 30:02–30:08 · 6s · Suspense and atmosphere** (start frame: Image Beat 294)
+**Video 294 · 31:14–31:20 · 6s · Suspense and atmosphere** (start frame: Image Beat 294)
 
 - **Script segment:** "The dragon's wings beat slowly over the waves. Behind them, the grey coast shrinks to a thin line. Maren keeps her eyes on the open sea ahead."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3384,7 +3516,7 @@
 &nbsp;
 
 
-**Video 295 · 30:08–30:14 · 6s · Shocking reveal** (start frame: Image Beat 295)
+**Video 295 · 31:20–31:26 · 6s · Shocking reveal** (start frame: Image Beat 295)
 
 - **Script segment:** "A deep roar answers from the horizon. Another, and another, with plumes of spray. Huge dark shapes glide beneath the waves and a glowing violet eye opens below the surface."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3395,7 +3527,7 @@
 &nbsp;
 
 
-**Video 296 · 30:14–30:20 · 6s · Final cliffhanger** (start frame: Image Beat 296)
+**Video 296 · 31:26–31:32 · 6s · Final cliffhanger** (start frame: Image Beat 296)
 
 - **Script segment:** "MAREN: Tal. You're not the only one."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3406,7 +3538,7 @@
 &nbsp;
 
 
-**Video 297 · 30:20–30:26 · 6s · Final cliffhanger** (start frame: Image Beat 297)
+**Video 297 · 31:32–31:38 · 6s · Final cliffhanger** (start frame: Image Beat 297)
 
 - **Script segment:** "Tal turns his head toward the sound. They fly toward the horizon as other shapes rise around them."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3425,18 +3557,18 @@
 ### Epilogue — what Kelvhaven learned
 
 
-**Video 298 · 30:26–30:32 · 6s · Suspense and atmosphere** (start frame: Image Beat 298)
+**Video 298 — Image A — Herring in her hand · 31:38–31:44 · 6s · Suspense and atmosphere** (start frame: Image Beat 298)
 
-- **Script segment:** "Dawn mist drifts across the cave mouth. Odile kneels and sets a single herring in a wicker basket. She touches two fingers to her lips, then toward the sea."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Odile
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 298). 0–2s — Dawn mist drifts across the cave mouth. NO DIALOGUE. 2–4s — Odile kneels and sets a single herring in a wicker basket. NO DIALOGUE. 4–6s — She touches two fingers to her lips, then toward the sea. NO DIALOGUE. RULES: no one speaks on screen in this beat. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Signature habits: Odile wrings her apron in both hands. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, reverent. Sound: soft lapping water, distant gulls, dripping. Keep every face, costume and the dragon's design exactly as in the image; smooth, natural, physically real motion; no on-screen text.
+- **Visual state requirements:** Herring: in Odile's hand above the basket; Basket: empty
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, desaturated high-contrast grade, animate from the uploaded image (Beat 298). START STATE, already true in the image: she holds the fish over the basket; Herring: in Odile's hand above the basket; Basket: empty. Continue forward from this exact state. 0–3s: she lays the herring in the basket. 3–6s: she touches two fingers to her lips, then toward the sea. OBJECT CONTINUITY: every object stays exactly where the action puts it; nothing appears, disappears, duplicates, changes shape or goes back to an earlier position; do not restart the action. Nobody looks into the camera lens. Camera: completely static, locked off on a tripod; no zoom, no tilt, no camera movement; all motion comes from the characters, the wind, the water and the light. Early winter chill: a cold draft stirs hair and cloth; a faint breath vapor shows when anyone speaks. Lighting stays soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, reverent. Sound: soft lapping water, distant gulls, dripping. Keep every face, costume and the dragon's design exactly as in the image; physically real motion; no on-screen text.
 
 &nbsp;
 
 
-**Video 299 · 30:32–30:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 299)
+**Video 299 · 31:44–31:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 299)
 
 - **Script segment:** "Sunlight spreads over the green turf roofs. Pink sea-thrift sways on the cliff edge in a gentle breeze. Children run out between the cottages into the soft spring light."
 - **Season:** Spring, years later
@@ -3447,7 +3579,7 @@
 &nbsp;
 
 
-**Video 300 · 30:38–30:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 300)
+**Video 300 · 31:50–31:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 300)
 
 - **Script segment:** "Dawn light falls on the quiet village. Odile scrubs the moss from the old dragon carving until its shape shows again. The children below look up at it."
 - **Season:** Spring, years later
@@ -3458,7 +3590,7 @@
 &nbsp;
 
 
-**Video 301 · 30:44–30:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 301)
+**Video 301 · 31:56–32:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 301)
 
 - **Script segment:** "Children at the tidal pools puff their cheeks and dive in. A moss-green shawl flutters from a harbor post. Far out on the horizon, a great winged shape skims the waves and disappears."
 - **Season:** Spring, years later
@@ -3472,7 +3604,7 @@
 ### Title card
 
 
-**Video 302 · 30:50–30:56 · 6s · Final cliffhanger** (start frame: Image Beat 302)
+**Video 302 · 32:02–32:08 · 6s · Final cliffhanger** (start frame: Image Beat 302)
 
 - **Script segment:** "Black water and drifting particles. A huge luminous violet eye opens slowly and holds on the lens. Hard cut to black, ready for the FABLEON title card."
 - **Season:** None (end card)

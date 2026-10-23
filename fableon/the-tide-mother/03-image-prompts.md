@@ -1,6 +1,6 @@
 # The Tide Mother — Image Prompts for Grok Imagine (short clips, one image per clip)
 
-*302 beats, 30:56 total. Every beat is **exactly 6 seconds**, the length Grok makes (only the narrated prologue beats run 10–15 s) and starts from **its own image**, so faces, costumes and voices never drift. Conversations are shot the natural cinematic way: the characters face each other, turned three-quarters to the camera so every face is visible, with two-shots and close-ups. Nights are truly dark, lit only by four fixed medieval light sources. Visuals follow the original FABLEON Visual Style Profile.*
+*314 beats, 32:08 total. Every beat is **exactly 6 seconds**, the length Grok makes (only the narrated prologue beats run 10–15 s) and starts from **its own image**, so faces, costumes and voices never drift. Conversations are shot the natural cinematic way: the characters face each other, turned three-quarters to the camera so every face is visible, with two-shots and close-ups. Nights are truly dark, lit only by four fixed medieval light sources. Visuals follow the original FABLEON Visual Style Profile.*
 
 **How to use:** generate every beat's image with the character sheets and the location sheet attached as references. Never chain beats from the last frame of the previous video; always start each beat from its own image.
 
@@ -109,35 +109,44 @@
 &nbsp;
 
 
-**Beat 009 · 1:32–1:38 · 6s · Suspense and atmosphere**
+**Beat 009 — Image A — Grabbing the rope rail · 1:32–1:38 · 6s · Suspense and atmosphere**
 
-- **Script segment:** "Her bare foot slips on wet rock and she grabs the rope rail, gasping. She pushes on downward as sea spray soaks her cloak. She reaches the black mouth of a sea cave and stumbles inside out of the rain."
+- **Action sequence:** The descent to the cave (Beat 009, image A of 1)
+- **Script segment:** "No one walks this path in a storm. Unless they are running from something. She slips and stumbles down toward a sea cave as the waves smash the rocks below."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Maren (pregnant)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Medium shot, handheld, eye level: Maren edging down a wet rock path gripping a frayed rope rail, horn lantern in hand, waves breaking far below. The moment in this clip: Her bare foot slips on wet rock and she grabs the rope rail, gasping. Setting: black basalt sea cliffs above a raging northern sea at night, narrow wet rock path, crashing waves, horizontal rain and sea spray. Lighting: lightning flashes and a single horn lantern, deep black shadows, cold blue-grey rim light. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: desperate, isolated, dangerous. Characters: Maren, a heavily pregnant woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
+- **Visual state requirements:** Lantern: lit, held in Maren's left hand; Rope rail: gripped in Maren's right hand
+- **Continuity checklist:** previous state: Maren walking down the cliff path in the storm · current state: she has slipped and caught the rope rail · visible proof: her right hand closed on the rope, the lantern still lit in her left hand · next state: she pushes on to the cave
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: Maren on the narrow wet rock path, her sandaled right foot sliding on the slick rock, her right hand gripping the frayed rope rail, her left hand holding the lit horn lantern. VISIBLE STATE, must be clearly shown: Lantern: lit, held in Maren's left hand; Rope rail: gripped in Maren's right hand. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a heavily pregnant woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them. Setting: black basalt sea cliffs above a raging northern sea at night, narrow wet rock path, crashing waves, horizontal rain and sea spray. Lighting: lightning flashes and a single horn lantern, deep black shadows, cold blue-grey rim light. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: desperate, isolated, dangerous. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
 
 &nbsp;
 
 
-**Beat 010 · 1:38–1:44 · 6s · Dialogue and character emotion**
+**Beat 010 — Image A — Lantern still in hand · 1:38–1:44 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "MAREN: Not here. Not now. A contraction doubles her over, she drops the lantern."
+- **Action sequence:** Dropping the lantern (Beat 010, image A of 1)
+- **Script segment:** "MAREN: Not here. Not now. Her legs give way against the cold rock."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (pregnant)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Close-up, eye level, 85mm: Maren just inside the sea cave mouth, rain-streaked face lit by her horn lantern, gasping in pain. The moment in this clip: A contraction doubles her over, she drops the horn lantern. Close on Maren, who is speaking. Setting: inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, the storm-lashed sea framed in the cave mouth. Lighting: one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: desperate, isolated, dangerous. Characters: Maren, a heavily pregnant woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
+- **Visual state requirements:** Lantern: lit, held low in Maren's left hand
+- **Continuity checklist:** previous state: she reached the cave mouth · current state: she is inside, in pain, still holding the lantern · visible proof: the lantern still in her hand, her arm around her belly · next state: the lantern falls
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: Maren just inside the cave mouth, bent forward clutching her pregnant belly with her right arm, the lit horn lantern hanging low from her left hand, a few inches above the wet pebbles. VISIBLE STATE, must be clearly shown: Lantern: lit, held low in Maren's left hand. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a heavily pregnant woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them. Setting: inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, the storm-lashed sea framed in the cave mouth. Lighting: one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: desperate, isolated, dangerous. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
 
 &nbsp;
 
 
-**Beat 011 · 1:44–1:50 · 6s · Dialogue and character emotion**
+**Beat 011 — Image A — Lantern on the ground · 1:44–1:50 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "She slides down the barnacled wall onto the wet pebbles, the lantern flickering beside her."
+- **Action sequence:** Sliding down the wall (Beat 011, image A of 1)
+- **Script segment:** "MAREN: Not here. Not now. Her legs give way against the cold rock."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (pregnant)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Close-up, eye level, 85mm: Maren just inside the sea cave mouth, rain-streaked face lit by her horn lantern, gasping in pain. The moment in this clip: She slides down the barnacled wall onto the wet pebbles, the horn lantern flickering beside her. Setting: inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, the storm-lashed sea framed in the cave mouth. Lighting: one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: desperate, isolated, dangerous. Characters: Maren, a heavily pregnant woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
+- **Visual state requirements:** Lantern: standing on the pebbles beside her, lit; Maren's hands: empty, one on her belly, one against the wall
+- **Continuity checklist:** previous state: the lantern fell from her hand · current state: the lantern is on the ground; she is sinking down the wall · visible proof: the lantern on the pebbles, not in her hand · next state: she sits on the pebbles
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: Maren leaning her back against the barnacled cave wall, knees bending as she sinks down; the horn lantern stands upright on the wet pebbles beside her right foot, still burning. VISIBLE STATE, must be clearly shown: Lantern: standing on the pebbles beside her, lit; Maren's hands: empty, one on her belly, one against the wall. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a heavily pregnant woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them. Setting: inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, the storm-lashed sea framed in the cave mouth. Lighting: one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: desperate, isolated, dangerous. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
 
 &nbsp;
 
@@ -258,57 +267,88 @@
 ### Sea cave, the first embrace
 
 
-**Beat 022 · 2:50–2:56 · 6s · Suspense and atmosphere**
+**Beat 022 — Image A — Hand above the newborn · 2:50–2:56 · 6s · Suspense and atmosphere**
 
-- **Script segment:** "Her hand hesitates above the creature. Her fingertip touches its wet frilled crest and it leans into her touch. She unwinds her moss-green shawl, wraps the newborn in it and lifts it to her chest."
+- **Action sequence:** Touching and wrapping the newborn (Beat 022, image A of 3)
+- **Script segment:** "Every instinct tells her to run. She doesn't. She wraps it in her shawl."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Close-up: Maren's trembling hand hovering above newborn Tal on the wet stone. The moment in this clip: Her hand hesitates above the creature. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Setting: inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, the storm-lashed sea framed in the cave mouth. Lighting: one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, fragile. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
+- **Visual state requirements:** Moss-green shawl: on Maren's shoulders; Newborn Tal: curled on the stone, not yet touched
+- **Continuity checklist:** previous state: the newborn cried and curled up · current state: her hand hovers above it · visible proof: her open hand a few centimetres above the crest · next state: she touches it
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE SHOT, eye level: Maren kneeling on the wet stone, her right hand hovering just above the newborn sea dragon curled on the stone in front of her knees; her moss-green shawl still on her shoulders. VISIBLE STATE, must be clearly shown: Moss-green shawl: on Maren's shoulders; Newborn Tal: curled on the stone, not yet touched. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Setting: inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, the storm-lashed sea framed in the cave mouth. Lighting: one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, fragile. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
 
 &nbsp;
 
 
-**Beat 023 · 2:56–3:02 · 6s · Dialogue and character emotion**
+**Beat 022b — Image B — Shawl off, held open · 2:56–3:02 · 6s · Suspense and atmosphere**
+
+- **Action sequence:** Touching and wrapping the newborn (Beat 022, image B of 3)
+- **Script segment:** (continues Beat 022)
+- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
+- **Visual state requirements:** Moss-green shawl: off her shoulders, held open in both hands; Newborn Tal: on the stone below the shawl
+- **Continuity checklist:** previous state: she touched its crest · current state: she has taken off her shawl and holds it open · visible proof: the shawl in both her hands, no longer on her shoulders · next state: she wraps the newborn
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: Maren kneeling, her moss-green shawl now off her shoulders and held open in both hands above the newborn curled on the stone; her black dress bare at the shoulders. VISIBLE STATE, must be clearly shown: Moss-green shawl: off her shoulders, held open in both hands; Newborn Tal: on the stone below the shawl. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, no shawl on her shoulders right now (her moss-green shawl is wrapped around the newborn), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Setting: inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, the storm-lashed sea framed in the cave mouth. Lighting: one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, fragile. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
+
+&nbsp;
+
+
+**Beat 022c — Image C — Wrapped newborn lifted · 3:02–3:08 · 6s · Suspense and atmosphere**
+
+- **Action sequence:** Touching and wrapping the newborn (Beat 022, image C of 3)
+- **Script segment:** (continues Beat 022)
+- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
+- **Visual state requirements:** Moss-green shawl: wrapped around the newborn, not on Maren; Newborn Tal: in her arms against her chest
+- **Continuity checklist:** previous state: she wrapped the newborn · current state: she has lifted the bundle to her chest · visible proof: the green bundle in her arms against her chest · next state: she soothes it
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE SHOT, eye level: Maren kneeling, holding the newborn wrapped in her moss-green shawl in both arms against her chest, its eyes peeking out of the green wool. VISIBLE STATE, must be clearly shown: Moss-green shawl: wrapped around the newborn, not on Maren; Newborn Tal: in her arms against her chest. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, no shawl on her shoulders right now (her moss-green shawl is wrapped around the newborn), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Setting: inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, the storm-lashed sea framed in the cave mouth. Lighting: one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, fragile. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
+
+&nbsp;
+
+
+**Beat 023 · 3:08–3:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Shh. Shh. I've got you."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Setting: inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, the storm-lashed sea framed in the cave mouth. Lighting: one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, maternal. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, no shawl on her shoulders right now (her moss-green shawl is wrapped around the newborn), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. OBJECT STATE at the start of this shot, must be clearly visible: newborn Tal is wrapped in Maren's moss-green shawl and held in her arms; the shawl is around the baby, so Maren's shoulders are bare (black dress only). POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Setting: inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, the storm-lashed sea framed in the cave mouth. Lighting: one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, maternal. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
 
 &nbsp;
 
 
-**Beat 024 · 3:02–3:08 · 6s · Dialogue and character emotion**
+**Beat 024 · 3:14–3:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Newborn Tal's glassy eyes peek out of the green shawl and slowly calm. The camera pulls back to show her against the cave wall, the storm fading in the cave mouth."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Newborn Tal's glassy eyes peek out of the green shawl and slowly calm. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Setting: inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, the storm-lashed sea framed in the cave mouth. Lighting: one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, maternal. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, no shawl on her shoulders right now (her moss-green shawl is wrapped around the newborn), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Newborn Tal's glassy eyes peek out of the green shawl and slowly calm. OBJECT STATE at the start of this shot, must be clearly visible: newborn Tal is wrapped in Maren's moss-green shawl and held in her arms; the shawl is around the baby, so Maren's shoulders are bare (black dress only). POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Setting: inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, the storm-lashed sea framed in the cave mouth. Lighting: one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, maternal. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
 
 &nbsp;
 
 
-**Beat 025 · 3:08–3:14 · 6s · Dialogue and character emotion**
+**Beat 025 · 3:20–3:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: You're cold. So am I."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Setting: inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, the storm-lashed sea framed in the cave mouth. Lighting: one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: quiet, lonely. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, no shawl on her shoulders right now (her moss-green shawl is wrapped around the newborn), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. OBJECT STATE at the start of this shot, must be clearly visible: newborn Tal is wrapped in Maren's moss-green shawl and held in her arms; the shawl is around the baby, so Maren's shoulders are bare (black dress only). POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Setting: inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, the storm-lashed sea framed in the cave mouth. Lighting: one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: quiet, lonely. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
 
 &nbsp;
 
 
-**Beat 026 · 3:14–3:20 · 6s · Dialogue and character emotion**
+**Beat 026 · 3:26–3:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Their frosty breaths mingle in the cold air. The lantern flame gutters out and the cave fades into soft darkness."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Their frosty breaths mingle in the cold air. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Setting: inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, the storm-lashed sea framed in the cave mouth. Lighting: one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: quiet, lonely. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, no shawl on her shoulders right now (her moss-green shawl is wrapped around the newborn), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Their frosty breaths mingle in the cold air. OBJECT STATE at the start of this shot, must be clearly visible: newborn Tal is wrapped in Maren's moss-green shawl and held in her arms; the shawl is around the baby, so Maren's shoulders are bare (black dress only). POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Setting: inside a tidal sea cave of black basalt, wet barnacled walls, rock pools and pebbles, the storm-lashed sea framed in the cave mouth. Lighting: one horn lantern glow on the stones, deep chiaroscuro shadows, cold blue spill from the cave mouth. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: quiet, lonely. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
 
 &nbsp;
 
@@ -316,40 +356,74 @@
 ### Sea cave, dawn
 
 
-**Beat 027 · 3:20–3:26 · 6s · Suspense and atmosphere**
+**Beat 027 — Image A — Asleep with the bundle · 3:32–3:38 · 6s · Suspense and atmosphere**
 
-- **Script segment:** "Mist drifts and the dawn light slowly grows. The light reaches Maren asleep with the bundle in her arms. She wakes, weak and pale, and looks down at the bundle."
-- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
-- **Location sheet:** L12 The sea cave
-- **Attach (location + character sheets):** L12 · Maren (shawl sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Wide shot from deep inside the cave: grey dawn light pouring through the cave mouth over a calm sea, Maren asleep against the rock with the shawl bundle. The moment in this clip: Mist drifts and the dawn light slowly grows. Setting: inside a tidal sea cave of black basalt at dawn, rock pools, kelp, a calm grey sea framed in the cave mouth. Lighting: soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, secretive. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
-
-&nbsp;
-
-
-**Beat 028 · 3:26–3:32 · 6s · Suspense and atmosphere**
-
-- **Script segment:** "She lays the bundle gently into a wicker fish basket. She covers the basket with kelp and an old fishing net. She pushes the basket deep into a narrow rock niche."
+- **Action sequence:** Waking with the bundle (Beat 027, image A of 1)
+- **Script segment:** "Dawn comes grey and quiet, as if the storm never happened. As if nothing happened at all."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Medium shot: Maren laying the shawl bundle into a wicker fish basket among the rocks. The moment in this clip: She lays the bundle gently into a wicker fish basket. Setting: inside a tidal sea cave of black basalt at dawn, rock pools, kelp, a calm grey sea framed in the cave mouth. Lighting: soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, secretive. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
+- **Visual state requirements:** Moss-green shawl: wrapped around the newborn; Newborn Tal: in Maren's arms
+- **Continuity checklist:** previous state: the lantern went out in the night · current state: dawn; she sleeps holding the bundle · visible proof: the green bundle in her arms · next state: she wakes
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: Maren asleep sitting against the cave wall, the newborn wrapped in her moss-green shawl held in her arms; soft dawn light at the cave mouth. VISIBLE STATE, must be clearly shown: Moss-green shawl: wrapped around the newborn; Newborn Tal: in Maren's arms. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, no shawl on her shoulders right now (her moss-green shawl is wrapped around the newborn), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Setting: inside a tidal sea cave of black basalt at dawn, rock pools, kelp, a calm grey sea framed in the cave mouth. Lighting: soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, secretive. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 029 · 3:32–3:38 · 6s · Dialogue and character emotion**
+**Beat 028 — Image A — Bundle over the empty basket · 3:38–3:44 · 6s · Suspense and atmosphere**
+
+- **Action sequence:** Hiding the basket (Beat 028, image A of 3)
+- **Script segment:** "She hides the creature in a fish basket, deep in the cave where no one ever goes."
+- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
+- **Visual state requirements:** Bundle: in Maren's hands, above the basket; Wicker basket: empty, on the stones; Kelp and old net: in a pile beside the basket
+- **Continuity checklist:** previous state: she woke holding the bundle · current state: she holds the bundle over the empty basket · visible proof: the bundle in her hands, the basket empty below it · next state: she lays it in
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: Maren kneeling, holding the shawl-wrapped newborn in both hands over an empty wicker fish basket on the stones; a pile of kelp and an old fishing net beside the basket. VISIBLE STATE, must be clearly shown: Bundle: in Maren's hands, above the basket; Wicker basket: empty, on the stones; Kelp and old net: in a pile beside the basket. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, no shawl on her shoulders right now (her moss-green shawl is wrapped around the newborn), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Setting: inside a tidal sea cave of black basalt at dawn, rock pools, kelp, a calm grey sea framed in the cave mouth. Lighting: soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, secretive. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
+
+&nbsp;
+
+
+**Beat 028b — Image B — Covering the basket · 3:44–3:50 · 6s · Suspense and atmosphere**
+
+- **Action sequence:** Hiding the basket (Beat 028, image B of 3)
+- **Script segment:** (continues Beat 028)
+- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
+- **Visual state requirements:** Bundle: inside the basket; Old net and kelp: in Maren's hands above the basket
+- **Continuity checklist:** previous state: the bundle is in the basket · current state: she holds the net and kelp ready to cover it · visible proof: the bundle visible in the basket, the net in her hands · next state: she covers it
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: Maren kneeling beside the wicker basket with the green bundle inside it, holding the old fishing net and a handful of kelp in both hands above the basket. VISIBLE STATE, must be clearly shown: Bundle: inside the basket; Old net and kelp: in Maren's hands above the basket. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, no shawl on her shoulders right now (her moss-green shawl is wrapped around the newborn), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Setting: inside a tidal sea cave of black basalt at dawn, rock pools, kelp, a calm grey sea framed in the cave mouth. Lighting: soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, secretive. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
+
+&nbsp;
+
+
+**Beat 028c — Image C — Pushing into the niche · 3:50–3:56 · 6s · Suspense and atmosphere**
+
+- **Action sequence:** Hiding the basket (Beat 028, image C of 3)
+- **Script segment:** (continues Beat 028)
+- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (shawl sheet)
+- **Visual state requirements:** Basket: covered with kelp and net, half inside the rock niche; Maren's hands: on the basket, pushing
+- **Continuity checklist:** previous state: she covered the basket · current state: she is pushing it into the niche · visible proof: the covered basket half inside the dark niche · next state: it is hidden
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: Maren on her knees pushing the covered wicker basket into a narrow, dark rock niche at the base of the cave wall; the basket half inside the niche, kelp and net on top. VISIBLE STATE, must be clearly shown: Basket: covered with kelp and net, half inside the rock niche; Maren's hands: on the basket, pushing. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, no shawl on her shoulders right now (her moss-green shawl is wrapped around the newborn), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them. Setting: inside a tidal sea cave of black basalt at dawn, rock pools, kelp, a calm grey sea framed in the cave mouth. Lighting: soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, secretive. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
+
+&nbsp;
+
+
+**Beat 029 · 3:56–4:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren kneeling at the rock niche, whispering to the hidden basket."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Maren kneeling at the rock niche, whispering to the hidden basket. Setting: inside a tidal sea cave of black basalt at dawn, rock pools, kelp, a calm grey sea framed in the cave mouth. Lighting: soft flat grey dawn light through mist, gentle volumetric rays. Mood: protective. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Maren kneeling at the rock niche, whispering to the hidden basket. OBJECT STATE at the start of this shot, must be clearly visible: the wicker basket is hidden deep in the rock niche, covered with kelp and the old net; Maren's hands are empty. Setting: inside a tidal sea cave of black basalt at dawn, rock pools, kelp, a calm grey sea framed in the cave mouth. Lighting: soft flat grey dawn light through mist, gentle volumetric rays. Mood: protective. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 030 · 3:38–3:44 · 6s · Dialogue and character emotion**
+**Beat 030 · 4:02–4:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Stay low. Stay quiet. I'll come for you at dark."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -360,7 +434,7 @@
 &nbsp;
 
 
-**Beat 031 · 3:44–3:50 · 6s · Dialogue and character emotion**
+**Beat 031 · 4:08–4:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Through the wicker gaps, newborn Tal's dark-blue eye watches her. She walks toward the bright cave mouth, glancing back once."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -374,7 +448,7 @@
 ### Harbor village, morning
 
 
-**Beat 032 · 3:50–3:56 · 6s · Suspense and atmosphere**
+**Beat 032 · 4:14–4:20 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Chimney smoke drifts over turf roofs and boats bob in the harbor. Pale Maren walks down the lane with empty arms as villagers glance at her. Odile drops a basket of wet laundry and runs toward her."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -385,7 +459,7 @@
 &nbsp;
 
 
-**Beat 033 · 3:56–4:02 · 6s · Dialogue and character emotion**
+**Beat 033 · 4:20–4:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: Maren! Your belly. Where is the child?"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -396,7 +470,7 @@
 &nbsp;
 
 
-**Beat 034 · 4:02–4:08 · 6s · Dialogue and character emotion**
+**Beat 034 · 4:26–4:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Odile's eyes drop to Maren's flat belly. MAREN: Born too early. Born still."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -407,7 +481,7 @@
 &nbsp;
 
 
-**Beat 035 · 4:08–4:14 · 6s · Dialogue and character emotion**
+**Beat 035 · 4:32–4:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: Oh, Maren. Where did you lay him?"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -418,7 +492,7 @@
 &nbsp;
 
 
-**Beat 036 · 4:14–4:20 · 6s · Dialogue and character emotion**
+**Beat 036 · 4:38–4:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: I gave him to the sea. Like his father."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -429,7 +503,7 @@
 &nbsp;
 
 
-**Beat 037 · 4:20–4:26 · 6s · Dialogue and character emotion**
+**Beat 037 · 4:44–4:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "HESK: The sea keeps what it loves."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -440,7 +514,7 @@
 &nbsp;
 
 
-**Beat 038 · 4:26–4:32 · 6s · Dialogue and character emotion**
+**Beat 038 · 4:50–4:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: You shouldn't be alone in that house."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -451,7 +525,7 @@
 &nbsp;
 
 
-**Beat 039 · 4:32–4:38 · 6s · Dialogue and character emotion**
+**Beat 039 · 4:56–5:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Alone is all I have left."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -462,7 +536,7 @@
 &nbsp;
 
 
-**Beat 040 · 4:38–4:44 · 6s · Dialogue and character emotion**
+**Beat 040 · 5:02–5:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren walks into her stone cottage and closes the weathered door."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -476,7 +550,7 @@
 ### Maren's cottage, that evening
 
 
-**Beat 041 · 4:44–4:50 · 6s · Suspense and atmosphere**
+**Beat 041 · 5:08–5:14 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "A low fire crackles in the silent cottage. The camera drifts to the empty wooden chair by the hearth. Maren sits alone on the bed, staring at it."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -487,7 +561,7 @@
 &nbsp;
 
 
-**Beat 042 · 4:50–4:56 · 6s · Dialogue and character emotion**
+**Beat 042 · 5:14–5:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren hums three soft notes. Her voice breaks and she stops."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -498,7 +572,7 @@
 &nbsp;
 
 
-**Beat 043 · 4:56–5:02 · 6s · Dialogue and character emotion**
+**Beat 043 · 5:20–5:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: He'd have known what to do."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -509,13 +583,16 @@
 &nbsp;
 
 
-**Beat 044 · 5:02–5:08 · 6s · Final cliffhanger**
+**Beat 044 — Image A — Basket in hand at the door · 5:26–5:32 · 6s · Final cliffhanger**
 
-- **Script segment:** "Maren gets up and grabs a small basket. She wraps her cloak tight and opens the door into the wind. She slips out into the dark toward the cliffs."
+- **Action sequence:** Leaving the cottage (Beat 044, image A of 1)
+- **Script segment:** "Outside, the wind is rising. And somewhere out there, something small is waiting for her in the dark."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Maren (shawl sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Medium shot: Maren at her cottage door at night, wrapping her cloak tight, a basket of scraps in her hand. The moment in this clip: Maren gets up and grabs a small basket. Setting: the edge of a northern fishing village at night as a storm rolls in from the sea, rain lashing the stone cottages. Lighting: lightning flashes and a single horn lantern, deep black shadows, cold blue-grey rim light. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: secretive. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
+- **Visual state requirements:** Small wicker basket: empty, in Maren's right hand; Door: closed
+- **Continuity checklist:** previous state: she sat by the empty chair · current state: she is up, basket in hand, at the door · visible proof: the basket in her hand, the door still closed · next state: she goes out
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: Maren standing at the closed weathered door of her cottage, a small empty wicker basket hanging from her right hand, her left hand pulling her moss-green shawl tight at her throat. VISIBLE STATE, must be clearly shown: Small wicker basket: empty, in Maren's right hand; Door: closed. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them. Setting: the edge of a northern fishing village at night as a storm rolls in from the sea, rain lashing the stone cottages. Lighting: lightning flashes and a single horn lantern, deep black shadows, cold blue-grey rim light. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: secretive. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the horn lantern is a small black iron-framed medieval lantern with scraped-horn panes and a tallow candle inside.
 
 &nbsp;
 
@@ -523,106 +600,121 @@
 ### Sea cave, night — the first feeding
 
 
-**Beat 045 · 5:08–5:14 · 6s · Dialogue and character emotion**
+**Beat 045 — Image A — Cup held out · 5:32–5:38 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "Candlelight flickers in the dark cave as Maren kneels by the basket. She holds a wooden cup of milk toward newborn Tal, who turns its head away."
+- **Action sequence:** Milk refused (Beat 045, image A of 1)
+- **Script segment:** "That night, back in the cave, Maren runs into a problem no mother has ever had to solve. First she offers a cup of milk. The creature turns its head away. MAREN: Milk? No?"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Candlelight flickers in the dark cave as Maren kneels by the basket. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: warm, curious, gently humorous. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Visual state requirements:** Wooden cup of milk: in Maren's right hand, held toward the newborn; Newborn Tal: in the basket
+- **Continuity checklist:** previous state: she came back to the cave at night · current state: she offers the milk · visible proof: the cup of milk in her hand near the newborn's snout · next state: it refuses
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE SHOT, eye level: Maren kneeling by the wicker basket, holding a small wooden cup of milk out in her right hand toward the newborn sea dragon, the white milk visible in the cup; the newborn sits in the basket. VISIBLE STATE, must be clearly shown: Wooden cup of milk: in Maren's right hand, held toward the newborn; Newborn Tal: in the basket. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: warm, curious, gently humorous. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 046 · 5:14–5:20 · 6s · Dialogue and character emotion**
+**Beat 046 · 5:38–5:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Milk? No?"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT at eye level: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them, on the left of the frame, speaking; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail, on the right of the frame, about 2 meters away. They are turned toward each other, each about three-quarters to the camera so both faces are clearly visible, eyes on each other; never looking into the lens. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: warm, curious, gently humorous. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT at eye level: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them, on the left of the frame, speaking; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail, on the right of the frame, about 2 meters away. They are turned toward each other, each about three-quarters to the camera so both faces are clearly visible, eyes on each other; never looking into the lens. OBJECT STATE at the start of this shot, must be clearly visible: Maren holds the wooden cup of milk in her right hand near the newborn; the newborn's head is turned away. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: warm, curious, gently humorous. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 047 · 5:20–5:26 · 6s · Dialogue and character emotion**
+**Beat 047 — Image A — Bread held out · 5:44–5:50 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "She offers a crust of dark bread. Newborn Tal sniffs it and sneezes, spraying droplets all over the bread."
+- **Action sequence:** Bread refused (Beat 047, image A of 1)
+- **Script segment:** "She tries bread. It sneezes all over it. MAREN: Bread? Not bread either."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: She offers a crust of dark bread. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: playful. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Visual state requirements:** Crust of dark bread: in Maren's right hand, near the newborn's snout; Wooden cup: set down on the stone beside her
+- **Continuity checklist:** previous state: it refused the milk · current state: she offers bread · visible proof: the bread in her hand, the cup on the ground · next state: it sneezes
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE SHOT, eye level: Maren kneeling by the basket, holding a crust of dark bread out in her right hand toward the newborn; the wooden cup of milk now set down on the stone beside her knee. VISIBLE STATE, must be clearly shown: Crust of dark bread: in Maren's right hand, near the newborn's snout; Wooden cup: set down on the stone beside her. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: playful. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 048 · 5:26–5:32 · 6s · Dialogue and character emotion**
+**Beat 048 · 5:50–5:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Bread? Not bread either."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT at eye level: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them, on the left of the frame, speaking; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail, on the right of the frame, about 2 meters away. They are turned toward each other, each about three-quarters to the camera so both faces are clearly visible, eyes on each other; never looking into the lens. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: playful. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT at eye level: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them, on the left of the frame, speaking; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail, on the right of the frame, about 2 meters away. They are turned toward each other, each about three-quarters to the camera so both faces are clearly visible, eyes on each other; never looking into the lens. OBJECT STATE at the start of this shot, must be clearly visible: Maren holds the crust of bread, wet with sneeze droplets; the wooden cup stands on the stone beside her. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: playful. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 049 · 5:32–5:38 · 6s · Dialogue and character emotion**
+**Beat 049 · 5:56–6:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Then what do you want, little one?"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: warm, curious, gently humorous. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. OBJECT STATE at the start of this shot, must be clearly visible: the bread and the cup lie on the stone beside Maren; her hands are empty; a small woven basket of silver herring sits nearby. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: warm, curious, gently humorous. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 050 · 5:38–5:44 · 6s · Dialogue and character emotion**
+**Beat 050 — Image A — Herring in the basket · 6:02–6:08 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "Newborn Tal waddles to her woven basket and sniffs the silver herring. It snaps a herring in its tiny jaws."
+- **Action sequence:** Finding the herring (Beat 050, image A of 1)
+- **Script segment:** "MAREN: Then what do you want, little one? Then it smells something in her basket. It snaps up a herring she brought home."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Newborn Tal waddles to her woven basket and sniffs the silver herring. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: warm, curious, gently humorous. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Visual state requirements:** Herring: all inside the woven basket; Maren's hands: empty
+- **Continuity checklist:** previous state: it refused the bread · current state: it heads for the herring basket · visible proof: the herring all in the basket, the newborn moving toward it · next state: it takes a herring
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: the newborn sea dragon waddling across the stone toward a small woven basket full of silver herring; Maren kneeling to the side watching, her hands empty in her lap, the bread and cup on the stone beside her. VISIBLE STATE, must be clearly shown: Herring: all inside the woven basket; Maren's hands: empty. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: warm, curious, gently humorous. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 051 · 5:44–5:50 · 6s · Dialogue and character emotion**
+**Beat 051 — Image A — Herring in its jaws · 6:08–6:14 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "MAREN: Fish. You want fish."
+- **Action sequence:** Fish! (Beat 051, image A of 1)
+- **Script segment:** "MAREN: Fish. You want fish. It swallows the fish whole. For the first time in months, Maren laughs. [laughter]"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: joyful. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Visual state requirements:** Herring: held in the newborn's jaws; Other herring: still in the basket
+- **Continuity checklist:** previous state: it snapped up a herring · current state: it holds the herring in its jaws · visible proof: the silver fish clearly in its mouth · next state: it swallows
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT, eye level: Maren kneeling beside the basket, eyes wide, looking at the newborn sea dragon, which holds one silver herring crosswise in its tiny jaws, the fish clearly visible. VISIBLE STATE, must be clearly shown: Herring: held in the newborn's jaws; Other herring: still in the basket. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: joyful. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 052 · 5:50–5:56 · 6s · Dialogue and character emotion**
+**Beat 052 — Image A — Head tipping back · 6:14–6:20 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "Newborn Tal tosses its head back and swallows the herring whole. Maren bursts into laughter, her hand over her mouth."
+- **Action sequence:** Swallowing the herring (Beat 052, image A of 1)
+- **Script segment:** "MAREN: Fish. You want fish. It swallows the fish whole. For the first time in months, Maren laughs. [laughter]"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Newborn Tal tosses its head back and swallows the herring whole. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: joyful. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Visual state requirements:** Herring: half swallowed, tail sticking out of the newborn's jaws
+- **Continuity checklist:** previous state: it held the herring · current state: it is swallowing · visible proof: the fish tail still sticking out of its mouth · next state: it is gone
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT, eye level: the newborn sea dragon tipping its head back with the silver herring half inside its jaws, the fish tail still visible; Maren kneeling beside it, her hand rising to her mouth. VISIBLE STATE, must be clearly shown: Herring: half swallowed, tail sticking out of the newborn's jaws. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: joyful. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 053 · 5:56–6:02 · 6s · Dialogue and character emotion**
+**Beat 053 · 6:20–6:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Slowly! You'll choke."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. OBJECT STATE at the start of this shot, must be clearly visible: the newborn is gulping down a herring, the fish tail disappearing into its jaws; the basket of herring is beside it. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 054 · 6:02–6:08 · 6s · Dialogue and character emotion**
+**Beat 054 · 6:26–6:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "It gulps the fish down happily. Her fingers gently stroke its frilled crest."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -633,7 +725,7 @@
 &nbsp;
 
 
-**Beat 055 · 6:08–6:14 · 6s · Dialogue and character emotion**
+**Beat 055 · 6:32–6:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren gazes down with love."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -644,13 +736,16 @@
 &nbsp;
 
 
-**Beat 056 · 6:14–6:20 · 6s · Dialogue and character emotion**
+**Beat 056 — Image A — Newborn in her lap · 6:38–6:44 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "MAREN: Your father was Talen. You'll be Tal. Newborn Tal falls asleep in her lap as the candle glows."
+- **Action sequence:** Asleep in her lap (Beat 056, image A of 1)
+- **Script segment:** "MAREN: Your father was Talen. You'll be Tal."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
-- **Attach (location + character sheets):** L12 · Maren (shawl sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. CLOSE-UP at eye level, static: only Maren's face and shoulders fill the frame; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them. She is sitting, speaking softly and slowly, eyes glistening with memory, looking slightly off-camera toward the newborn dragon beside her, never into the lens; the warm light falls on one side of her face. The moment: Newborn Tal falls asleep in her lap as the tallow candle glows. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, safe. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
+- **Visual state requirements:** Newborn Tal: asleep in Maren's lap
+- **Continuity checklist:** previous state: she stroked its crest · current state: it sleeps in her lap · visible proof: the sleeping newborn in her lap · next state: the night goes on
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: Maren sitting on the cave ledge, the newborn sea dragon curled up asleep in her lap, her hand resting on its back, a tallow candle glowing beside her. VISIBLE STATE, must be clearly shown: Newborn Tal: asleep in Maren's lap. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender, safe. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
@@ -658,68 +753,85 @@
 ### Sea cave — the first thunder
 
 
-**Beat 057 · 6:20–6:26 · 6s · Shocking reveal**
+**Beat 057 · 6:44–6:50 · 6s · Shocking reveal**
 
 - **Script segment:** "Lightning flashes in the cave mouth. Thunder booms and newborn Tal shrieks, scrambling deeper into the basket. Maren rushes over and kneels beside it."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Medium shot, handheld: newborn Tal cowering in the wicker basket as lightning flashes at the cave mouth, Maren reaching toward it. The moment in this clip: Lightning flashes in the cave mouth. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: fearful. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Medium shot, handheld: newborn Tal cowering in the wicker basket as lightning flashes at the cave mouth, Maren reaching toward it. The moment in this clip: Lightning flashes in the cave mouth. OBJECT STATE at the start of this shot, must be clearly visible: the newborn is inside the wicker basket; Maren's hands are empty. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: fearful. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 058 · 6:26–6:32 · 6s · Dialogue and character emotion**
+**Beat 058 · 6:50–6:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: It's only noise. Only the sea being loud."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. OBJECT STATE at the start of this shot, must be clearly visible: the newborn is inside the wicker basket; Maren's hands are empty. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 059 · 6:32–6:38 · 6s · Dialogue and character emotion**
+**Beat 059 — Image A — Hands into the basket · 6:56–7:02 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "She lifts the newborn out of the basket. She presses it against her heart."
+- **Action sequence:** Lifting the newborn out (Beat 059, image A of 2)
+- **Script segment:** "MAREN: It's only noise. Only the sea being loud. She lifts it out and holds it against her heart."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: She lifts the newborn out of the basket. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Visual state requirements:** Newborn Tal: inside the basket; Maren's hands: around the newborn, inside the basket
+- **Continuity checklist:** previous state: it hid in the basket from the thunder · current state: her hands are around it in the basket · visible proof: the newborn still in the basket, her hands around it · next state: she lifts it
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: Maren kneeling beside the wicker basket, both her hands reaching into it around the trembling newborn sea dragon, which is still inside the basket. VISIBLE STATE, must be clearly shown: Newborn Tal: inside the basket; Maren's hands: around the newborn, inside the basket. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 060 · 6:38–6:44 · 6s · Suspense and atmosphere**
+**Beat 059b — Image B — Held to her heart · 7:02–7:08 · 6s · Dialogue and character emotion**
+
+- **Action sequence:** Lifting the newborn out (Beat 059, image B of 2)
+- **Script segment:** (continues Beat 059)
+- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
+- **Visual state requirements:** Newborn Tal: in Maren's arms against her chest; Basket: empty beside her
+- **Continuity checklist:** previous state: she lifted it out · current state: she holds it to her heart · visible proof: the newborn in her arms, the basket empty · next state: she sings
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE SHOT, eye level: Maren kneeling, holding the newborn sea dragon pressed against her heart with both arms; the wicker basket empty on the stone beside her. VISIBLE STATE, must be clearly shown: Newborn Tal: in Maren's arms against her chest; Basket: empty beside her. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+
+&nbsp;
+
+
+**Beat 060 · 7:08–7:14 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Maren begins to sing three soft notes. Newborn Tal's trembling slows. Its eyes slowly close."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Two-shot: Maren rocking newborn Tal wrapped in her green shawl, singing softly by candlelight. The moment in this clip: Maren begins to sing three soft notes. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Two-shot: Maren rocking newborn Tal wrapped in her green shawl, singing softly by candlelight. The moment in this clip: Maren begins to sing three soft notes. OBJECT STATE at the start of this shot, must be clearly visible: Maren holds the newborn against her chest in both arms; the wicker basket is empty beside her. POSTURE: Maren sits on the cave ledge, the newborn dragon resting in her lap or in the wicker basket beside her; nobody stands. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 061 · 6:44–6:50 · 6s · Dialogue and character emotion**
+**Beat 061 · 7:14–7:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Newborn Tal opens its mouth and hums three tiny notes back. Maren freezes, astonished."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Newborn Tal opens its mouth and hums three tiny notes back. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: wonder. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 2 meters away, Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Newborn Tal opens its mouth and hums three tiny notes back. OBJECT STATE at the start of this shot, must be clearly visible: Maren holds the newborn against her chest in both arms; the wicker basket is empty beside her. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: wonder. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 062 · 6:50–6:56 · 6s · Dialogue and character emotion**
+**Beat 062 · 7:20–7:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: You learn fast, little one."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT at eye level: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them, on the left of the frame, speaking; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail, on the right of the frame, about 2 meters away. They are turned toward each other, each about three-quarters to the camera so both faces are clearly visible, eyes on each other; never looking into the lens. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: wonder. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT at eye level: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them, on the left of the frame, speaking; Tal, a cat-sized newborn sea dragon who stands upright on two little legs like a tiny child, with wet, glossy, translucent pale blush-pink skin, huge round glassy violet eyes, a small pink snout, a crown of soft translucent pink fin-frills around his head, small translucent bat-like wings, little webbed claws and a thin tail, on the right of the frame, about 2 meters away. They are turned toward each other, each about three-quarters to the camera so both faces are clearly visible, eyes on each other; never looking into the lens. OBJECT STATE at the start of this shot, must be clearly visible: Maren holds the newborn against her chest in both arms; the wicker basket is empty beside her. Setting: inside a tidal sea cave of black basalt at night, rock pools, kelp-draped stones, a wicker fish basket, frost on the rocks. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: wonder. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
@@ -732,128 +844,174 @@
 ### Harbor market
 
 
-**Beat 063 · 6:56–7:02 · 6s · Dialogue and character emotion**
+**Beat 063 — Image A — Coins in her hand · 7:26–7:32 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "Gulls wheel over the busy fish market. Maren weaves through the crowd to Bram's stall. She sets a few copper coins on the salt-crusted plank."
+- **Action sequence:** Paying at the stall (Beat 063, image A of 1)
+- **Script segment:** "The harbor market. Maren walks in with her head down, carrying a secret heavier than her basket. The harbor market. Loud, crowded, and full of eyes. Maren sets her coins in front of Bram, the one trader who never forgets a face."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, Villagers
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Wide shot: a busy harbor fish market with gulls overhead, Maren approaching Bram's herring stall. The moment in this clip: Gulls wheel over the busy fish market. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: tense, suspicious. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. The villagers are busy with their own everyday work, not posing and not watching the camera: fishwives gutting and salting herring at the stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, another rolling a barrel, an old woman mending a net on a stool, children weaving between the stalls, gulls fighting over scraps; people of different heights, facing in many different directions, in natural mid-movement. It is daytime: nobody carries any light. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Visual state requirements:** Copper coins: in Maren's open right palm; Wicker basket: empty, on Maren's arm
+- **Continuity checklist:** previous state: she walked into the market · current state: she reaches the stall with the coins in her hand · visible proof: the coins visible in her palm · next state: she pays
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. WIDE SHOT, low angle: the busy harbor fish market; Maren arriving at Bram's herring stall, an empty wicker basket on her left arm and a few copper coins visible in her open right palm; Bram behind the stall. VISIBLE STATE, must be clearly shown: Copper coins: in Maren's open right palm; Wicker basket: empty, on Maren's arm. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: tense, suspicious. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 064 · 7:02–7:08 · 6s · Dialogue and character emotion**
+**Beat 064 · 7:32–7:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Herring, Bram. A full basket."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, villagers in the background (no sheet needed)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 3 meters away, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: mocking. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 3 meters away, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. OBJECT STATE at the start of this shot, must be clearly visible: a few copper coins lie on the salt-crusted plank in front of Bram; Maren's empty wicker basket hangs on her arm; her knife still hangs on her rope belt. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: mocking. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 065 · 7:08–7:14 · 6s · Dialogue and character emotion**
+**Beat 065 · 7:38–7:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Bram smirks and looks her thin frame up and down."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, villagers in the background (no sheet needed)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 3 meters away, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Bram smirks and looks her thin frame up and down. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: mocking. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 3 meters away, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Bram smirks and looks her thin frame up and down. OBJECT STATE at the start of this shot, must be clearly visible: a few copper coins lie on the salt-crusted plank in front of Bram; Maren's empty wicker basket hangs on her arm; her knife still hangs on her rope belt. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: mocking. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 066 · 7:14–7:20 · 6s · Dialogue and character emotion**
+**Beat 066 · 7:44–7:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: A full basket? For a widow who eats like a sparrow?"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Bram, Maren (shawl sheet), villagers in the background (no sheet needed)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT at eye level: Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots, on the right of the frame, speaking; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them, on the left of the frame, about 2 meters away. They are turned toward each other, each about three-quarters to the camera so both faces are clearly visible, eyes on each other; never looking into the lens. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: mocking. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT at eye level: Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots, on the right of the frame, speaking; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them, on the left of the frame, about 2 meters away. They are turned toward each other, each about three-quarters to the camera so both faces are clearly visible, eyes on each other; never looking into the lens. OBJECT STATE at the start of this shot, must be clearly visible: a few copper coins lie on the salt-crusted plank in front of Bram; Maren's empty wicker basket hangs on her arm; her knife still hangs on her rope belt. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: mocking. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 067 · 7:20–7:26 · 6s · Dialogue and character emotion**
+**Beat 067 · 7:50–7:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: I'm mending. I need my strength."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, villagers in the background (no sheet needed)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 3 meters away, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: tense, suspicious. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 3 meters away, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. OBJECT STATE at the start of this shot, must be clearly visible: a few copper coins lie on the salt-crusted plank in front of Bram; Maren's empty wicker basket hangs on her arm; her knife still hangs on her rope belt. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: tense, suspicious. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 068 · 7:26–7:32 · 6s · Dialogue and character emotion**
+**Beat 068 — Image A — Finger on the coins · 7:56–8:02 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "Bram's thick finger pushes the coins back across the plank. BRAM: Your coin is short."
+- **Action sequence:** Coins pushed back (Beat 068, image A of 1)
+- **Script segment:** "MAREN: I'm mending. I need my strength. BRAM: Your coin is short."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
-- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, villagers in the background (no sheet needed)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 3 meters away, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Bram's thick finger pushes the coins back across the plank. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: tense, suspicious. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram
+- **Visual state requirements:** Copper coins: on the plank, under Bram's finger; Wicker basket: empty
+- **Continuity checklist:** previous state: the coins lay on the plank · current state: Bram's finger is on the coins · visible proof: his finger touching the coins · next state: he pushes them back
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE SHOT, eye level: close on the salt-crusted plank between them: Bram's thick finger resting on the small pile of copper coins; Maren's empty basket on the plank at her side. VISIBLE STATE, must be clearly shown: Copper coins: on the plank, under Bram's finger; Wicker basket: empty. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: tense, suspicious. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 069 · 7:32–7:38 · 6s · Dialogue and character emotion**
+**Beat 069 — Image A — Hand on the knife at her belt · 8:02–8:08 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "She unhooks a knife with a carved bone handle from her belt. Close on the wave pattern carved into the handle."
+- **Action sequence:** Unhooking the knife (Beat 069, image A of 2)
+- **Script segment:** "She unhooks the last thing she owns of any value: a knife with a carved bone handle. MAREN: It was Talen's knife. Take it."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
-- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, villagers in the background (no sheet needed)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; on the RIGHT of the frame, about 3 meters away, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: She unhooks a knife with a carved bone handle from her belt. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: painful sacrifice. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram
+- **Visual state requirements:** Knife: still hanging on Maren's belt, her hand on the handle; Coins: on the plank on her side
+- **Continuity checklist:** previous state: Bram pushed the coins back · current state: her hand is on the knife at her belt · visible proof: the knife still on the belt · next state: she unhooks it
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE SHOT, eye level: Maren at the stall, her right hand closed around the carved bone handle of a knife that still hangs from her braided rope belt; the coins pushed back on the plank in front of her. VISIBLE STATE, must be clearly shown: Knife: still hanging on Maren's belt, her hand on the handle; Coins: on the plank on her side. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: painful sacrifice. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 070 · 7:38–7:44 · 6s · Dialogue and character emotion**
+**Beat 069b — Image B — The knife in her hand · 8:08–8:14 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "MAREN: It was Talen's knife. Take it."
+- **Action sequence:** Unhooking the knife (Beat 069, image B of 2)
+- **Script segment:** (continues Beat 069)
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
-- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, villagers in the background (no sheet needed)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT at eye level: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them, on the left of the frame, speaking; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots, on the right of the frame, about 2 meters away. They are turned toward each other, each about three-quarters to the camera so both faces are clearly visible, eyes on each other; never looking into the lens. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: painful sacrifice. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Attach (location + character sheets):** L2 · Maren (shawl sheet)
+- **Visual state requirements:** Knife: in Maren's hand, handle with the wave carving facing the camera
+- **Continuity checklist:** previous state: she unhooked the knife · current state: she holds it in her hand · visible proof: the knife in her hand, not on the belt · next state: she offers it
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. CLOSE-UP INSERT, eye level: close-up of Maren's hand holding the knife flat across her palm above the plank: the carved bone handle with its wave pattern clearly visible, the blade pointing away. VISIBLE STATE, must be clearly shown: Knife: in Maren's hand, handle with the wave carving facing the camera. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: painful sacrifice. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 071 · 7:44–7:50 · 6s · Suspense and atmosphere**
+**Beat 070 — Image A — Knife held out to Bram · 8:14–8:20 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "Bram shovels herring into her basket. Maren walks away with the heavy basket. Bram turns the bone-handled knife over in his hands, watching her go."
+- **Action sequence:** Offering the knife (Beat 070, image A of 1)
+- **Script segment:** "She unhooks the last thing she owns of any value: a knife with a carved bone handle. MAREN: It was Talen's knife. Take it."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
-- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, villagers in the background (no sheet needed)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Medium shot: Bram shoveling herring into Maren's basket at his stall. The moment in this clip: Bram shovels herring into her basket. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: suspicious. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram
+- **Visual state requirements:** Knife: in Maren's outstretched hand, handle toward Bram; Coins: on the plank
+- **Continuity checklist:** previous state: she held the knife · current state: she offers it, handle first · visible proof: the knife between them, still in her hand · next state: Bram takes it
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT, eye level: Maren holding the knife out across the plank to Bram, handle first, her arm extended; Bram's hand rising toward it. VISIBLE STATE, must be clearly shown: Knife: in Maren's outstretched hand, handle toward Bram; Coins: on the plank. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: painful sacrifice. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 072 · 7:50–7:56 · 6s · Dialogue and character emotion**
+**Beat 071 — Image A — Shovelling herring · 8:20–8:26 · 6s · Suspense and atmosphere**
 
-- **Script segment:** "The blade reflects Bram's narrowed eye."
+- **Action sequence:** Herring for the knife (Beat 071, image A of 2)
+- **Script segment:** "She walks away with the fish, fast. Bram turns the knife over in his hands. But he isn't looking at the knife. He's watching her."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
-- **Attach (location + character sheets):** L2 · Bram, Odile, villagers in the background (no sheet needed)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; on the RIGHT of the frame, about 3 meters away, Odile, a woman about 45 with grey-streaked hair and ruddy weathered cheeks, wearing a long faded brick-red wool dress with long sleeves, a thick faded red wool shawl with long fringes draped over her head as a hood and crossed over her chest, an oatmeal linen apron tied at the waist, and worn brown leather shoes. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: The blade reflects Bram's narrowed eye. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: menacing. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram
+- **Visual state requirements:** Knife: tucked in Bram's belt; Herring: going into Maren's basket from the scoop; Basket: on the plank, half full
+- **Continuity checklist:** previous state: Bram took the knife · current state: he fills her basket · visible proof: the herring falling into her basket · next state: she leaves
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: Bram behind the stall, the bone-handled knife tucked in his belt, shovelling silver herring with a wooden scoop into Maren's wicker basket on the plank; the basket half full. VISIBLE STATE, must be clearly shown: Knife: tucked in Bram's belt; Herring: going into Maren's basket from the scoop; Basket: on the plank, half full. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: suspicious. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 073 · 7:56–8:02 · 6s · Dialogue and character emotion**
+**Beat 071b — Image B — Walking away, knife in his hands · 8:26–8:32 · 6s · Suspense and atmosphere**
+
+- **Action sequence:** Herring for the knife (Beat 071, image B of 2)
+- **Script segment:** (continues Beat 071)
+- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
+- **Location sheet:** L2 Harbor market
+- **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram
+- **Visual state requirements:** Basket: full of herring, on Maren's arm; Knife: in Bram's hands
+- **Continuity checklist:** previous state: her basket was filled · current state: she walks away; he holds the knife · visible proof: the full basket on her arm, the knife in his hands · next state: he studies the knife
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: Maren walking away through the market with the heavy full basket of herring on her arm; in the foreground Bram stands behind his stall turning the bone-handled knife over in his hands, watching her go. VISIBLE STATE, must be clearly shown: Basket: full of herring, on Maren's arm; Knife: in Bram's hands. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing a long black wool medieval dress with long sleeves and a full skirt to the ankles, a moss-green knitted wool shawl with a ragged fringed edge worn over both shoulders and fastened at the throat with a carved bone toggle (the shawl is clearly moss-green, with no black cape or hood over it), a braided brown rope belt with a long iron net-mending needle hanging from it, dark wool leg-wraps and simple brown leather sandals laced over them; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: suspicious. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+
+&nbsp;
+
+
+**Beat 072 — Image A — Blade up close · 8:32–8:38 · 6s · Dialogue and character emotion**
+
+- **Action sequence:** The blade (Beat 072, image A of 1)
+- **Script segment:** "BRAM: Grief doesn't make a woman hungry. Something's wrong with that one."
+- **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
+- **Location sheet:** L2 Harbor market
+- **Attach (location + character sheets):** L2 · Bram
+- **Visual state requirements:** Knife: in Bram's hand, blade toward the camera
+- **Continuity checklist:** previous state: he turned the knife over · current state: he holds the blade up · visible proof: his eye in the blade · next state: the scene ends
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. EXTREME CLOSE-UP, eye level: extreme close-up of the knife blade held up in Bram's hand, his narrowed eye reflected in the steel. VISIBLE STATE, must be clearly shown: Knife: in Bram's hand, blade toward the camera. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: menacing. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+
+&nbsp;
+
+
+**Beat 073 · 8:38–8:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: Grief doesn't make a woman hungry. Something's wrong with that one."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Bram, Odile, villagers in the background (no sheet needed)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT at eye level: Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots, on the left of the frame, speaking; Odile, a woman about 45 with grey-streaked hair and ruddy weathered cheeks, wearing a long faded brick-red wool dress with long sleeves, a thick faded red wool shawl with long fringes draped over her head as a hood and crossed over her chest, an oatmeal linen apron tied at the waist, and worn brown leather shoes, on the right of the frame, about 2 meters away. They are turned toward each other, each about three-quarters to the camera so both faces are clearly visible, eyes on each other; never looking into the lens. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: menacing. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT at eye level: Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots, on the left of the frame, speaking; Odile, a woman about 45 with grey-streaked hair and ruddy weathered cheeks, wearing a long faded brick-red wool dress with long sleeves, a thick faded red wool shawl with long fringes draped over her head as a hood and crossed over her chest, an oatmeal linen apron tied at the waist, and worn brown leather shoes, on the right of the frame, about 2 meters away. They are turned toward each other, each about three-quarters to the camera so both faces are clearly visible, eyes on each other; never looking into the lens. OBJECT STATE at the start of this shot, must be clearly visible: Bram holds the bone-handled knife in his hand. Setting: an open-air harbor fish market in a northern fishing village, salt-crusted plank stalls, herring in wicker baskets, gulls, hanging nets. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: menacing. BACKGROUND, slightly out of focus: the market is full of life behind them, other villagers in muted natural-coloured wool going about their business, fishwives gutting and salting herring at the next stalls, people haggling and handing over coins, a man carrying a basket of fish on his shoulder, children weaving between the stalls, gulls on the posts; nobody in the background looks at the camera. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 074 · 8:02–8:08 · 6s · Dialogue and character emotion**
+**Beat 074 · 8:44–8:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "At a nearby stall, Odile overhears and frowns."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -867,7 +1025,7 @@
 ### Maren's cottage — mending for fish
 
 
-**Beat 075 · 8:08–8:14 · 6s · Suspense and atmosphere**
+**Beat 075 · 8:50–8:56 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Candlelight flickers over a mountain of torn nets. Maren's needle flies through the knots. She winces and sucks a cut fingertip."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -878,7 +1036,7 @@
 &nbsp;
 
 
-**Beat 076 · 8:14–8:20 · 6s · Suspense and atmosphere**
+**Beat 076 · 8:56–9:02 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Close on her raw fingers pulling the cord tight. The candle burns low. Grey dawn creeps through the window as she ties the last knot."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -889,7 +1047,7 @@
 &nbsp;
 
 
-**Beat 077 · 8:20–8:26 · 6s · Dialogue and character emotion**
+**Beat 077 · 9:02–9:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: You look half-dead, Maren."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -900,7 +1058,7 @@
 &nbsp;
 
 
-**Beat 078 · 8:26–8:32 · 6s · Dialogue and character emotion**
+**Beat 078 · 9:08–9:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Half is enough. She closes the door, leaving Odile frowning on the step."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -914,7 +1072,7 @@
 ### Tidal pools — growth montage
 
 
-**Beat 079 · 8:32–8:38 · 6s · Suspense and atmosphere**
+**Beat 079 · 9:14–9:20 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Morning light glints on the tidal pools under the cliffs. Maren lies flat on the rock beside a pool. She puffs her cheeks full of air, eyes playful."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -925,7 +1083,7 @@
 &nbsp;
 
 
-**Beat 080 · 8:38–8:44 · 6s · Dialogue and character emotion**
+**Beat 080 · 9:20–9:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Hold your breath, Tal. Like this."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -936,7 +1094,7 @@
 &nbsp;
 
 
-**Beat 081 · 8:44–8:50 · 6s · Dialogue and character emotion**
+**Beat 081 · 9:26–9:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "She dips her face into the clear pool. Newborn Tal copies her, cheeks puffed comically."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -947,7 +1105,7 @@
 &nbsp;
 
 
-**Beat 082 · 8:50–8:56 · 6s · Suspense and atmosphere**
+**Beat 082 · 9:32–9:38 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Newborn Tal dives into the rock pool. It swims through kelp in the clear green water. It bursts out of the surface with a crab in its jaws."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -958,7 +1116,7 @@
 &nbsp;
 
 
-**Beat 083 · 8:56–9:02 · 6s · Dialogue and character emotion**
+**Beat 083 · 9:38–9:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Good boy! Good!"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -969,7 +1127,7 @@
 &nbsp;
 
 
-**Beat 084 · 9:02–9:08 · 6s · Dialogue and character emotion**
+**Beat 084 · 9:44–9:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Newborn Tal proudly shakes seawater all over her. She laughs, wiping her face."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -980,7 +1138,7 @@
 &nbsp;
 
 
-**Beat 085 · 9:08–9:14 · 6s · Suspense and atmosphere**
+**Beat 085 · 9:50–9:56 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Goat-sized Tal bounds over the rocks after Maren. Seasons pass in mist; Tal grows larger. Now pony-sized, Tal swims powerfully across the cove at sunrise."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -991,7 +1149,7 @@
 &nbsp;
 
 
-**Beat 086 · 9:14–9:20 · 6s · Dialogue and character emotion**
+**Beat 086 · 9:56–10:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Pony-sized Tal is wedged in a cracked wooden washtub, legs hanging out."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1002,7 +1160,7 @@
 &nbsp;
 
 
-**Beat 087 · 9:20–9:26 · 6s · Dialogue and character emotion**
+**Beat 087 · 10:02–10:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: You've outgrown the basket. And the tub. And soon the cave."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1013,7 +1171,7 @@
 &nbsp;
 
 
-**Beat 088 · 9:26–9:32 · 6s · Dialogue and character emotion**
+**Beat 088 · 10:08–10:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Tal's long tail sweeps across the whole cave passage."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1024,7 +1182,7 @@
 &nbsp;
 
 
-**Beat 089 · 9:32–9:38 · 6s · Dialogue and character emotion**
+**Beat 089 · 10:14–10:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Tal chews happily on a fishing net."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1035,7 +1193,7 @@
 &nbsp;
 
 
-**Beat 090 · 9:38–9:44 · 6s · Dialogue and character emotion**
+**Beat 090 · 10:20–10:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Not the nets, Tal! Those are mine! A playful tug-of-war across the rocks."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1046,7 +1204,7 @@
 &nbsp;
 
 
-**Beat 091 · 9:44–9:50 · 6s · Final cliffhanger**
+**Beat 091 · 10:26–10:32 · 6s · Final cliffhanger**
 
 - **Script segment:** "Maren falls back on the rocks laughing. Tal nuzzles her face. A still wide view of the hidden cove at day's end."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1060,7 +1218,7 @@
 ### Sea cliffs — learning to fly
 
 
-**Beat 092 · 9:50–9:56 · 6s · Suspense and atmosphere**
+**Beat 092 · 10:32–10:38 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Tal clambers up a tall rock above the cove. He peers over the edge at the sea far below. His wings twitch open."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1071,7 +1229,7 @@
 &nbsp;
 
 
-**Beat 093 · 9:56–10:02 · 6s · Dialogue and character emotion**
+**Beat 093 · 10:38–10:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren runs onto the rocks below."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1082,7 +1240,7 @@
 &nbsp;
 
 
-**Beat 094 · 10:02–10:08 · 6s · Dialogue and character emotion**
+**Beat 094 · 10:44–10:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Tal. No. Get down from there. Far above, Tal tilts his head at her."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1093,7 +1251,7 @@
 &nbsp;
 
 
-**Beat 095 · 10:08–10:14 · 6s · Shocking reveal**
+**Beat 095 · 10:50–10:56 · 6s · Shocking reveal**
 
 - **Script segment:** "Tal leaps off the rock, wings spread. He glides for a single moment. He tumbles and crashes into the water in a huge splash."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1104,7 +1262,7 @@
 &nbsp;
 
 
-**Beat 096 · 10:14–10:20 · 6s · Suspense and atmosphere**
+**Beat 096 · 10:56–11:02 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Tal bursts out of the water, spluttering. He climbs back up and leaps again. This time the wind catches his wings and he skims across the cove."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1115,7 +1273,7 @@
 &nbsp;
 
 
-**Beat 097 · 10:20–10:26 · 6s · Final cliffhanger**
+**Beat 097 · 11:02–11:08 · 6s · Final cliffhanger**
 
 - **Script segment:** "MAREN: That's it! That's it!"
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1126,7 +1284,7 @@
 &nbsp;
 
 
-**Beat 098 · 10:26–10:32 · 6s · Final cliffhanger**
+**Beat 098 · 11:08–11:14 · 6s · Final cliffhanger**
 
 - **Script segment:** "Tal glides back toward her. She laughs, shielding her eyes from the spray."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
@@ -1140,7 +1298,7 @@
 ### Sea cave, freezing night
 
 
-**Beat 099 · 10:32–10:38 · 6s · Dialogue and character emotion**
+**Beat 099 · 11:14–11:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "A still wide view over the village as a cold wind bends the dry grass. The boats lie pulled up on the shingle and the fish-drying racks stand empty. Villagers in hooded cloaks of mixed natural colours hurry home as the grey light fades."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1151,139 +1309,179 @@
 &nbsp;
 
 
-**Beat 100 · 10:38–10:44 · 6s · Dialogue and character emotion**
+**Beat 100 — Image A — The last herring in the basket · 11:20–11:26 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "Frost glitters on the stones around a single candle. A single herring lies in the empty basket."
+- **Action sequence:** One herring left (Beat 100, image A of 1)
+- **Script segment:** "Then winter bites. A freezing night in the cave. One fish left. Just one. She holds it out to him. MAREN: Take it. I ate at the market."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; on the RIGHT of the frame, about 2 meters away, Tal, a pony-sized juvenile sea dragon about 4 feet (1.2 m) tall, his head reaching a grown woman's chest, slender and graceful on four legs, with pale blush-pink scales with a soft pearly opal sheen, translucent pale pink bat-like wings, a crest of spiky pink-white fin-frills on his head and neck, soft violet eyes, and a faint fiery orange glow in his throat only when he is about to breathe fire. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Frost glitters on the stones around a single tallow candle. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: self-sacrificing. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Visual state requirements:** Herring: one, inside the basket; Maren's hands: empty
+- **Continuity checklist:** previous state: the cold came · current state: one fish is left · visible proof: a single herring in the empty basket · next state: she offers it
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: the frosted cave by a single tallow candle: one herring lying alone in an otherwise empty wicker basket on the stones; Maren sitting on the ledge beside it, Tal lying beside her. VISIBLE STATE, must be clearly shown: Herring: one, inside the basket; Maren's hands: empty. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a pony-sized juvenile sea dragon about 4 feet (1.2 m) tall, his head reaching a grown woman's chest, slender and graceful on four legs, with pale blush-pink scales with a soft pearly opal sheen, translucent pale pink bat-like wings, a crest of spiky pink-white fin-frills on his head and neck, soft violet eyes, and a faint fiery orange glow in his throat only when he is about to breathe fire. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: self-sacrificing. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 101 · 10:44–10:50 · 6s · Dialogue and character emotion**
+**Beat 101 — Image A — Herring in her hand · 11:26–11:32 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "MAREN: Take it. I ate at the market."
-- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
-- **Location sheet:** L12 The sea cave
-- **Attach (location + character sheets):** L12 · Maren (winter sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. CLOSE-UP at eye level, static: only Maren's face and shoulders fill the frame; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. She is sitting, speaking softly and slowly, eyes glistening with memory, looking slightly off-camera toward the young dragon beside her, never into the lens; the warm light falls on one side of her face. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: self-sacrificing. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
-
-&nbsp;
-
-
-**Beat 102 · 10:50–10:56 · 6s · Dialogue and character emotion**
-
-- **Script segment:** "Tal gently nudges the fish back toward her."
+- **Action sequence:** Offering the last herring (Beat 101, image A of 1)
+- **Script segment:** "Then winter bites. A freezing night in the cave. One fish left. Just one. She holds it out to him. MAREN: Take it. I ate at the market."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; on the RIGHT of the frame, about 2 meters away, Tal, a pony-sized juvenile sea dragon about 4 feet (1.2 m) tall, his head reaching a grown woman's chest, slender and graceful on four legs, with pale blush-pink scales with a soft pearly opal sheen, translucent pale pink bat-like wings, a crest of spiky pink-white fin-frills on his head and neck, soft violet eyes, and a faint fiery orange glow in his throat only when he is about to breathe fire. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Tal gently nudges the fish back toward her. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: touching. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Visual state requirements:** Herring: in Maren's open hand, held toward Tal; Basket: empty
+- **Continuity checklist:** previous state: the herring lay in the basket · current state: she holds it out to him · visible proof: the herring in her hand, the basket empty · next state: he refuses
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT, eye level: Maren sitting on the ledge holding the single herring out in her open right hand toward Tal, who lies beside her with his head raised; the basket now empty. VISIBLE STATE, must be clearly shown: Herring: in Maren's open hand, held toward Tal; Basket: empty. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a pony-sized juvenile sea dragon about 4 feet (1.2 m) tall, his head reaching a grown woman's chest, slender and graceful on four legs, with pale blush-pink scales with a soft pearly opal sheen, translucent pale pink bat-like wings, a crest of spiky pink-white fin-frills on his head and neck, soft violet eyes, and a faint fiery orange glow in his throat only when he is about to breathe fire. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: self-sacrificing. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 103 · 10:56–11:02 · 6s · Dialogue and character emotion**
+**Beat 102 — Image A — Snout at the herring · 11:32–11:38 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "MAREN: Stubborn. Just like your father. She feeds it to him anyway, wraps her late husband's old wool scarf around his neck and shivers in her thin dress."
+- **Action sequence:** He pushes it back (Beat 102, image A of 1)
+- **Script segment:** "She didn't. And somehow, he knows. Tal pushes the fish back to her with his nose. MAREN: Stubborn. Just like your father. She feeds it to him anyway, and wraps her late husband's old wool scarf around his neck. Now she is the one shivering."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
-- **Attach (location + character sheets):** L12 · Maren (winter sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. CLOSE-UP at eye level, static: only Maren's face and shoulders fill the frame; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. She is sitting, speaking softly and slowly, eyes glistening with memory, looking slightly off-camera toward the young dragon beside her, never into the lens; the warm light falls on one side of her face. The moment: She feeds it to him anyway, wraps her late husband's old wool scarf around his neck and shivers in her thin dress. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: touching. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
+- **Visual state requirements:** Herring: in Maren's hand, Tal's snout against it
+- **Continuity checklist:** previous state: she offered the herring · current state: his snout is on it · visible proof: his snout touching the fish in her hand · next state: he pushes it back
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT, eye level: Tal's snout touching the herring in Maren's open hand, beginning to push her hand back toward her. VISIBLE STATE, must be clearly shown: Herring: in Maren's hand, Tal's snout against it. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a pony-sized juvenile sea dragon about 4 feet (1.2 m) tall, his head reaching a grown woman's chest, slender and graceful on four legs, with pale blush-pink scales with a soft pearly opal sheen, translucent pale pink bat-like wings, a crest of spiky pink-white fin-frills on his head and neck, soft violet eyes, and a faint fiery orange glow in his throat only when he is about to breathe fire. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: touching. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 104 · 11:02–11:08 · 6s · Dialogue and character emotion**
+**Beat 103 — Image A — Fish back in her hand · 11:38–11:44 · 6s · Dialogue and character emotion**
+
+- **Action sequence:** Feeding him anyway, and the scarf (Beat 103, image A of 3)
+- **Script segment:** "She didn't. And somehow, he knows. Tal pushes the fish back to her with his nose. MAREN: Stubborn. Just like your father. She feeds it to him anyway, and wraps her late husband's old wool scarf around his neck. Now she is the one shivering."
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
+- **Visual state requirements:** Herring: in Maren's hand at her chest
+- **Continuity checklist:** previous state: he pushed it back · current state: she holds it and scolds him · visible proof: the fish back in her hand · next state: she feeds him anyway
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE SHOT, eye level: Maren holding the herring against her chest where Tal pushed it, shaking her head at him with a sad smile; Tal lying beside her. VISIBLE STATE, must be clearly shown: Herring: in Maren's hand at her chest. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a pony-sized juvenile sea dragon about 4 feet (1.2 m) tall, his head reaching a grown woman's chest, slender and graceful on four legs, with pale blush-pink scales with a soft pearly opal sheen, translucent pale pink bat-like wings, a crest of spiky pink-white fin-frills on his head and neck, soft violet eyes, and a faint fiery orange glow in his throat only when he is about to breathe fire. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: touching. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+
+&nbsp;
+
+
+**Beat 103b — Image B — Feeding him · 11:44–11:50 · 6s · Dialogue and character emotion**
+
+- **Action sequence:** Feeding him anyway, and the scarf (Beat 103, image B of 3)
+- **Script segment:** (continues Beat 103)
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
+- **Visual state requirements:** Herring: between Maren's fingers and Tal's jaws
+- **Continuity checklist:** previous state: she held the fish · current state: she is feeding him · visible proof: the fish at his mouth, her hand on it · next state: he eats
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT, eye level: Maren holding the herring up to Tal's mouth; Tal's jaws closing gently on the fish, the fish clearly visible between her fingers and his teeth. VISIBLE STATE, must be clearly shown: Herring: between Maren's fingers and Tal's jaws. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a pony-sized juvenile sea dragon about 4 feet (1.2 m) tall, his head reaching a grown woman's chest, slender and graceful on four legs, with pale blush-pink scales with a soft pearly opal sheen, translucent pale pink bat-like wings, a crest of spiky pink-white fin-frills on his head and neck, soft violet eyes, and a faint fiery orange glow in his throat only when he is about to breathe fire. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: touching. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+
+&nbsp;
+
+
+**Beat 103c — Image C — The scarf · 11:50–11:56 · 6s · Dialogue and character emotion**
+
+- **Action sequence:** Feeding him anyway, and the scarf (Beat 103, image C of 3)
+- **Script segment:** (continues Beat 103)
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** L12 The sea cave
+- **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
+- **Visual state requirements:** Old brown wool scarf: half wrapped around Tal's neck, one end in Maren's hands; Herring: eaten, gone
+- **Continuity checklist:** previous state: he ate the fish · current state: she wraps the scarf around his neck · visible proof: the scarf half around his neck, its end in her hands · next state: she shivers
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: Maren wrapping an old brown wool scarf around Tal's neck, the scarf half wound, one end in her hands; her hands now empty of fish. VISIBLE STATE, must be clearly shown: Old brown wool scarf: half wrapped around Tal's neck, one end in Maren's hands; Herring: eaten, gone. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a pony-sized juvenile sea dragon about 4 feet (1.2 m) tall, his head reaching a grown woman's chest, slender and graceful on four legs, with pale blush-pink scales with a soft pearly opal sheen, translucent pale pink bat-like wings, a crest of spiky pink-white fin-frills on his head and neck, soft violet eyes, and a faint fiery orange glow in his throat only when he is about to breathe fire. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: touching. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+
+&nbsp;
+
+
+**Beat 104 · 11:56–12:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren leaning close to Tal by the candle, eyes glistening with memory."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; on the RIGHT of the frame, about 2 meters away, Tal, a pony-sized juvenile sea dragon about 4 feet (1.2 m) tall, his head reaching a grown woman's chest, slender and graceful on four legs, with pale blush-pink scales with a soft pearly opal sheen, translucent pale pink bat-like wings, a crest of spiky pink-white fin-frills on his head and neck, soft violet eyes, and a faint fiery orange glow in his throat only when he is about to breathe fire, with her late husband's old brown wool scarf wrapped around his neck. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Maren leaning close to Tal by the tallow candle, eyes glistening with memory. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; on the RIGHT of the frame, about 2 meters away, Tal, a pony-sized juvenile sea dragon about 4 feet (1.2 m) tall, his head reaching a grown woman's chest, slender and graceful on four legs, with pale blush-pink scales with a soft pearly opal sheen, translucent pale pink bat-like wings, a crest of spiky pink-white fin-frills on his head and neck, soft violet eyes, and a faint fiery orange glow in his throat only when he is about to breathe fire, with her late husband's old brown wool scarf wrapped around his neck. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Maren leaning close to Tal by the tallow candle, eyes glistening with memory. OBJECT STATE at the start of this shot, must be clearly visible: the old brown wool scarf is wrapped around Tal's neck; no fish anywhere; the empty basket on the stones. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 105 · 11:08–11:14 · 6s · Dialogue and character emotion**
+**Beat 105 · 12:02–12:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Do you want to hear about him? Your father?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. CLOSE-UP at eye level, static: only Maren's face and shoulders fill the frame; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. She is sitting, speaking softly and slowly, eyes glistening with memory, looking slightly off-camera toward the young dragon beside her, never into the lens; the warm light falls on one side of her face. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. CLOSE-UP at eye level, static: only Maren's face and shoulders fill the frame; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. She is sitting, speaking softly and slowly, eyes glistening with memory, looking slightly off-camera toward the young dragon beside her, never into the lens; the warm light falls on one side of her face. OBJECT STATE at the start of this shot, must be clearly visible: the old brown wool scarf is wrapped around Tal's neck; no fish anywhere; the empty basket on the stones. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 106 · 11:14–11:20 · 6s · Dialogue and character emotion**
+**Beat 106 · 12:08–12:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Tal lifts his head, listening."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; on the RIGHT of the frame, about 2 meters away, Tal, a pony-sized juvenile sea dragon about 4 feet (1.2 m) tall, his head reaching a grown woman's chest, slender and graceful on four legs, with pale blush-pink scales with a soft pearly opal sheen, translucent pale pink bat-like wings, a crest of spiky pink-white fin-frills on his head and neck, soft violet eyes, and a faint fiery orange glow in his throat only when he is about to breathe fire, with her late husband's old brown wool scarf wrapped around his neck. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Tal lifts his head, listening. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; on the RIGHT of the frame, about 2 meters away, Tal, a pony-sized juvenile sea dragon about 4 feet (1.2 m) tall, his head reaching a grown woman's chest, slender and graceful on four legs, with pale blush-pink scales with a soft pearly opal sheen, translucent pale pink bat-like wings, a crest of spiky pink-white fin-frills on his head and neck, soft violet eyes, and a faint fiery orange glow in his throat only when he is about to breathe fire, with her late husband's old brown wool scarf wrapped around his neck. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Tal lifts his head, listening. OBJECT STATE at the start of this shot, must be clearly visible: the old brown wool scarf is wrapped around Tal's neck; no fish anywhere; the empty basket on the stones. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 107 · 11:20–11:26 · 6s · Dialogue and character emotion**
+**Beat 107 · 12:14–12:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: He was the best net-man on this whole coast. He laughed at storms."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. CLOSE-UP at eye level, static: only Maren's face and shoulders fill the frame; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. She is sitting, speaking softly and slowly, eyes glistening with memory, looking slightly off-camera toward the young dragon beside her, never into the lens; the warm light falls on one side of her face. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. CLOSE-UP at eye level, static: only Maren's face and shoulders fill the frame; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. She is sitting, speaking softly and slowly, eyes glistening with memory, looking slightly off-camera toward the young dragon beside her, never into the lens; the warm light falls on one side of her face. OBJECT STATE at the start of this shot, must be clearly visible: the old brown wool scarf is wrapped around Tal's neck; no fish anywhere; the empty basket on the stones. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 108 · 11:26–11:32 · 6s · Dialogue and character emotion**
+**Beat 108 · 12:20–12:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: He said the sea was only loud, never cruel."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. CLOSE-UP at eye level, static: only Maren's face and shoulders fill the frame; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. She is sitting, speaking softly and slowly, eyes glistening with memory, looking slightly off-camera toward the young dragon beside her, never into the lens; the warm light falls on one side of her face. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. CLOSE-UP at eye level, static: only Maren's face and shoulders fill the frame; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. She is sitting, speaking softly and slowly, eyes glistening with memory, looking slightly off-camera toward the young dragon beside her, never into the lens; the warm light falls on one side of her face. OBJECT STATE at the start of this shot, must be clearly visible: the old brown wool scarf is wrapped around Tal's neck; no fish anywhere; the empty basket on the stones. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: nostalgic. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 109 · 11:32–11:38 · 6s · Dialogue and character emotion**
+**Beat 109 · 12:26–12:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren and Tal side by side by a guttering candle in the frosted cave."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; on the RIGHT of the frame, about 2 meters away, Tal, a pony-sized juvenile sea dragon about 4 feet (1.2 m) tall, his head reaching a grown woman's chest, slender and graceful on four legs, with pale blush-pink scales with a soft pearly opal sheen, translucent pale pink bat-like wings, a crest of spiky pink-white fin-frills on his head and neck, soft violet eyes, and a faint fiery orange glow in his throat only when he is about to breathe fire, with her late husband's old brown wool scarf wrapped around his neck. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Maren and Tal side by side by a guttering tallow candle in the frosted cave. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: grief, love, peace. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; on the RIGHT of the frame, about 2 meters away, Tal, a pony-sized juvenile sea dragon about 4 feet (1.2 m) tall, his head reaching a grown woman's chest, slender and graceful on four legs, with pale blush-pink scales with a soft pearly opal sheen, translucent pale pink bat-like wings, a crest of spiky pink-white fin-frills on his head and neck, soft violet eyes, and a faint fiery orange glow in his throat only when he is about to breathe fire, with her late husband's old brown wool scarf wrapped around his neck. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Maren and Tal side by side by a guttering tallow candle in the frosted cave. OBJECT STATE at the start of this shot, must be clearly visible: the old brown wool scarf is wrapped around Tal's neck; no fish anywhere; the empty basket on the stones. POSTURE: Maren sits on the cave ledge, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: grief, love, peace. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 110 · 11:38–11:44 · 6s · Dialogue and character emotion**
+**Beat 110 · 12:32–12:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: One winter, he went out and the sea kept him."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. CLOSE-UP at eye level, static: only Maren's face and shoulders fill the frame; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. She is sitting, speaking softly and slowly, eyes glistening with memory, looking slightly off-camera toward the young dragon beside her, never into the lens; the warm light falls on one side of her face. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: grief, love, peace. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. CLOSE-UP at eye level, static: only Maren's face and shoulders fill the frame; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. She is sitting, speaking softly and slowly, eyes glistening with memory, looking slightly off-camera toward the young dragon beside her, never into the lens; the warm light falls on one side of her face. OBJECT STATE at the start of this shot, must be clearly visible: the old brown wool scarf is wrapped around Tal's neck; no fish anywhere; the empty basket on the stones. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: grief, love, peace. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 111 · 11:44–11:50 · 6s · Dialogue and character emotion**
+**Beat 111 · 12:38–12:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: And then it gave me you."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. CLOSE-UP at eye level, static: only Maren's face and shoulders fill the frame; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. She is sitting, speaking softly and slowly, eyes glistening with memory, looking slightly off-camera toward the young dragon beside her, never into the lens; the warm light falls on one side of her face. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: grief, love, peace. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. CLOSE-UP at eye level, static: only Maren's face and shoulders fill the frame; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. She is sitting, speaking softly and slowly, eyes glistening with memory, looking slightly off-camera toward the young dragon beside her, never into the lens; the warm light falls on one side of her face. OBJECT STATE at the start of this shot, must be clearly visible: the old brown wool scarf is wrapped around Tal's neck; no fish anywhere; the empty basket on the stones. Setting: inside a tidal sea cave of black basalt on a freezing night, frost on the stones, an almost empty wicker fish basket, a tiny tallow candle. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: a single warm tallow candle, high-contrast chiaroscuro, deep shadows. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: grief, love, peace. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: tallow candles are thick, yellowish and stuck in their own drippings.
 
 &nbsp;
 
 
-**Beat 112 · 11:50–11:56 · 6s · Dialogue and character emotion**
+**Beat 112 · 12:44–12:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Sleep now. The sea is only loud."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1297,7 +1495,7 @@
 ### Elder Hesk's house
 
 
-**Beat 113 · 11:56–12:02 · 6s · Dialogue and character emotion**
+**Beat 113 · 12:50–12:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Peat smoke curls up to the rafters as Hesk sits by the hearth. Odile and Bram stand before him."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1308,7 +1506,7 @@
 &nbsp;
 
 
-**Beat 114 · 12:02–12:08 · 6s · Dialogue and character emotion**
+**Beat 114 · 12:56–13:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: She buys fish she never cooks. She walks to the cliffs every night."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1319,7 +1517,7 @@
 &nbsp;
 
 
-**Beat 115 · 12:08–12:14 · 6s · Dialogue and character emotion**
+**Beat 115 · 13:02–13:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Bram steps forward angrily."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1330,7 +1528,7 @@
 &nbsp;
 
 
-**Beat 116 · 12:14–12:20 · 6s · Dialogue and character emotion**
+**Beat 116 · 13:08–13:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: And my drying racks were stripped bare. Teeth marks, Hesk. Big ones."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1341,7 +1539,7 @@
 &nbsp;
 
 
-**Beat 117 · 12:20–12:26 · 6s · Dialogue and character emotion**
+**Beat 117 · 13:14–13:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Close on the splintered wood and the deep teeth marks."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1352,7 +1550,7 @@
 &nbsp;
 
 
-**Beat 118 · 12:26–12:32 · 6s · Dialogue and character emotion**
+**Beat 118 · 13:20–13:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "HESK: Foxes."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1363,7 +1561,7 @@
 &nbsp;
 
 
-**Beat 119 · 12:32–12:38 · 6s · Dialogue and character emotion**
+**Beat 119 · 13:26–13:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: Foxes don't swim. Tense silence crackles between them."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1374,7 +1572,7 @@
 &nbsp;
 
 
-**Beat 120 · 12:38–12:44 · 6s · Dialogue and character emotion**
+**Beat 120 · 13:32–13:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "HESK: Then bring me proof. Not fear."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1385,7 +1583,7 @@
 &nbsp;
 
 
-**Beat 121 · 12:44–12:50 · 6s · Dialogue and character emotion**
+**Beat 121 · 13:38–13:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Odile and Bram exchange an uneasy glance. Outside, Bram steps into the wind and stares toward the cliffs."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1399,7 +1597,7 @@
 ### Dusk — Odile follows
 
 
-**Beat 122 · 12:50–12:56 · 6s · Suspense and atmosphere**
+**Beat 122 · 13:44–13:50 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Odile peers over a stone wall. Far ahead, Maren walks toward the cliffs with a basket. Odile slips out and follows."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1410,7 +1608,7 @@
 &nbsp;
 
 
-**Beat 123 · 12:56–13:02 · 6s · Dialogue and character emotion**
+**Beat 123 · 13:50–13:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren hurries down the narrow cliff path. Odile creeps after her, keeping low."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1421,7 +1619,7 @@
 &nbsp;
 
 
-**Beat 124 · 13:02–13:08 · 6s · Dialogue and character emotion**
+**Beat 124 · 13:56–14:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: Where are you going, Maren?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1432,7 +1630,7 @@
 &nbsp;
 
 
-**Beat 125 · 13:08–13:14 · 6s · Suspense and atmosphere**
+**Beat 125 · 14:02–14:08 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Thick fog rolls up from the sea over the path. Odile stops, lost in white. The fog thins: the path below is empty."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1443,7 +1641,7 @@
 &nbsp;
 
 
-**Beat 126 · 13:14–13:20 · 6s · Final cliffhanger**
+**Beat 126 · 14:08–14:14 · 6s · Final cliffhanger**
 
 - **Script segment:** "Odile freezes. She leans over the edge, listening. Her face drains of color; she backs away from the edge."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1457,7 +1655,7 @@
 ### Maren's cottage
 
 
-**Beat 127 · 13:20–13:26 · 6s · Dialogue and character emotion**
+**Beat 127 · 14:14–14:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Odile knocks on the weathered door. She pushes it open and steps into the dim room."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1468,7 +1666,7 @@
 &nbsp;
 
 
-**Beat 128 · 13:26–13:32 · 6s · Dialogue and character emotion**
+**Beat 128 · 14:20–14:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: Maren? Are you home?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1479,7 +1677,7 @@
 &nbsp;
 
 
-**Beat 129 · 13:32–13:38 · 6s · Dialogue and character emotion**
+**Beat 129 · 14:26–14:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "The camera passes the cold grey hearth. It finds the untouched straw bed; a silhouette appears in the doorway behind Odile."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1490,7 +1688,7 @@
 &nbsp;
 
 
-**Beat 130 · 13:38–13:44 · 6s · Dialogue and character emotion**
+**Beat 130 · 14:32–14:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: Your fire is cold. You're thinner every day. Where do you sleep?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1501,7 +1699,7 @@
 &nbsp;
 
 
-**Beat 131 · 13:44–13:50 · 6s · Dialogue and character emotion**
+**Beat 131 · 14:38–14:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Wherever my grief puts me, Odile."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1512,7 +1710,7 @@
 &nbsp;
 
 
-**Beat 132 · 13:50–13:56 · 6s · Dialogue and character emotion**
+**Beat 132 · 14:44–14:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: Grief doesn't smell of fish and smoke."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1523,7 +1721,7 @@
 &nbsp;
 
 
-**Beat 133 · 13:56–14:02 · 6s · Dialogue and character emotion**
+**Beat 133 · 14:50–14:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Close on silver fish scales stuck to Maren's sleeve."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1537,7 +1735,7 @@
 ### Kelvhaven — the whispers spread
 
 
-**Beat 134 · 14:02–14:08 · 6s · Suspense and atmosphere**
+**Beat 134 · 14:56–15:02 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Villagers gather in small groups along the lane. Odile whispers to two women, gesturing toward the cliffs. Heads turn toward Maren's cottage."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1548,7 +1746,7 @@
 &nbsp;
 
 
-**Beat 135 · 14:08–14:14 · 6s · Dialogue and character emotion**
+**Beat 135 · 15:02–15:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "JORY: A sea witch? Here?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1559,7 +1757,7 @@
 &nbsp;
 
 
-**Beat 136 · 14:14–14:20 · 6s · Dialogue and character emotion**
+**Beat 136 · 15:08–15:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren walks down the lane with her basket. A mother pulls her child inside and slams the door."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1570,7 +1768,7 @@
 &nbsp;
 
 
-**Beat 137 · 14:20–14:26 · 6s · Suspense and atmosphere**
+**Beat 137 · 15:14–15:20 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Close on Maren's face as she walks. Behind her, blurred figures stop and stare. She grips her basket tighter and walks faster."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1584,7 +1782,7 @@
 ### The cove, night — first fire
 
 
-**Beat 138 · 14:26–14:32 · 6s · Shocking reveal**
+**Beat 138 · 15:20–15:26 · 6s · Shocking reveal**
 
 - **Script segment:** "Fog drifts over the still, moonlit cove. Pony-sized Tal rises from the water, his throat glowing fiery orange. He breathes out and a sheet of yellow-orange flame rolls across the waves."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1595,7 +1793,7 @@
 &nbsp;
 
 
-**Beat 139 · 14:32–14:38 · 6s · Dialogue and character emotion**
+**Beat 139 · 15:26–15:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Tal. You made fire. On the water. She laughs, then freezes."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1606,7 +1804,7 @@
 &nbsp;
 
 
-**Beat 140 · 14:38–14:44 · 6s · Dialogue and character emotion**
+**Beat 140 · 15:32–15:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "The camera whips up to a single lantern moving along the cliff top."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1617,7 +1815,7 @@
 &nbsp;
 
 
-**Beat 141 · 14:44–14:50 · 6s · Final cliffhanger**
+**Beat 141 · 15:38–15:44 · 6s · Final cliffhanger**
 
 - **Script segment:** "MAREN: Down. Under. Hold your breath!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1628,7 +1826,7 @@
 &nbsp;
 
 
-**Beat 142 · 14:50–14:56 · 6s · Final cliffhanger**
+**Beat 142 · 15:44–15:50 · 6s · Final cliffhanger**
 
 - **Script segment:** "Tal sinks silently beneath the surface. The last bubbles rise and the black water goes still."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1642,7 +1840,7 @@
 ### Cliff path, night
 
 
-**Beat 143 · 14:56–15:02 · 6s · Dialogue and character emotion**
+**Beat 143 · 15:50–15:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Fog rolls along the cliff path. Bram holds his lantern out over the edge."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1653,7 +1851,7 @@
 &nbsp;
 
 
-**Beat 144 · 15:02–15:08 · 6s · Dialogue and character emotion**
+**Beat 144 · 15:56–16:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: Who's down there?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1664,7 +1862,7 @@
 &nbsp;
 
 
-**Beat 145 · 15:08–15:14 · 6s · Dialogue and character emotion**
+**Beat 145 · 16:02–16:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "The lantern beam sweeps the rocks below. It lands on Maren, who raises a fishing net."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1675,7 +1873,7 @@
 &nbsp;
 
 
-**Beat 146 · 15:14–15:20 · 6s · Dialogue and character emotion**
+**Beat 146 · 16:08–16:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Only me. Mending."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1686,7 +1884,7 @@
 &nbsp;
 
 
-**Beat 147 · 15:20–15:26 · 6s · Dialogue and character emotion**
+**Beat 147 · 16:14–16:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: In the dark?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1697,7 +1895,7 @@
 &nbsp;
 
 
-**Beat 148 · 15:26–15:32 · 6s · Dialogue and character emotion**
+**Beat 148 · 16:20–16:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren climbs the path toward him. MAREN: Grief doesn't keep hours, Bram."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1708,7 +1906,7 @@
 &nbsp;
 
 
-**Beat 149 · 15:32–15:38 · 6s · Dialogue and character emotion**
+**Beat 149 · 16:26–16:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Bram leans in close. BRAM: I saw a light on the water. Fire."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1719,7 +1917,7 @@
 &nbsp;
 
 
-**Beat 150 · 15:38–15:44 · 6s · Dialogue and character emotion**
+**Beat 150 · 16:32–16:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Close on his eyes, a remembered blue glint in them."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1730,7 +1928,7 @@
 &nbsp;
 
 
-**Beat 151 · 15:44–15:50 · 6s · Dialogue and character emotion**
+**Beat 151 · 16:38–16:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "They stand face to face on the path."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1741,7 +1939,7 @@
 &nbsp;
 
 
-**Beat 152 · 15:50–15:56 · 6s · Dialogue and character emotion**
+**Beat 152 · 16:44–16:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Then you've been drinking. Go home. Bram's jaw tightens."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1752,7 +1950,7 @@
 &nbsp;
 
 
-**Beat 153 · 15:56–16:02 · 6s · Final cliffhanger**
+**Beat 153 · 16:50–16:56 · 6s · Final cliffhanger**
 
 - **Script segment:** "BRAM: I know what I saw."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1763,7 +1961,7 @@
 &nbsp;
 
 
-**Beat 154 · 16:02–16:08 · 6s · Final cliffhanger**
+**Beat 154 · 16:56–17:02 · 6s · Final cliffhanger**
 
 - **Script segment:** "He walks away, his lantern swinging into the fog. Maren looks down at the cove, where a faint blue glow pulses beneath the black water."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1777,7 +1975,7 @@
 ### Sea cave — the last calm night
 
 
-**Beat 155 · 16:08–16:14 · 6s · Suspense and atmosphere**
+**Beat 155 · 17:02–17:08 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Candlelight flickers on the wet rock. Maren sits with her back against Tal's warm side. She stares toward the cave mouth, wide awake."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1788,7 +1986,7 @@
 &nbsp;
 
 
-**Beat 156 · 16:14–16:20 · 6s · Dialogue and character emotion**
+**Beat 156 · 17:08–17:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren turns to Tal."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1799,7 +1997,7 @@
 &nbsp;
 
 
-**Beat 157 · 16:20–16:26 · 6s · Dialogue and character emotion**
+**Beat 157 · 17:14–17:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: We have to be careful now, Tal. More careful than ever."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1810,7 +2008,7 @@
 &nbsp;
 
 
-**Beat 158 · 16:26–16:32 · 6s · Dialogue and character emotion**
+**Beat 158 · 17:20–17:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Tal tilts his head to the left, not understanding."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1821,7 +2019,7 @@
 &nbsp;
 
 
-**Beat 159 · 16:32–16:38 · 6s · Final cliffhanger**
+**Beat 159 · 17:26–17:32 · 6s · Final cliffhanger**
 
 - **Script segment:** "Tal hums three soft notes. Maren closes her eyes and leans her head against his neck. The candle burns down as they sleep."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1840,7 +2038,7 @@
 ### Harbor, dawn — the wreck
 
 
-**Beat 160 · 16:38–16:44 · 6s · Dialogue and character emotion**
+**Beat 160 · 17:32–17:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Grey dawn over the harbor reveals a boat smashed on the rocks. Close on splintered planks and shredded nets. Villagers gather around the wreck."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1851,7 +2049,7 @@
 &nbsp;
 
 
-**Beat 161 · 16:44–16:50 · 6s · Dialogue and character emotion**
+**Beat 161 · 17:38–17:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: Look at it! Teeth through the hull!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1862,7 +2060,7 @@
 &nbsp;
 
 
-**Beat 162 · 16:50–16:56 · 6s · Dialogue and character emotion**
+**Beat 162 · 17:44–17:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "JORY: The storm did that."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1873,7 +2071,7 @@
 &nbsp;
 
 
-**Beat 163 · 16:56–17:02 · 6s · Dialogue and character emotion**
+**Beat 163 · 17:50–17:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: Storms don't eat the catch!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1884,7 +2082,7 @@
 &nbsp;
 
 
-**Beat 164 · 17:02–17:08 · 6s · Dialogue and character emotion**
+**Beat 164 · 17:56–18:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: Maren goes to the cliffs every night."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1895,7 +2093,7 @@
 &nbsp;
 
 
-**Beat 165 · 17:08–17:14 · 6s · Dialogue and character emotion**
+**Beat 165 · 18:02–18:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: The widow is feeding something. Something from the sea."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1906,7 +2104,7 @@
 &nbsp;
 
 
-**Beat 166 · 17:14–17:20 · 6s · Dialogue and character emotion**
+**Beat 166 · 18:08–18:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Fearful faces in the crowd."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1917,7 +2115,7 @@
 &nbsp;
 
 
-**Beat 167 · 17:20–17:26 · 6s · Dialogue and character emotion**
+**Beat 167 · 18:14–18:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Hesk raises his hand and the crowd falls silent."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1928,7 +2126,7 @@
 &nbsp;
 
 
-**Beat 168 · 17:26–17:32 · 6s · Dialogue and character emotion**
+**Beat 168 · 18:20–18:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "HESK: Enough. We go together. At low tide. He leads the crowd off toward the cliffs."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1942,7 +2140,7 @@
 ### Bram's shed — the harpoons
 
 
-**Beat 169 · 17:32–17:38 · 6s · Suspense and atmosphere**
+**Beat 169 · 18:26–18:32 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "The whetstone scrapes along a harpoon point. Bram works with slow, heavy strokes. A young fisherman stands in the corner holding coils of rope."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1953,7 +2151,7 @@
 &nbsp;
 
 
-**Beat 170 · 17:38–17:44 · 6s · Dialogue and character emotion**
+**Beat 170 · 18:32–18:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "JORY: W-what if it's big?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1964,7 +2162,7 @@
 &nbsp;
 
 
-**Beat 171 · 17:44–17:50 · 6s · Dialogue and character emotion**
+**Beat 171 · 18:38–18:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Bram doesn't look up. BRAM: Then we bring more rope."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1975,7 +2173,7 @@
 &nbsp;
 
 
-**Beat 172 · 17:50–17:56 · 6s · Final cliffhanger**
+**Beat 172 · 18:44–18:50 · 6s · Final cliffhanger**
 
 - **Script segment:** "Close on the harpoon point pressed to his thumb. A bead of blood wells up."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -1986,13 +2184,13 @@
 &nbsp;
 
 
-**Beat 173 · 17:56–18:02 · 6s · Final cliffhanger**
+**Beat 173 · 18:50–18:56 · 6s · Final cliffhanger**
 
 - **Script segment:** "BRAM: Nobody hides things from this village. Nobody."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L6 Bram's fishing shed
 - **Attach (location + character sheets):** L6 · Bram
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Extreme close-up: a harpoon point pressed against Bram's thumb, a bead of blood. The moment in this clip: Bram looks up toward the harbor, eyes hard. Close on Bram, who is speaking. Setting: a cramped timber fishing shed, harpoons and gaffs hanging on the walls, coils of rope, a whetstone on a workbench, one small window onto the grey harbor. Early winter chill: damp cold stone and a cold draft blowing in through the doorway and the cracks around the shutters. Lighting: a single clay oil lamp and grey daylight through one small window, hard shadows. Mood: threatening. Faint breath vapor shows in the cold air. Characters: Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the clay oil lamp is a shallow fired-clay bowl of fish oil with a single wick; pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Extreme close-up: a harpoon point pressed against Bram's thumb, a bead of blood. The moment in this clip: Bram looks up toward the harbor, eyes hard. Close on Bram, who is speaking. OBJECT STATE at the start of this shot, must be clearly visible: Bram holds the harpoon, a bead of blood on his thumb. Setting: a cramped timber fishing shed, harpoons and gaffs hanging on the walls, coils of rope, a whetstone on a workbench, one small window onto the grey harbor. Early winter chill: damp cold stone and a cold draft blowing in through the doorway and the cracks around the shutters. Lighting: a single clay oil lamp and grey daylight through one small window, hard shadows. Mood: threatening. Faint breath vapor shows in the cold air. Characters: Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Fixed medieval light sources, same design in every scene: the clay oil lamp is a shallow fired-clay bowl of fish oil with a single wick; pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
 
 &nbsp;
 
@@ -2000,57 +2198,80 @@
 ### Maren's cottage — the search
 
 
-**Beat 174 · 18:02–18:08 · 6s · Shocking reveal**
+**Beat 174 — Image A — Boot at the door · 18:56–19:02 · 6s · Shocking reveal**
 
-- **Script segment:** "A boot slams into the weathered door. The door bursts open. Villagers push into the dim cottage."
+- **Action sequence:** The door (Beat 174, image A of 1)
+- **Script segment:** "At the same hour, men break down Maren's door."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Villagers
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Medium shot, handheld: the weathered door of a stone cottage bursting open as villagers force their way in. The moment in this clip: A boot slams into the weathered door. Setting: the interior of a small fieldstone cottage, a cold ash-filled hearth, an unslept straw bed, mending nets on the walls, a weathered door. Early winter chill: damp cold stone and a cold draft blowing in through the doorway and the cracks around the shutters. Lighting: dim grey daylight through a small window and doorway, dust in the air. Mood: violent. Faint breath vapor shows in the cold air. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. The villagers are people of different heights and builds, each in a different natural pose, their lights held at uneven, random heights. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Visual state requirements:** Door: still closed, splintering
+- **Continuity checklist:** previous state: Bram's men set out · current state: the door is being kicked · visible proof: the boot striking the door · next state: it bursts open
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, low angle from inside the cottage: the closed weathered door of Maren's cottage seen from inside, the door frame splintering as a boot slams into it from outside. VISIBLE STATE, must be clearly shown: Door: still closed, splintering. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. Setting: the interior of a small fieldstone cottage, a cold ash-filled hearth, an unslept straw bed, mending nets on the walls, a weathered door. Early winter chill: damp cold stone and a cold draft blowing in through the doorway and the cracks around the shutters. Lighting: dim grey daylight through a small window and doorway, dust in the air. Mood: violent. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 175 · 18:08–18:14 · 6s · Suspense and atmosphere**
+**Beat 175 · 19:02–19:08 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Hands rip the straw bed apart. Nets and baskets are thrown across the floor. Dust and straw hang in the air."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Villagers
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Wide shot: villagers ransacking a small stone cottage, nets and baskets thrown across the floor. The moment in this clip: Hands rip the straw bed apart. Setting: the interior of a small fieldstone cottage, a cold ash-filled hearth, an unslept straw bed, mending nets on the walls, a weathered door. Early winter chill: damp cold stone and a cold draft blowing in through the doorway and the cracks around the shutters. Lighting: dim grey daylight through a small window and doorway, dust in the air. Mood: violating, tense. Faint breath vapor shows in the cold air. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. The villagers are people of different heights and builds, each in a different natural pose, their lights held at uneven, random heights. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Wide shot: villagers ransacking a small stone cottage, nets and baskets thrown across the floor. The moment in this clip: Hands rip the straw bed apart. OBJECT STATE at the start of this shot, must be clearly visible: the cottage door hangs broken open behind the villagers. Setting: the interior of a small fieldstone cottage, a cold ash-filled hearth, an unslept straw bed, mending nets on the walls, a weathered door. Early winter chill: damp cold stone and a cold draft blowing in through the doorway and the cracks around the shutters. Lighting: dim grey daylight through a small window and doorway, dust in the air. Mood: violating, tense. Faint breath vapor shows in the cold air. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. The villagers are people of different heights and builds, each in a different natural pose, their lights held at uneven, random heights. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 176 · 18:14–18:20 · 6s · Shocking reveal**
+**Beat 176 — Image A — Hand under the bed · 19:08–19:14 · 6s · Shocking reveal**
 
-- **Script segment:** "A hand reaches under the bed. It pulls out something that catches the light. Close on a blush-pink scale bigger than a man's hand."
+- **Action sequence:** Finding the scale (Beat 176, image A of 2)
+- **Script segment:** "Then, under the bed, one of them finds it. A single scale. Blush-pink, with a pearly sheen. Bigger than a man's hand."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Villagers
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Extreme close-up: a single blush-pink dragon scale, larger than a man's hand, held up in a rough palm. The moment in this clip: A hand reaches under the bed. Setting: the interior of a small fieldstone cottage, a cold ash-filled hearth, an unslept straw bed, mending nets on the walls, a weathered door. Early winter chill: damp cold stone and a cold draft blowing in through the doorway and the cracks around the shutters. Lighting: dim grey daylight through a small window and doorway, dust in the air. Mood: shock. Faint breath vapor shows in the cold air. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. The villagers are people of different heights and builds, each in a different natural pose, their lights held at uneven, random heights. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Visual state requirements:** Hand: empty, reaching under the bed
+- **Continuity checklist:** previous state: they tore the cottage apart · current state: a hand reaches under the bed · visible proof: the empty hand going into the dark · next state: it finds something
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. CLOSE SHOT, low angle: close on a villager's empty hand reaching under the torn-apart straw bed into the dark. VISIBLE STATE, must be clearly shown: Hand: empty, reaching under the bed. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. Setting: the interior of a small fieldstone cottage, a cold ash-filled hearth, an unslept straw bed, mending nets on the walls, a weathered door. Early winter chill: damp cold stone and a cold draft blowing in through the doorway and the cracks around the shutters. Lighting: dim grey daylight through a small window and doorway, dust in the air. Mood: shock. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 177 · 18:20–18:26 · 6s · Final cliffhanger**
+**Beat 176b — Image B — The scale in his hand · 19:14–19:20 · 6s · Shocking reveal**
 
-- **Script segment:** "Hesk takes the scale and turns it in the grey light. HESK: So. It's true."
+- **Action sequence:** Finding the scale (Beat 176, image B of 2)
+- **Script segment:** (continues Beat 176)
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** L7 Maren's cottage
+- **Attach (location + character sheets):** L7 · Villagers
+- **Visual state requirements:** Dragon scale: in the villager's hand, held up
+- **Continuity checklist:** previous state: he pulled something out · current state: he holds up the scale · visible proof: the pink scale in his hand · next state: it goes to Hesk
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. CLOSE-UP INSERT, eye level: close-up of the villager's hand holding up a single blush-pink dragon scale, bigger than his hand, catching the grey light. VISIBLE STATE, must be clearly shown: Dragon scale: in the villager's hand, held up. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. Setting: the interior of a small fieldstone cottage, a cold ash-filled hearth, an unslept straw bed, mending nets on the walls, a weathered door. Early winter chill: damp cold stone and a cold draft blowing in through the doorway and the cracks around the shutters. Lighting: dim grey daylight through a small window and doorway, dust in the air. Mood: shock. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+
+&nbsp;
+
+
+**Beat 177 — Image A — Scale in Hesk's hand · 19:20–19:26 · 6s · Final cliffhanger**
+
+- **Action sequence:** Hesk holds the scale (Beat 177, image A of 1)
+- **Script segment:** "HESK: So. It's true. He closes his hand around the scale. And for the first time, the elder looks afraid."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Hesk
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Close-up: Hesk in the doorway of the ransacked cottage holding a blush-pink scale, his face grim. The moment in this clip: Hesk takes the scale and turns it in the grey light. Close on Hesk, who is speaking. Setting: the interior of a small fieldstone cottage, a cold ash-filled hearth, an unslept straw bed, mending nets on the walls, a weathered door. Early winter chill: damp cold stone and a cold draft blowing in through the doorway and the cracks around the shutters. Lighting: dim grey daylight through a small window and doorway, dust in the air. Mood: dread. Faint breath vapor shows in the cold air. Characters: Hesk, a village elder about 70 with a long white beard, wearing a heavy hooded cloak of shaggy brown and grey wolf pelts, the hood up, over a long tan deer-hide tunic with a brown leather belt, fur-trimmed deer-hide boots laced with leather thongs, and holding a tall wooden staff carved with spirals and wave patterns. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Visual state requirements:** Dragon scale: in Hesk's hand
+- **Continuity checklist:** previous state: the villager found the scale · current state: Hesk holds it · visible proof: the scale between his fingers · next state: he closes his hand
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE SHOT, slight low angle: Hesk standing in the ransacked cottage holding the blush-pink dragon scale between his fingers, studying it in the grey light from the doorway. VISIBLE STATE, must be clearly shown: Dragon scale: in Hesk's hand. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Hesk, a village elder about 70 with a long white beard, wearing a heavy hooded cloak of shaggy brown and grey wolf pelts, the hood up, over a long tan deer-hide tunic with a brown leather belt, fur-trimmed deer-hide boots laced with leather thongs, and holding a tall wooden staff carved with spirals and wave patterns. Setting: the interior of a small fieldstone cottage, a cold ash-filled hearth, an unslept straw bed, mending nets on the walls, a weathered door. Early winter chill: damp cold stone and a cold draft blowing in through the doorway and the cracks around the shutters. Lighting: dim grey daylight through a small window and doorway, dust in the air. Mood: dread. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 178 · 18:26–18:32 · 6s · Final cliffhanger**
+**Beat 178 · 19:26–19:32 · 6s · Final cliffhanger**
 
 - **Script segment:** "His hand closes around it; fear crosses his face."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Hesk
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Close-up: Hesk in the doorway of the ransacked cottage holding a blush-pink scale, his face grim. The moment in this clip: His hand closes around it; fear crosses his face. Setting: the interior of a small fieldstone cottage, a cold ash-filled hearth, an unslept straw bed, mending nets on the walls, a weathered door. Early winter chill: damp cold stone and a cold draft blowing in through the doorway and the cracks around the shutters. Lighting: dim grey daylight through a small window and doorway, dust in the air. Mood: dread. Faint breath vapor shows in the cold air. Characters: Hesk, a village elder about 70 with a long white beard, wearing a heavy hooded cloak of shaggy brown and grey wolf pelts, the hood up, over a long tan deer-hide tunic with a brown leather belt, fur-trimmed deer-hide boots laced with leather thongs, and holding a tall wooden staff carved with spirals and wave patterns. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Close-up: Hesk in the doorway of the ransacked cottage holding a blush-pink scale, his face grim. The moment in this clip: His hand closes around it; fear crosses his face. OBJECT STATE at the start of this shot, must be clearly visible: Hesk holds the blush-pink dragon scale in his hand. Setting: the interior of a small fieldstone cottage, a cold ash-filled hearth, an unslept straw bed, mending nets on the walls, a weathered door. Early winter chill: damp cold stone and a cold draft blowing in through the doorway and the cracks around the shutters. Lighting: dim grey daylight through a small window and doorway, dust in the air. Mood: dread. Faint breath vapor shows in the cold air. Characters: Hesk, a village elder about 70 with a long white beard, wearing a heavy hooded cloak of shaggy brown and grey wolf pelts, the hood up, over a long tan deer-hide tunic with a brown leather belt, fur-trimmed deer-hide boots laced with leather thongs, and holding a tall wooden staff carved with spirals and wave patterns. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
@@ -2058,7 +2279,7 @@
 ### Sea cave — the warning
 
 
-**Beat 179 · 18:32–18:38 · 6s · Dialogue and character emotion**
+**Beat 179 · 19:32–19:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren runs into the cave, breathless. Tal lifts his head."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2069,7 +2290,7 @@
 &nbsp;
 
 
-**Beat 180 · 18:38–18:44 · 6s · Dialogue and character emotion**
+**Beat 180 · 19:38–19:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Tal, they're coming. You have to go. Out to sea."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2080,7 +2301,7 @@
 &nbsp;
 
 
-**Beat 181 · 18:44–18:50 · 6s · Suspense and atmosphere**
+**Beat 181 · 19:44–19:50 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Tal refuses to move. He plants his feet on the stone and lowers his head, refusing to move. He presses his head against her chest."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2091,7 +2312,7 @@
 &nbsp;
 
 
-**Beat 182 · 18:50–18:56 · 6s · Dialogue and character emotion**
+**Beat 182 · 19:50–19:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Please. Stay low. Stay quiet. Go!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2102,7 +2323,7 @@
 &nbsp;
 
 
-**Beat 183 · 18:56–19:02 · 6s · Dialogue and character emotion**
+**Beat 183 · 19:56–20:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "She pushes his snout toward the water. Close on Tal's sad eye."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2116,7 +2337,7 @@
 ### Cave mouth — the mob
 
 
-**Beat 184 · 19:02–19:08 · 6s · Major climax**
+**Beat 184 · 20:02–20:08 · 6s · Major climax**
 
 - **Script segment:** "A line of torches at a sea cave mouth at low tide, villagers pushing in, a horse-sized sea dragon rising behind a woman."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2127,7 +2348,7 @@
 &nbsp;
 
 
-**Beat 185 · 19:08–19:14 · 6s · Major climax**
+**Beat 185 · 20:08–20:14 · 6s · Major climax**
 
 - **Script segment:** "A line of torches at a sea cave mouth at low tide, villagers pushing in, a horse-sized sea dragon rising behind a woman."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2138,7 +2359,7 @@
 &nbsp;
 
 
-**Beat 186 · 19:14–19:20 · 6s · Major climax**
+**Beat 186 · 20:14–20:20 · 6s · Major climax**
 
 - **Script segment:** "A line of torches at a sea cave mouth at low tide, villagers pushing in, a horse-sized sea dragon rising behind a woman."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2149,7 +2370,7 @@
 &nbsp;
 
 
-**Beat 187 · 19:20–19:26 · 6s · Dialogue and character emotion**
+**Beat 187 · 20:20–20:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: Mother of mercy."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2160,7 +2381,7 @@
 &nbsp;
 
 
-**Beat 188 · 19:26–19:32 · 6s · Dialogue and character emotion**
+**Beat 188 · 20:26–20:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: Witch! She gave birth to a sea devil!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2171,7 +2392,7 @@
 &nbsp;
 
 
-**Beat 189 · 19:32–19:38 · 6s · Dialogue and character emotion**
+**Beat 189 · 20:32–20:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: He's a child! He has never hurt anyone!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2182,7 +2403,7 @@
 &nbsp;
 
 
-**Beat 190 · 19:38–19:44 · 6s · Dialogue and character emotion**
+**Beat 190 · 20:38–20:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: My boat says otherwise!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2193,7 +2414,7 @@
 &nbsp;
 
 
-**Beat 191 · 19:44–19:50 · 6s · Dialogue and character emotion**
+**Beat 191 · 20:44–20:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Tal growls and a fiery orange glow swells in his throat."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2204,7 +2425,7 @@
 &nbsp;
 
 
-**Beat 192 · 19:50–19:56 · 6s · Dialogue and character emotion**
+**Beat 192 · 20:50–20:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "JORY: Look at its eyes. It's going to burn us all!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2215,7 +2436,7 @@
 &nbsp;
 
 
-**Beat 193 · 19:56–20:02 · 6s · Dialogue and character emotion**
+**Beat 193 · 20:56–21:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: No, Tal. Not them. Never them."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2226,7 +2447,7 @@
 &nbsp;
 
 
-**Beat 194 · 20:02–20:08 · 6s · Dialogue and character emotion**
+**Beat 194 · 21:02–21:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Men hurl weighted nets and ropes over him. Tal thrashes under the nets."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2237,7 +2458,7 @@
 &nbsp;
 
 
-**Beat 195 · 20:08–20:14 · 6s · Major climax**
+**Beat 195 · 21:08–21:14 · 6s · Major climax**
 
 - **Script segment:** "MAREN: Let him go!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2248,7 +2469,7 @@
 &nbsp;
 
 
-**Beat 196 · 20:14–20:20 · 6s · Major climax**
+**Beat 196 · 21:14–21:20 · 6s · Major climax**
 
 - **Script segment:** "BRAM: Hold her!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2259,7 +2480,7 @@
 &nbsp;
 
 
-**Beat 197 · 20:20–20:26 · 6s · Major climax**
+**Beat 197 · 21:20–21:26 · 6s · Major climax**
 
 - **Script segment:** "MAREN: Tal, swim! Don't look back! Swim!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2270,7 +2491,7 @@
 &nbsp;
 
 
-**Beat 198 · 20:26–20:32 · 6s · Major climax**
+**Beat 198 · 21:26–21:32 · 6s · Major climax**
 
 - **Script segment:** "Tal tears through the nets and dives into the sea in a burst of spray."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2281,7 +2502,7 @@
 &nbsp;
 
 
-**Beat 199 · 20:32–20:38 · 6s · Final cliffhanger**
+**Beat 199 · 21:32–21:38 · 6s · Final cliffhanger**
 
 - **Script segment:** "The water settles; Tal is gone."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2292,7 +2513,7 @@
 &nbsp;
 
 
-**Beat 200 · 20:38–20:44 · 6s · Final cliffhanger**
+**Beat 200 · 21:38–21:44 · 6s · Final cliffhanger**
 
 - **Script segment:** "MAREN: He'll hear me. Wherever he is, he'll hear me."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2303,7 +2524,7 @@
 &nbsp;
 
 
-**Beat 201 · 20:44–20:50 · 6s · Final cliffhanger**
+**Beat 201 · 21:44–21:50 · 6s · Final cliffhanger**
 
 - **Script segment:** "BRAM: Let him come. We'll have harpoons waiting."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2317,7 +2538,7 @@
 ### Beneath the waves — Tal waits
 
 
-**Beat 202 · 20:50–20:56 · 6s · Suspense and atmosphere**
+**Beat 202 · 21:50–21:56 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "A vast shape circles slowly in the dark water. Tal's glowing veins pulse dimly. He turns back toward the shore again and again."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2328,7 +2549,7 @@
 &nbsp;
 
 
-**Beat 203 · 20:56–21:02 · 6s · Suspense and atmosphere**
+**Beat 203 · 21:56–22:02 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Tal lifts his head and lets out a long whale-song call. Shoals of fish scatter from the kelp. The call fades into the dark."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2339,7 +2560,7 @@
 &nbsp;
 
 
-**Beat 204 · 21:02–21:08 · 6s · Final cliffhanger**
+**Beat 204 · 22:02–22:08 · 6s · Final cliffhanger**
 
 - **Script segment:** "Tal sinks to the sea floor. He curls his tail around a rock. His glowing eye stays open, fixed on the surface."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2353,7 +2574,7 @@
 ### Village square — the judgment
 
 
-**Beat 205 · 21:08–21:14 · 6s · Suspense and atmosphere**
+**Beat 205 · 22:08–22:14 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "The whole village gathers in the square. Maren kneels alone on the stones. Close on her rope-bound wrists."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2364,7 +2585,7 @@
 &nbsp;
 
 
-**Beat 206 · 21:14–21:20 · 6s · Dialogue and character emotion**
+**Beat 206 · 22:14–22:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "HESK: Maren. Did you give birth to that creature?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2375,7 +2596,7 @@
 &nbsp;
 
 
-**Beat 207 · 21:20–21:26 · 6s · Dialogue and character emotion**
+**Beat 207 · 22:20–22:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren lifts her head."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2386,7 +2607,7 @@
 &nbsp;
 
 
-**Beat 208 · 21:26–21:32 · 6s · Dialogue and character emotion**
+**Beat 208 · 22:26–22:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: I gave birth to my son."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2397,7 +2618,7 @@
 &nbsp;
 
 
-**Beat 209 · 21:32–21:38 · 6s · Dialogue and character emotion**
+**Beat 209 · 22:32–22:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Bram pushes forward."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2408,7 +2629,7 @@
 &nbsp;
 
 
-**Beat 210 · 21:38–21:44 · 6s · Dialogue and character emotion**
+**Beat 210 · 22:38–22:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: She admits it! The crowd murmurs and stirs."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2419,7 +2640,7 @@
 &nbsp;
 
 
-**Beat 211 · 21:44–21:50 · 6s · Dialogue and character emotion**
+**Beat 211 · 22:44–22:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Hesk raises his staff."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2430,7 +2651,7 @@
 &nbsp;
 
 
-**Beat 212 · 21:50–21:56 · 6s · Dialogue and character emotion**
+**Beat 212 · 22:50–22:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "HESK: The law is old. Let the sea judge her."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2441,7 +2662,7 @@
 &nbsp;
 
 
-**Beat 213 · 21:56–22:02 · 6s · Dialogue and character emotion**
+**Beat 213 · 22:56–23:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "A cold gust sweeps the square."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2452,7 +2673,7 @@
 &nbsp;
 
 
-**Beat 214 · 22:02–22:08 · 6s · Dialogue and character emotion**
+**Beat 214 · 23:02–23:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Odile steps forward."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2463,7 +2684,7 @@
 &nbsp;
 
 
-**Beat 215 · 22:08–22:14 · 6s · Dialogue and character emotion**
+**Beat 215 · 23:08–23:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: Hesk, she's one of us."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2474,7 +2695,7 @@
 &nbsp;
 
 
-**Beat 216 · 22:14–22:20 · 6s · Dialogue and character emotion**
+**Beat 216 · 23:14–23:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "HESK: She was."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2485,7 +2706,7 @@
 &nbsp;
 
 
-**Beat 217 · 22:20–22:26 · 6s · Dialogue and character emotion**
+**Beat 217 · 23:20–23:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren looks up at Hesk. MAREN: Hesk, you held my hand at Talen's burial."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2496,7 +2717,7 @@
 &nbsp;
 
 
-**Beat 218 · 22:26–22:32 · 6s · Dialogue and character emotion**
+**Beat 218 · 23:26–23:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: You told me I was not alone. Close on her tearful eyes."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2507,7 +2728,7 @@
 &nbsp;
 
 
-**Beat 219 · 22:32–22:38 · 6s · Final cliffhanger**
+**Beat 219 · 23:32–23:38 · 6s · Final cliffhanger**
 
 - **Script segment:** "HESK: And you lied to all of us."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2518,7 +2739,7 @@
 &nbsp;
 
 
-**Beat 220 · 22:38–22:44 · 6s · Final cliffhanger**
+**Beat 220 · 23:38–23:44 · 6s · Final cliffhanger**
 
 - **Script segment:** "HESK: The sea will decide what you are. He turns his back."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2529,7 +2750,7 @@
 &nbsp;
 
 
-**Beat 221 · 22:44–22:50 · 6s · Final cliffhanger**
+**Beat 221 · 23:44–23:50 · 6s · Final cliffhanger**
 
 - **Script segment:** "Men lift Maren to her feet and lead her toward the cliffs."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2543,7 +2764,7 @@
 ### Cliff path — the procession
 
 
-**Beat 222 · 22:50–22:56 · 6s · Suspense and atmosphere**
+**Beat 222 · 23:50–23:56 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "A long procession of villagers walking a bound woman up a windswept cliff path."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2554,7 +2775,7 @@
 &nbsp;
 
 
-**Beat 223 · 22:56–23:02 · 6s · Suspense and atmosphere**
+**Beat 223 · 23:56–24:02 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "A long procession of villagers walking a bound woman up a windswept cliff path."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2565,7 +2786,7 @@
 &nbsp;
 
 
-**Beat 224 · 23:02–23:08 · 6s · Suspense and atmosphere**
+**Beat 224 · 24:02–24:08 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "A long procession of villagers walking a bound woman up a windswept cliff path."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2576,7 +2797,7 @@
 &nbsp;
 
 
-**Beat 225 · 23:08–23:14 · 6s · Suspense and atmosphere**
+**Beat 225 · 24:08–24:14 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Close on Maren humming quietly as she walks. Villagers behind her glance at each other uneasily. The wind carries the three notes out over the sea."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2587,7 +2808,7 @@
 &nbsp;
 
 
-**Beat 226 · 23:14–23:20 · 6s · Dialogue and character emotion**
+**Beat 226 · 24:14–24:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Odile goes pale and grabs a young fisherman's sleeve."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2598,7 +2819,7 @@
 &nbsp;
 
 
-**Beat 227 · 23:20–23:26 · 6s · Dialogue and character emotion**
+**Beat 227 · 24:20–24:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: That song. I heard that song in the fog."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2609,7 +2830,7 @@
 &nbsp;
 
 
-**Beat 228 · 23:26–23:32 · 6s · Dialogue and character emotion**
+**Beat 228 · 24:26–24:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "He pulls away, frightened, and the procession keeps walking."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2620,13 +2841,16 @@
 &nbsp;
 
 
-**Beat 229 · 23:32–23:38 · 6s · Suspense and atmosphere**
+**Beat 229 — Image A — Hand on the grooves · 24:32–24:38 · 6s · Suspense and atmosphere**
 
-- **Script segment:** "Hesk reaches the ancient stone at the cliff top. He lays his hand on the rope grooves. His hand trembles; then he grips his staff and turns away."
+- **Action sequence:** The drowning stone (Beat 229, image A of 1)
+- **Script segment:** "At the top, Hesk stops by the old stone. For a moment, his hand shakes on his staff."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Hesk
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Close-up: Hesk's hand on the rope grooves of an ancient stone at the cliff top, trembling. The moment in this clip: Hesk reaches the ancient stone at the cliff top. Setting: the edge of a high black basalt sea cliff, gale wind, the churning sea far below. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: conflicted. Faint breath vapor shows in the cold air. Characters: Hesk, a village elder about 70 with a long white beard, wearing a heavy hooded cloak of shaggy brown and grey wolf pelts, the hood up, over a long tan deer-hide tunic with a brown leather belt, fur-trimmed deer-hide boots laced with leather thongs, and holding a tall wooden staff carved with spirals and wave patterns. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Visual state requirements:** Hesk's left hand: on the stone; Staff: in Hesk's right hand
+- **Continuity checklist:** previous state: the procession reached the top · current state: his hand rests on the grooves · visible proof: his hand flat on the rope grooves · next state: he turns away
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, low angle: Hesk at the ancient stone on the cliff top, his left hand flat on the deep rope grooves worn into the stone, his carved staff in his right hand. VISIBLE STATE, must be clearly shown: Hesk's left hand: on the stone; Staff: in Hesk's right hand. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Hesk, a village elder about 70 with a long white beard, wearing a heavy hooded cloak of shaggy brown and grey wolf pelts, the hood up, over a long tan deer-hide tunic with a brown leather belt, fur-trimmed deer-hide boots laced with leather thongs, and holding a tall wooden staff carved with spirals and wave patterns. Setting: the edge of a high black basalt sea cliff, gale wind, the churning sea far below. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: conflicted. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
@@ -2634,7 +2858,7 @@
 ### Cliff edge — the fall
 
 
-**Beat 230 · 23:38–23:44 · 6s · Suspense and atmosphere**
+**Beat 230 · 24:38–24:44 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "A still wide view over the high cliff. The crowd stands at the edge, torches guttering. Maren stands at the front, hair whipping in the wind."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2645,68 +2869,85 @@
 &nbsp;
 
 
-**Beat 231 · 23:44–23:50 · 6s · Suspense and atmosphere**
+**Beat 231 — Image A — Rope in their hands · 24:44–24:50 · 6s · Suspense and atmosphere**
 
-- **Script segment:** "Hands knot rope around her ankles. The rope is tied to a heavy stone. Odile turns away, weeping."
+- **Action sequence:** Tying the stone (Beat 231, image A of 2)
+- **Script segment:** "They tie a stone to Maren's ankles. The old way."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
-- **Attach (location + character sheets):** L10 · Maren (winter sheet), Bram
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Close-up: rough hands knotting rope around Maren's ankles, a heavy stone beside them. The moment in this clip: Hands knot rope around her ankles. Setting: the edge of a high black basalt sea cliff, gale wind, the churning sea far below. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: cruel. Faint breath vapor shows in the cold air. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Attach (location + character sheets):** L10 · Maren (winter sheet), Bram, Villagers
+- **Visual state requirements:** Rope: coiled in their hands, not yet tied; Heavy stone: on the ground beside her feet
+- **Continuity checklist:** previous state: the crowd stood at the cliff edge · current state: they kneel at her feet with the rope · visible proof: the rope in their hands, her ankles still free · next state: they tie it
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, low angle: at the cliff edge, Bram and a villager kneeling at Maren's feet holding a coil of rope; a heavy stone lies on the ground beside her feet; the rope is not yet tied. VISIBLE STATE, must be clearly shown: Rope: coiled in their hands, not yet tied; Heavy stone: on the ground beside her feet. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. Setting: the edge of a high black basalt sea cliff, gale wind, the churning sea far below. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: cruel. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 232 · 23:50–23:56 · 6s · Suspense and atmosphere**
+**Beat 231b — Image B — Tied to the stone · 24:50–24:56 · 6s · Suspense and atmosphere**
+
+- **Action sequence:** Tying the stone (Beat 231, image B of 2)
+- **Script segment:** (continues Beat 231)
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** L10 The cliff edge and the drowning stone
+- **Attach (location + character sheets):** L10 · Maren (winter sheet), Odile, Villagers
+- **Visual state requirements:** Rope: knotted around Maren's ankles and tied to the stone; Heavy stone: tied, at her feet
+- **Continuity checklist:** previous state: they knotted the rope · current state: she is bound to the stone · visible proof: the rope from her ankles to the stone · next state: she looks out to sea
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: Maren standing at the cliff edge, her ankles knotted with rope that runs to a heavy stone tied up in the rope at her feet; behind her, Odile in faded red turning her face away, weeping. VISIBLE STATE, must be clearly shown: Rope: knotted around Maren's ankles and tied to the stone; Heavy stone: tied, at her feet. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Odile, a woman about 45 with grey-streaked hair and ruddy weathered cheeks, wearing a long faded brick-red wool dress with long sleeves, a thick faded red wool shawl with long fringes draped over her head as a hood and crossed over her chest, an oatmeal linen apron tied at the waist, and worn brown leather shoes; villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. Setting: the edge of a high black basalt sea cliff, gale wind, the churning sea far below. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: cruel. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+
+&nbsp;
+
+
+**Beat 232 · 24:56–25:02 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Maren looks out over the edge. The churning sea far below. Her face is calm, almost serene."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Close-up, 85mm: Maren at the cliff edge, hair whipping, looking down at the sea with calm eyes. The moment in this clip: Maren looks out over the edge. Setting: the edge of a high black basalt sea cliff, gale wind, the churning sea far below. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: serene. Faint breath vapor shows in the cold air. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Close-up, 85mm: Maren at the cliff edge, hair whipping, looking down at the sea with calm eyes. The moment in this clip: Maren looks out over the edge. OBJECT STATE at the start of this shot, must be clearly visible: rope is knotted around Maren's ankles and tied to a heavy stone at her feet. Setting: the edge of a high black basalt sea cliff, gale wind, the churning sea far below. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: serene. Faint breath vapor shows in the cold air. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 233 · 23:56–24:02 · 6s · Dialogue and character emotion**
+**Beat 233 · 25:02–25:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren closes her eyes."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet), Hesk
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; on the RIGHT of the frame, about 3 meters away, Hesk, a village elder about 70 with a long white beard, wearing a heavy hooded cloak of shaggy brown and grey wolf pelts, the hood up, over a long tan deer-hide tunic with a brown leather belt, fur-trimmed deer-hide boots laced with leather thongs, and holding a tall wooden staff carved with spirals and wave patterns. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Maren closes her eyes. Setting: the edge of a high black basalt sea cliff, gale wind, the churning sea far below. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: serene. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; on the RIGHT of the frame, about 3 meters away, Hesk, a village elder about 70 with a long white beard, wearing a heavy hooded cloak of shaggy brown and grey wolf pelts, the hood up, over a long tan deer-hide tunic with a brown leather belt, fur-trimmed deer-hide boots laced with leather thongs, and holding a tall wooden staff carved with spirals and wave patterns. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Maren closes her eyes. OBJECT STATE at the start of this shot, must be clearly visible: rope is knotted around Maren's ankles and tied to a heavy stone at her feet. Setting: the edge of a high black basalt sea cliff, gale wind, the churning sea far below. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: serene. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 234 · 24:02–24:08 · 6s · Dialogue and character emotion**
+**Beat 234 · 25:08–25:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: The sea keeps what it loves. Hesk stands unmoved behind her."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet), Hesk
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT at eye level: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots, on the left of the frame, speaking; Hesk, a village elder about 70 with a long white beard, wearing a heavy hooded cloak of shaggy brown and grey wolf pelts, the hood up, over a long tan deer-hide tunic with a brown leather belt, fur-trimmed deer-hide boots laced with leather thongs, and holding a tall wooden staff carved with spirals and wave patterns, on the right of the frame, about 2 meters away. They are turned toward each other, each about three-quarters to the camera so both faces are clearly visible, eyes on each other; never looking into the lens. The moment: Hesk stands unmoved behind her. Setting: the edge of a high black basalt sea cliff, gale wind, the churning sea far below. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: serene. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT at eye level: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots, on the left of the frame, speaking; Hesk, a village elder about 70 with a long white beard, wearing a heavy hooded cloak of shaggy brown and grey wolf pelts, the hood up, over a long tan deer-hide tunic with a brown leather belt, fur-trimmed deer-hide boots laced with leather thongs, and holding a tall wooden staff carved with spirals and wave patterns, on the right of the frame, about 2 meters away. They are turned toward each other, each about three-quarters to the camera so both faces are clearly visible, eyes on each other; never looking into the lens. The moment: Hesk stands unmoved behind her. OBJECT STATE at the start of this shot, must be clearly visible: rope is knotted around Maren's ankles and tied to a heavy stone at her feet. Setting: the edge of a high black basalt sea cliff, gale wind, the churning sea far below. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: serene. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 235 · 24:08–24:14 · 6s · Shocking reveal**
+**Beat 235 · 25:14–25:20 · 6s · Shocking reveal**
 
 - **Script segment:** "Bram steps up behind her. He shoves her. Maren tips backward over the edge."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Bram, Maren (winter sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Medium shot: Bram stepping up behind Maren at the cliff edge, hands raised. The moment in this clip: Bram steps up behind her. Setting: the edge of a high black basalt sea cliff, gale wind, the churning sea far below. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: brutal. Faint breath vapor shows in the cold air. Characters: Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Medium shot: Bram stepping up behind Maren at the cliff edge, hands raised. The moment in this clip: Bram steps up behind her. OBJECT STATE at the start of this shot, must be clearly visible: rope is knotted around Maren's ankles and tied to a heavy stone at her feet. Setting: the edge of a high black basalt sea cliff, gale wind, the churning sea far below. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: brutal. Faint breath vapor shows in the cold air. Characters: Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 236 · 24:14–24:20 · 6s · Major climax**
+**Beat 236 · 25:20–25:26 · 6s · Major climax**
 
 - **Script segment:** "In slow motion she falls down the cliff face, black cloak streaming. She hits the sea in a white splash. Underwater, the stone drags her down into deep blue."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Wide shot, slow motion: Maren falling down the cliff face toward the dark sea, her black cloak streaming. The moment in this clip: In slow motion she falls down the cliff face, black cloak streaming. Setting: the edge of a high black basalt sea cliff, gale wind, the churning sea far below. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: tragic. Faint breath vapor shows in the cold air. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Wide shot, slow motion: Maren falling down the cliff face toward the dark sea, her black cloak streaming. The moment in this clip: In slow motion she falls down the cliff face, black cloak streaming. OBJECT STATE at the start of this shot, must be clearly visible: rope is knotted around Maren's ankles and tied to a heavy stone, which falls with her. Setting: the edge of a high black basalt sea cliff, gale wind, the churning sea far below. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: flat diffused overcast storm light, soft and cold, sea spray in the air. Mood: tragic. Faint breath vapor shows in the cold air. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
@@ -2719,7 +2960,7 @@
 ### Underwater — the rescue
 
 
-**Beat 237 · 24:20–24:26 · 6s · Dialogue and character emotion**
+**Beat 237 · 25:26–25:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren sinks, hair floating. Bubbles escape her lips. The surface light fades far above."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2730,7 +2971,7 @@
 &nbsp;
 
 
-**Beat 238 · 24:26–24:32 · 6s · Dialogue and character emotion**
+**Beat 238 · 25:32–25:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren's eyes close underwater. Dissolve to a glowing memory of newborn Tal by the rock pool. ."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2741,7 +2982,7 @@
 &nbsp;
 
 
-**Beat 239 · 24:32–24:38 · 6s · Dialogue and character emotion**
+**Beat 239 · 25:38–25:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Dissolve to the memory of Maren at the hidden basket. . Dissolve back to Maren sinking, peaceful."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2752,7 +2993,7 @@
 &nbsp;
 
 
-**Beat 240 · 24:38–24:44 · 6s · Dialogue and character emotion**
+**Beat 240 · 25:44–25:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Dissolve to Tal tearing free of the nets. . Back underwater, Maren's last bubble rises."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2763,7 +3004,7 @@
 &nbsp;
 
 
-**Beat 241 · 24:44–24:50 · 6s · Shocking reveal**
+**Beat 241 · 25:50–25:56 · 6s · Shocking reveal**
 
 - **Script segment:** "A vast shadow moves in the dark. Electric-violet veins light up along its body. A luminous violet eye approaches Maren."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2774,13 +3015,30 @@
 &nbsp;
 
 
-**Beat 242 · 24:50–24:56 · 6s · Major climax**
+**Beat 242 — Image A — Jaws on the rope · 25:56–26:02 · 6s · Major climax**
 
-- **Script segment:** "Tal bites through the rope. He lifts Maren onto his snout. He surges upward and breaches the surface in an explosion of water."
+- **Action sequence:** The rescue underwater (Beat 242, image A of 2)
+- **Script segment:** "Tal. Fully grown. He bites through the rope and carries her up toward the light."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** Tal (adult sheet), Maren (winter sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Medium shot: the horse-sized sea dragon biting through the rope tied to Maren's ankles. The moment in this clip: Tal bites through the rope. Setting: deep underwater in a cold northern sea, drifting particles, kelp shadows, light fading from the surface far above. Early winter: the sea is cold, dark and grey-green, with dim grey daylight far above. Lighting: darkness pierced by soft violet glow. Mood: triumphant. Characters: Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
+- **Visual state requirements:** Rope: tied to her ankles and the stone, in Tal's jaws; Stone: below, pulling down
+- **Continuity checklist:** previous state: his eye approached her · current state: his jaws are on the rope · visible proof: the rope between his teeth · next state: he bites through
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, underwater: deep underwater: Maren's limp body hanging in the dark water, the rope from her ankles running down to the heavy stone below; Tal's jaws closing on the rope between her ankles and the stone. VISIBLE STATE, must be clearly shown: Rope: tied to her ankles and the stone, in Tal's jaws; Stone: below, pulling down. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. Setting: deep underwater in a cold northern sea, drifting particles, kelp shadows, light fading from the surface far above. Early winter: the sea is cold, dark and grey-green, with dim grey daylight far above. Lighting: darkness pierced by soft violet glow. Mood: triumphant. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
+
+&nbsp;
+
+
+**Beat 242b — Image B — On his snout · 26:02–26:08 · 6s · Major climax**
+
+- **Action sequence:** The rescue underwater (Beat 242, image B of 2)
+- **Script segment:** (continues Beat 242)
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** none (open sea or underwater)
+- **Attach (location + character sheets):** Tal (adult sheet), Maren (winter sheet)
+- **Visual state requirements:** Rope: cut, trailing from her ankles; Maren: across Tal's snout
+- **Continuity checklist:** previous state: he cut the rope · current state: she lies on his snout · visible proof: her body on his head, the rope cut · next state: he surfaces
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, underwater, low angle: underwater: Maren's limp body lying across Tal's snout and the top of his head, a cut rope end trailing from her ankles, light far above. VISIBLE STATE, must be clearly shown: Rope: cut, trailing from her ankles; Maren: across Tal's snout. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. Setting: deep underwater in a cold northern sea, drifting particles, kelp shadows, light fading from the surface far above. Early winter: the sea is cold, dark and grey-green, with dim grey daylight far above. Lighting: darkness pierced by soft violet glow. Mood: triumphant. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
 
 &nbsp;
 
@@ -2788,29 +3046,29 @@
 ### Hidden beach, night
 
 
-**Beat 243 · 24:56–25:02 · 6s · Suspense and atmosphere**
+**Beat 243 · 26:08–26:14 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Moonlit surf slides up the black sand. Maren lies motionless beside the dragon. She coughs up seawater and gasps, alive."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Wide shot: a moonlit black-sand beach, a woman lying beside a horse-sized dragon. The moment in this clip: Moonlit surf slides up the black sand. Setting: a hidden black-sand beach in a small cove at night, gentle surf, wet stones, distant village lights across the water. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: soft cold moonlight, silver highlights on wet sand. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: survival. Faint breath vapor shows in the cold air. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Wide shot: a moonlit black-sand beach, a woman lying beside a horse-sized dragon. The moment in this clip: Moonlit surf slides up the black sand. OBJECT STATE at the start of this shot, must be clearly visible: a cut rope end is still knotted around Maren's ankles. Setting: a hidden black-sand beach in a small cove at night, gentle surf, wet stones, distant village lights across the water. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: soft cold moonlight, silver highlights on wet sand. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: survival. Faint breath vapor shows in the cold air. Characters: Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 244 · 25:02–25:08 · 6s · Suspense and atmosphere**
+**Beat 244 · 26:14–26:20 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Tal lowers his large head beside her. His luminous eye watches her. She turns her head to him."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Tal (adult sheet), Maren (winter sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Medium shot: Tal's large head resting on the sand beside Maren. The moment in this clip: Tal lowers his large head beside her. POSTURE: Maren sits on a low flat rock, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Setting: a hidden black-sand beach in a small cove at night, gentle surf, wet stones, distant village lights across the water. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: soft cold moonlight, silver highlights on wet sand. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Faint breath vapor shows in the cold air. Characters: Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Medium shot: Tal's large head resting on the sand beside Maren. The moment in this clip: Tal lowers his large head beside her. OBJECT STATE at the start of this shot, must be clearly visible: a cut rope end is still knotted around Maren's ankles. POSTURE: Maren sits on a low flat rock, relaxed and still; Tal lies on the ground beside her with his legs folded under him and his head raised toward her, listening, like a calm animal resting; Tal does not stand up and Maren does not stand up during this beat. Setting: a hidden black-sand beach in a small cove at night, gentle surf, wet stones, distant village lights across the water. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: soft cold moonlight, silver highlights on wet sand. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: tender. Faint breath vapor shows in the cold air. Characters: Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 245 · 25:08–25:14 · 6s · Dialogue and character emotion**
+**Beat 245 · 26:20–26:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "She reaches up to his snout."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2821,7 +3079,7 @@
 &nbsp;
 
 
-**Beat 246 · 25:14–25:20 · 6s · Dialogue and character emotion**
+**Beat 246 · 26:26–26:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Tal. You came. You heard me. Tears run down her face."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2832,7 +3090,7 @@
 &nbsp;
 
 
-**Beat 247 · 25:20–25:26 · 6s · Dialogue and character emotion**
+**Beat 247 · 26:32–26:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren pressing her forehead to Tal's snout on the moonlit beach."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2843,7 +3101,7 @@
 &nbsp;
 
 
-**Beat 248 · 25:26–25:32 · 6s · Dialogue and character emotion**
+**Beat 248 · 26:38–26:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: I told you to go. You never listen. Just like him."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2854,7 +3112,7 @@
 &nbsp;
 
 
-**Beat 249 · 25:32–25:38 · 6s · Dialogue and character emotion**
+**Beat 249 · 26:44–26:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "She presses her forehead to his snout. She rises, looks at the distant village lights and climbs onto his lowered neck."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2868,7 +3126,7 @@
 ### Hidden beach — the wounds
 
 
-**Beat 250 · 25:38–25:44 · 6s · Shocking reveal**
+**Beat 250 · 26:50–26:56 · 6s · Shocking reveal**
 
 - **Script segment:** "Maren's hand moves along Tal's neck. She finds raw rope burns cut deep into his scales. Her face hardens."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2879,7 +3137,7 @@
 &nbsp;
 
 
-**Beat 251 · 25:44–25:50 · 6s · Dialogue and character emotion**
+**Beat 251 · 26:56–27:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren looks into his large eye."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2890,7 +3148,7 @@
 &nbsp;
 
 
-**Beat 252 · 25:50–25:56 · 6s · Dialogue and character emotion**
+**Beat 252 · 27:02–27:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: They hurt you. And you still didn't burn them."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2901,7 +3159,7 @@
 &nbsp;
 
 
-**Beat 253 · 25:56–26:02 · 6s · Dialogue and character emotion**
+**Beat 253 · 27:08–27:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Tal tilts his large head to the left, just like when he was small."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2912,7 +3170,7 @@
 &nbsp;
 
 
-**Beat 254 · 26:02–26:08 · 6s · Suspense and atmosphere**
+**Beat 254 · 27:14–27:20 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Maren tears a strip from the hem of her dress. She presses wet seaweed into the wounds. She ties the cloth gently; Tal does not flinch."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2923,7 +3181,7 @@
 &nbsp;
 
 
-**Beat 255 · 26:08–26:14 · 6s · Dialogue and character emotion**
+**Beat 255 · 27:20–27:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: We're going back."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2934,7 +3192,7 @@
 &nbsp;
 
 
-**Beat 256 · 26:14–26:20 · 6s · Dialogue and character emotion**
+**Beat 256 · 27:26–27:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Tal pulls his head back. A low growl rumbles in his chest."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2945,7 +3203,7 @@
 &nbsp;
 
 
-**Beat 257 · 26:20–26:26 · 6s · Final cliffhanger**
+**Beat 257 · 27:32–27:38 · 6s · Final cliffhanger**
 
 - **Script segment:** "Maren lays her hand on his snout."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2956,7 +3214,7 @@
 &nbsp;
 
 
-**Beat 258 · 26:26–26:32 · 6s · Final cliffhanger**
+**Beat 258 · 27:38–27:44 · 6s · Final cliffhanger**
 
 - **Script segment:** "MAREN: Not for revenge. For the truth. They need to see what you are."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2967,7 +3225,7 @@
 &nbsp;
 
 
-**Beat 259 · 26:32–26:38 · 6s · Final cliffhanger**
+**Beat 259 · 27:44–27:50 · 6s · Final cliffhanger**
 
 - **Script segment:** "Tal slowly lowers his neck for her to climb on."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2981,7 +3239,7 @@
 ### Harbor — the night watch
 
 
-**Beat 260 · 26:38–26:44 · 6s · Suspense and atmosphere**
+**Beat 260 · 27:50–27:56 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Torches line the jetty in the dark. Men stand with harpoons, watching the water. Bram paces behind them."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -2992,7 +3250,7 @@
 &nbsp;
 
 
-**Beat 261 · 26:44–26:50 · 6s · Dialogue and character emotion**
+**Beat 261 · 27:56–28:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: If it comes, aim for the eyes."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3003,7 +3261,7 @@
 &nbsp;
 
 
-**Beat 262 · 26:50–26:56 · 6s · Dialogue and character emotion**
+**Beat 262 · 28:02–28:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "The young fisherman swallows hard. JORY: And if it doesn't come?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3014,7 +3272,7 @@
 &nbsp;
 
 
-**Beat 263 · 26:56–27:02 · 6s · Final cliffhanger**
+**Beat 263 · 28:08–28:14 · 6s · Final cliffhanger**
 
 - **Script segment:** "Bram stares out at the dark harbor. A long ripple moves across the still water. It keeps coming, straight toward the jetty."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3028,7 +3286,7 @@
 ### Harbor, night — the return
 
 
-**Beat 264 · 27:02–27:08 · 6s · Shocking reveal**
+**Beat 264 · 28:14–28:20 · 6s · Shocking reveal**
 
 - **Script segment:** "Tal rises out of the harbor, water cascading off his scales. Maren sits on his neck. Bells clang and villagers scatter in panic."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3039,7 +3297,7 @@
 &nbsp;
 
 
-**Beat 265 · 27:08–27:14 · 6s · Major climax**
+**Beat 265 · 28:20–28:26 · 6s · Major climax**
 
 - **Script segment:** "BRAM: The devil came back!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3050,7 +3308,7 @@
 &nbsp;
 
 
-**Beat 266 · 27:14–27:20 · 6s · Major climax**
+**Beat 266 · 28:26–28:32 · 6s · Major climax**
 
 - **Script segment:** "Tal opens his jaws as yellow-orange fire builds in his glowing throat. MAREN: Tal! No!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3061,51 +3319,54 @@
 &nbsp;
 
 
-**Beat 267 · 27:20–27:26 · 6s · Dialogue and character emotion**
+**Beat 267 — Image A — Harpoon in his hands · 28:32–28:38 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "Bram raises a harpoon."
+- **Action sequence:** The harpoon (Beat 267, image A of 1)
+- **Script segment:** "Bram grabs a harpoon. BRAM: Burn, then! Show them what she made! MAREN: Put it down, Bram. He'll kill you before you lift it."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Maren (winter sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; on the RIGHT of the frame, about 3 meters away, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Bram raises a harpoon. Setting: a fishing harbor at night, timber jetty, moored boats, grey fieldstone cottages, a bell tower. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: reckless. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
+- **Visual state requirements:** Harpoon: in Bram's hands, at chest height
+- **Continuity checklist:** previous state: Tal's fire was held back · current state: he grips the harpoon · visible proof: the harpoon in both hands · next state: he raises it
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, low angle: Bram on the jetty gripping an iron harpoon in both hands at chest height, the point aimed out toward the water. VISIBLE STATE, must be clearly shown: Harpoon: in Bram's hands, at chest height. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. Setting: a fishing harbor at night, timber jetty, moored boats, grey fieldstone cottages, a bell tower. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: reckless. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 268 · 27:26–27:32 · 6s · Dialogue and character emotion**
+**Beat 268 · 28:38–28:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: Burn, then! Show them what she made!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Maren (winter sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT at eye level: Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots, on the left of the frame, speaking; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots, on the right of the frame, about 2 meters away. They are turned toward each other, each about three-quarters to the camera so both faces are clearly visible, eyes on each other; never looking into the lens. Setting: a fishing harbor at night, timber jetty, moored boats, grey fieldstone cottages, a bell tower. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: reckless. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM CLOSE TWO-SHOT at eye level: Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots, on the left of the frame, speaking; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots, on the right of the frame, about 2 meters away. They are turned toward each other, each about three-quarters to the camera so both faces are clearly visible, eyes on each other; never looking into the lens. OBJECT STATE at the start of this shot, must be clearly visible: Bram holds the iron harpoon raised at his shoulder. Setting: a fishing harbor at night, timber jetty, moored boats, grey fieldstone cottages, a bell tower. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: reckless. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 269 · 27:32–27:38 · 6s · Dialogue and character emotion**
+**Beat 269 · 28:44–28:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Put it down, Bram. He'll kill you before you lift it."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Maren (winter sheet)
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; on the RIGHT of the frame, about 3 meters away, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. Setting: a fishing harbor at night, timber jetty, moored boats, grey fieldstone cottages, a bell tower. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: reckless. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM TWO-SHOT at eye level: on the LEFT of the frame, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; on the RIGHT of the frame, about 3 meters away, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. OBJECT STATE at the start of this shot, must be clearly visible: Bram holds the iron harpoon raised at his shoulder. Setting: a fishing harbor at night, timber jetty, moored boats, grey fieldstone cottages, a bell tower. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: reckless. Faint breath vapor in the cold air. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 270 · 27:38–27:44 · 6s · Dialogue and character emotion**
+**Beat 270 · 28:50–28:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: Then let him! Let them all see!"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Maren (winter sheet), Tal (adult sheet), Villagers
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. WIDE SHOT from a low angle: on the LEFT of the frame, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds; on the RIGHT of the frame, about 20 meters away, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. Setting: a fishing harbor at night, timber jetty, moored boats, grey fieldstone cottages, a bell tower. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: heroic. Faint breath vapor in the cold air. The villagers are people of different heights and builds, each in a different natural pose, their lights held at uneven, random heights. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. WIDE SHOT from a low angle: on the LEFT of the frame, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds; on the RIGHT of the frame, about 20 meters away, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. OBJECT STATE at the start of this shot, must be clearly visible: Bram holds the iron harpoon raised at his shoulder. Setting: a fishing harbor at night, timber jetty, moored boats, grey fieldstone cottages, a bell tower. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. Lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere. Mood: heroic. Faint breath vapor in the cold air. The villagers are people of different heights and builds, each in a different natural pose, their lights held at uneven, random heights. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with Tal shimmering blush-pink with violet eyes. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 271 · 27:44–27:50 · 6s · Dialogue and character emotion**
+**Beat 271 · 28:56–29:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren slides down Tal's flank. She stands between the dragon and the village, arms spread."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3116,7 +3377,7 @@
 &nbsp;
 
 
-**Beat 272 · 27:50–27:56 · 6s · Dialogue and character emotion**
+**Beat 272 · 29:02–29:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren faces Tal."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3127,7 +3388,7 @@
 &nbsp;
 
 
-**Beat 273 · 27:56–28:02 · 6s · Dialogue and character emotion**
+**Beat 273 · 29:08–29:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Not like them. We are not like them. Tal's fierce eye softens."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3138,7 +3399,7 @@
 &nbsp;
 
 
-**Beat 274 · 28:02–28:08 · 6s · Major climax**
+**Beat 274 · 29:14–29:20 · 6s · Major climax**
 
 - **Script segment:** "Tal turns his head and breathes a pillar of yellow-orange fire into the sky. The whole harbor glows soft violet. Bram's harpoon clatters onto the stones."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3152,7 +3413,7 @@
 ### Harbor — reconciliation
 
 
-**Beat 275 · 28:08–28:14 · 6s · Dialogue and character emotion**
+**Beat 275 · 29:20–29:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Villagers slowly come forward in the blue light. Odile steps out first."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3163,7 +3424,7 @@
 &nbsp;
 
 
-**Beat 276 · 28:14–28:20 · 6s · Dialogue and character emotion**
+**Beat 276 · 29:26–29:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: Maren. We were wrong."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3174,7 +3435,7 @@
 &nbsp;
 
 
-**Beat 277 · 28:20–28:26 · 6s · Dialogue and character emotion**
+**Beat 277 · 29:32–29:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren and Odile face to face, a young fisherman behind them."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3185,7 +3446,7 @@
 &nbsp;
 
 
-**Beat 278 · 28:26–28:32 · 6s · Dialogue and character emotion**
+**Beat 278 · 29:38–29:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "JORY: It saved her. It pulled her out of the sea."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3196,7 +3457,7 @@
 &nbsp;
 
 
-**Beat 279 · 28:32–28:38 · 6s · Dialogue and character emotion**
+**Beat 279 · 29:44–29:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren looks at Odile."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3207,7 +3468,7 @@
 &nbsp;
 
 
-**Beat 280 · 28:38–28:44 · 6s · Dialogue and character emotion**
+**Beat 280 · 29:50–29:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: You were afraid. Fear isn't wrong. What you did with it was."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3218,7 +3479,7 @@
 &nbsp;
 
 
-**Beat 281 · 28:44–28:50 · 6s · Dialogue and character emotion**
+**Beat 281 · 29:56–30:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "HESK: Will he destroy us?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3229,7 +3490,7 @@
 &nbsp;
 
 
-**Beat 282 · 28:50–28:56 · 6s · Dialogue and character emotion**
+**Beat 282 · 30:02–30:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: He could. He won't. I raised him better than that."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3240,7 +3501,7 @@
 &nbsp;
 
 
-**Beat 283 · 28:56–29:02 · 6s · Dialogue and character emotion**
+**Beat 283 · 30:08–30:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Tal lowers his head gently beside her."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3251,7 +3512,7 @@
 &nbsp;
 
 
-**Beat 284 · 29:02–29:08 · 6s · Dialogue and character emotion**
+**Beat 284 · 30:14–30:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren climbs onto Tal's back."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3262,7 +3523,7 @@
 &nbsp;
 
 
-**Beat 285 · 29:08–29:14 · 6s · Dialogue and character emotion**
+**Beat 285 · 30:20–30:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: Where will you go?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3273,7 +3534,7 @@
 &nbsp;
 
 
-**Beat 286 · 29:14–29:20 · 6s · Dialogue and character emotion**
+**Beat 286 · 30:26–30:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Wherever the sea takes us."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3284,7 +3545,7 @@
 &nbsp;
 
 
-**Beat 287 · 29:20–29:26 · 6s · Dialogue and character emotion**
+**Beat 287 · 30:32–30:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Hesk steps forward."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3295,7 +3556,7 @@
 &nbsp;
 
 
-**Beat 288 · 29:26–29:32 · 6s · Dialogue and character emotion**
+**Beat 288 · 30:38–30:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "HESK: Maren. If he is a child, then whose child is he?"
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3306,7 +3567,7 @@
 &nbsp;
 
 
-**Beat 289 · 29:32–29:38 · 6s · Dialogue and character emotion**
+**Beat 289 · 30:44–30:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "He waits for her answer."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3317,7 +3578,7 @@
 &nbsp;
 
 
-**Beat 290 · 29:38–29:44 · 6s · Dialogue and character emotion**
+**Beat 290 · 30:50–30:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Mine. That's all you ever needed to know."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3328,7 +3589,7 @@
 &nbsp;
 
 
-**Beat 291 · 29:44–29:50 · 6s · Dialogue and character emotion**
+**Beat 291 · 30:56–31:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Tal spreads his bat-like wings. He launches into the night sky as the villagers watch."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3342,7 +3603,7 @@
 ### Open ocean, dawn
 
 
-**Beat 292 · 29:50–29:56 · 6s · Dialogue and character emotion**
+**Beat 292 · 31:02–31:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Tal flies low over golden dawn waves."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3353,7 +3614,7 @@
 &nbsp;
 
 
-**Beat 293 · 29:56–30:02 · 6s · Dialogue and character emotion**
+**Beat 293 · 31:08–31:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Hold on, Tal. His wingtip skims the water."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3364,7 +3625,7 @@
 &nbsp;
 
 
-**Beat 294 · 30:02–30:08 · 6s · Suspense and atmosphere**
+**Beat 294 · 31:14–31:20 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "The dragon's wings beat slowly over the waves. Behind them, the grey coast shrinks to a thin line. Maren keeps her eyes on the open sea ahead."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3375,7 +3636,7 @@
 &nbsp;
 
 
-**Beat 295 · 30:08–30:14 · 6s · Shocking reveal**
+**Beat 295 · 31:20–31:26 · 6s · Shocking reveal**
 
 - **Script segment:** "A deep roar answers from the horizon. Another, and another, with plumes of spray. Huge dark shapes glide beneath the waves and a glowing violet eye opens below the surface."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3386,7 +3647,7 @@
 &nbsp;
 
 
-**Beat 296 · 30:14–30:20 · 6s · Final cliffhanger**
+**Beat 296 · 31:26–31:32 · 6s · Final cliffhanger**
 
 - **Script segment:** "MAREN: Tal. You're not the only one."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3397,7 +3658,7 @@
 &nbsp;
 
 
-**Beat 297 · 30:20–30:26 · 6s · Final cliffhanger**
+**Beat 297 · 31:32–31:38 · 6s · Final cliffhanger**
 
 - **Script segment:** "Tal turns his head toward the sound. They fly toward the horizon as other shapes rise around them."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
@@ -3416,18 +3677,21 @@
 ### Epilogue — what Kelvhaven learned
 
 
-**Beat 298 · 30:26–30:32 · 6s · Suspense and atmosphere**
+**Beat 298 — Image A — Herring in her hand · 31:38–31:44 · 6s · Suspense and atmosphere**
 
-- **Script segment:** "Dawn mist drifts across the cave mouth. Odile kneels and sets a single herring in a wicker basket. She touches two fingers to her lips, then toward the sea."
+- **Action sequence:** The offering (Beat 298, image A of 1)
+- **Script segment:** "And every winter since, on the coldest night of the year, someone leaves a fish at the mouth of the sea cave."
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Odile
-- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. Medium shot: Odile kneeling at the mouth of a sea cave at dawn, setting down a single herring in a wicker basket. The moment in this clip: Dawn mist drifts across the cave mouth. Setting: inside a tidal sea cave of black basalt at dawn, rock pools, kelp, a calm grey sea framed in the cave mouth. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, reverent. Faint breath vapor shows in the cold air. Characters: Odile, a woman about 45 with grey-streaked hair and ruddy weathered cheeks, wearing a long faded brick-red wool dress with long sleeves, a thick faded red wool shawl with long fringes draped over her head as a hood and crossed over her chest, an oatmeal linen apron tied at the waist, and worn brown leather shoes. Nobody looks into the camera lens. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
+- **Visual state requirements:** Herring: in Odile's hand above the basket; Basket: empty
+- **Continuity checklist:** previous state: years have passed · current state: she holds the fish over the basket · visible proof: the herring in her hand, the basket empty · next state: she makes the sign
+- **Image prompt:** Photorealistic cinematic film still, dark fantasy, shot on 35mm, fine film grain, high-fidelity textures, shallow depth of field, natural bokeh, desaturated high-contrast color grade, 16:9. MEDIUM SHOT, eye level: Odile kneeling at the cave mouth in the dawn mist, holding a single herring in her right hand above an empty wicker basket on the rock. VISIBLE STATE, must be clearly shown: Herring: in Odile's hand above the basket; Basket: empty. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Odile, a woman about 45 with grey-streaked hair and ruddy weathered cheeks, wearing a long faded brick-red wool dress with long sleeves, a thick faded red wool shawl with long fringes draped over her head as a hood and crossed over her chest, an oatmeal linen apron tied at the waist, and worn brown leather shoes. Setting: inside a tidal sea cave of black basalt at dawn, rock pools, kelp, a calm grey sea framed in the cave mouth. Early winter chill: damp cold stone and a cold draft blowing in through the cave mouth. Lighting: soft flat grey dawn light through mist, gentle volumetric rays. Mood: quiet, reverent. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey. No text, no watermark, no modern objects.
 
 &nbsp;
 
 
-**Beat 299 · 30:32–30:38 · 6s · Dialogue and character emotion**
+**Beat 299 · 31:44–31:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Sunlight spreads over the green turf roofs. Pink sea-thrift sways on the cliff edge in a gentle breeze. Children run out between the cottages into the soft spring light."
 - **Season:** Spring, years later
@@ -3438,7 +3702,7 @@
 &nbsp;
 
 
-**Beat 300 · 30:38–30:44 · 6s · Dialogue and character emotion**
+**Beat 300 · 31:50–31:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Dawn light falls on the quiet village. Odile scrubs the moss from the old dragon carving until its shape shows again. The children below look up at it."
 - **Season:** Spring, years later
@@ -3449,7 +3713,7 @@
 &nbsp;
 
 
-**Beat 301 · 30:44–30:50 · 6s · Dialogue and character emotion**
+**Beat 301 · 31:56–32:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Children at the tidal pools puff their cheeks and dive in. A moss-green shawl flutters from a harbor post. Far out on the horizon, a great winged shape skims the waves and disappears."
 - **Season:** Spring, years later
@@ -3463,7 +3727,7 @@
 ### Title card
 
 
-**Beat 302 · 30:50–30:56 · 6s · Final cliffhanger**
+**Beat 302 · 32:02–32:08 · 6s · Final cliffhanger**
 
 - **Script segment:** "Black water and drifting particles. A huge luminous violet eye opens slowly and holds on the lens. Hard cut to black, ready for the FABLEON title card."
 - **Season:** None (end card)
