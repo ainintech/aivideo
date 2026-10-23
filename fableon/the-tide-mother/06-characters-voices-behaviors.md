@@ -1,6 +1,6 @@
 # Characters, Voices and Behaviors — *The Tide Mother*
 
-Each character has a **unique voice** (paste the voice line unchanged into Grok every time they speak, so the voice stays consistent) and **their own physical habits**. The video prompts give each on-screen character one habit per clip, rotating through the list, so no two characters move the same way and nobody repeats the same gesture in every shot.
+Each character has a **unique voice**: a different gender, age, pitch, speed and accent, so viewers know who is speaking even without looking at the screen. Every video prompt also asks for a dry, close, clear voice with **no echo or reverb**. Paste the voice line unchanged into Grok every time they speak, so the voice stays consistent) and **their own physical habits**. The video prompts give each on-screen character one habit per clip, rotating through the list, so no two characters move the same way and nobody repeats the same gesture in every shot.
 
 ---
 
@@ -10,7 +10,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 
 ## MAREN — the Tide Mother
 - **Look:** about 30, long wet tangled dark-brown hair with thin braids, freckles, grey-green eyes; long black wool dress, a **moss-green knitted shawl** worn over both shoulders all film long and fastened with a carved bone toggle (no black capelet), braided rope belt with an iron net-mending needle, dark leg-wraps and **brown leather sandals**.
-- **Voice prompt:** soft husky alto with a gentle northern-coastal lilt, breathy when afraid, sentences trailing off quietly.
+- **Voice prompt:** a warm, low, husky alto with a soft Scottish-Irish coastal lilt, slow and gentle, slightly breathy, close and intimate (woman, about 30).
 - **Signature behaviors:**
   - twists the thin braid on the left when anxious
   - touches the bone net-needle at her belt for comfort
@@ -32,7 +32,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 
 ## ODILE — the neighbor
 - **Look:** about 45, grey-streaked hair, ruddy cheeks; long faded brick-red wool dress, a thick faded red fringed wool shawl draped over her head as a hood and crossed over her chest, oatmeal linen apron (as in your uploaded sheet).
-- **Voice prompt:** quick, chattering, high sing-song voice, with little gasps between phrases.
+- **Voice prompt:** a high, bright, fast sing-song soprano with a chirpy Welsh lilt, talking quickly with little gasps (woman, about 45).
 - **Signature behaviors:**
   - wrings her apron in both hands
   - touches two fingers to her lips and then toward the sea (Kelvhaven's superstitious sign)
@@ -42,7 +42,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 
 ## BRAM — the fish-trader
 - **Look:** burly, about 40, scarred jaw, curly red-brown hair and thick red-brown beard; heavy shaggy knee-length coat of brown and tan sheepskin fleece, stained brown tunic, wide leather belt, brown trousers and tall brown boots; carries a torch and an iron harpoon (as in your uploaded sheet).
-- **Voice prompt:** low gravelly bass, clipped and sneering, rolled R's, words bitten off short.
+- **Voice prompt:** a very deep, rough, gravelly bass with a hard Scottish burr and rolled R's, loud, short and sneering (man, about 40).
 - **Signature behaviors:**
   - drums his thick fingers on whatever is near
   - cracks his knuckles
@@ -51,7 +51,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 
 ## HESK — the elder
 - **Look:** about 70, long white beard; hooded cloak of shaggy brown and grey wolf pelts over a tan deer-hide tunic, leather belt, fur-trimmed laced hide boots, tall staff carved with spirals (as in your uploaded sheet).
-- **Voice prompt:** very slow, deep, wheezing old voice with long pauses between words, formal and cold.
+- **Voice prompt:** a thin, dry, crackly old voice with a slow wheeze, formal and cold, long pauses between words (old man, about 70).
 - **Signature behaviors:**
   - **taps his staff twice before he speaks**
   - strokes his long white beard
@@ -59,7 +59,7 @@ Each character has a **unique voice** (paste the voice line unchanged into Grok 
 
 ## JORY — the young fisherman (speaks the VILLAGER lines)
 - **Look:** lanky, about 18, messy blond hair, grey wool cap, faded woad-blue tunic and sheepskin vest.
-- **Voice prompt:** a nasal, cracking teenage voice that stammers when scared.
+- **Voice prompt:** a light, nasal tenor that cracks upward, quick, nervous and stammering (young man, about 18).
 - **Signature behaviors:** fidgets and tugs at his grey cap.
 - **Arc:** first to blame the storm, first to see that Tal saved her.
 

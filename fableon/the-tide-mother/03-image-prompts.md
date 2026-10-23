@@ -111,7 +111,7 @@
 
 **Beat 012 · 1:50–1:56 · 6s · Major climax**
 
-- **Script segment:** "Her hand clenches the barnacled rock, knuckles white. She throws her head back and screams in labor, the scream echoing through the cave. A lightning flash floods the whole cave white for an instant."
+- **Script segment:** "Her hand clenches the barnacled rock, knuckles white. She throws her head back and screams in labor, the scream filling the cave. A lightning flash floods the whole cave white for an instant."
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (pregnant)
