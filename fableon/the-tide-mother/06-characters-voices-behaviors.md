@@ -129,7 +129,8 @@ Use your uploaded sheets as they are. No edit needed: every prompt now describes
 
 **2b. Natural posture and memorable close-ups.**
 - **Quiet, emotional moments** (in the cave, the cottage or on the beach, when the mood is tender, nostalgic, grieving or loving): Maren **sits** on the cave ledge, a low rock or the edge of her bed, and Tal **lies down beside her** with his legs folded under him and his head raised, listening, like a calm animal resting. Baby Tal rests in her lap or the basket. Neither stands up during these beats.
-- **When Maren tells a story or opens her heart** (for example Beats 103–111, about Tal's father): every line she speaks is a **static close-up of only her face**, eyes glistening, looking slightly off-camera at Tal, until she finishes. The silent beats in between are medium two-shots of them sitting together. These are the moments viewers remember.
+- **When Maren tells Tal a story or opens her heart to him** (for example Beats 103–111, about Tal's father): **close two-shots** of the two of them, Maren sitting, Tal lying beside her, both faces visible. Grok cannot keep Tal consistent if he drops out of the frame between beats, so he stays in shot.
+- **Face-only close-ups are used only when Maren is truly alone**, for example in her cottage thinking or talking to herself (Beats 041–043) or in labour in the cave (Beat 013), and for silent thoughtful moments such as the cliff edge (Beat 232).
 
 **3. One speaker at a time.** Each line has its own time window that names the **SPEAKER** and how to recognise them ("the bearded man in the black coat"). Everyone else is **SILENT, mouths closed**, and there is a short silence between lines.
 
