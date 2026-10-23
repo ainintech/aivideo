@@ -120,12 +120,12 @@ Use your uploaded sheets as they are. No edit needed: every prompt now describes
 
 **1. Natural conversation, faces always visible.** Characters who talk **face each other**, with their bodies turned about 45° toward the camera so every face is clearly visible (three-quarter view). Nobody ever has their back to the camera. One side of the conversation always stays on the **left** of the frame and the other on the **right**, so their eyelines meet. A speaker looks at **whoever they are talking to**. If the line names someone else ("Tal! No!"), they turn to look at that person, and if they refer to an object, they look at it, then back. Each speaking beat is a three-quarter **close-up or medium close-up** of the speaker, looking toward the listener just out of frame; silent beats are **two-shots** or **reaction close-ups** of the listener.
 
-**2. Static camera, chosen angles (the camera DNA of the reference film).** Like *She Gave Birth to a Dragon Part 2*, every shot is **static, locked off on a tripod**: no zooms, pans or tracking. All the motion comes from the characters, wind, water and light. The cinematic feel comes from the **angle and shot size**:
-- **Dialogue:** medium or medium close-up at eye level, the speaker three-quarter to the camera, looking at the listener.
-- **Emotion:** close-up at eye level.
-- **Menace** (Bram, Hesk, the mob): a slight low angle.
-- **Establishing and action:** wide shots, usually from a low angle, which also make Tal and the landscape feel big.
-- **No exceptions:** like the reference film, every beat is static, including the prologue and the charge and procession. In those, the people move away from a locked-off camera.
+**2. The camera DNA of the reference film** (*She Gave Birth to a Dragon Part 2*, shots 1:00–3:15 and 7:00–11:00 analysed). That film mixes shot sizes in roughly equal parts and lets them carry the drama. This pack follows the same mix:
+- **Wide shots** (about a third), often from a **low angle**, open every scene and show the place, the crowd and Tal's size. About 1 in 8 beats is a **slow pan** across a wide shot, following someone walking, running, flying or swimming, or revealing the landscape.
+- **Medium shots and medium two-shots** (about a third) carry dialogue and interaction: characters face each other, three-quarter to the camera, at eye level.
+- **Close-ups** (about a third) carry emotion, with an occasional **extreme close-up on the eyes** at the strongest moments, and a **slight low angle** for menace (Bram, Hesk, the mob).
+- **Within each scene:** an establishing wide → medium for the interaction → close-ups for emotion and reactions.
+- **Every other beat is static**, locked off on a tripod, with no zooms.
 
 **3. One speaker at a time.** Each line has its own time window that names the **SPEAKER** and how to recognise them ("the bearded man in the black coat"). Everyone else is **SILENT, mouths closed**, and there is a short silence between lines.
 
