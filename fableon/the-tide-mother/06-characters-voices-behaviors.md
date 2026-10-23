@@ -125,11 +125,11 @@ Use your uploaded sheets as they are. No edit needed: every prompt now describes
 - **Emotion:** close-up at eye level.
 - **Menace** (Bram, Hesk, the mob): a slight low angle.
 - **Establishing and action:** wide shots, usually from a low angle, which also make Tal and the landscape feel big.
-- **Exceptions:** camera movement is used only in the narrated prologue's aerial shots and in the rear-view runs and procession.
+- **No exceptions:** like the reference film, every beat is static, including the prologue and the charge and procession. In those, the people move away from a locked-off camera.
 
 **3. One speaker at a time.** Each line has its own time window that names the **SPEAKER** and how to recognise them ("the bearded man in the black coat"). Everyone else is **SILENT, mouths closed**, and there is a short silence between lines.
 
-**4. Runs, charges and processions are shot from behind.** The camera follows the runners from behind and above, so we only see their backs. What they run toward faces the camera, far away and small. The gap closes gradually over the whole clip: about 70 m to 35 m to 10 m in 15 seconds.
+**4. Runs, charges and processions are shot from behind.** A static camera sits behind the runners, so we only see their backs. What they run toward faces the camera, far away and small. The gap closes gradually over the whole clip: about 70 m to 35 m to 10 m in 15 seconds.
 
 **5. Real distance.** Each face-off keeps a fixed distance: about 2 m indoors, 3–4 m for two people outdoors, 6 m between a crowd and Maren, and 20 m between the jetty and Tal in the harbor.
 
