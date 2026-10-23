@@ -19,6 +19,7 @@
 **Video 001 · 0:00–0:06 · 6s · Opening hook** (start frame: Image Beat 001)
 
 - **Script segment:** "Black water, only drifting particles. A faint blue glow pulses somewhere far below. A huge luminous violet eye snaps open and stares straight into the lens."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** none
@@ -30,6 +31,7 @@
 **Video 002 · 0:06–0:21 · 15s · Dialogue and character emotion** (start frame: Image Beat 002)
 
 - **Script segment:** "NARRATOR: At the very edge of the northern sea sits a village most maps forget. Its name is Kelvhaven. And it lives by one strange rule."
+- **Dialogue:** NARRATOR (voice-over): At the very edge of the northern sea sits a village most maps forget. Its name is Kelvhaven. And it lives by one strange rule.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L0 Kelvhaven master aerial
 - **Attach (location + character sheets):** L0 · none
@@ -42,6 +44,7 @@
 **Video 003 · 0:21–0:36 · 15s · Dialogue and character emotion** (start frame: Image Beat 003)
 
 - **Script segment:** "NARRATOR: Three hundred years ago, its first families crawled ashore from a shipwreck with nothing but their nets. They built their homes from the stones the tide gave them."
+- **Dialogue:** NARRATOR (voice-over): Three hundred years ago, its first families crawled ashore from a shipwreck with nothing but their nets. They built their homes from the stones the tide gave them.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L0 Kelvhaven master aerial
 - **Attach (location + character sheets):** L0 · Villagers
@@ -54,6 +57,7 @@
 **Video 004 · 0:36–0:46 · 10s · Dialogue and character emotion** (start frame: Image Beat 004)
 
 - **Script segment:** "NARRATOR: They carved the old sea-beasts over their doors, to honor the deep. Then, one by one, they forgot why."
+- **Dialogue:** NARRATOR (voice-over): They carved the old sea-beasts over their doors, to honor the deep. Then, one by one, they forgot why.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L5 Hesk's longhouse
 - **Attach (location + character sheets):** L5 · Hesk, Villagers
@@ -66,6 +70,7 @@
 **Video 005 · 0:46–1:01 · 15s · Dialogue and character emotion** (start frame: Image Beat 005)
 
 - **Script segment:** "NARRATOR: Only one law survived. Whatever the sea gives, the sea may take back. And anyone who hides the sea's gift is given back to it."
+- **Dialogue:** NARRATOR (voice-over): Only one law survived. Whatever the sea gives, the sea may take back. And anyone who hides the sea's gift is given back to it.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · none
@@ -78,6 +83,7 @@
 **Video 006 · 1:01–1:11 · 10s · Dialogue and character emotion** (start frame: Image Beat 006)
 
 - **Script segment:** "NARRATOR: For three hundred years, nobody broke that law. Not once. Then came the winter of the great storm."
+- **Dialogue:** NARRATOR (voice-over): For three hundred years, nobody broke that law. Not once. Then came the winter of the great storm.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · none
@@ -90,6 +96,7 @@
 **Video 007 · 1:11–1:26 · 15s · Dialogue and character emotion** (start frame: Image Beat 007)
 
 - **Script segment:** "NARRATOR: That night, a young widow named Maren walked down to the sea alone. What she carried back would break that law, split the village in two, and wake something that had been sleeping for a very long time."
+- **Dialogue:** NARRATOR (voice-over): That night, a young widow named Maren walked down to the sea alone. What she carried back would break that law, split the village in two, and wake something that had been sleeping for a very long time.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Maren (pregnant)
@@ -110,6 +117,7 @@
 **Video 008 · 1:26–1:32 · 6s · Suspense and atmosphere** (start frame: Image Beat 008)
 
 - **Script segment:** "A still wide view over storm-lashed black cliffs toward a tiny swinging lantern light. A huge wave explodes on the rocks below, white spray rising up the cliff face. The camera descends to a medium shot of Maren clutching her pregnant belly, rain running down her face."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Maren (pregnant)
@@ -120,6 +128,8 @@
 
 **Video 009 — Image A — Grabbing the rope rail · 1:32–1:38 · 6s · Suspense and atmosphere** (start frame: Image Beat 009)
 
+- **Script segment:** "She steadies herself on the rope, gasping, sea spray soaking her. she lets go of the rope and pushes on downward toward the black mouth of a sea cave, the lantern still lit in her left hand."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Maren (pregnant)
@@ -131,6 +141,8 @@
 
 **Video 010 — Image A — Lantern still in hand · 1:38–1:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 010)
 
+- **Script segment:** "Maren gasps through her teeth. a contraction doubles her over and her fingers open: the lantern drops onto the pebbles and lands upright, still burning. MAREN: Not here. Not now."
+- **Dialogue:** MAREN: Not here. Not now.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (pregnant)
@@ -142,6 +154,8 @@
 
 **Video 011 — Image A — Lantern on the ground · 1:44–1:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 011)
 
+- **Script segment:** "She slides slowly down the wall until she sits on the wet pebbles, breathing hard; the lantern stays where it is on the ground, flickering."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (pregnant)
@@ -154,6 +168,7 @@
 **Video 012 · 1:50–1:56 · 6s · Major climax** (start frame: Image Beat 012)
 
 - **Script segment:** "Her hand clenches the barnacled rock, knuckles white. She throws her head back and screams in labor, the scream filling the cave. A lightning flash floods the whole cave white for an instant."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (pregnant)
@@ -165,6 +180,7 @@
 **Video 013 · 1:56–2:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 013)
 
 - **Script segment:** "MAREN: Please. Please, not alone. She clutches her moss-green shawl and curls forward through another contraction."
+- **Dialogue:** MAREN: Please. Please, not alone.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (pregnant)
@@ -176,6 +192,7 @@
 **Video 014 · 2:02–2:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 014)
 
 - **Script segment:** "The camera pulls back to a wide shot: a tiny figure alone in the vast cave; her final scream cuts to silence."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (pregnant)
@@ -190,6 +207,7 @@
 **Video 015 · 2:08–2:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 015)
 
 - **Script segment:** "Foam slides softly over the dark pebbles. The camera drifts toward Maren, slumped and drained, eyes half closed. Her chest rises and falls, breath vapor in the cold air, the lantern now steady."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet)
@@ -201,6 +219,7 @@
 **Video 016 · 2:14–2:20 · 6s · Shocking reveal** (start frame: Image Beat 016)
 
 - **Script segment:** "The wool cloth shifts as something wriggles underneath. A slick pale pink tail tip slides out from under the hem, then a folded fin-wing. Maren's eyes snap open."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -212,6 +231,7 @@
 **Video 017 · 2:20–2:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 017)
 
 - **Script segment:** "Newborn Tal opens its glassy violet eyes and lets out a tiny high chirp. The camera tilts up to Maren's horrified face, her hand pressed over her mouth."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -223,6 +243,7 @@
 **Video 018 · 2:26–2:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 018)
 
 - **Script segment:** "MAREN: No. No. That can't have come from me."
+- **Dialogue:** MAREN: No. No. That can't have come from me.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -234,6 +255,7 @@
 **Video 019 · 2:32–2:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 019)
 
 - **Script segment:** "Newborn Tal crawls clumsily toward her across the pebbles. Maren scrapes backward against the wall, pulling her feet away."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -245,6 +267,7 @@
 **Video 020 · 2:38–2:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 020)
 
 - **Script segment:** "MAREN: Stay away."
+- **Dialogue:** MAREN: Stay away.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -256,6 +279,7 @@
 **Video 021 · 2:44–2:50 · 6s · Suspense and atmosphere** (start frame: Image Beat 021)
 
 - **Script segment:** "Newborn Tal stops and curls into a shivering ball. Close on its wet eyes as it cries exactly like a human infant. The camera finds Maren's face softening from fear to pity."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -269,6 +293,8 @@
 
 **Video 022 — Image A — Hand above the newborn · 2:50–2:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 022)
 
+- **Script segment:** "Her fingertip comes down and touches its wet frilled crest. the newborn leans its head into her touch."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -280,6 +306,8 @@
 
 **Video 022b — Image B — Shawl off, held open · 2:56–3:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 022b)
 
+- **Script segment:** "She lowers the shawl over the newborn and gently wraps it until only its eyes and snout peek out."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -291,6 +319,8 @@
 
 **Video 022c — Image C — Wrapped newborn lifted · 3:02–3:08 · 6s · Suspense and atmosphere** (start frame: Image Beat 022c)
 
+- **Script segment:** "She holds the bundle close and rocks it gently, her cheek near its head."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -303,6 +333,7 @@
 **Video 023 · 3:08–3:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 023)
 
 - **Script segment:** "MAREN: Shh. Shh. I've got you."
+- **Dialogue:** MAREN: Shh. Shh. I've got you.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -314,6 +345,7 @@
 **Video 024 · 3:14–3:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 024)
 
 - **Script segment:** "Newborn Tal's glassy eyes peek out of the green shawl and slowly calm. The camera pulls back to show her against the cave wall, the storm fading in the cave mouth."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -325,6 +357,7 @@
 **Video 025 · 3:20–3:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 025)
 
 - **Script segment:** "MAREN: You're cold. So am I."
+- **Dialogue:** MAREN: You're cold. So am I.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -336,6 +369,7 @@
 **Video 026 · 3:26–3:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 026)
 
 - **Script segment:** "Their frosty breaths mingle in the cold air. The lantern flame gutters out and the cave fades into soft darkness."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -349,6 +383,8 @@
 
 **Video 027 — Image A — Asleep with the bundle · 3:32–3:38 · 6s · Suspense and atmosphere** (start frame: Image Beat 027)
 
+- **Script segment:** "Mist drifts and the dawn light grows across her. she wakes, weak and pale, and looks down at the bundle in her arms."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -360,6 +396,8 @@
 
 **Video 028 — Image A — Bundle over the empty basket · 3:38–3:44 · 6s · Suspense and atmosphere** (start frame: Image Beat 028)
 
+- **Script segment:** "She lowers the bundle gently into the basket and tucks the green wool around it."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -371,6 +409,8 @@
 
 **Video 028b — Image B — Covering the basket · 3:44–3:50 · 6s · Suspense and atmosphere** (start frame: Image Beat 028b)
 
+- **Script segment:** "She lays the kelp and the net over the basket until the bundle is hidden."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -382,6 +422,8 @@
 
 **Video 028c — Image C — Pushing into the niche · 3:50–3:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 028c)
 
+- **Script segment:** "She pushes the basket deep into the niche until it disappears into the shadow, then sits back on her heels."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet)
@@ -394,6 +436,7 @@
 **Video 029 · 3:56–4:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 029)
 
 - **Script segment:** "Maren kneeling at the rock niche, whispering to the hidden basket."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -405,6 +448,7 @@
 **Video 030 · 4:02–4:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 030)
 
 - **Script segment:** "MAREN: Stay low. Stay quiet. I'll come for you at dark."
+- **Dialogue:** MAREN: Stay low. Stay quiet. I'll come for you at dark.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -416,6 +460,7 @@
 **Video 031 · 4:08–4:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 031)
 
 - **Script segment:** "Through the wicker gaps, newborn Tal's dark-blue eye watches her. She walks toward the bright cave mouth, glancing back once."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -430,6 +475,7 @@
 **Video 032 · 4:14–4:20 · 6s · Suspense and atmosphere** (start frame: Image Beat 032)
 
 - **Script segment:** "Chimney smoke drifts over turf roofs and boats bob in the harbor. Pale Maren walks down the lane with empty arms as villagers glance at her. Odile drops a basket of wet laundry and runs toward her."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Maren (shawl sheet), Odile, Villagers
@@ -441,6 +487,7 @@
 **Video 033 · 4:20–4:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 033)
 
 - **Script segment:** "ODILE: Maren! Your belly. Where is the child?"
+- **Dialogue:** ODILE: Maren! Your belly. Where is the child?
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Odile, Maren (shawl sheet), villagers in the background (no sheet needed)
@@ -452,6 +499,7 @@
 **Video 034 · 4:26–4:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 034)
 
 - **Script segment:** "Odile's eyes drop to Maren's flat belly. MAREN: Born too early. Born still."
+- **Dialogue:** MAREN: Born too early. Born still.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Odile, Maren (shawl sheet), villagers in the background (no sheet needed)
@@ -463,6 +511,7 @@
 **Video 035 · 4:32–4:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 035)
 
 - **Script segment:** "ODILE: Oh, Maren. Where did you lay him?"
+- **Dialogue:** ODILE: Oh, Maren. Where did you lay him?
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Odile, Maren (shawl sheet), Hesk, villagers in the background (no sheet needed)
@@ -474,6 +523,7 @@
 **Video 036 · 4:38–4:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 036)
 
 - **Script segment:** "MAREN: I gave him to the sea. Like his father."
+- **Dialogue:** MAREN: I gave him to the sea. Like his father.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Odile, Maren (shawl sheet), Hesk, villagers in the background (no sheet needed)
@@ -485,6 +535,7 @@
 **Video 037 · 4:44–4:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 037)
 
 - **Script segment:** "HESK: The sea keeps what it loves."
+- **Dialogue:** HESK: The sea keeps what it loves.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Odile, Maren (shawl sheet), Hesk, villagers in the background (no sheet needed)
@@ -496,6 +547,7 @@
 **Video 038 · 4:50–4:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 038)
 
 - **Script segment:** "ODILE: You shouldn't be alone in that house."
+- **Dialogue:** ODILE: You shouldn't be alone in that house.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Odile, Maren (shawl sheet), villagers in the background (no sheet needed)
@@ -507,6 +559,7 @@
 **Video 039 · 4:56–5:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 039)
 
 - **Script segment:** "MAREN: Alone is all I have left."
+- **Dialogue:** MAREN: Alone is all I have left.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Odile, Maren (shawl sheet), villagers in the background (no sheet needed)
@@ -518,6 +571,7 @@
 **Video 040 · 5:02–5:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 040)
 
 - **Script segment:** "Maren walks into her stone cottage and closes the weathered door."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Odile, Maren (shawl sheet), villagers in the background (no sheet needed)
@@ -532,6 +586,7 @@
 **Video 041 · 5:08–5:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 041)
 
 - **Script segment:** "A low fire crackles in the silent cottage. The camera drifts to the empty wooden chair by the hearth. Maren sits alone on the bed, staring at it."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Maren (shawl sheet)
@@ -543,6 +598,7 @@
 **Video 042 · 5:14–5:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 042)
 
 - **Script segment:** "Maren hums three soft notes. Her voice breaks and she stops."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Maren (shawl sheet)
@@ -554,6 +610,7 @@
 **Video 043 · 5:20–5:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 043)
 
 - **Script segment:** "MAREN: He'd have known what to do."
+- **Dialogue:** MAREN: He'd have known what to do.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Maren (shawl sheet)
@@ -564,6 +621,8 @@
 
 **Video 044 — Image A — Basket in hand at the door · 5:26–5:32 · 6s · Final cliffhanger** (start frame: Image Beat 044)
 
+- **Script segment:** "She opens the door into the wind, her shawl and hair blowing, and slips out into the dark toward the cliffs."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Maren (shawl sheet)
@@ -578,6 +637,8 @@
 
 **Video 045 — Image A — Cup held out · 5:32–5:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 045)
 
+- **Script segment:** "She tips the cup a little closer; the newborn sniffs once and turns its head away."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -590,6 +651,7 @@
 **Video 046 · 5:38–5:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 046)
 
 - **Script segment:** "MAREN: Milk? No?"
+- **Dialogue:** MAREN: Milk? No?
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -600,6 +662,8 @@
 
 **Video 047 — Image A — Bread held out · 5:44–5:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 047)
 
+- **Script segment:** "The newborn sniffs the bread and sneezes, spraying tiny droplets over it; Maren pulls the bread back."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -612,6 +676,7 @@
 **Video 048 · 5:50–5:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 048)
 
 - **Script segment:** "MAREN: Bread? Not bread either."
+- **Dialogue:** MAREN: Bread? Not bread either.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -623,6 +688,7 @@
 **Video 049 · 5:56–6:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 049)
 
 - **Script segment:** "MAREN: Then what do you want, little one?"
+- **Dialogue:** MAREN: Then what do you want, little one?
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -633,6 +699,8 @@
 
 **Video 050 — Image A — Herring in the basket · 6:02–6:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 050)
 
+- **Script segment:** "The newborn reaches the basket and sniffs the silver herring. it snaps one herring in its tiny jaws and lifts it out of the basket."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -644,6 +712,8 @@
 
 **Video 051 — Image A — Herring in its jaws · 6:08–6:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 051)
 
+- **Script segment:** "The newborn holds the fish in its jaws, tail flicking, while Maren stares at it in wonder. MAREN: Fish. You want fish."
+- **Dialogue:** MAREN: Fish. You want fish.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -655,6 +725,8 @@
 
 **Video 052 — Image A — Head tipping back · 6:14–6:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 052)
 
+- **Script segment:** "The newborn swallows the herring whole. Maren bursts into laughter, her hand over her mouth."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -667,6 +739,7 @@
 **Video 053 · 6:20–6:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 053)
 
 - **Script segment:** "MAREN: Slowly! You'll choke."
+- **Dialogue:** MAREN: Slowly! You'll choke.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -678,6 +751,7 @@
 **Video 054 · 6:26–6:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 054)
 
 - **Script segment:** "It gulps the fish down happily. Her fingers gently stroke its frilled crest."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -689,6 +763,7 @@
 **Video 055 · 6:32–6:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 055)
 
 - **Script segment:** "Maren gazes down with love."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -699,6 +774,8 @@
 
 **Video 056 — Image A — Newborn in her lap · 6:38–6:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 056)
 
+- **Script segment:** "She looks down at the sleeping newborn and speaks softly; it breathes slowly in her lap. MAREN: Your father was Talen. You'll be Tal."
+- **Dialogue:** MAREN: Your father was Talen. You'll be Tal.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -714,6 +791,7 @@
 **Video 057 · 6:44–6:50 · 6s · Shocking reveal** (start frame: Image Beat 057)
 
 - **Script segment:** "Lightning flashes in the cave mouth. Thunder booms and newborn Tal shrieks, scrambling deeper into the basket. Maren rushes over and kneels beside it."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -725,6 +803,7 @@
 **Video 058 · 6:50–6:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 058)
 
 - **Script segment:** "MAREN: It's only noise. Only the sea being loud."
+- **Dialogue:** MAREN: It's only noise. Only the sea being loud.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -735,6 +814,8 @@
 
 **Video 059 — Image A — Hands into the basket · 6:56–7:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 059)
 
+- **Script segment:** "She lifts the newborn gently up out of the basket."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -746,6 +827,8 @@
 
 **Video 059b — Image B — Held to her heart · 7:02–7:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 059b)
 
+- **Script segment:** "She presses it to her heart and rocks slowly; its trembling begins to slow."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -758,6 +841,7 @@
 **Video 060 · 7:08–7:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 060)
 
 - **Script segment:** "Maren begins to sing three soft notes. Newborn Tal's trembling slows. Its eyes slowly close."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -769,6 +853,7 @@
 **Video 061 · 7:14–7:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 061)
 
 - **Script segment:** "Newborn Tal opens its mouth and hums three tiny notes back. Maren freezes, astonished."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -780,6 +865,7 @@
 **Video 062 · 7:20–7:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 062)
 
 - **Script segment:** "MAREN: You learn fast, little one."
+- **Dialogue:** MAREN: You learn fast, little one.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (baby sheet)
@@ -798,6 +884,8 @@
 
 **Video 063 — Image A — Coins in her hand · 7:26–7:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 063)
 
+- **Script segment:** "She weaves the last steps through the crowd and sets the copper coins on the salt-crusted plank in front of Bram."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, market crowd of buyers and sellers (no sheet needed)
@@ -810,6 +898,7 @@
 **Video 064 · 7:32–7:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 064)
 
 - **Script segment:** "MAREN: Herring, Bram. A full basket."
+- **Dialogue:** MAREN: Herring, Bram. A full basket.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, buyers and sellers in the background (no sheet needed)
@@ -821,6 +910,7 @@
 **Video 065 · 7:38–7:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 065)
 
 - **Script segment:** "Bram smirks and looks her thin frame up and down."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, buyers and sellers in the background (no sheet needed)
@@ -832,6 +922,7 @@
 **Video 066 · 7:44–7:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 066)
 
 - **Script segment:** "BRAM: A full basket? For a widow who eats like a sparrow?"
+- **Dialogue:** BRAM: A full basket? For a widow who eats like a sparrow?
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Bram, Maren (shawl sheet), buyers and sellers in the background (no sheet needed)
@@ -843,6 +934,7 @@
 **Video 067 · 7:50–7:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 067)
 
 - **Script segment:** "MAREN: I'm mending. I need my strength."
+- **Dialogue:** MAREN: I'm mending. I need my strength.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram, buyers and sellers in the background (no sheet needed)
@@ -853,6 +945,8 @@
 
 **Video 068 — Image A — Finger on the coins · 7:56–8:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 068)
 
+- **Script segment:** "His finger slowly pushes the coins back across the plank toward Maren. BRAM: Your coin is short."
+- **Dialogue:** BRAM: Your coin is short.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram
@@ -864,6 +958,8 @@
 
 **Video 069 — Image A — Hand on the knife at her belt · 8:02–8:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 069)
 
+- **Script segment:** "She unhooks the knife from her belt and lifts it in front of her."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram
@@ -875,6 +971,8 @@
 
 **Video 069b — Image B — The knife in her hand · 8:08–8:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 069b)
 
+- **Script segment:** "Her thumb runs once over the carved waves on the handle; her hand trembles slightly."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet)
@@ -886,6 +984,8 @@
 
 **Video 070 — Image A — Knife held out to Bram · 8:14–8:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 070)
 
+- **Script segment:** "She holds it out and speaks. Bram closes his fingers around the handle and takes the knife from her hand. MAREN: It was Talen's knife. Take it."
+- **Dialogue:** MAREN: It was Talen's knife. Take it.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram
@@ -897,6 +997,8 @@
 
 **Video 071 — Image A — Shovelling herring · 8:20–8:26 · 6s · Suspense and atmosphere** (start frame: Image Beat 071)
 
+- **Script segment:** "He shovels until the basket is full; Maren lifts the heavy basket onto her arm."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram
@@ -908,6 +1010,8 @@
 
 **Video 071b — Image B — Walking away, knife in his hands · 8:26–8:32 · 6s · Suspense and atmosphere** (start frame: Image Beat 071b)
 
+- **Script segment:** "She walks away into the crowd; Bram turns the knife over slowly, his eyes on her back."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Maren (shawl sheet), Bram
@@ -919,6 +1023,8 @@
 
 **Video 072 — Image A — Blade up close · 8:32–8:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 072)
 
+- **Script segment:** "The blade tilts slightly; his reflected eye narrows."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Bram
@@ -931,6 +1037,7 @@
 **Video 073 · 8:38–8:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 073)
 
 - **Script segment:** "BRAM: Grief doesn't make a woman hungry. Something's wrong with that one."
+- **Dialogue:** BRAM: Grief doesn't make a woman hungry. Something's wrong with that one.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Bram, Odile, buyers and sellers in the background (no sheet needed)
@@ -942,6 +1049,7 @@
 **Video 074 · 8:44–8:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 074)
 
 - **Script segment:** "At a nearby stall, Odile overhears and frowns."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L2 Harbor market
 - **Attach (location + character sheets):** L2 · Bram, Odile, buyers and sellers in the background (no sheet needed)
@@ -956,6 +1064,7 @@
 **Video 075 · 8:50–8:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 075)
 
 - **Script segment:** "Candlelight flickers over a mountain of torn nets. Maren's needle flies through the knots. She winces and sucks a cut fingertip."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Maren (shawl sheet)
@@ -967,6 +1076,7 @@
 **Video 076 · 8:56–9:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 076)
 
 - **Script segment:** "Close on her raw fingers pulling the cord tight. The candle burns low. Grey dawn creeps through the window as she ties the last knot."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Maren (shawl sheet)
@@ -978,6 +1088,7 @@
 **Video 077 · 9:02–9:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 077)
 
 - **Script segment:** "ODILE: You look half-dead, Maren."
+- **Dialogue:** ODILE: You look half-dead, Maren.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Odile, Maren (shawl sheet), villagers in the background (no sheet needed)
@@ -989,6 +1100,7 @@
 **Video 078 · 9:08–9:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 078)
 
 - **Script segment:** "MAREN: Half is enough. She closes the door, leaving Odile frowning on the step."
+- **Dialogue:** MAREN: Half is enough.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Odile, Maren (shawl sheet), villagers in the background (no sheet needed)
@@ -1003,6 +1115,7 @@
 **Video 079 · 9:14–9:20 · 6s · Suspense and atmosphere** (start frame: Image Beat 079)
 
 - **Script segment:** "Morning light glints on the tidal pools under the cliffs. Maren lies flat on the rock beside a pool. She puffs her cheeks full of air, eyes playful."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (shawl sheet), Tal (baby sheet)
@@ -1014,6 +1127,7 @@
 **Video 080 · 9:20–9:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 080)
 
 - **Script segment:** "MAREN: Hold your breath, Tal. Like this."
+- **Dialogue:** MAREN: Hold your breath, Tal. Like this.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (shawl sheet), Tal (baby sheet)
@@ -1025,6 +1139,7 @@
 **Video 081 · 9:26–9:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 081)
 
 - **Script segment:** "She dips her face into the clear pool. Newborn Tal copies her, cheeks puffed comically."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (shawl sheet), Tal (baby sheet)
@@ -1036,6 +1151,7 @@
 **Video 082 · 9:32–9:38 · 6s · Suspense and atmosphere** (start frame: Image Beat 082)
 
 - **Script segment:** "Newborn Tal dives into the rock pool. It swims through kelp in the clear green water. It bursts out of the surface with a crab in its jaws."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Tal (baby sheet)
@@ -1047,6 +1163,7 @@
 **Video 083 · 9:38–9:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 083)
 
 - **Script segment:** "MAREN: Good boy! Good!"
+- **Dialogue:** MAREN: Good boy! Good!
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (shawl sheet), Tal (baby sheet)
@@ -1058,6 +1175,7 @@
 **Video 084 · 9:44–9:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 084)
 
 - **Script segment:** "Newborn Tal proudly shakes seawater all over her. She laughs, wiping her face."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (shawl sheet), Tal (baby sheet)
@@ -1069,6 +1187,7 @@
 **Video 085 · 9:50–9:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 085)
 
 - **Script segment:** "Goat-sized Tal bounds over the rocks after Maren. Seasons pass in mist; Tal grows larger. Now pony-sized, Tal swims powerfully across the cove at sunrise."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (shawl sheet), Tal (juvenile sheet)
@@ -1080,6 +1199,7 @@
 **Video 086 · 9:56–10:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 086)
 
 - **Script segment:** "Pony-sized Tal is wedged in a cracked wooden washtub, legs hanging out."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (juvenile sheet)
@@ -1091,6 +1211,7 @@
 **Video 087 · 10:02–10:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 087)
 
 - **Script segment:** "MAREN: You've outgrown the basket. And the tub. And soon the cave."
+- **Dialogue:** MAREN: You've outgrown the basket. And the tub. And soon the cave.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (juvenile sheet)
@@ -1102,6 +1223,7 @@
 **Video 088 · 10:08–10:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 088)
 
 - **Script segment:** "Tal's long tail sweeps across the whole cave passage."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (shawl sheet), Tal (juvenile sheet)
@@ -1113,6 +1235,7 @@
 **Video 089 · 10:14–10:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 089)
 
 - **Script segment:** "Tal chews happily on a fishing net."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (shawl sheet), Tal (juvenile sheet)
@@ -1124,6 +1247,7 @@
 **Video 090 · 10:20–10:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 090)
 
 - **Script segment:** "MAREN: Not the nets, Tal! Those are mine! A playful tug-of-war across the rocks."
+- **Dialogue:** MAREN: Not the nets, Tal! Those are mine!
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (shawl sheet), Tal (juvenile sheet)
@@ -1135,6 +1259,7 @@
 **Video 091 · 10:26–10:32 · 6s · Final cliffhanger** (start frame: Image Beat 091)
 
 - **Script segment:** "Maren falls back on the rocks laughing. Tal nuzzles her face. A still wide view of the hidden cove at day's end."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (shawl sheet), Tal (juvenile sheet)
@@ -1149,6 +1274,7 @@
 **Video 092 · 10:32–10:38 · 6s · Suspense and atmosphere** (start frame: Image Beat 092)
 
 - **Script segment:** "Tal clambers up a tall rock above the cove. He peers over the edge at the sea far below. His wings twitch open."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Tal (juvenile sheet)
@@ -1160,6 +1286,7 @@
 **Video 093 · 10:38–10:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 093)
 
 - **Script segment:** "Maren runs onto the rocks below."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (shawl sheet), Tal (juvenile sheet)
@@ -1171,6 +1298,7 @@
 **Video 094 · 10:44–10:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 094)
 
 - **Script segment:** "MAREN: Tal. No. Get down from there. Far above, Tal tilts his head at her."
+- **Dialogue:** MAREN: Tal. No. Get down from there.
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (shawl sheet), Tal (juvenile sheet)
@@ -1182,6 +1310,7 @@
 **Video 095 · 10:50–10:56 · 6s · Shocking reveal** (start frame: Image Beat 095)
 
 - **Script segment:** "Tal leaps off the rock, wings spread. He glides for a single moment. He tumbles and crashes into the water in a huge splash."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Tal (juvenile sheet)
@@ -1193,6 +1322,7 @@
 **Video 096 · 10:56–11:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 096)
 
 - **Script segment:** "Tal bursts out of the water, spluttering. He climbs back up and leaps again. This time the wind catches his wings and he skims across the cove."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Tal (juvenile sheet)
@@ -1204,6 +1334,7 @@
 **Video 097 · 11:02–11:08 · 6s · Final cliffhanger** (start frame: Image Beat 097)
 
 - **Script segment:** "MAREN: That's it! That's it!"
+- **Dialogue:** MAREN: That's it! That's it!
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (shawl sheet), Tal (juvenile sheet)
@@ -1215,6 +1346,7 @@
 **Video 098 · 11:08–11:14 · 6s · Final cliffhanger** (start frame: Image Beat 098)
 
 - **Script segment:** "Tal glides back toward her. She laughs, shielding her eyes from the spray."
+- **Dialogue:** none
 - **Season:** Start of winter (the great storm): cold rain, wind and sea spray; no snow
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (shawl sheet), Tal (juvenile sheet)
@@ -1229,6 +1361,7 @@
 **Video 099 · 11:14–11:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 099)
 
 - **Script segment:** "A still wide view over the village as a cold wind bends the dry grass. The boats lie pulled up on the shingle and the fish-drying racks stand empty. Villagers in hooded cloaks of mixed natural colours hurry home as the grey light fades."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L0 Kelvhaven master aerial
 - **Attach (location + character sheets):** L0 · none
@@ -1239,6 +1372,8 @@
 
 **Video 100 — Image A — The last herring in the basket · 11:20–11:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 100)
 
+- **Script segment:** "Frost glitters on the stones; Maren looks at the single fish, then at Tal."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1250,6 +1385,8 @@
 
 **Video 101 — Image A — Herring in her hand · 11:26–11:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 101)
 
+- **Script segment:** "She holds the fish out to him and speaks with a brave smile. MAREN: Take it. I ate at the market."
+- **Dialogue:** MAREN: Take it. I ate at the market.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1261,6 +1398,8 @@
 
 **Video 102 — Image A — Snout at the herring · 11:32–11:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 102)
 
+- **Script segment:** "Tal gently nudges her hand and the fish back toward her chest."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1272,6 +1411,8 @@
 
 **Video 103 — Image A — Fish back in her hand · 11:38–11:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 103)
 
+- **Script segment:** "She shakes her head fondly at him and speaks. MAREN: Stubborn. Just like your father."
+- **Dialogue:** MAREN: Stubborn. Just like your father.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1283,6 +1424,8 @@
 
 **Video 103b — Image B — Feeding him · 11:44–11:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 103b)
 
+- **Script segment:** "Tal takes the fish gently from her fingers and swallows it."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1294,6 +1437,8 @@
 
 **Video 103c — Image C — The scarf · 11:50–11:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 103c)
 
+- **Script segment:** "She finishes wrapping the scarf and tucks the end in. she pulls her cloak tight and shivers."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1306,6 +1451,7 @@
 **Video 104 · 11:56–12:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 104)
 
 - **Script segment:** "Maren leaning close to Tal by the candle, eyes glistening with memory."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1317,6 +1463,7 @@
 **Video 105 · 12:02–12:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 105)
 
 - **Script segment:** "MAREN: Do you want to hear about him? Your father?"
+- **Dialogue:** MAREN: Do you want to hear about him? Your father?
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1328,6 +1475,7 @@
 **Video 106 · 12:08–12:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 106)
 
 - **Script segment:** "Tal lifts his head, listening."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1339,6 +1487,7 @@
 **Video 107 · 12:14–12:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 107)
 
 - **Script segment:** "MAREN: He was the best net-man on this whole coast. He laughed at storms."
+- **Dialogue:** MAREN: He was the best net-man on this whole coast. He laughed at storms.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1350,6 +1499,7 @@
 **Video 108 · 12:20–12:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 108)
 
 - **Script segment:** "MAREN: He said the sea was only loud, never cruel."
+- **Dialogue:** MAREN: He said the sea was only loud, never cruel.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1361,6 +1511,7 @@
 **Video 109 · 12:26–12:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 109)
 
 - **Script segment:** "Maren and Tal side by side by a guttering candle in the frosted cave."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1372,6 +1523,7 @@
 **Video 110 · 12:32–12:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 110)
 
 - **Script segment:** "MAREN: One winter, he went out and the sea kept him."
+- **Dialogue:** MAREN: One winter, he went out and the sea kept him.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1383,6 +1535,7 @@
 **Video 111 · 12:38–12:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 111)
 
 - **Script segment:** "MAREN: And then it gave me you."
+- **Dialogue:** MAREN: And then it gave me you.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1394,6 +1547,7 @@
 **Video 112 · 12:44–12:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 112)
 
 - **Script segment:** "MAREN: Sleep now. The sea is only loud."
+- **Dialogue:** MAREN: Sleep now. The sea is only loud.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1408,6 +1562,7 @@
 **Video 113 · 12:50–12:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 113)
 
 - **Script segment:** "Peat smoke curls up to the rafters as Hesk sits by the hearth. Odile and Bram stand before him."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L5 Hesk's longhouse
 - **Attach (location + character sheets):** L5 · Hesk, Odile, Bram
@@ -1419,6 +1574,7 @@
 **Video 114 · 12:56–13:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 114)
 
 - **Script segment:** "ODILE: She buys fish she never cooks. She walks to the cliffs every night."
+- **Dialogue:** ODILE: She buys fish she never cooks. She walks to the cliffs every night.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L5 Hesk's longhouse
 - **Attach (location + character sheets):** L5 · Odile
@@ -1430,6 +1586,7 @@
 **Video 115 · 13:02–13:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 115)
 
 - **Script segment:** "Bram steps forward angrily."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L5 Hesk's longhouse
 - **Attach (location + character sheets):** L5 · Bram
@@ -1441,6 +1598,7 @@
 **Video 116 · 13:08–13:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 116)
 
 - **Script segment:** "BRAM: And my drying racks were stripped bare. Teeth marks, Hesk. Big ones."
+- **Dialogue:** BRAM: And my drying racks were stripped bare. Teeth marks, Hesk. Big ones.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L5 Hesk's longhouse
 - **Attach (location + character sheets):** L5 · Bram
@@ -1452,6 +1610,7 @@
 **Video 117 · 13:14–13:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 117)
 
 - **Script segment:** "Close on the splintered wood and the deep teeth marks."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L5 Hesk's longhouse
 - **Attach (location + character sheets):** L5 · Bram
@@ -1463,6 +1622,7 @@
 **Video 118 · 13:20–13:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 118)
 
 - **Script segment:** "HESK: Foxes."
+- **Dialogue:** HESK: Foxes.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L5 Hesk's longhouse
 - **Attach (location + character sheets):** L5 · Hesk, Bram
@@ -1474,6 +1634,7 @@
 **Video 119 · 13:26–13:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 119)
 
 - **Script segment:** "BRAM: Foxes don't swim. Tense silence crackles between them."
+- **Dialogue:** BRAM: Foxes don't swim.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L5 Hesk's longhouse
 - **Attach (location + character sheets):** L5 · Hesk, Bram
@@ -1485,6 +1646,7 @@
 **Video 120 · 13:32–13:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 120)
 
 - **Script segment:** "HESK: Then bring me proof. Not fear."
+- **Dialogue:** HESK: Then bring me proof. Not fear.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L5 Hesk's longhouse
 - **Attach (location + character sheets):** L5 · Hesk, Odile, Bram
@@ -1496,6 +1658,7 @@
 **Video 121 · 13:38–13:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 121)
 
 - **Script segment:** "Odile and Bram exchange an uneasy glance. Outside, Bram steps into the wind and stares toward the cliffs."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L5 Hesk's longhouse
 - **Attach (location + character sheets):** L5 · Hesk, Odile, Bram
@@ -1510,6 +1673,7 @@
 **Video 122 · 13:44–13:50 · 6s · Suspense and atmosphere** (start frame: Image Beat 122)
 
 - **Script segment:** "Odile peers over a stone wall. Far ahead, Maren walks toward the cliffs with a basket. Odile slips out and follows."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Odile, Maren (winter sheet), villagers in the background (no sheet needed)
@@ -1521,6 +1685,7 @@
 **Video 123 · 13:50–13:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 123)
 
 - **Script segment:** "Maren hurries down the narrow cliff path. Odile creeps after her, keeping low."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Maren (winter sheet), Odile
@@ -1532,6 +1697,7 @@
 **Video 124 · 13:56–14:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 124)
 
 - **Script segment:** "ODILE: Where are you going, Maren?"
+- **Dialogue:** ODILE: Where are you going, Maren?
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Odile, Maren (winter sheet)
@@ -1543,6 +1709,7 @@
 **Video 125 · 14:02–14:08 · 6s · Suspense and atmosphere** (start frame: Image Beat 125)
 
 - **Script segment:** "Thick fog rolls up from the sea over the path. Odile stops, lost in white. The fog thins: the path below is empty."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Odile
@@ -1554,6 +1721,7 @@
 **Video 126 · 14:08–14:14 · 6s · Final cliffhanger** (start frame: Image Beat 126)
 
 - **Script segment:** "Odile freezes. She leans over the edge, listening. Her face drains of color; she backs away from the edge."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Odile
@@ -1568,6 +1736,7 @@
 **Video 127 · 14:14–14:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 127)
 
 - **Script segment:** "Odile knocks on the weathered door. She pushes it open and steps into the dim room."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Odile
@@ -1579,6 +1748,7 @@
 **Video 128 · 14:20–14:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 128)
 
 - **Script segment:** "ODILE: Maren? Are you home?"
+- **Dialogue:** ODILE: Maren? Are you home?
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Odile
@@ -1590,6 +1760,7 @@
 **Video 129 · 14:26–14:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 129)
 
 - **Script segment:** "The camera passes the cold grey hearth. It finds the untouched straw bed; a silhouette appears in the doorway behind Odile."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Odile, Maren (winter sheet)
@@ -1601,6 +1772,7 @@
 **Video 130 · 14:32–14:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 130)
 
 - **Script segment:** "ODILE: Your fire is cold. You're thinner every day. Where do you sleep?"
+- **Dialogue:** ODILE: Your fire is cold. You're thinner every day. Where do you sleep?
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Odile, Maren (winter sheet)
@@ -1612,6 +1784,7 @@
 **Video 131 · 14:38–14:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 131)
 
 - **Script segment:** "MAREN: Wherever my grief puts me, Odile."
+- **Dialogue:** MAREN: Wherever my grief puts me, Odile.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Maren (winter sheet), Odile
@@ -1623,6 +1796,7 @@
 **Video 132 · 14:44–14:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 132)
 
 - **Script segment:** "ODILE: Grief doesn't smell of fish and smoke."
+- **Dialogue:** ODILE: Grief doesn't smell of fish and smoke.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Maren (winter sheet), Odile
@@ -1634,6 +1808,7 @@
 **Video 133 · 14:50–14:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 133)
 
 - **Script segment:** "Close on silver fish scales stuck to Maren's sleeve."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Maren (winter sheet), Odile
@@ -1648,6 +1823,7 @@
 **Video 134 · 14:56–15:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 134)
 
 - **Script segment:** "Villagers gather in small groups along the lane. Odile whispers to two women, gesturing toward the cliffs. Heads turn toward Maren's cottage."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Villagers, Odile
@@ -1659,6 +1835,7 @@
 **Video 135 · 15:02–15:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 135)
 
 - **Script segment:** "JORY: A sea witch? Here?"
+- **Dialogue:** JORY: A sea witch? Here?
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Maren (winter sheet), Villagers (Jory speaks)
@@ -1670,6 +1847,7 @@
 **Video 136 · 15:08–15:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 136)
 
 - **Script segment:** "Maren walks down the lane with her basket. A mother pulls her child inside and slams the door."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Maren (winter sheet), Villagers
@@ -1681,6 +1859,7 @@
 **Video 137 · 15:14–15:20 · 6s · Suspense and atmosphere** (start frame: Image Beat 137)
 
 - **Script segment:** "Close on Maren's face as she walks. Behind her, blurred figures stop and stare. She grips her basket tighter and walks faster."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L3 The main lane
 - **Attach (location + character sheets):** L3 · Maren (winter sheet), villagers in the background (no sheet needed)
@@ -1695,6 +1874,7 @@
 **Video 138 · 15:20–15:26 · 6s · Shocking reveal** (start frame: Image Beat 138)
 
 - **Script segment:** "Fog drifts over the still, moonlit cove. Pony-sized Tal rises from the water, his throat glowing fiery orange. He breathes out and a sheet of yellow-orange flame rolls across the waves."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Tal (juvenile sheet), Maren (winter sheet)
@@ -1706,6 +1886,7 @@
 **Video 139 · 15:26–15:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 139)
 
 - **Script segment:** "MAREN: Tal. You made fire. On the water. She laughs, then freezes."
+- **Dialogue:** MAREN: Tal. You made fire. On the water.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet)
@@ -1717,6 +1898,7 @@
 **Video 140 · 15:32–15:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 140)
 
 - **Script segment:** "The camera whips up to a single lantern moving along the cliff top."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet)
@@ -1728,6 +1910,7 @@
 **Video 141 · 15:38–15:44 · 6s · Final cliffhanger** (start frame: Image Beat 141)
 
 - **Script segment:** "MAREN: Down. Under. Hold your breath!"
+- **Dialogue:** MAREN: Down. Under. Hold your breath!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1739,6 +1922,7 @@
 **Video 142 · 15:44–15:50 · 6s · Final cliffhanger** (start frame: Image Beat 142)
 
 - **Script segment:** "Tal sinks silently beneath the surface. The last bubbles rise and the black water goes still."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1753,6 +1937,7 @@
 **Video 143 · 15:50–15:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 143)
 
 - **Script segment:** "Fog rolls along the cliff path. Bram holds his lantern out over the edge."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Bram
@@ -1764,6 +1949,7 @@
 **Video 144 · 15:56–16:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 144)
 
 - **Script segment:** "BRAM: Who's down there?"
+- **Dialogue:** BRAM: Who's down there?
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Bram
@@ -1775,6 +1961,7 @@
 **Video 145 · 16:02–16:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 145)
 
 - **Script segment:** "The lantern beam sweeps the rocks below. It lands on Maren, who raises a fishing net."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Maren (winter sheet)
@@ -1786,6 +1973,7 @@
 **Video 146 · 16:08–16:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 146)
 
 - **Script segment:** "MAREN: Only me. Mending."
+- **Dialogue:** MAREN: Only me. Mending.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Maren (winter sheet)
@@ -1797,6 +1985,7 @@
 **Video 147 · 16:14–16:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 147)
 
 - **Script segment:** "BRAM: In the dark?"
+- **Dialogue:** BRAM: In the dark?
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Maren (winter sheet), Bram
@@ -1808,6 +1997,7 @@
 **Video 148 · 16:20–16:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 148)
 
 - **Script segment:** "Maren climbs the path toward him. MAREN: Grief doesn't keep hours, Bram."
+- **Dialogue:** MAREN: Grief doesn't keep hours, Bram.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Maren (winter sheet), Bram
@@ -1819,6 +2009,7 @@
 **Video 149 · 16:26–16:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 149)
 
 - **Script segment:** "Bram leans in close. BRAM: I saw a light on the water. Fire."
+- **Dialogue:** BRAM: I saw a light on the water. Fire.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Bram
@@ -1830,6 +2021,7 @@
 **Video 150 · 16:32–16:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 150)
 
 - **Script segment:** "Close on his eyes, a remembered blue glint in them."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Bram
@@ -1841,6 +2033,7 @@
 **Video 151 · 16:38–16:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 151)
 
 - **Script segment:** "They stand face to face on the path."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Maren (winter sheet), Bram
@@ -1852,6 +2045,7 @@
 **Video 152 · 16:44–16:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 152)
 
 - **Script segment:** "MAREN: Then you've been drinking. Go home. Bram's jaw tightens."
+- **Dialogue:** MAREN: Then you've been drinking. Go home.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Maren (winter sheet), Bram
@@ -1863,6 +2057,7 @@
 **Video 153 · 16:50–16:56 · 6s · Final cliffhanger** (start frame: Image Beat 153)
 
 - **Script segment:** "BRAM: I know what I saw."
+- **Dialogue:** BRAM: I know what I saw.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Bram, Maren (winter sheet)
@@ -1874,6 +2069,7 @@
 **Video 154 · 16:56–17:02 · 6s · Final cliffhanger** (start frame: Image Beat 154)
 
 - **Script segment:** "He walks away, his lantern swinging into the fog. Maren looks down at the cove, where a faint blue glow pulses beneath the black water."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L9 The cliff path
 - **Attach (location + character sheets):** L9 · Bram, Maren (winter sheet)
@@ -1888,6 +2084,7 @@
 **Video 155 · 17:02–17:08 · 6s · Suspense and atmosphere** (start frame: Image Beat 155)
 
 - **Script segment:** "Candlelight flickers on the wet rock. Maren sits with her back against Tal's warm side. She stares toward the cave mouth, wide awake."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1899,6 +2096,7 @@
 **Video 156 · 17:08–17:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 156)
 
 - **Script segment:** "Maren turns to Tal."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1910,6 +2108,7 @@
 **Video 157 · 17:14–17:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 157)
 
 - **Script segment:** "MAREN: We have to be careful now, Tal. More careful than ever."
+- **Dialogue:** MAREN: We have to be careful now, Tal. More careful than ever.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1921,6 +2120,7 @@
 **Video 158 · 17:20–17:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 158)
 
 - **Script segment:** "Tal tilts his head to the left, not understanding."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1932,6 +2132,7 @@
 **Video 159 · 17:26–17:32 · 6s · Final cliffhanger** (start frame: Image Beat 159)
 
 - **Script segment:** "Tal hums three soft notes. Maren closes her eyes and leans her head against his neck. The candle burns down as they sleep."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -1951,6 +2152,7 @@
 **Video 160 · 17:32–17:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 160)
 
 - **Script segment:** "Grey dawn over the harbor reveals a boat smashed on the rocks. Close on splintered planks and shredded nets. Villagers gather around the wreck."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Villagers
@@ -1962,6 +2164,7 @@
 **Video 161 · 17:38–17:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 161)
 
 - **Script segment:** "BRAM: Look at it! Teeth through the hull!"
+- **Dialogue:** BRAM: Look at it! Teeth through the hull!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Villagers
@@ -1973,6 +2176,7 @@
 **Video 162 · 17:44–17:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 162)
 
 - **Script segment:** "JORY: The storm did that."
+- **Dialogue:** JORY: The storm did that.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Villagers (Jory speaks)
@@ -1984,6 +2188,7 @@
 **Video 163 · 17:50–17:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 163)
 
 - **Script segment:** "BRAM: Storms don't eat the catch!"
+- **Dialogue:** BRAM: Storms don't eat the catch!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Villagers
@@ -1995,6 +2200,7 @@
 **Video 164 · 17:56–18:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 164)
 
 - **Script segment:** "ODILE: Maren goes to the cliffs every night."
+- **Dialogue:** ODILE: Maren goes to the cliffs every night.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Odile, Bram, Villagers
@@ -2006,6 +2212,7 @@
 **Video 165 · 18:02–18:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 165)
 
 - **Script segment:** "BRAM: The widow is feeding something. Something from the sea."
+- **Dialogue:** BRAM: The widow is feeding something. Something from the sea.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Odile, Bram, Villagers
@@ -2017,6 +2224,7 @@
 **Video 166 · 18:08–18:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 166)
 
 - **Script segment:** "Fearful faces in the crowd."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Odile, Bram, Villagers
@@ -2028,6 +2236,7 @@
 **Video 167 · 18:14–18:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 167)
 
 - **Script segment:** "Hesk raises his hand and the crowd falls silent."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Hesk, Villagers
@@ -2039,6 +2248,7 @@
 **Video 168 · 18:20–18:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 168)
 
 - **Script segment:** "HESK: Enough. We go together. At low tide. He leads the crowd off toward the cliffs."
+- **Dialogue:** HESK: Enough. We go together. At low tide.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Hesk, Villagers
@@ -2053,6 +2263,7 @@
 **Video 169 · 18:26–18:32 · 6s · Suspense and atmosphere** (start frame: Image Beat 169)
 
 - **Script segment:** "The whetstone scrapes along a harpoon point. Bram works with slow, heavy strokes. A young fisherman stands in the corner holding coils of rope."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L6 Bram's fishing shed
 - **Attach (location + character sheets):** L6 · Bram, Villagers: Jory, Ulf, Sef
@@ -2064,6 +2275,7 @@
 **Video 170 · 18:32–18:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 170)
 
 - **Script segment:** "JORY: W-what if it's big?"
+- **Dialogue:** JORY: W-what if it's big?
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L6 Bram's fishing shed
 - **Attach (location + character sheets):** L6 · Bram, Villagers: Jory, Ulf, Sef
@@ -2075,6 +2287,7 @@
 **Video 171 · 18:38–18:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 171)
 
 - **Script segment:** "Bram doesn't look up. BRAM: Then we bring more rope."
+- **Dialogue:** BRAM: Then we bring more rope.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L6 Bram's fishing shed
 - **Attach (location + character sheets):** L6 · Bram, Villagers: Jory, Ulf, Sef
@@ -2086,6 +2299,7 @@
 **Video 172 · 18:44–18:50 · 6s · Final cliffhanger** (start frame: Image Beat 172)
 
 - **Script segment:** "Close on the harpoon point pressed to his thumb. A bead of blood wells up."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L6 Bram's fishing shed
 - **Attach (location + character sheets):** L6 · Bram
@@ -2097,6 +2311,7 @@
 **Video 173 · 18:50–18:56 · 6s · Final cliffhanger** (start frame: Image Beat 173)
 
 - **Script segment:** "BRAM: Nobody hides things from this village. Nobody."
+- **Dialogue:** BRAM: Nobody hides things from this village. Nobody.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L6 Bram's fishing shed
 - **Attach (location + character sheets):** L6 · Bram
@@ -2110,6 +2325,8 @@
 
 **Video 174 — Image A — Boot at the door · 18:56–19:02 · 6s · Shocking reveal** (start frame: Image Beat 174)
 
+- **Script segment:** "The door bursts open and villagers in muted wool push into the dim cottage."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Villagers
@@ -2122,6 +2339,7 @@
 **Video 175 · 19:02–19:08 · 6s · Suspense and atmosphere** (start frame: Image Beat 175)
 
 - **Script segment:** "Hands rip the straw bed apart. Nets and baskets are thrown across the floor. Dust and straw hang in the air."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Villagers
@@ -2132,6 +2350,8 @@
 
 **Video 176 — Image A — Hand under the bed · 19:08–19:14 · 6s · Shocking reveal** (start frame: Image Beat 176)
 
+- **Script segment:** "The hand gropes in the dark and pulls out something that catches the light."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Villagers
@@ -2143,6 +2363,8 @@
 
 **Video 176b — Image B — The scale in his hand · 19:14–19:20 · 6s · Shocking reveal** (start frame: Image Beat 176b)
 
+- **Script segment:** "He turns the scale slowly; it gleams pink and pearly in the light."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Villagers
@@ -2154,6 +2376,8 @@
 
 **Video 177 — Image A — Scale in Hesk's hand · 19:20–19:26 · 6s · Final cliffhanger** (start frame: Image Beat 177)
 
+- **Script segment:** "He turns the scale in the light, then speaks. HESK: So. It's true."
+- **Dialogue:** HESK: So. It's true.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Hesk
@@ -2166,6 +2390,7 @@
 **Video 178 · 19:26–19:32 · 6s · Final cliffhanger** (start frame: Image Beat 178)
 
 - **Script segment:** "His hand closes around it; fear crosses his face."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L7 Maren's cottage
 - **Attach (location + character sheets):** L7 · Hesk
@@ -2180,6 +2405,7 @@
 **Video 179 · 19:32–19:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 179)
 
 - **Script segment:** "Maren runs into the cave, breathless. Tal lifts his head."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -2191,6 +2417,7 @@
 **Video 180 · 19:38–19:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 180)
 
 - **Script segment:** "MAREN: Tal, they're coming. You have to go. Out to sea."
+- **Dialogue:** MAREN: Tal, they're coming. You have to go. Out to sea.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -2202,6 +2429,7 @@
 **Video 181 · 19:44–19:50 · 6s · Suspense and atmosphere** (start frame: Image Beat 181)
 
 - **Script segment:** "Tal refuses to move. He plants his feet on the stone and lowers his head, refusing to move. He presses his head against her chest."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -2213,6 +2441,7 @@
 **Video 182 · 19:50–19:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 182)
 
 - **Script segment:** "MAREN: Please. Stay low. Stay quiet. Go!"
+- **Dialogue:** MAREN: Please. Stay low. Stay quiet. Go!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -2224,6 +2453,7 @@
 **Video 183 · 19:56–20:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 183)
 
 - **Script segment:** "She pushes his snout toward the water. Close on Tal's sad eye."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet), Tal (juvenile sheet)
@@ -2238,6 +2468,7 @@
 **Video 184 · 20:02–20:08 · 6s · Major climax** (start frame: Image Beat 184)
 
 - **Script segment:** "A line of torches at a sea cave mouth at low tide, villagers pushing in, a horse-sized sea dragon rising behind a woman."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Villagers, Tal (adult sheet), Maren (winter sheet)
@@ -2249,6 +2480,7 @@
 **Video 185 · 20:08–20:14 · 6s · Major climax** (start frame: Image Beat 185)
 
 - **Script segment:** "A line of torches at a sea cave mouth at low tide, villagers pushing in, a horse-sized sea dragon rising behind a woman."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Villagers, Tal (adult sheet), Maren (winter sheet)
@@ -2260,6 +2492,7 @@
 **Video 186 · 20:14–20:20 · 6s · Major climax** (start frame: Image Beat 186)
 
 - **Script segment:** "A line of torches at a sea cave mouth at low tide, villagers pushing in, a horse-sized sea dragon rising behind a woman."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Villagers, Tal (adult sheet), Maren (winter sheet)
@@ -2271,6 +2504,7 @@
 **Video 187 · 20:20–20:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 187)
 
 - **Script segment:** "ODILE: Mother of mercy."
+- **Dialogue:** ODILE: Mother of mercy.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Odile, Bram, Maren (winter sheet), Tal (adult sheet)
@@ -2282,6 +2516,7 @@
 **Video 188 · 20:26–20:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 188)
 
 - **Script segment:** "BRAM: Witch! She gave birth to a sea devil!"
+- **Dialogue:** BRAM: Witch! She gave birth to a sea devil!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Bram, Odile
@@ -2293,6 +2528,7 @@
 **Video 189 · 20:32–20:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 189)
 
 - **Script segment:** "MAREN: He's a child! He has never hurt anyone!"
+- **Dialogue:** MAREN: He's a child! He has never hurt anyone!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Odile, Bram, Maren (winter sheet), Tal (adult sheet)
@@ -2304,6 +2540,7 @@
 **Video 190 · 20:38–20:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 190)
 
 - **Script segment:** "BRAM: My boat says otherwise!"
+- **Dialogue:** BRAM: My boat says otherwise!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Tal (adult sheet), Bram, Villagers
@@ -2315,6 +2552,7 @@
 **Video 191 · 20:44–20:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 191)
 
 - **Script segment:** "Tal growls and a fiery orange glow swells in his throat."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Tal (adult sheet), Bram, Villagers
@@ -2326,6 +2564,7 @@
 **Video 192 · 20:50–20:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 192)
 
 - **Script segment:** "JORY: Look at its eyes. It's going to burn us all!"
+- **Dialogue:** JORY: Look at its eyes. It's going to burn us all!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Villagers (Jory speaks)
@@ -2337,6 +2576,7 @@
 **Video 193 · 20:56–21:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 193)
 
 - **Script segment:** "MAREN: No, Tal. Not them. Never them."
+- **Dialogue:** MAREN: No, Tal. Not them. Never them.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet), Villagers
@@ -2348,6 +2588,7 @@
 **Video 194 · 21:02–21:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 194)
 
 - **Script segment:** "Men hurl weighted nets and ropes over him. Tal thrashes under the nets."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet), Villagers
@@ -2359,6 +2600,7 @@
 **Video 195 · 21:08–21:14 · 6s · Major climax** (start frame: Image Beat 195)
 
 - **Script segment:** "MAREN: Let him go!"
+- **Dialogue:** MAREN: Let him go!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Bram, Villagers, Tal (adult sheet)
@@ -2370,6 +2612,7 @@
 **Video 196 · 21:14–21:20 · 6s · Major climax** (start frame: Image Beat 196)
 
 - **Script segment:** "BRAM: Hold her!"
+- **Dialogue:** BRAM: Hold her!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Bram, Villagers, Tal (adult sheet)
@@ -2381,6 +2624,7 @@
 **Video 197 · 21:20–21:26 · 6s · Major climax** (start frame: Image Beat 197)
 
 - **Script segment:** "MAREN: Tal, swim! Don't look back! Swim!"
+- **Dialogue:** MAREN: Tal, swim! Don't look back! Swim!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Bram, Villagers, Tal (adult sheet)
@@ -2392,6 +2636,7 @@
 **Video 198 · 21:26–21:32 · 6s · Major climax** (start frame: Image Beat 198)
 
 - **Script segment:** "Tal tears through the nets and dives into the sea in a burst of spray."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Bram, Villagers, Tal (adult sheet)
@@ -2403,6 +2648,7 @@
 **Video 199 · 21:32–21:38 · 6s · Final cliffhanger** (start frame: Image Beat 199)
 
 - **Script segment:** "The water settles; Tal is gone."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Bram, Villagers
@@ -2414,6 +2660,7 @@
 **Video 200 · 21:38–21:44 · 6s · Final cliffhanger** (start frame: Image Beat 200)
 
 - **Script segment:** "MAREN: He'll hear me. Wherever he is, he'll hear me."
+- **Dialogue:** MAREN: He'll hear me. Wherever he is, he'll hear me.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet)
@@ -2425,6 +2672,7 @@
 **Video 201 · 21:44–21:50 · 6s · Final cliffhanger** (start frame: Image Beat 201)
 
 - **Script segment:** "BRAM: Let him come. We'll have harpoons waiting."
+- **Dialogue:** BRAM: Let him come. We'll have harpoons waiting.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Bram, Villagers
@@ -2439,6 +2687,7 @@
 **Video 202 · 21:50–21:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 202)
 
 - **Script segment:** "A vast shape circles slowly in the dark water. Tal's glowing veins pulse dimly. He turns back toward the shore again and again."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** Tal (adult sheet)
@@ -2450,6 +2699,7 @@
 **Video 203 · 21:56–22:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 203)
 
 - **Script segment:** "Tal lifts his head and lets out a long whale-song call. Shoals of fish scatter from the kelp. The call fades into the dark."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** Tal (adult sheet)
@@ -2461,6 +2711,7 @@
 **Video 204 · 22:02–22:08 · 6s · Final cliffhanger** (start frame: Image Beat 204)
 
 - **Script segment:** "Tal sinks to the sea floor. He curls his tail around a rock. His glowing eye stays open, fixed on the surface."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** Tal (adult sheet)
@@ -2475,6 +2726,7 @@
 **Video 205 · 22:08–22:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 205)
 
 - **Script segment:** "The whole village gathers in the square. Maren kneels alone on the stones. Close on her rope-bound wrists."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Maren (winter sheet), Villagers
@@ -2486,6 +2738,7 @@
 **Video 206 · 22:14–22:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 206)
 
 - **Script segment:** "HESK: Maren. Did you give birth to that creature?"
+- **Dialogue:** HESK: Maren. Did you give birth to that creature?
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Hesk, Maren (winter sheet)
@@ -2497,6 +2750,7 @@
 **Video 207 · 22:20–22:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 207)
 
 - **Script segment:** "Maren lifts her head."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Hesk, Maren (winter sheet)
@@ -2508,6 +2762,7 @@
 **Video 208 · 22:26–22:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 208)
 
 - **Script segment:** "MAREN: I gave birth to my son."
+- **Dialogue:** MAREN: I gave birth to my son.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Maren (winter sheet), Hesk
@@ -2519,6 +2774,7 @@
 **Video 209 · 22:32–22:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 209)
 
 - **Script segment:** "Bram pushes forward."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Bram, Villagers
@@ -2530,6 +2786,7 @@
 **Video 210 · 22:38–22:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 210)
 
 - **Script segment:** "BRAM: She admits it! The crowd murmurs and stirs."
+- **Dialogue:** BRAM: She admits it!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Bram, Villagers
@@ -2541,6 +2798,7 @@
 **Video 211 · 22:44–22:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 211)
 
 - **Script segment:** "Hesk raises his staff."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Hesk
@@ -2552,6 +2810,7 @@
 **Video 212 · 22:50–22:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 212)
 
 - **Script segment:** "HESK: The law is old. Let the sea judge her."
+- **Dialogue:** HESK: The law is old. Let the sea judge her.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Hesk
@@ -2563,6 +2822,7 @@
 **Video 213 · 22:56–23:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 213)
 
 - **Script segment:** "A cold gust sweeps the square."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Hesk
@@ -2574,6 +2834,7 @@
 **Video 214 · 23:02–23:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 214)
 
 - **Script segment:** "Odile steps forward."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Odile, Hesk
@@ -2585,6 +2846,7 @@
 **Video 215 · 23:08–23:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 215)
 
 - **Script segment:** "ODILE: Hesk, she's one of us."
+- **Dialogue:** ODILE: Hesk, she's one of us.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Odile, Hesk
@@ -2596,6 +2858,7 @@
 **Video 216 · 23:14–23:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 216)
 
 - **Script segment:** "HESK: She was."
+- **Dialogue:** HESK: She was.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Odile, Hesk
@@ -2607,6 +2870,7 @@
 **Video 217 · 23:20–23:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 217)
 
 - **Script segment:** "Maren looks up at Hesk. MAREN: Hesk, you held my hand at Talen's burial."
+- **Dialogue:** MAREN: Hesk, you held my hand at Talen's burial.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Maren (winter sheet)
@@ -2618,6 +2882,7 @@
 **Video 218 · 23:26–23:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 218)
 
 - **Script segment:** "MAREN: You told me I was not alone. Close on her tearful eyes."
+- **Dialogue:** MAREN: You told me I was not alone.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Maren (winter sheet)
@@ -2629,6 +2894,7 @@
 **Video 219 · 23:32–23:38 · 6s · Final cliffhanger** (start frame: Image Beat 219)
 
 - **Script segment:** "HESK: And you lied to all of us."
+- **Dialogue:** HESK: And you lied to all of us.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Hesk, Maren (winter sheet), Villagers
@@ -2640,6 +2906,7 @@
 **Video 220 · 23:38–23:44 · 6s · Final cliffhanger** (start frame: Image Beat 220)
 
 - **Script segment:** "HESK: The sea will decide what you are. He turns his back."
+- **Dialogue:** HESK: The sea will decide what you are.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Hesk
@@ -2651,6 +2918,7 @@
 **Video 221 · 23:44–23:50 · 6s · Final cliffhanger** (start frame: Image Beat 221)
 
 - **Script segment:** "Men lift Maren to her feet and lead her toward the cliffs."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L4 The village square
 - **Attach (location + character sheets):** L4 · Hesk, Maren (winter sheet), Villagers
@@ -2665,6 +2933,7 @@
 **Video 222 · 23:50–23:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 222)
 
 - **Script segment:** "A long procession of villagers walking a bound woman up a windswept cliff path."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet), Villagers, Hesk
@@ -2676,6 +2945,7 @@
 **Video 223 · 23:56–24:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 223)
 
 - **Script segment:** "A long procession of villagers walking a bound woman up a windswept cliff path."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet), Villagers, Hesk
@@ -2687,6 +2957,7 @@
 **Video 224 · 24:02–24:08 · 6s · Suspense and atmosphere** (start frame: Image Beat 224)
 
 - **Script segment:** "A long procession of villagers walking a bound woman up a windswept cliff path."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet), Villagers, Hesk
@@ -2698,6 +2969,7 @@
 **Video 225 · 24:08–24:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 225)
 
 - **Script segment:** "Close on Maren humming quietly as she walks. Villagers behind her glance at each other uneasily. The wind carries the three notes out over the sea."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet)
@@ -2709,6 +2981,7 @@
 **Video 226 · 24:14–24:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 226)
 
 - **Script segment:** "Odile goes pale and grabs a young fisherman's sleeve."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Odile, Villagers
@@ -2720,6 +2993,7 @@
 **Video 227 · 24:20–24:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 227)
 
 - **Script segment:** "ODILE: That song. I heard that song in the fog."
+- **Dialogue:** ODILE: That song. I heard that song in the fog.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Odile, Villagers
@@ -2731,6 +3005,7 @@
 **Video 228 · 24:26–24:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 228)
 
 - **Script segment:** "He pulls away, frightened, and the procession keeps walking."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Odile, Villagers
@@ -2741,6 +3016,8 @@
 
 **Video 229 — Image A — Hand on the grooves · 24:32–24:38 · 6s · Suspense and atmosphere** (start frame: Image Beat 229)
 
+- **Script segment:** "His hand trembles on the stone. he takes his hand away, grips his staff with both hands and turns away."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Hesk
@@ -2756,6 +3033,7 @@
 **Video 230 · 24:38–24:44 · 6s · Suspense and atmosphere** (start frame: Image Beat 230)
 
 - **Script segment:** "A still wide view over the high cliff. The crowd stands at the edge, torches guttering. Maren stands at the front, hair whipping in the wind."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Villagers, Maren (winter sheet)
@@ -2766,6 +3044,8 @@
 
 **Video 231 — Image A — Rope in their hands · 24:44–24:50 · 6s · Suspense and atmosphere** (start frame: Image Beat 231)
 
+- **Script segment:** "Their hands knot the rope tightly around her ankles."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet), Bram, Villagers
@@ -2777,6 +3057,8 @@
 
 **Video 231b — Image B — Tied to the stone · 24:50–24:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 231b)
 
+- **Script segment:** "Odile turns away weeping; Maren stays still, looking out over the edge."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet), Odile, Villagers
@@ -2789,6 +3071,7 @@
 **Video 232 · 24:56–25:02 · 6s · Suspense and atmosphere** (start frame: Image Beat 232)
 
 - **Script segment:** "Maren looks out over the edge. The churning sea far below. Her face is calm, almost serene."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet)
@@ -2800,6 +3083,7 @@
 **Video 233 · 25:02–25:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 233)
 
 - **Script segment:** "Maren closes her eyes."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet), Hesk
@@ -2811,6 +3095,7 @@
 **Video 234 · 25:08–25:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 234)
 
 - **Script segment:** "MAREN: The sea keeps what it loves. Hesk stands unmoved behind her."
+- **Dialogue:** MAREN: The sea keeps what it loves.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet), Hesk
@@ -2822,6 +3107,7 @@
 **Video 235 · 25:14–25:20 · 6s · Shocking reveal** (start frame: Image Beat 235)
 
 - **Script segment:** "Bram steps up behind her. He shoves her. Maren tips backward over the edge."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Bram, Maren (winter sheet)
@@ -2833,6 +3119,7 @@
 **Video 236 · 25:20–25:26 · 6s · Major climax** (start frame: Image Beat 236)
 
 - **Script segment:** "In slow motion she falls down the cliff face, black cloak streaming. She hits the sea in a white splash. Underwater, the stone drags her down into deep blue."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet)
@@ -2852,6 +3139,7 @@
 **Video 237 · 25:26–25:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 237)
 
 - **Script segment:** "Maren sinks, hair floating. Bubbles escape her lips. The surface light fades far above."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** Maren (winter sheet)
@@ -2863,6 +3151,7 @@
 **Video 238 · 25:32–25:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 238)
 
 - **Script segment:** "Maren's eyes close underwater. Dissolve to a glowing memory of newborn Tal by the rock pool. ."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Tal (baby sheet)
@@ -2874,6 +3163,7 @@
 **Video 239 · 25:38–25:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 239)
 
 - **Script segment:** "Dissolve to the memory of Maren at the hidden basket. . Dissolve back to Maren sinking, peaceful."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Maren (winter sheet)
@@ -2885,6 +3175,7 @@
 **Video 240 · 25:44–25:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 240)
 
 - **Script segment:** "Dissolve to Tal tearing free of the nets. . Back underwater, Maren's last bubble rises."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Tal (adult sheet)
@@ -2896,6 +3187,7 @@
 **Video 241 · 25:50–25:56 · 6s · Shocking reveal** (start frame: Image Beat 241)
 
 - **Script segment:** "A vast shadow moves in the dark. Electric-violet veins light up along its body. A luminous violet eye approaches Maren."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** Tal (adult sheet), Maren (winter sheet)
@@ -2906,6 +3198,8 @@
 
 **Video 242 — Image A — Jaws on the rope · 25:56–26:02 · 6s · Major climax** (start frame: Image Beat 242)
 
+- **Script segment:** "He bites through the rope; the stone sinks away into the dark."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** Tal (adult sheet), Maren (winter sheet)
@@ -2917,6 +3211,8 @@
 
 **Video 242b — Image B — On his snout · 26:02–26:08 · 6s · Major climax** (start frame: Image Beat 242b)
 
+- **Script segment:** "He surges upward with her toward the light and breaches the surface in an explosion of water."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** Tal (adult sheet), Maren (winter sheet)
@@ -2932,6 +3228,7 @@
 **Video 243 · 26:08–26:14 · 6s · Suspense and atmosphere** (start frame: Image Beat 243)
 
 - **Script segment:** "Moonlit surf slides up the black sand. Maren lies motionless beside the dragon. She coughs up seawater and gasps, alive."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
@@ -2943,6 +3240,7 @@
 **Video 244 · 26:14–26:20 · 6s · Suspense and atmosphere** (start frame: Image Beat 244)
 
 - **Script segment:** "Tal lowers his large head beside her. His luminous eye watches her. She turns her head to him."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Tal (adult sheet), Maren (winter sheet)
@@ -2954,6 +3252,7 @@
 **Video 245 · 26:20–26:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 245)
 
 - **Script segment:** "She reaches up to his snout."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
@@ -2965,6 +3264,7 @@
 **Video 246 · 26:26–26:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 246)
 
 - **Script segment:** "MAREN: Tal. You came. You heard me. Tears run down her face."
+- **Dialogue:** MAREN: Tal. You came. You heard me.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
@@ -2976,6 +3276,7 @@
 **Video 247 · 26:32–26:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 247)
 
 - **Script segment:** "Maren pressing her forehead to Tal's snout on the moonlit beach."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
@@ -2987,6 +3288,7 @@
 **Video 248 · 26:38–26:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 248)
 
 - **Script segment:** "MAREN: I told you to go. You never listen. Just like him."
+- **Dialogue:** MAREN: I told you to go. You never listen. Just like him.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
@@ -2998,6 +3300,7 @@
 **Video 249 · 26:44–26:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 249)
 
 - **Script segment:** "She presses her forehead to his snout. She rises, looks at the distant village lights and climbs onto his lowered neck."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
@@ -3012,6 +3315,7 @@
 **Video 250 · 26:50–26:56 · 6s · Shocking reveal** (start frame: Image Beat 250)
 
 - **Script segment:** "Maren's hand moves along Tal's neck. She finds raw rope burns cut deep into his scales. Her face hardens."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
@@ -3023,6 +3327,7 @@
 **Video 251 · 26:56–27:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 251)
 
 - **Script segment:** "Maren looks into his large eye."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
@@ -3034,6 +3339,7 @@
 **Video 252 · 27:02–27:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 252)
 
 - **Script segment:** "MAREN: They hurt you. And you still didn't burn them."
+- **Dialogue:** MAREN: They hurt you. And you still didn't burn them.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
@@ -3045,6 +3351,7 @@
 **Video 253 · 27:08–27:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 253)
 
 - **Script segment:** "Tal tilts his large head to the left, just like when he was small."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
@@ -3056,6 +3363,7 @@
 **Video 254 · 27:14–27:20 · 6s · Suspense and atmosphere** (start frame: Image Beat 254)
 
 - **Script segment:** "Maren tears a strip from the hem of her dress. She presses wet seaweed into the wounds. She ties the cloth gently; Tal does not flinch."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
@@ -3067,6 +3375,7 @@
 **Video 255 · 27:20–27:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 255)
 
 - **Script segment:** "MAREN: We're going back."
+- **Dialogue:** MAREN: We're going back.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
@@ -3078,6 +3387,7 @@
 **Video 256 · 27:26–27:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 256)
 
 - **Script segment:** "Tal pulls his head back. A low growl rumbles in his chest."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
@@ -3089,6 +3399,7 @@
 **Video 257 · 27:32–27:38 · 6s · Final cliffhanger** (start frame: Image Beat 257)
 
 - **Script segment:** "Maren lays her hand on his snout."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
@@ -3100,6 +3411,7 @@
 **Video 258 · 27:38–27:44 · 6s · Final cliffhanger** (start frame: Image Beat 258)
 
 - **Script segment:** "MAREN: Not for revenge. For the truth. They need to see what you are."
+- **Dialogue:** MAREN: Not for revenge. For the truth. They need to see what you are.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
@@ -3111,6 +3423,7 @@
 **Video 259 · 27:44–27:50 · 6s · Final cliffhanger** (start frame: Image Beat 259)
 
 - **Script segment:** "Tal slowly lowers his neck for her to climb on."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet)
@@ -3125,6 +3438,7 @@
 **Video 260 · 27:50–27:56 · 6s · Suspense and atmosphere** (start frame: Image Beat 260)
 
 - **Script segment:** "Torches line the jetty in the dark. Men stand with harpoons, watching the water. Bram paces behind them."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Villagers
@@ -3136,6 +3450,7 @@
 **Video 261 · 27:56–28:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 261)
 
 - **Script segment:** "BRAM: If it comes, aim for the eyes."
+- **Dialogue:** BRAM: If it comes, aim for the eyes.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Villagers
@@ -3147,6 +3462,7 @@
 **Video 262 · 28:02–28:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 262)
 
 - **Script segment:** "The young fisherman swallows hard. JORY: And if it doesn't come?"
+- **Dialogue:** JORY: And if it doesn't come?
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Villagers (Jory speaks)
@@ -3158,6 +3474,7 @@
 **Video 263 · 28:08–28:14 · 6s · Final cliffhanger** (start frame: Image Beat 263)
 
 - **Script segment:** "Bram stares out at the dark harbor. A long ripple moves across the still water. It keeps coming, straight toward the jetty."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram
@@ -3172,6 +3489,7 @@
 **Video 264 · 28:14–28:20 · 6s · Shocking reveal** (start frame: Image Beat 264)
 
 - **Script segment:** "Tal rises out of the harbor, water cascading off his scales. Maren sits on his neck. Bells clang and villagers scatter in panic."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Tal (adult sheet), Maren (winter sheet), Villagers
@@ -3183,6 +3501,7 @@
 **Video 265 · 28:20–28:26 · 6s · Major climax** (start frame: Image Beat 265)
 
 - **Script segment:** "BRAM: The devil came back!"
+- **Dialogue:** BRAM: The devil came back!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Tal (adult sheet), Bram, Maren (winter sheet)
@@ -3194,6 +3513,7 @@
 **Video 266 · 28:26–28:32 · 6s · Major climax** (start frame: Image Beat 266)
 
 - **Script segment:** "Tal opens his jaws as yellow-orange fire builds in his glowing throat. MAREN: Tal! No!"
+- **Dialogue:** MAREN: Tal! No!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Tal (adult sheet), Bram, Maren (winter sheet)
@@ -3204,6 +3524,8 @@
 
 **Video 267 — Image A — Harpoon in his hands · 28:32–28:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 267)
 
+- **Script segment:** "He raises the harpoon to his shoulder, ready to throw."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Maren (winter sheet)
@@ -3216,6 +3538,7 @@
 **Video 268 · 28:38–28:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 268)
 
 - **Script segment:** "BRAM: Burn, then! Show them what she made!"
+- **Dialogue:** BRAM: Burn, then! Show them what she made!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Maren (winter sheet)
@@ -3227,6 +3550,7 @@
 **Video 269 · 28:44–28:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 269)
 
 - **Script segment:** "MAREN: Put it down, Bram. He'll kill you before you lift it."
+- **Dialogue:** MAREN: Put it down, Bram. He'll kill you before you lift it.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Maren (winter sheet)
@@ -3238,6 +3562,7 @@
 **Video 270 · 28:50–28:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 270)
 
 - **Script segment:** "BRAM: Then let him! Let them all see!"
+- **Dialogue:** BRAM: Then let him! Let them all see!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Maren (winter sheet), Tal (adult sheet), Villagers
@@ -3249,6 +3574,7 @@
 **Video 271 · 28:56–29:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 271)
 
 - **Script segment:** "Maren slides down Tal's flank. She stands between the dragon and the village, arms spread."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Bram, Maren (winter sheet), Tal (adult sheet), Villagers
@@ -3260,6 +3586,7 @@
 **Video 272 · 29:02–29:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 272)
 
 - **Script segment:** "Maren faces Tal."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Maren (winter sheet), Tal (adult sheet)
@@ -3271,6 +3598,7 @@
 **Video 273 · 29:08–29:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 273)
 
 - **Script segment:** "MAREN: Not like them. We are not like them. Tal's fierce eye softens."
+- **Dialogue:** MAREN: Not like them. We are not like them.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Maren (winter sheet), Tal (adult sheet)
@@ -3282,6 +3610,7 @@
 **Video 274 · 29:14–29:20 · 6s · Major climax** (start frame: Image Beat 274)
 
 - **Script segment:** "Tal turns his head and breathes a pillar of yellow-orange fire into the sky. The whole harbor glows soft violet. Bram's harpoon clatters onto the stones."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Tal (adult sheet), Villagers, Bram
@@ -3296,6 +3625,7 @@
 **Video 275 · 29:20–29:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 275)
 
 - **Script segment:** "Villagers slowly come forward in the blue light. Odile steps out first."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Villagers, Odile, Maren (winter sheet), Tal (adult sheet)
@@ -3307,6 +3637,7 @@
 **Video 276 · 29:26–29:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 276)
 
 - **Script segment:** "ODILE: Maren. We were wrong."
+- **Dialogue:** ODILE: Maren. We were wrong.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Odile, Villagers
@@ -3318,6 +3649,7 @@
 **Video 277 · 29:32–29:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 277)
 
 - **Script segment:** "Maren and Odile face to face, a young fisherman behind them."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Maren (winter sheet), Odile, Villagers
@@ -3329,6 +3661,7 @@
 **Video 278 · 29:38–29:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 278)
 
 - **Script segment:** "JORY: It saved her. It pulled her out of the sea."
+- **Dialogue:** JORY: It saved her. It pulled her out of the sea.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Villagers (Jory speaks)
@@ -3340,6 +3673,7 @@
 **Video 279 · 29:44–29:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 279)
 
 - **Script segment:** "Maren looks at Odile."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Maren (winter sheet), Odile, Villagers
@@ -3351,6 +3685,7 @@
 **Video 280 · 29:50–29:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 280)
 
 - **Script segment:** "MAREN: You were afraid. Fear isn't wrong. What you did with it was."
+- **Dialogue:** MAREN: You were afraid. Fear isn't wrong. What you did with it was.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Maren (winter sheet)
@@ -3362,6 +3697,7 @@
 **Video 281 · 29:56–30:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 281)
 
 - **Script segment:** "HESK: Will he destroy us?"
+- **Dialogue:** HESK: Will he destroy us?
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Hesk, Maren (winter sheet), Tal (adult sheet)
@@ -3373,6 +3709,7 @@
 **Video 282 · 30:02–30:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 282)
 
 - **Script segment:** "MAREN: He could. He won't. I raised him better than that."
+- **Dialogue:** MAREN: He could. He won't. I raised him better than that.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Hesk, Maren (winter sheet), Tal (adult sheet)
@@ -3384,6 +3721,7 @@
 **Video 283 · 30:08–30:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 283)
 
 - **Script segment:** "Tal lowers his head gently beside her."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Hesk, Maren (winter sheet), Tal (adult sheet)
@@ -3395,6 +3733,7 @@
 **Video 284 · 30:14–30:20 · 6s · Dialogue and character emotion** (start frame: Image Beat 284)
 
 - **Script segment:** "Maren climbs onto Tal's back."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Maren (winter sheet), Tal (adult sheet), Odile
@@ -3406,6 +3745,7 @@
 **Video 285 · 30:20–30:26 · 6s · Dialogue and character emotion** (start frame: Image Beat 285)
 
 - **Script segment:** "ODILE: Where will you go?"
+- **Dialogue:** ODILE: Where will you go?
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Odile
@@ -3417,6 +3757,7 @@
 **Video 286 · 30:26–30:32 · 6s · Dialogue and character emotion** (start frame: Image Beat 286)
 
 - **Script segment:** "MAREN: Wherever the sea takes us."
+- **Dialogue:** MAREN: Wherever the sea takes us.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Maren (winter sheet), Tal (adult sheet), Odile
@@ -3428,6 +3769,7 @@
 **Video 287 · 30:32–30:38 · 6s · Dialogue and character emotion** (start frame: Image Beat 287)
 
 - **Script segment:** "Hesk steps forward."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Hesk
@@ -3439,6 +3781,7 @@
 **Video 288 · 30:38–30:44 · 6s · Dialogue and character emotion** (start frame: Image Beat 288)
 
 - **Script segment:** "HESK: Maren. If he is a child, then whose child is he?"
+- **Dialogue:** HESK: Maren. If he is a child, then whose child is he?
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Hesk
@@ -3450,6 +3793,7 @@
 **Video 289 · 30:44–30:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 289)
 
 - **Script segment:** "He waits for her answer."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Hesk
@@ -3461,6 +3805,7 @@
 **Video 290 · 30:50–30:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 290)
 
 - **Script segment:** "MAREN: Mine. That's all you ever needed to know."
+- **Dialogue:** MAREN: Mine. That's all you ever needed to know.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Maren (winter sheet), Tal (adult sheet), Villagers
@@ -3472,6 +3817,7 @@
 **Video 291 · 30:56–31:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 291)
 
 - **Script segment:** "Tal spreads his bat-like wings. He launches into the night sky as the villagers watch."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Maren (winter sheet), Tal (adult sheet), Villagers
@@ -3486,6 +3832,7 @@
 **Video 292 · 31:02–31:08 · 6s · Dialogue and character emotion** (start frame: Image Beat 292)
 
 - **Script segment:** "Tal flies low over golden dawn waves."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** Tal (adult sheet), Maren (winter sheet)
@@ -3497,6 +3844,7 @@
 **Video 293 · 31:08–31:14 · 6s · Dialogue and character emotion** (start frame: Image Beat 293)
 
 - **Script segment:** "MAREN: Hold on, Tal. His wingtip skims the water."
+- **Dialogue:** MAREN: Hold on, Tal.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** Maren (winter sheet), Tal (adult sheet)
@@ -3508,6 +3856,7 @@
 **Video 294 · 31:14–31:20 · 6s · Suspense and atmosphere** (start frame: Image Beat 294)
 
 - **Script segment:** "The dragon's wings beat slowly over the waves. Behind them, the grey coast shrinks to a thin line. Maren keeps her eyes on the open sea ahead."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** Maren (winter sheet), Tal (adult sheet)
@@ -3519,6 +3868,7 @@
 **Video 295 · 31:20–31:26 · 6s · Shocking reveal** (start frame: Image Beat 295)
 
 - **Script segment:** "A deep roar answers from the horizon. Another, and another, with plumes of spray. Huge dark shapes glide beneath the waves and a glowing violet eye opens below the surface."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** Tal (adult sheet)
@@ -3530,6 +3880,7 @@
 **Video 296 · 31:26–31:32 · 6s · Final cliffhanger** (start frame: Image Beat 296)
 
 - **Script segment:** "MAREN: Tal. You're not the only one."
+- **Dialogue:** MAREN: Tal. You're not the only one.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** Maren (winter sheet), Tal (adult sheet)
@@ -3541,6 +3892,7 @@
 **Video 297 · 31:32–31:38 · 6s · Final cliffhanger** (start frame: Image Beat 297)
 
 - **Script segment:** "Tal turns his head toward the sound. They fly toward the horizon as other shapes rise around them."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** Maren (winter sheet), Tal (adult sheet)
@@ -3559,6 +3911,8 @@
 
 **Video 298 — Image A — Herring in her hand · 31:38–31:44 · 6s · Suspense and atmosphere** (start frame: Image Beat 298)
 
+- **Script segment:** "She lays the herring in the basket. she touches two fingers to her lips, then toward the sea."
+- **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L12 The sea cave
 - **Attach (location + character sheets):** L12 · Odile
@@ -3571,6 +3925,7 @@
 **Video 299 · 31:44–31:50 · 6s · Dialogue and character emotion** (start frame: Image Beat 299)
 
 - **Script segment:** "Sunlight spreads over the green turf roofs. Pink sea-thrift sways on the cliff edge in a gentle breeze. Children run out between the cottages into the soft spring light."
+- **Dialogue:** none
 - **Season:** Spring, years later
 - **Location sheet:** L1 Harbor, jetty and bell tower
 - **Attach (location + character sheets):** L1 · Villagers
@@ -3582,6 +3937,7 @@
 **Video 300 · 31:50–31:56 · 6s · Dialogue and character emotion** (start frame: Image Beat 300)
 
 - **Script segment:** "Dawn light falls on the quiet village. Odile scrubs the moss from the old dragon carving until its shape shows again. The children below look up at it."
+- **Dialogue:** none
 - **Season:** Spring, years later
 - **Location sheet:** L5 Hesk's longhouse
 - **Attach (location + character sheets):** L5 · Odile, Villagers
@@ -3593,6 +3949,7 @@
 **Video 301 · 31:56–32:02 · 6s · Dialogue and character emotion** (start frame: Image Beat 301)
 
 - **Script segment:** "Children at the tidal pools puff their cheeks and dive in. A moss-green shawl flutters from a harbor post. Far out on the horizon, a great winged shape skims the waves and disappears."
+- **Dialogue:** none
 - **Season:** Spring, years later
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Villagers
@@ -3607,6 +3964,7 @@
 **Video 302 · 32:02–32:08 · 6s · Final cliffhanger** (start frame: Image Beat 302)
 
 - **Script segment:** "Black water and drifting particles. A huge luminous violet eye opens slowly and holds on the lens. Hard cut to black, ready for the FABLEON title card."
+- **Dialogue:** none
 - **Season:** None (end card)
 - **Location sheet:** none (open sea or underwater)
 - **Attach (location + character sheets):** none
