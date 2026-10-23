@@ -132,7 +132,7 @@ Use your uploaded sheets as they are. No edit needed: every prompt now describes
 - **When Maren tells Tal a story or opens her heart to him** (for example Beats 103–111, about Tal's father): **close two-shots** of the two of them, Maren sitting, Tal lying beside her, both faces visible. Grok cannot keep Tal consistent if he drops out of the frame between beats, so he stays in shot.
 - **Face-only close-ups are used only when Maren is truly alone**, for example in her cottage thinking or talking to herself (Beats 041–043) or in labour in the cave (Beat 013), and for silent thoughtful moments such as the cliff edge (Beat 232).
 
-**2c. Grok Master Prompt format (every image prompt).** Each image prompt starts with **--ar 16:9** and then has five parts, in this order:
+**2c. Grok Master Prompt format (every image prompt).** Each image prompt has five parts, in this order:
 - **[ASPECT RATIO]** 16:9 cinematic widescreen.
 - **[FRAMING & LENS]** the shot size and angle (**medium wide shot** for full-length shots), a **35mm anamorphic lens** and **cinematic framing**, with plenty of space so the subjects never touch or get cut off by the top and bottom edges.
 - **[LIGHTING]** **cinematic lighting**: the scene's light plus a dramatic style for the time of day:
@@ -144,7 +144,7 @@ Use your uploaded sheets as they are. No edit needed: every prompt now describes
 - **[SUBJECT & ACTION]** the characters, what they do, who faces whom, the state of every object, and the setting.
 - **[AESTHETIC STYLE]** **photorealistic**, **shallow depth of field** with cinematic bokeh, dark-fantasy film still, fine grain, desaturated high-contrast grade, static camera, professional movie look.
 
-If Grok shows "--ar 16:9" as text in the image instead of using it, delete it and set 16:9 in Grok's aspect-ratio selector; the prompt already asks for 16:9 widescreen.
+Always set **16:9 in Grok's aspect-ratio setting** before generating; the prompt also asks for 16:9 widescreen in words.
 
 
 **3. One speaker at a time.** Each line has its own time window that names the **SPEAKER** and how to recognise them ("the bearded man in the black coat"). Everyone else is **SILENT, mouths closed**, and there is a short silence between lines.
