@@ -4,7 +4,7 @@
 
 **Build method:** cut the trailer from the movie clips you already generated (the beat numbers below), then add the trailer narration, three text cards and two trailer-only Grok shots. That costs almost no extra generation and keeps the look identical to the film.
 
-**Trailer narrator voice (Grok or TTS):** the same narrator voice as the film, a deep, resonant, unhurried older male storyteller with warm gravel and a faint Nordic lilt, delivered a little slower and more intimately, close to the mic.
+**Trailer narrator voice (Grok or TTS):** the same narrator voice as the film, a deep, warm, unhurried older American male storyteller, delivered a little slower and more intimately, close to the mic.
 
 **Music arc:** a low drone with a single bell (0:00) → Maren's three-note sea-lullaby hum on cello (0:30) → a building war-drum pulse (0:45) → full orchestra and choir (1:00) → **dead silence plus a heartbeat on the cliff push** (1:24) → a huge choir swell for the return (1:30) → Tal's bell-like roar as the final sting (1:57).
 
