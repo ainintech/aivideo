@@ -1,6 +1,6 @@
 # Characters, Voices and Behaviors — *The Tide Mother*
 
-Each character has a **unique voice**: a different gender, age, pitch, speed and accent, so viewers know who is speaking even without looking at the screen. Every video prompt also asks for a dry, close, clear voice with **no echo or reverb**. Paste the voice line unchanged into Grok every time they speak, so the voice stays consistent) and **their own physical habits**. The video prompts give each on-screen character one habit per clip, rotating through the list, so no two characters move the same way and nobody repeats the same gesture in every shot.
+Each character has a **unique voice**: a different gender, age, pitch, speed and accent, so viewers know who is speaking even without looking at the screen. Every video prompt also asks for a dry, close, clear voice with **no echo or reverb**. Paste the voice line unchanged into Grok every time they speak, so the voice stays consistent. Each also has **their own physical habits**. The video prompts give each on-screen character one habit per clip, rotating through the list, so no two characters move the same way and nobody repeats the same gesture in every shot.
 
 ---
 
