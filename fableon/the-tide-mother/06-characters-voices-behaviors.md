@@ -127,6 +127,10 @@ Use your uploaded sheets as they are. No edit needed: every prompt now describes
 - **Within each scene:** an establishing wide → medium for the interaction → close-ups for emotion and reactions.
 - **Every other beat is static**, locked off on a tripod, with no zooms.
 
+**2b. Natural posture and memorable close-ups.**
+- **Quiet, emotional moments** (in the cave, the cottage or on the beach, when the mood is tender, nostalgic, grieving or loving): Maren **sits** on the cave ledge, a low rock or the edge of her bed, and Tal **lies down beside her** with his legs folded under him and his head raised, listening, like a calm animal resting. Baby Tal rests in her lap or the basket. Neither stands up during these beats.
+- **When Maren tells a story or opens her heart** (for example Beats 103–111, about Tal's father): every line she speaks is a **static close-up of only her face**, eyes glistening, looking slightly off-camera at Tal, until she finishes. The silent beats in between are medium two-shots of them sitting together. These are the moments viewers remember.
+
 **3. One speaker at a time.** Each line has its own time window that names the **SPEAKER** and how to recognise them ("the bearded man in the black coat"). Everyone else is **SILENT, mouths closed**, and there is a short silence between lines.
 
 **4. Runs, charges and processions are shot from behind.** A static camera sits behind the runners, so we only see their backs. What they run toward faces the camera, far away and small. The gap closes gradually over the whole clip: about 70 m to 35 m to 10 m in 15 seconds.
