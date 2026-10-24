@@ -2937,7 +2937,7 @@
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet), Villagers, Hesk
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, animate from the uploaded image. 0–6s: the procession walks in silence from left to right up the path, cloaks whipping in the wind; the stone is about 50 meters ahead. RULES: everyone walks from left to right toward the stone; nobody turns their back to the camera; nobody looks into the lens; real walking speed. Camera: completely static, locked off at the side. Sound: howling wind, surf far below, the shuffle of many feet, a staff tapping stone; no dialogue. Keep the costumes exactly as in the image; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, animate from the uploaded image. 0–6s: the procession walks in silence up the path together, cloaks whipping in the wind; the stone is about 50 meters ahead. RULES: the whole procession walks together in one direction toward the stone, as one group, with Maren and the old man leading; nobody turns to face anyone else; nobody turns their back to the camera; nobody looks into the lens; real walking speed. Camera: static, locked off at the side, with a very slow pan that follows the line. Sound: howling wind, surf far below, the shuffle of many feet, a staff tapping stone; no dialogue. Keep the costumes exactly as in the image; no on-screen text.
 
 &nbsp;
 
@@ -2949,7 +2949,7 @@
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet), Villagers, Hesk
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, animate from the uploaded image. 0–6s: they keep climbing from left to right at a slow, heavy pace; Maren walks bound beside the old man with the staff; the stone is about 30 meters ahead. RULES: everyone walks from left to right toward the stone; nobody turns their back to the camera; nobody looks into the lens; real walking speed. Camera: completely static, locked off at the side. Sound: howling wind, surf far below, the shuffle of many feet, a staff tapping stone; no dialogue. Keep the costumes exactly as in the image; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, animate from the uploaded image. 0–6s: they keep climbing together at a slow, heavy pace; Maren walks bound beside the old man with the staff; the stone is about 30 meters ahead. RULES: the whole procession walks together in one direction toward the stone, as one group, with Maren and the old man leading; nobody turns to face anyone else; nobody turns their back to the camera; nobody looks into the lens; real walking speed. Camera: static, locked off at the side, with a very slow pan that follows the line. Sound: howling wind, surf far below, the shuffle of many feet, a staff tapping stone; no dialogue. Keep the costumes exactly as in the image; no on-screen text.
 
 &nbsp;
 
@@ -2961,7 +2961,7 @@
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L10 The cliff edge and the drowning stone
 - **Attach (location + character sheets):** L10 · Maren (winter sheet), Villagers, Hesk
-- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, animate from the uploaded image. 0–6s: the front of the line nears the stone on the right, about 15 meters away; the old man's staff taps the rock with each step. RULES: everyone walks from left to right toward the stone; nobody turns their back to the camera; nobody looks into the lens; real walking speed. Camera: completely static, locked off at the side. Sound: howling wind, surf far below, the shuffle of many feet, a staff tapping stone; no dialogue. Keep the costumes exactly as in the image; no on-screen text.
+- **Grok Imagine prompt (6 s):** 6-second cinematic shot, 16:9, photorealistic dark fantasy, animate from the uploaded image. 0–6s: Maren and the old man at the head of the line near the stone, about 15 meters ahead; the old man's staff taps the rock with each step. RULES: the whole procession walks together in one direction toward the stone, as one group, with Maren and the old man leading; nobody turns to face anyone else; nobody turns their back to the camera; nobody looks into the lens; real walking speed. Camera: static, locked off at the side, with a very slow pan that follows the line. Sound: howling wind, surf far below, the shuffle of many feet, a staff tapping stone; no dialogue. Keep the costumes exactly as in the image; no on-screen text.
 
 &nbsp;
 
