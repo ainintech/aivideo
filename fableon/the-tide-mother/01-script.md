@@ -1,7 +1,7 @@
 # SHE GAVE BIRTH TO A DRAGON | THE TIDE MOTHER
-*Full Fantasy Movie 4K · FABLEON · runtime 32:08 · 314 beats of 6 s each (only the narrated prologue beats run 10–15 s)*
+*Full Fantasy Movie 4K · FABLEON · runtime 32:38 · 319 beats of 6 s each (only the narrated prologue beats run 10–15 s)*
 
-**Spoken words:** 965 (812 dialogue + 153 narration) · about 0.50 words per second, between MYTHRA (0.41) and The Next Show (0.54).
+**Spoken words:** 965 (812 dialogue + 153 narration) · about 0.49 words per second, between MYTHRA (0.41) and The Next Show (0.54).
 
 **Characters:** NARRATOR (voice-over) · MAREN (a widowed net-mender) · TAL (her dragon son) · ODILE (her neighbor) · BRAM (the harbor fish-trader) · HESK (the village elder) · JORY and the VILLAGERS of Kelvhaven
 
@@ -410,12 +410,12 @@ Tal rips through the nets and dives into the sea. And just like that, he's gone.
 > **BRAM:** Let him come. We'll have harpoons waiting.
 
 
-**21:50 — Beneath the waves — Tal waits**
+**22:20 — Beneath the waves — Tal waits**
 
 Out past the harbor, under forty feet of black water, Tal circles. He doesn't swim away. He can't. He calls for her. A long, low sound that shakes the fish out of the kelp. No answer comes. So he waits. Exactly where she told him to stay. Low. And quiet.
 
 
-**22:08 — Village square — the judgment**
+**22:38 — Village square — the judgment**
 
 The village square. All of Kelvhaven has come. Maren kneels in the middle with her wrists tied. Nobody looks away. Nobody steps in.
 
@@ -436,7 +436,7 @@ The village square. All of Kelvhaven has come. Maren kneels in the middle with h
 > **HESK:** And you lied to all of us. The sea will decide what you are.
 
 
-**23:50 — Cliff path — the procession**
+**24:20 — Cliff path — the procession**
 
 They walk her up the cliff path in silence. The whole village behind her. And Maren does something strange. She hums. Three soft notes, over and over.
 
@@ -445,7 +445,7 @@ They walk her up the cliff path in silence. The whole village behind her. And Ma
 Nobody answers her. At the top, Hesk stops by the old stone. For a moment, his hand shakes on his staff.
 
 
-**24:38 — Cliff edge — the fall**
+**25:08 — Cliff edge — the fall**
 
 The cliff edge. The same cliff where it all began. They tie a stone to Maren's ankles. The old way. She doesn't look at them. She looks at the water.
 
@@ -459,7 +459,7 @@ Bram doesn't wait for the elder. He pushes her. She falls. The sea swallows her,
 ## ACT IV — THE RETURN
 
 
-**25:26 — Underwater — the rescue**
+**25:56 — Underwater — the rescue**
 
 Far below, in the dark water, something moves. Down here, there is no storm. No crowd. Only the dark. The light above her shrinks. Her last breath escapes in bubbles. And then, from somewhere, her own voice comes back to her:
 
@@ -472,7 +472,7 @@ Far below, in the dark water, something moves. Down here, there is no storm. No 
 Something huge cuts through the dark below her. Tal. Fully grown. He bites through the rope and carries her up toward the light.
 
 
-**26:08 — Hidden beach, night**
+**26:38 — Hidden beach, night**
 
 Later. A hidden beach, far from the village. Maren coughs up the sea. She is alive. Tal lays his great head down beside her.
 
@@ -481,7 +481,7 @@ Later. A hidden beach, far from the village. Maren coughs up the sea. She is ali
 > **MAREN:** I told you to go. You never listen. Just like him.
 
 
-**26:50 — Hidden beach — the wounds**
+**27:20 — Hidden beach — the wounds**
 
 Then she sees the rope burns across his scales. The nets cut deep.
 
@@ -496,7 +496,7 @@ Tal pulls away. He growls low.
 > **MAREN:** Not for revenge. For the truth. They need to see what you are.
 
 
-**27:50 — Harbor — the night watch**
+**28:20 — Harbor — the night watch**
 
 In Kelvhaven, nobody sleeps that night. Bram has posted men along the jetty, harpoons in hand.
 
@@ -507,7 +507,7 @@ In Kelvhaven, nobody sleeps that night. Bram has posted men along the jetty, har
 Bram doesn't answer. He's watching the water. Because far out in the harbor, something is moving.
 
 
-**28:14 — Harbor, night — the return**
+**28:44 — Harbor, night — the return**
 
 That night, the bells of Kelvhaven start ringing. Tal rises out of the harbor. And on his back is the woman they drowned. People scream and scatter.
 
@@ -532,7 +532,7 @@ Maren slides down and does something no one expects. She stands between Tal and 
 Tal turns his head and breathes his fire into the empty sky. The whole harbor glows blue. Bram's harpoon falls from his hands.
 
 
-**29:20 — Harbor — reconciliation**
+**29:50 — Harbor — reconciliation**
 
 For a long moment, the harbor is completely silent. Slowly, the villagers come closer. Odile steps out first.
 
@@ -557,7 +557,7 @@ Maren climbs onto Tal's back.
 > **MAREN:** Mine. That's all you ever needed to know.
 
 
-**31:02 — Open ocean, dawn**
+**31:32 — Open ocean, dawn**
 
 By dawn, Kelvhaven is far behind them. Tal flies low, his wings brushing the waves.
 
@@ -573,11 +573,11 @@ Behind them, the coast of Kelvhaven shrinks to a thin grey line. Maren doesn't l
 ## EPILOGUE — THE LESSON
 
 
-**31:38 — Epilogue — what Kelvhaven learned**
+**32:08 — Epilogue — what Kelvhaven learned**
 
 And every winter since, on the coldest night of the year, someone leaves a fish at the mouth of the sea cave. Years later. Spring returns to Kelvhaven. Children run laughing past the old dragon carving above the elder's door. At the water's edge, the whole village stands quietly and looks out to sea.
 
 
-**32:02 — Title card**
+**32:32 — Title card**
 
 In the deep, the eye opens one last time. Then, black. FABLEON

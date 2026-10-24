@@ -1,6 +1,6 @@
 # The Tide Mother — Image Prompts for Grok Imagine (short clips, one image per clip)
 
-*314 beats, 32:08 total. Every beat is **exactly 6 seconds**, the length Grok makes (only the narrated prologue beats run 10–15 s) and starts from **its own image**, so faces, costumes and voices never drift. Conversations are shot the natural cinematic way: the characters face each other, turned three-quarters to the camera so every face is visible, with two-shots and close-ups. Nights are truly dark, lit only by four fixed medieval light sources. Visuals follow the original FABLEON Visual Style Profile.*
+*319 beats, 32:38 total. Every beat is **exactly 6 seconds**, the length Grok makes (only the narrated prologue beats run 10–15 s) and starts from **its own image**, so faces, costumes and voices never drift. Conversations are shot the natural cinematic way: the characters face each other, turned three-quarters to the camera so every face is visible, with two-shots and close-ups. Nights are truly dark, lit only by four fixed medieval light sources. Visuals follow the original FABLEON Visual Style Profile.*
 
 **How to use:** generate every beat's image with the character sheets and the location sheet attached as references. Never chain beats from the last frame of the previous video; always start each beat from its own image.
 
@@ -2645,103 +2645,202 @@
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
 - **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet), Villagers
-- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT from a low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] On the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes; on the RIGHT of the frame, about 6 meters away, villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. Mood: violent. Faint breath vapor in the cold air. The villagers are people of different heights and builds, each in a different natural pose, their lights held at uneven, random heights. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the mouth of a tidal sea cave at low tide, exposed wet rocks and kelp, the sea pulled far back. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
+- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT from a low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] On the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes; on the RIGHT of the frame, about 6 meters away, villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. Mood: violent. Faint breath vapor in the cold air. The villagers are people of different heights and builds, each in a different natural pose, their lights held at uneven, random heights. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the rocky shore at the mouth of the hidden sea cave at night: a narrow strip of wet black shingle and kelp-covered rocks running straight down into the open sea; the dark sea is right there, low waves washing onto the pebbles just a few meters behind Tal, white foam in the torchlight, the cave mouth a black shape in the cliff on the far left. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
 
 &nbsp;
 
 
-**Beat 194 · 21:02–21:08 · 6s · Dialogue and character emotion**
+**Beat 194 — Image A — Ropes and net in their hands · 21:02–21:08 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "Men hurl weighted nets and ropes over him. Tal thrashes under the nets."
+- **Action sequence:** Throwing the nets (Beat 194, image A of 3)
+- **Script segment:** "The men swing the net and ropes back over their shoulders. they hurl them; the net leaves their hands and starts to open in the air."
 - **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
-- **Attach (location + character sheets):** L11 · Maren (winter sheet), Tal (adult sheet), Villagers
-- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT from a low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] On the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes; on the RIGHT of the frame, about 6 meters away, villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Men hurl weighted nets and ropes over him. Mood: violent. Faint breath vapor in the cold air. The villagers are people of different heights and builds, each in a different natural pose, their lights held at uneven, random heights. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the mouth of a tidal sea cave at low tide, exposed wet rocks and kelp, the sea pulled far back. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
+- **Attach (location + character sheets):** L11 · Villagers, Bram, Maren (winter sheet), Tal (adult sheet)
+- **Visual state requirements:** Net: bunched in Ulf's and Sef's arms, not yet thrown; Ropes: coiled in the men's hands; Tal: free, no net on him, the sea right behind him
+- **Continuity checklist:** previous state: the mob cornered Tal at the water's edge · current state: the men hold the net and ropes, ready to throw · visible proof: the bunched net and rope coils in the men's hands; Tal still free · next state: they throw
+- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT, low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] On the LEFT, Ulf and Sef at the front of the mob holding a big brown hemp fishing net with round grey stone weights knotted along its edges bunched in their arms, ready to throw, and two more men swinging coils of thick rope; Bram beside them pointing at Tal; on the RIGHT, Tal standing free at the edge of the sea, wings half open, growling, the waves washing around his back feet; Maren between them, centre-right, arms out. VISIBLE STATE, must be clearly shown: Net: bunched in Ulf's and Sef's arms, not yet thrown; Ropes: coiled in the men's hands; Tal: free, no net on him, the sea right behind him. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. POSITIONS (the same in every shot of this sequence): the villagers with Bram on the LEFT of the frame on the wet shingle, turned three-quarters toward the right; Maren in the centre-right; Tal on the RIGHT of the frame standing at the water's edge, the black sea and breaking surf directly behind him; everyone turned in three-quarter view so all faces are visible; nobody has their back to the camera. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes. Mood: violent. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the rocky shore at the mouth of the hidden sea cave at night: a narrow strip of wet black shingle and kelp-covered rocks running straight down into the open sea; the dark sea is right there, low waves washing onto the pebbles just a few meters behind Tal, white foam in the torchlight, the cave mouth a black shape in the cliff on the far left. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
 
 &nbsp;
 
 
-**Beat 195 · 21:08–21:14 · 6s · Major climax**
+**Beat 194b — Image B — Net in the air · 21:08–21:14 · 6s · Dialogue and character emotion**
 
-- **Script segment:** "MAREN: Let him go!"
+- **Action sequence:** Throwing the nets (Beat 194, image B of 3)
+- **Script segment:** "The net drops down over Tal and the weights pull it tight around his body; he jerks and flinches."
+- **Dialogue:** none
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** L11 The hidden cove
+- **Attach (location + character sheets):** L11 · Villagers, Bram, Maren (winter sheet), Tal (adult sheet)
+- **Visual state requirements:** Net: open in mid-air above Tal, not touching him yet; Ropes: flying through the air; Men's hands: empty, arms outstretched after the throw
+- **Continuity checklist:** previous state: they held the net · current state: the net is in the air above Tal · visible proof: the open net in the air, the men's hands empty · next state: it lands on him
+- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT, low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] A big brown hemp fishing net with round grey stone weights knotted along its edges spread wide open in mid-air above Tal, its stone weights swinging at the corners, two ropes flying through the air after it; on the LEFT the men's arms still outstretched from the throw; on the RIGHT, Tal rearing his head up at the net, the sea behind him; Maren centre-right, frozen, hands raised. VISIBLE STATE, must be clearly shown: Net: open in mid-air above Tal, not touching him yet; Ropes: flying through the air; Men's hands: empty, arms outstretched after the throw. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. POSITIONS (the same in every shot of this sequence): the villagers with Bram on the LEFT of the frame on the wet shingle, turned three-quarters toward the right; Maren in the centre-right; Tal on the RIGHT of the frame standing at the water's edge, the black sea and breaking surf directly behind him; everyone turned in three-quarter view so all faces are visible; nobody has their back to the camera. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes. Mood: violent. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the rocky shore at the mouth of the hidden sea cave at night: a narrow strip of wet black shingle and kelp-covered rocks running straight down into the open sea; the dark sea is right there, low waves washing onto the pebbles just a few meters behind Tal, white foam in the torchlight, the cave mouth a black shape in the cliff on the far left. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
+
+&nbsp;
+
+
+**Beat 194c — Image C — Net on Tal's body · 21:14–21:20 · 6s · Dialogue and character emotion**
+
+- **Action sequence:** Throwing the nets (Beat 194, image C of 3)
+- **Script segment:** "Tal thrashes and twists under the net; the men dig their heels into the shingle and haul on the ropes."
+- **Dialogue:** none
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** L11 The hidden cove
+- **Attach (location + character sheets):** L11 · Villagers, Bram, Maren (winter sheet), Tal (adult sheet)
+- **Visual state requirements:** Net: over Tal's head, wings and back; Ropes: tied to the net, held taut by the men on the left; Tal: tangled in the net, at the water's edge
+- **Continuity checklist:** previous state: the net was in the air · current state: the net is on Tal and the men pull the ropes · visible proof: the mesh visibly over his head and wings, the taut ropes · next state: he thrashes under it
+- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT, low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] A big brown hemp fishing net with round grey stone weights knotted along its edges draped over Tal's head, neck, folded wings and back, the stone weights hanging at his legs, his crest frills poking through the mesh; three ropes run from the net across the shingle to the men on the LEFT, who lean back hauling them taut; Tal on the RIGHT thrashing at the water's edge, spray around his feet. VISIBLE STATE, must be clearly shown: Net: over Tal's head, wings and back; Ropes: tied to the net, held taut by the men on the left; Tal: tangled in the net, at the water's edge. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. POSITIONS (the same in every shot of this sequence): the villagers with Bram on the LEFT of the frame on the wet shingle, turned three-quarters toward the right; Maren in the centre-right; Tal on the RIGHT of the frame standing at the water's edge, the black sea and breaking surf directly behind him; everyone turned in three-quarter view so all faces are visible; nobody has their back to the camera. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes. Mood: violent. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the rocky shore at the mouth of the hidden sea cave at night: a narrow strip of wet black shingle and kelp-covered rocks running straight down into the open sea; the dark sea is right there, low waves washing onto the pebbles just a few meters behind Tal, white foam in the torchlight, the cave mouth a black shape in the cliff on the far left. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
+
+&nbsp;
+
+
+**Beat 195 — Image A — Maren running to the ropes · 21:20–21:26 · 6s · Major climax**
+
+- **Action sequence:** Maren runs at the men (Beat 195, image A of 1)
+- **Script segment:** "Maren runs at the men and claws at the nearest rope, shouting. MAREN: Let him go!"
 - **Dialogue:** MAREN: Let him go!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
-- **Attach (location + character sheets):** L11 · Maren (winter sheet), Bram, Villagers, Tal (adult sheet)
-- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT from a low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] On the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes; on the RIGHT of the frame, about 6 meters away, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. Mood: explosive. Faint breath vapor in the cold air. The villagers are people of different heights and builds, each in a different natural pose, their lights held at uneven, random heights. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the mouth of a tidal sea cave at low tide, exposed wet rocks and kelp, the sea pulled far back. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
+- **Attach (location + character sheets):** L11 · Villagers, Bram, Maren (winter sheet), Tal (adult sheet)
+- **Visual state requirements:** Net: still over Tal; Ropes: taut, held by the men; Maren: free, running, her hand reaching for a rope
+- **Continuity checklist:** previous state: Tal was netted · current state: Maren runs at the men · visible proof: her outstretched hand near the taut rope, the net still on Tal · next state: she is grabbed
+- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] MEDIUM WIDE SHOT, eye level, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] Maren in the centre running toward the men on the LEFT, one mittened hand reaching for a taut rope; behind her on the RIGHT, Tal still tangled in a big brown hemp fishing net with round grey stone weights knotted along its edges at the water's edge, the sea behind him. VISIBLE STATE, must be clearly shown: Net: still over Tal; Ropes: taut, held by the men; Maren: free, running, her hand reaching for a rope. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. POSITIONS (the same in every shot of this sequence): the villagers with Bram on the LEFT of the frame on the wet shingle, turned three-quarters toward the right; Maren in the centre-right; Tal on the RIGHT of the frame standing at the water's edge, the black sea and breaking surf directly behind him; everyone turned in three-quarter view so all faces are visible; nobody has their back to the camera. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes. Mood: explosive. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the rocky shore at the mouth of the hidden sea cave at night: a narrow strip of wet black shingle and kelp-covered rocks running straight down into the open sea; the dark sea is right there, low waves washing onto the pebbles just a few meters behind Tal, white foam in the torchlight, the cave mouth a black shape in the cliff on the far left. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
 
 &nbsp;
 
 
-**Beat 196 · 21:14–21:20 · 6s · Major climax**
+**Beat 196 — Image A — Hands on Maren's arms · 21:26–21:32 · 6s · Major climax**
 
-- **Script segment:** "BRAM: Hold her!"
+- **Action sequence:** Maren is seized (Beat 196, image A of 1)
+- **Script segment:** "Bram barks the order; the two men drag Maren back a step as she struggles. BRAM: Hold her!"
 - **Dialogue:** BRAM: Hold her!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
-- **Attach (location + character sheets):** L11 · Maren (winter sheet), Bram, Villagers, Tal (adult sheet)
-- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT from a low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] On the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes; on the RIGHT of the frame, about 6 meters away, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. Mood: explosive. Faint breath vapor in the cold air. The villagers are people of different heights and builds, each in a different natural pose, their lights held at uneven, random heights. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the mouth of a tidal sea cave at low tide, exposed wet rocks and kelp, the sea pulled far back. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
+- **Attach (location + character sheets):** L11 · Villagers, Bram, Maren (winter sheet), Tal (adult sheet)
+- **Visual state requirements:** Maren: held by both arms by Ulf and Sef; Net: still over Tal; Ropes: taut
+- **Continuity checklist:** previous state: she ran at the ropes · current state: two men have hold of her arms · visible proof: the men's hands clamped on her arms · next state: she struggles
+- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] MEDIUM WIDE SHOT, eye level, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] Ulf and Sef gripping Maren by both upper arms, pulling her back toward the LEFT, her boots skidding on the shingle; Bram on the LEFT pointing at her; on the RIGHT, Tal still in a big brown hemp fishing net with round grey stone weights knotted along its edges, ropes taut, the sea behind him. VISIBLE STATE, must be clearly shown: Maren: held by both arms by Ulf and Sef; Net: still over Tal; Ropes: taut. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. POSITIONS (the same in every shot of this sequence): the villagers with Bram on the LEFT of the frame on the wet shingle, turned three-quarters toward the right; Maren in the centre-right; Tal on the RIGHT of the frame standing at the water's edge, the black sea and breaking surf directly behind him; everyone turned in three-quarter view so all faces are visible; nobody has their back to the camera. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes. Mood: explosive. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the rocky shore at the mouth of the hidden sea cave at night: a narrow strip of wet black shingle and kelp-covered rocks running straight down into the open sea; the dark sea is right there, low waves washing onto the pebbles just a few meters behind Tal, white foam in the torchlight, the cave mouth a black shape in the cliff on the far left. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
 
 &nbsp;
 
 
-**Beat 197 · 21:20–21:26 · 6s · Major climax**
+**Beat 197 — Image A — Held, shouting to Tal · 21:32–21:38 · 6s · Major climax**
 
-- **Script segment:** "MAREN: Tal, swim! Don't look back! Swim!"
+- **Action sequence:** Maren shouts to Tal (Beat 197, image A of 1)
+- **Script segment:** "Maren strains against the men and screams to Tal; Tal's eyes lock on her. MAREN: Tal, swim! Don't look back! Swim!"
 - **Dialogue:** MAREN: Tal, swim! Don't look back! Swim!
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
-- **Attach (location + character sheets):** L11 · Maren (winter sheet), Bram, Villagers, Tal (adult sheet)
-- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT from a low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] On the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes; on the RIGHT of the frame, about 6 meters away, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. Mood: explosive. Faint breath vapor in the cold air. The villagers are people of different heights and builds, each in a different natural pose, their lights held at uneven, random heights. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the mouth of a tidal sea cave at low tide, exposed wet rocks and kelp, the sea pulled far back. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
+- **Attach (location + character sheets):** L11 · Villagers, Maren (winter sheet), Tal (adult sheet)
+- **Visual state requirements:** Maren: held by both arms; Net: still over Tal; Sea: right behind Tal
+- **Continuity checklist:** previous state: she was seized · current state: she is held and shouts to Tal · visible proof: the men's hands on her arms; the net on Tal; the sea behind him · next state: he fights the net
+- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] Medium wide shot, medium shot, eye level, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; full-length view from head to toe with generous space around them; each figure takes up no more than about half of the frame height, so their surroundings stay clearly visible. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] Maren held by both arms by Ulf and Sef, straining forward toward the RIGHT, shouting at Tal; on the RIGHT, Tal in a big brown hemp fishing net with round grey stone weights knotted along its edges at the water's edge, his head turned to her, the waves right behind him. VISIBLE STATE, must be clearly shown: Maren: held by both arms; Net: still over Tal; Sea: right behind Tal. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. POSITIONS (the same in every shot of this sequence): the villagers with Bram on the LEFT of the frame on the wet shingle, turned three-quarters toward the right; Maren in the centre-right; Tal on the RIGHT of the frame standing at the water's edge, the black sea and breaking surf directly behind him; everyone turned in three-quarter view so all faces are visible; nobody has their back to the camera. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes. Mood: explosive. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the rocky shore at the mouth of the hidden sea cave at night: a narrow strip of wet black shingle and kelp-covered rocks running straight down into the open sea; the dark sea is right there, low waves washing onto the pebbles just a few meters behind Tal, white foam in the torchlight, the cave mouth a black shape in the cliff on the far left. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
 
 &nbsp;
 
 
-**Beat 198 · 21:26–21:32 · 6s · Major climax**
+**Beat 198 — Image A — Net tearing open · 21:38–21:44 · 6s · Major climax**
 
-- **Script segment:** "Tal tears through the nets and dives into the sea in a burst of spray."
+- **Action sequence:** Tearing free and diving (Beat 198, image A of 3)
+- **Script segment:** "Tal tears the net apart with his wings and claws; the torn net falls onto the shingle."
 - **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
-- **Attach (location + character sheets):** L11 · Maren (winter sheet), Bram, Villagers, Tal (adult sheet)
-- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT from a low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] On the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes; on the RIGHT of the frame, about 6 meters away, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: Tal tears through the nets and dives into the sea in a burst of spray. Mood: explosive. Faint breath vapor in the cold air. The villagers are people of different heights and builds, each in a different natural pose, their lights held at uneven, random heights. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the mouth of a tidal sea cave at low tide, exposed wet rocks and kelp, the sea pulled far back. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
+- **Attach (location + character sheets):** L11 · Villagers, Bram, Maren (winter sheet), Tal (adult sheet)
+- **Visual state requirements:** Net: torn open, falling off Tal; Ropes: slack, the men stumbling; Maren: still held by both arms
+- **Continuity checklist:** previous state: Maren shouted to him · current state: the net is ripping apart · visible proof: the torn mesh and flying weights, slack ropes · next state: he is free
+- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT, low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] On the RIGHT, Tal rearing up on his hind legs at the water's edge, wings bursting open and ripping a big brown hemp fishing net with round grey stone weights knotted along its edges apart: the mesh torn wide across his back, broken strands and stone weights flying; on the LEFT, the men stumbling backward with slack ropes; Maren still held by Ulf and Sef in the centre. VISIBLE STATE, must be clearly shown: Net: torn open, falling off Tal; Ropes: slack, the men stumbling; Maren: still held by both arms. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. POSITIONS (the same in every shot of this sequence): the villagers with Bram on the LEFT of the frame on the wet shingle, turned three-quarters toward the right; Maren in the centre-right; Tal on the RIGHT of the frame standing at the water's edge, the black sea and breaking surf directly behind him; everyone turned in three-quarter view so all faces are visible; nobody has their back to the camera. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes. Mood: explosive. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the rocky shore at the mouth of the hidden sea cave at night: a narrow strip of wet black shingle and kelp-covered rocks running straight down into the open sea; the dark sea is right there, low waves washing onto the pebbles just a few meters behind Tal, white foam in the torchlight, the cave mouth a black shape in the cliff on the far left. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
 
 &nbsp;
 
 
-**Beat 199 · 21:32–21:38 · 6s · Final cliffhanger**
+**Beat 198b — Image B — Turned to the sea · 21:44–21:50 · 6s · Major climax**
 
-- **Script segment:** "The water settles; Tal is gone."
+- **Action sequence:** Tearing free and diving (Beat 198, image B of 3)
+- **Script segment:** "Tal looks back once at Maren over his shoulder, then wades deeper into the surf."
 - **Dialogue:** none
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
-- **Attach (location + character sheets):** L11 · Maren (winter sheet), Bram, Villagers
-- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT from a low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] On the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; on the RIGHT of the frame, about 6 meters away, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. The moment: The water settles; Tal is gone. Mood: loss, menace. Faint breath vapor in the cold air. The villagers are people of different heights and builds, each in a different natural pose, their lights held at uneven, random heights. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the mouth of a tidal sea cave at low tide, exposed wet rocks and kelp, the sea pulled far back. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
+- **Attach (location + character sheets):** L11 · Villagers, Maren (winter sheet), Tal (adult sheet)
+- **Visual state requirements:** Torn net: lying on the shingle, not on Tal; Tal: free, front legs in the sea, facing the water; Maren: still held
+- **Continuity checklist:** previous state: he tore the net · current state: he has turned to the sea · visible proof: the net on the ground, Tal facing the water in profile · next state: he dives
+- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT, low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] On the RIGHT, Tal free, turned away from the mob toward the sea, seen in side profile so his face and eye are visible, his front legs already in the surf, wings half folded; the torn net lying in a heap on the wet pebbles behind him; on the LEFT the men frozen; Maren still held in the centre, watching. VISIBLE STATE, must be clearly shown: Torn net: lying on the shingle, not on Tal; Tal: free, front legs in the sea, facing the water; Maren: still held. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. POSITIONS (the same in every shot of this sequence): the villagers with Bram on the LEFT of the frame on the wet shingle, turned three-quarters toward the right; Maren in the centre-right; Tal on the RIGHT of the frame standing at the water's edge, the black sea and breaking surf directly behind him; everyone turned in three-quarter view so all faces are visible; nobody has their back to the camera. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes. Mood: explosive. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the rocky shore at the mouth of the hidden sea cave at night: a narrow strip of wet black shingle and kelp-covered rocks running straight down into the open sea; the dark sea is right there, low waves washing onto the pebbles just a few meters behind Tal, white foam in the torchlight, the cave mouth a black shape in the cliff on the far left. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
 
 &nbsp;
 
 
-**Beat 200 · 21:38–21:44 · 6s · Final cliffhanger**
+**Beat 198c — Image C — The dive · 21:50–21:56 · 6s · Major climax**
 
-- **Script segment:** "MAREN: He'll hear me. Wherever he is, he'll hear me."
+- **Action sequence:** Tearing free and diving (Beat 198, image C of 3)
+- **Script segment:** "His tail slips under the surface and he is gone; a pale pink glow streaks away under the water out to sea."
+- **Dialogue:** none
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** L11 The hidden cove
+- **Attach (location + character sheets):** L11 · Villagers, Maren (winter sheet), Tal (adult sheet)
+- **Visual state requirements:** Tal: diving into the sea, half under water; Torn net: on the shingle; Maren: still held
+- **Continuity checklist:** previous state: he faced the sea · current state: he is plunging into the water · visible proof: the burst of spray and his tail above the water · next state: he swims away
+- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT, low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] On the RIGHT, Tal diving headfirst into the black sea in a huge burst of white spray, only his back, wings and tail still above the water; the torn net on the shingle; on the LEFT the mob flinching from the spray; Maren held in the centre. VISIBLE STATE, must be clearly shown: Tal: diving into the sea, half under water; Torn net: on the shingle; Maren: still held. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. POSITIONS (the same in every shot of this sequence): the villagers with Bram on the LEFT of the frame on the wet shingle, turned three-quarters toward the right; Maren in the centre-right; Tal on the RIGHT of the frame standing at the water's edge, the black sea and breaking surf directly behind him; everyone turned in three-quarter view so all faces are visible; nobody has their back to the camera. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; Tal, a fully grown adult sea dragon only about 6 feet (1.8 m) tall at the head, the size of a horse, not giant and not towering: standing on all four legs his head is level with a grown woman's head, and his body is about as long as a horse, just big enough to carry one woman on his back; slender and strong, with blush-pink and rose-white scales with a soft pearly sheen, large pale pink bat-like wings with faint violet veins, a crest of sharp spiky pink-white fin-frills on his head and neck, and violet slit-pupil eyes. Mood: explosive. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the rocky shore at the mouth of the hidden sea cave at night: a narrow strip of wet black shingle and kelp-covered rocks running straight down into the open sea; the dark sea is right there, low waves washing onto the pebbles just a few meters behind Tal, white foam in the torchlight, the cave mouth a black shape in the cliff on the far left. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
+
+&nbsp;
+
+
+**Beat 199 — Image A — Glow far out at sea · 21:56–22:02 · 6s · Final cliffhanger**
+
+- **Action sequence:** Tal swims away (Beat 199, image A of 1)
+- **Script segment:** "The glow fades into the dark far out; the foam settles; the waves roll back onto the pebbles."
+- **Dialogue:** none
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** L11 The hidden cove
+- **Attach (location + character sheets):** L11 · Villagers, Bram, Maren (winter sheet)
+- **Visual state requirements:** Tal: gone under the water, only a faint glow far out; Torn net: on the shingle; Maren: held by both arms
+- **Continuity checklist:** previous state: he dived · current state: the water settles behind him · visible proof: the foam ring and the distant glow · next state: the glow is gone
+- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT, eye level, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] The empty dark sea on the RIGHT with a spreading ring of foam where Tal dived, and far out a faint pale pink glow moving away under the surface; the torn net on the shingle at the water's edge; on the LEFT the villagers and Bram staring out to sea; Maren held by Ulf and Sef in the centre, staring after him. VISIBLE STATE, must be clearly shown: Tal: gone under the water, only a faint glow far out; Torn net: on the shingle; Maren: held by both arms. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. POSITIONS (the same in every shot of this sequence): the villagers with Bram on the LEFT of the frame on the wet shingle, turned three-quarters toward the right; Maren in the centre-right; Tal on the RIGHT of the frame standing at the water's edge, the black sea and breaking surf directly behind him; everyone turned in three-quarter view so all faces are visible; nobody has their back to the camera. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds; Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. Mood: loss, menace. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the rocky shore at the mouth of the hidden sea cave at night: a narrow strip of wet black shingle and kelp-covered rocks running straight down into the open sea; the dark sea is right there, low waves washing onto the pebbles just a few meters behind Tal, white foam in the torchlight, the cave mouth a black shape in the cliff on the far left. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
+
+&nbsp;
+
+
+**Beat 200 — Image A — Held, looking out to sea · 22:02–22:08 · 6s · Final cliffhanger**
+
+- **Action sequence:** Maren watches the sea (Beat 200, image A of 1)
+- **Script segment:** "Maren stares out at the empty water and speaks softly. MAREN: He'll hear me. Wherever he is, he'll hear me."
 - **Dialogue:** MAREN: He'll hear me. Wherever he is, he'll hear me.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
-- **Attach (location + character sheets):** L11 · Maren (winter sheet)
-- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] EXTREME CLOSE-UP on the face and eyes at eye level, 35mm anamorphic lens, cinematic framing, the face sits comfortably in the frame with breathing room above the head, the subjects never touch or get cut off by the top and bottom edges. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots, on the left side of the frame, face and body turned three-quarters toward the camera so the whole face is clearly visible, eyes looking to the right at the bearded man in the shaggy fur coat and the villagers, who stands about 6 meters away just out of frame, as if talking to them; never looking into the lens. Mood: loss, menace. Faint breath vapor in the cold air. The villagers are people of different heights and builds, each in a different natural pose, their lights held at uneven, random heights. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the mouth of a tidal sea cave at low tide, exposed wet rocks and kelp, the sea pulled far back. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
+- **Attach (location + character sheets):** L11 · Villagers, Maren (winter sheet)
+- **Visual state requirements:** Maren: held by both arms; Sea: empty
+- **Continuity checklist:** previous state: the water settled · current state: she looks out to the empty sea · visible proof: the men's hands still on her arms · next state: she is taken away
+- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] MEDIUM CLOSE SHOT, eye level, 35mm anamorphic lens, cinematic framing, the face sits comfortably in the frame with breathing room above the head, the subjects never touch or get cut off by the top and bottom edges. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] Maren held by both arms between Ulf and Sef, her face in three-quarter view turned toward the empty sea on the RIGHT, tears on her cheeks, torchlight on her face. VISIBLE STATE, must be clearly shown: Maren: held by both arms; Sea: empty. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. Mood: loss, menace. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the rocky shore at the mouth of the hidden sea cave at night: a narrow strip of wet black shingle and kelp-covered rocks running straight down into the open sea; the dark sea is right there, low waves washing onto the pebbles just a few meters behind Tal, white foam in the torchlight, the cave mouth a black shape in the cliff on the far left. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
 
 &nbsp;
 
 
-**Beat 201 · 21:44–21:50 · 6s · Final cliffhanger**
+**Beat 201 — Image A — Bram turns from the sea · 22:08–22:14 · 6s · Final cliffhanger**
 
-- **Script segment:** "BRAM: Let him come. We'll have harpoons waiting."
+- **Action sequence:** Taking Maren away (Beat 201, image A of 2)
+- **Script segment:** "Bram looks from the sea to Maren and speaks. BRAM: Let him come. We'll have harpoons waiting."
 - **Dialogue:** BRAM: Let him come. We'll have harpoons waiting.
 - **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
 - **Location sheet:** L11 The hidden cove
-- **Attach (location + character sheets):** L11 · Maren (winter sheet), Bram, Villagers
-- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT from a low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] On the LEFT of the frame, Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots; on the RIGHT of the frame, about 6 meters away, Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds. The two sides are turned toward each other, bodies angled about 45 degrees toward the camera, so every face is clearly visible in three-quarter view, eyes locked on each other. Nobody has their back to the camera and nobody looks into the lens. Mood: loss, menace. Faint breath vapor in the cold air. The villagers are people of different heights and builds, each in a different natural pose, their lights held at uneven, random heights. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the mouth of a tidal sea cave at low tide, exposed wet rocks and kelp, the sea pulled far back. Early winter chill: a bitter wind, low grey clouds, cold drizzle and drifting sea mist, wet stone and mud, dry brown grass and bare thorn bushes; no snow and no ice anywhere. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
+- **Attach (location + character sheets):** L11 · Bram, Villagers, Maren (winter sheet)
+- **Visual state requirements:** Maren: held by both arms; Torch: in Bram's hand
+- **Continuity checklist:** previous state: she spoke to the sea · current state: Bram speaks to her · visible proof: Bram's torch, the men's grip on her arms · next state: they lead her away
+- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] Medium wide shot, medium shot, low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; full-length view from head to toe with generous space around them; each figure takes up no more than about half of the frame height, so their surroundings stay clearly visible. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] Bram on the LEFT holding a pitch torch, turned three-quarters toward Maren, who stands held by both arms by Ulf and Sef on the RIGHT, the empty sea behind her. VISIBLE STATE, must be clearly shown: Maren: held by both arms; Torch: in Bram's hand. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. Mood: loss, menace. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the rocky shore at the mouth of the hidden sea cave at night: a narrow strip of wet black shingle and kelp-covered rocks running straight down into the open sea; the dark sea is right there, low waves washing onto the pebbles just a few meters behind Tal, white foam in the torchlight, the cave mouth a black shape in the cliff on the far left. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
+
+&nbsp;
+
+
+**Beat 201b — Image B — Led away from the shore · 22:14–22:20 · 6s · Final cliffhanger**
+
+- **Action sequence:** Taking Maren away (Beat 201, image B of 2)
+- **Script segment:** "The group walks away up the shingle in silence; Maren looks back once at the sea."
+- **Dialogue:** none
+- **Season:** Early winter chill: cold wind, grey skies, drizzle and sea mist; no snow, no ice
+- **Location sheet:** L11 The hidden cove
+- **Attach (location + character sheets):** L11 · Bram, Villagers, Maren (winter sheet)
+- **Visual state requirements:** Maren: held by both arms, walking; Torn net: left on the shingle; Sea: empty
+- **Continuity checklist:** previous state: Bram spoke · current state: they lead her away · visible proof: the group walking one way, Maren held between two men · next state: they leave the cove
+- **Image prompt:** [ASPECT RATIO] 16:9 cinematic widescreen. [FRAMING & LENS] WIDE SHOT, low angle, 35mm anamorphic lens, cinematic framing, plenty of space around the subject, the subjects never touch or get cut off by the top and bottom edges; the characters are small in the frame, seen full-length from head to toe, each figure no taller than about one third of the frame height, with plenty of space above their heads and below their feet and the setting filling most of the picture. [LIGHTING] Cinematic lighting: orange torchlight flickering against cold blue darkness, embers in the air. TRUE NIGHT: deep darkness and a black sky; faces are lit only by the nearby flame or glow, and everything outside its reach falls into black; no daylight anywhere; volumetric firelight and smoke haze, Rembrandt lighting sculpting the faces. [SUBJECT & ACTION] The whole group walking together away from the sea up the shingle toward the cliff path, seen from the side in three-quarter view: Bram at the front with his pitch torch, Maren held by both arms between Ulf and Sef behind him, the villagers following with their pitch torches; the empty sea and the torn net left behind them at the water's edge. VISIBLE STATE, must be clearly shown: Maren: held by both arms, walking; Torn net: left on the shingle; Sea: empty. UNCHANGED from the previous shot: the same characters, faces, hair, clothing, setting, props, lighting and positions; only the action described here has changed. Characters: Bram, a burly man about 40 with a scarred jaw, wet curly red-brown hair and a thick matted red-brown beard, wearing a heavy, shaggy, knee-length coat of worn brown and tan sheepskin fleece with a wide fleece collar, over a stained brown wool tunic with a wide leather belt, rough brown wool trousers and tall worn brown leather boots; villagers in real, everyday medieval northern fishing-village clothing in many different natural colours, every person dressed differently: layered hand-woven wool tunics, kirtles and hooded cloaks in undyed cream, oatmeal and sheep-grey, walnut brown, faded woad blue, mustard ochre and rust brown, with sheepskin vests, oiled leather jerkins, oilskin capes, wool hoods and caps, leather belts, leg-wraps and worn leather shoes; all colours muted, earthy and weathered, nothing bright, among them the same recurring faces in every scene, always in the same clothes: Jory (about 18, lanky, messy blond hair, grey wool cap, faded woad-blue tunic, sheepskin vest), Ulf (big man in his 30s, shaved head, sheepskin vest over a rust-brown tunic, iron gaff), Sef (wiry man in his 30s, black beard, crooked nose, dark oiled-leather jerkin over a mustard-ochre tunic), Garth (about 60, bald, short grey beard, grey oilskin cape over an oatmeal tunic), Brenna (fishwife in her 40s, red-brown braid, walnut-brown kirtle, cream wool shawl) and Mags (about 70, white hair, sheep-grey kirtle, black wool shawl); everyone else keeps their hood up, faces in shadow; people of different heights and builds; Maren, a woman about 30 with long wet tangled dark-brown hair with thin braids, pale weathered freckled skin, tired grey-green eyes, wearing her winter clothes: a long, heavy black wool hooded cloak reaching her ankles, with a ragged, frayed hem, the deep hood up over her head, fastened at the throat with a round dark iron disc clasp; under it a long black wool dress with a long brown leather belt whose end hangs down the front; thick dark grey knitted wool mittens; worn dark leather ankle boots. Mood: loss, menace. Faint breath vapor in the cold air. Nobody looks into the camera lens. All mouths closed. Palette: storm slate grey, fog grey, driftwood brown and wet-wool grey, with orange mob pitch torches against cold blue. No text, no watermark, no modern objects. Setting: the rocky shore at the mouth of the hidden sea cave at night: a narrow strip of wet black shingle and kelp-covered rocks running straight down into the open sea; the dark sea is right there, low waves washing onto the pebbles just a few meters behind Tal, white foam in the torchlight, the cave mouth a black shape in the cliff on the far left. [AESTHETIC STYLE] Photorealistic, shallow depth of field with cinematic bokeh, cinematic film still, dark fantasy, fine film grain, high-fidelity textures, desaturated high-contrast color grade, static locked-off camera, professional movie look. Fixed medieval light sources, same design in every scene: pitch torches are wooden staves with rag heads soaked in fish oil and pitch.
 
 &nbsp;
 
@@ -2749,7 +2848,7 @@
 ### Beneath the waves — Tal waits
 
 
-**Beat 202 · 21:50–21:56 · 6s · Suspense and atmosphere**
+**Beat 202 · 22:20–22:26 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "A vast shape circles slowly in the dark water. Tal's glowing veins pulse dimly. He turns back toward the shore again and again."
 - **Dialogue:** none
@@ -2761,7 +2860,7 @@
 &nbsp;
 
 
-**Beat 203 · 21:56–22:02 · 6s · Suspense and atmosphere**
+**Beat 203 · 22:26–22:32 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Tal lifts his head and lets out a long whale-song call. Shoals of fish scatter from the kelp. The call fades into the dark."
 - **Dialogue:** none
@@ -2773,7 +2872,7 @@
 &nbsp;
 
 
-**Beat 204 · 22:02–22:08 · 6s · Final cliffhanger**
+**Beat 204 · 22:32–22:38 · 6s · Final cliffhanger**
 
 - **Script segment:** "Tal sinks to the sea floor. He curls his tail around a rock. His glowing eye stays open, fixed on the surface."
 - **Dialogue:** none
@@ -2788,7 +2887,7 @@
 ### Village square — the judgment
 
 
-**Beat 205 · 22:08–22:14 · 6s · Suspense and atmosphere**
+**Beat 205 · 22:38–22:44 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "The whole village gathers in the square. Maren kneels alone on the stones. Close on her rope-bound wrists."
 - **Dialogue:** none
@@ -2800,7 +2899,7 @@
 &nbsp;
 
 
-**Beat 206 · 22:14–22:20 · 6s · Dialogue and character emotion**
+**Beat 206 · 22:44–22:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "HESK: Maren. Did you give birth to that creature?"
 - **Dialogue:** HESK: Maren. Did you give birth to that creature?
@@ -2812,7 +2911,7 @@
 &nbsp;
 
 
-**Beat 207 · 22:20–22:26 · 6s · Dialogue and character emotion**
+**Beat 207 · 22:50–22:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren lifts her head."
 - **Dialogue:** none
@@ -2824,7 +2923,7 @@
 &nbsp;
 
 
-**Beat 208 · 22:26–22:32 · 6s · Dialogue and character emotion**
+**Beat 208 · 22:56–23:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: I gave birth to my son."
 - **Dialogue:** MAREN: I gave birth to my son.
@@ -2836,7 +2935,7 @@
 &nbsp;
 
 
-**Beat 209 · 22:32–22:38 · 6s · Dialogue and character emotion**
+**Beat 209 · 23:02–23:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Bram pushes forward."
 - **Dialogue:** none
@@ -2848,7 +2947,7 @@
 &nbsp;
 
 
-**Beat 210 · 22:38–22:44 · 6s · Dialogue and character emotion**
+**Beat 210 · 23:08–23:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: She admits it! The crowd murmurs and stirs."
 - **Dialogue:** BRAM: She admits it!
@@ -2860,7 +2959,7 @@
 &nbsp;
 
 
-**Beat 211 · 22:44–22:50 · 6s · Dialogue and character emotion**
+**Beat 211 · 23:14–23:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Hesk raises his staff."
 - **Dialogue:** none
@@ -2872,7 +2971,7 @@
 &nbsp;
 
 
-**Beat 212 · 22:50–22:56 · 6s · Dialogue and character emotion**
+**Beat 212 · 23:20–23:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "HESK: The law is old. Let the sea judge her."
 - **Dialogue:** HESK: The law is old. Let the sea judge her.
@@ -2884,7 +2983,7 @@
 &nbsp;
 
 
-**Beat 213 · 22:56–23:02 · 6s · Dialogue and character emotion**
+**Beat 213 · 23:26–23:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "A cold gust sweeps the square."
 - **Dialogue:** none
@@ -2896,7 +2995,7 @@
 &nbsp;
 
 
-**Beat 214 · 23:02–23:08 · 6s · Dialogue and character emotion**
+**Beat 214 · 23:32–23:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Odile steps forward."
 - **Dialogue:** none
@@ -2908,7 +3007,7 @@
 &nbsp;
 
 
-**Beat 215 · 23:08–23:14 · 6s · Dialogue and character emotion**
+**Beat 215 · 23:38–23:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: Hesk, she's one of us."
 - **Dialogue:** ODILE: Hesk, she's one of us.
@@ -2920,7 +3019,7 @@
 &nbsp;
 
 
-**Beat 216 · 23:14–23:20 · 6s · Dialogue and character emotion**
+**Beat 216 · 23:44–23:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "HESK: She was."
 - **Dialogue:** HESK: She was.
@@ -2932,7 +3031,7 @@
 &nbsp;
 
 
-**Beat 217 · 23:20–23:26 · 6s · Dialogue and character emotion**
+**Beat 217 · 23:50–23:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren looks up at Hesk. MAREN: Hesk, you held my hand at Talen's burial."
 - **Dialogue:** MAREN: Hesk, you held my hand at Talen's burial.
@@ -2944,7 +3043,7 @@
 &nbsp;
 
 
-**Beat 218 · 23:26–23:32 · 6s · Dialogue and character emotion**
+**Beat 218 · 23:56–24:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: You told me I was not alone. Close on her tearful eyes."
 - **Dialogue:** MAREN: You told me I was not alone.
@@ -2956,7 +3055,7 @@
 &nbsp;
 
 
-**Beat 219 · 23:32–23:38 · 6s · Final cliffhanger**
+**Beat 219 · 24:02–24:08 · 6s · Final cliffhanger**
 
 - **Script segment:** "HESK: And you lied to all of us."
 - **Dialogue:** HESK: And you lied to all of us.
@@ -2968,7 +3067,7 @@
 &nbsp;
 
 
-**Beat 220 · 23:38–23:44 · 6s · Final cliffhanger**
+**Beat 220 · 24:08–24:14 · 6s · Final cliffhanger**
 
 - **Script segment:** "HESK: The sea will decide what you are. He turns his back."
 - **Dialogue:** HESK: The sea will decide what you are.
@@ -2980,7 +3079,7 @@
 &nbsp;
 
 
-**Beat 221 · 23:44–23:50 · 6s · Final cliffhanger**
+**Beat 221 · 24:14–24:20 · 6s · Final cliffhanger**
 
 - **Script segment:** "Men lift Maren to her feet and lead her toward the cliffs."
 - **Dialogue:** none
@@ -2995,7 +3094,7 @@
 ### Cliff path — the procession
 
 
-**Beat 222 · 23:50–23:56 · 6s · Suspense and atmosphere**
+**Beat 222 · 24:20–24:26 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "A long procession of villagers walking a bound woman up a windswept cliff path."
 - **Dialogue:** none
@@ -3007,7 +3106,7 @@
 &nbsp;
 
 
-**Beat 223 · 23:56–24:02 · 6s · Suspense and atmosphere**
+**Beat 223 · 24:26–24:32 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "A long procession of villagers walking a bound woman up a windswept cliff path."
 - **Dialogue:** none
@@ -3019,7 +3118,7 @@
 &nbsp;
 
 
-**Beat 224 · 24:02–24:08 · 6s · Suspense and atmosphere**
+**Beat 224 · 24:32–24:38 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "A long procession of villagers walking a bound woman up a windswept cliff path."
 - **Dialogue:** none
@@ -3031,7 +3130,7 @@
 &nbsp;
 
 
-**Beat 225 · 24:08–24:14 · 6s · Suspense and atmosphere**
+**Beat 225 · 24:38–24:44 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Close on Maren humming quietly as she walks. Villagers behind her glance at each other uneasily. The wind carries the three notes out over the sea."
 - **Dialogue:** none
@@ -3043,7 +3142,7 @@
 &nbsp;
 
 
-**Beat 226 · 24:14–24:20 · 6s · Dialogue and character emotion**
+**Beat 226 · 24:44–24:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Odile goes pale and grabs a young fisherman's sleeve."
 - **Dialogue:** none
@@ -3055,7 +3154,7 @@
 &nbsp;
 
 
-**Beat 227 · 24:20–24:26 · 6s · Dialogue and character emotion**
+**Beat 227 · 24:50–24:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: That song. I heard that song in the fog."
 - **Dialogue:** ODILE: That song. I heard that song in the fog.
@@ -3067,7 +3166,7 @@
 &nbsp;
 
 
-**Beat 228 · 24:26–24:32 · 6s · Dialogue and character emotion**
+**Beat 228 · 24:56–25:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "He pulls away, frightened, and the procession keeps walking."
 - **Dialogue:** none
@@ -3079,7 +3178,7 @@
 &nbsp;
 
 
-**Beat 229 — Image A — Hand on the grooves · 24:32–24:38 · 6s · Suspense and atmosphere**
+**Beat 229 — Image A — Hand on the grooves · 25:02–25:08 · 6s · Suspense and atmosphere**
 
 - **Action sequence:** The drowning stone (Beat 229, image A of 1)
 - **Script segment:** "His hand trembles on the stone. he takes his hand away, grips his staff with both hands and turns away."
@@ -3097,7 +3196,7 @@
 ### Cliff edge — the fall
 
 
-**Beat 230 · 24:38–24:44 · 6s · Suspense and atmosphere**
+**Beat 230 · 25:08–25:14 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "A still wide view over the high cliff. The crowd stands at the edge, torches guttering. Maren stands at the front, hair whipping in the wind."
 - **Dialogue:** none
@@ -3109,7 +3208,7 @@
 &nbsp;
 
 
-**Beat 231 — Image A — Rope in their hands · 24:44–24:50 · 6s · Suspense and atmosphere**
+**Beat 231 — Image A — Rope in their hands · 25:14–25:20 · 6s · Suspense and atmosphere**
 
 - **Action sequence:** Tying the stone (Beat 231, image A of 2)
 - **Script segment:** "Their hands knot the rope tightly around her ankles."
@@ -3124,7 +3223,7 @@
 &nbsp;
 
 
-**Beat 231b — Image B — Tied to the stone · 24:50–24:56 · 6s · Suspense and atmosphere**
+**Beat 231b — Image B — Tied to the stone · 25:20–25:26 · 6s · Suspense and atmosphere**
 
 - **Action sequence:** Tying the stone (Beat 231, image B of 2)
 - **Script segment:** "Odile turns away weeping; Maren stays still, looking out over the edge."
@@ -3139,7 +3238,7 @@
 &nbsp;
 
 
-**Beat 232 · 24:56–25:02 · 6s · Suspense and atmosphere**
+**Beat 232 · 25:26–25:32 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Maren looks out over the edge. The churning sea far below. Her face is calm, almost serene."
 - **Dialogue:** none
@@ -3151,7 +3250,7 @@
 &nbsp;
 
 
-**Beat 233 · 25:02–25:08 · 6s · Dialogue and character emotion**
+**Beat 233 · 25:32–25:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren closes her eyes."
 - **Dialogue:** none
@@ -3163,7 +3262,7 @@
 &nbsp;
 
 
-**Beat 234 · 25:08–25:14 · 6s · Dialogue and character emotion**
+**Beat 234 · 25:38–25:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: The sea keeps what it loves. Hesk stands unmoved behind her."
 - **Dialogue:** MAREN: The sea keeps what it loves.
@@ -3175,7 +3274,7 @@
 &nbsp;
 
 
-**Beat 235 · 25:14–25:20 · 6s · Shocking reveal**
+**Beat 235 · 25:44–25:50 · 6s · Shocking reveal**
 
 - **Script segment:** "Bram steps up behind her. He shoves her. Maren tips backward over the edge."
 - **Dialogue:** none
@@ -3187,7 +3286,7 @@
 &nbsp;
 
 
-**Beat 236 · 25:20–25:26 · 6s · Major climax**
+**Beat 236 · 25:50–25:56 · 6s · Major climax**
 
 - **Script segment:** "In slow motion she falls down the cliff face, black cloak streaming. She hits the sea in a white splash. Underwater, the stone drags her down into deep blue."
 - **Dialogue:** none
@@ -3207,7 +3306,7 @@
 ### Underwater — the rescue
 
 
-**Beat 237 · 25:26–25:32 · 6s · Dialogue and character emotion**
+**Beat 237 · 25:56–26:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren sinks, hair floating. Bubbles escape her lips. The surface light fades far above."
 - **Dialogue:** none
@@ -3219,7 +3318,7 @@
 &nbsp;
 
 
-**Beat 238 · 25:32–25:38 · 6s · Dialogue and character emotion**
+**Beat 238 · 26:02–26:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren's eyes close underwater. Dissolve to a glowing memory of newborn Tal by the rock pool. ."
 - **Dialogue:** none
@@ -3231,7 +3330,7 @@
 &nbsp;
 
 
-**Beat 239 · 25:38–25:44 · 6s · Dialogue and character emotion**
+**Beat 239 · 26:08–26:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Dissolve to the memory of Maren at the hidden basket. . Dissolve back to Maren sinking, peaceful."
 - **Dialogue:** none
@@ -3243,7 +3342,7 @@
 &nbsp;
 
 
-**Beat 240 · 25:44–25:50 · 6s · Dialogue and character emotion**
+**Beat 240 · 26:14–26:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Dissolve to Tal tearing free of the nets. . Back underwater, Maren's last bubble rises."
 - **Dialogue:** none
@@ -3255,7 +3354,7 @@
 &nbsp;
 
 
-**Beat 241 · 25:50–25:56 · 6s · Shocking reveal**
+**Beat 241 · 26:20–26:26 · 6s · Shocking reveal**
 
 - **Script segment:** "A vast shadow moves in the dark. Electric-violet veins light up along its body. A luminous violet eye approaches Maren."
 - **Dialogue:** none
@@ -3267,7 +3366,7 @@
 &nbsp;
 
 
-**Beat 242 — Image A — Jaws on the rope · 25:56–26:02 · 6s · Major climax**
+**Beat 242 — Image A — Jaws on the rope · 26:26–26:32 · 6s · Major climax**
 
 - **Action sequence:** The rescue underwater (Beat 242, image A of 2)
 - **Script segment:** "He bites through the rope; the stone sinks away into the dark."
@@ -3282,7 +3381,7 @@
 &nbsp;
 
 
-**Beat 242b — Image B — On his snout · 26:02–26:08 · 6s · Major climax**
+**Beat 242b — Image B — On his snout · 26:32–26:38 · 6s · Major climax**
 
 - **Action sequence:** The rescue underwater (Beat 242, image B of 2)
 - **Script segment:** "He surges upward with her toward the light and breaches the surface in an explosion of water."
@@ -3300,7 +3399,7 @@
 ### Hidden beach, night
 
 
-**Beat 243 · 26:08–26:14 · 6s · Suspense and atmosphere**
+**Beat 243 · 26:38–26:44 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Moonlit surf slides up the black sand. Maren lies motionless beside the dragon. She coughs up seawater and gasps, alive."
 - **Dialogue:** none
@@ -3312,7 +3411,7 @@
 &nbsp;
 
 
-**Beat 244 · 26:14–26:20 · 6s · Suspense and atmosphere**
+**Beat 244 · 26:44–26:50 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Tal lowers his large head beside her. His luminous eye watches her. She turns her head to him."
 - **Dialogue:** none
@@ -3324,7 +3423,7 @@
 &nbsp;
 
 
-**Beat 245 · 26:20–26:26 · 6s · Dialogue and character emotion**
+**Beat 245 · 26:50–26:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "She reaches up to his snout."
 - **Dialogue:** none
@@ -3336,7 +3435,7 @@
 &nbsp;
 
 
-**Beat 246 · 26:26–26:32 · 6s · Dialogue and character emotion**
+**Beat 246 · 26:56–27:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Tal. You came. You heard me. Tears run down her face."
 - **Dialogue:** MAREN: Tal. You came. You heard me.
@@ -3348,7 +3447,7 @@
 &nbsp;
 
 
-**Beat 247 · 26:32–26:38 · 6s · Dialogue and character emotion**
+**Beat 247 · 27:02–27:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren pressing her forehead to Tal's snout on the moonlit beach."
 - **Dialogue:** none
@@ -3360,7 +3459,7 @@
 &nbsp;
 
 
-**Beat 248 · 26:38–26:44 · 6s · Dialogue and character emotion**
+**Beat 248 · 27:08–27:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: I told you to go. You never listen. Just like him."
 - **Dialogue:** MAREN: I told you to go. You never listen. Just like him.
@@ -3372,7 +3471,7 @@
 &nbsp;
 
 
-**Beat 249 · 26:44–26:50 · 6s · Dialogue and character emotion**
+**Beat 249 · 27:14–27:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "She presses her forehead to his snout. She rises, looks at the distant village lights and climbs onto his lowered neck."
 - **Dialogue:** none
@@ -3387,7 +3486,7 @@
 ### Hidden beach — the wounds
 
 
-**Beat 250 · 26:50–26:56 · 6s · Shocking reveal**
+**Beat 250 · 27:20–27:26 · 6s · Shocking reveal**
 
 - **Script segment:** "Maren's hand moves along Tal's neck. She finds raw rope burns cut deep into his scales. Her face hardens."
 - **Dialogue:** none
@@ -3399,7 +3498,7 @@
 &nbsp;
 
 
-**Beat 251 · 26:56–27:02 · 6s · Dialogue and character emotion**
+**Beat 251 · 27:26–27:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren looks into his large eye."
 - **Dialogue:** none
@@ -3411,7 +3510,7 @@
 &nbsp;
 
 
-**Beat 252 · 27:02–27:08 · 6s · Dialogue and character emotion**
+**Beat 252 · 27:32–27:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: They hurt you. And you still didn't burn them."
 - **Dialogue:** MAREN: They hurt you. And you still didn't burn them.
@@ -3423,7 +3522,7 @@
 &nbsp;
 
 
-**Beat 253 · 27:08–27:14 · 6s · Dialogue and character emotion**
+**Beat 253 · 27:38–27:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Tal tilts his large head to the left, just like when he was small."
 - **Dialogue:** none
@@ -3435,7 +3534,7 @@
 &nbsp;
 
 
-**Beat 254 · 27:14–27:20 · 6s · Suspense and atmosphere**
+**Beat 254 · 27:44–27:50 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Maren tears a strip from the hem of her dress. She presses wet seaweed into the wounds. She ties the cloth gently; Tal does not flinch."
 - **Dialogue:** none
@@ -3447,7 +3546,7 @@
 &nbsp;
 
 
-**Beat 255 · 27:20–27:26 · 6s · Dialogue and character emotion**
+**Beat 255 · 27:50–27:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: We're going back."
 - **Dialogue:** MAREN: We're going back.
@@ -3459,7 +3558,7 @@
 &nbsp;
 
 
-**Beat 256 · 27:26–27:32 · 6s · Dialogue and character emotion**
+**Beat 256 · 27:56–28:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Tal pulls his head back. A low growl rumbles in his chest."
 - **Dialogue:** none
@@ -3471,7 +3570,7 @@
 &nbsp;
 
 
-**Beat 257 · 27:32–27:38 · 6s · Final cliffhanger**
+**Beat 257 · 28:02–28:08 · 6s · Final cliffhanger**
 
 - **Script segment:** "Maren lays her hand on his snout."
 - **Dialogue:** none
@@ -3483,7 +3582,7 @@
 &nbsp;
 
 
-**Beat 258 · 27:38–27:44 · 6s · Final cliffhanger**
+**Beat 258 · 28:08–28:14 · 6s · Final cliffhanger**
 
 - **Script segment:** "MAREN: Not for revenge. For the truth. They need to see what you are."
 - **Dialogue:** MAREN: Not for revenge. For the truth. They need to see what you are.
@@ -3495,7 +3594,7 @@
 &nbsp;
 
 
-**Beat 259 · 27:44–27:50 · 6s · Final cliffhanger**
+**Beat 259 · 28:14–28:20 · 6s · Final cliffhanger**
 
 - **Script segment:** "Tal slowly lowers his neck for her to climb on."
 - **Dialogue:** none
@@ -3510,7 +3609,7 @@
 ### Harbor — the night watch
 
 
-**Beat 260 · 27:50–27:56 · 6s · Suspense and atmosphere**
+**Beat 260 · 28:20–28:26 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "Torches line the jetty in the dark. Men stand with harpoons, watching the water. Bram paces behind them."
 - **Dialogue:** none
@@ -3522,7 +3621,7 @@
 &nbsp;
 
 
-**Beat 261 · 27:56–28:02 · 6s · Dialogue and character emotion**
+**Beat 261 · 28:26–28:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: If it comes, aim for the eyes."
 - **Dialogue:** BRAM: If it comes, aim for the eyes.
@@ -3534,7 +3633,7 @@
 &nbsp;
 
 
-**Beat 262 · 28:02–28:08 · 6s · Dialogue and character emotion**
+**Beat 262 · 28:32–28:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "The young fisherman swallows hard. JORY: And if it doesn't come?"
 - **Dialogue:** JORY: And if it doesn't come?
@@ -3546,7 +3645,7 @@
 &nbsp;
 
 
-**Beat 263 · 28:08–28:14 · 6s · Final cliffhanger**
+**Beat 263 · 28:38–28:44 · 6s · Final cliffhanger**
 
 - **Script segment:** "Bram stares out at the dark harbor. A long ripple moves across the still water. It keeps coming, straight toward the jetty."
 - **Dialogue:** none
@@ -3561,7 +3660,7 @@
 ### Harbor, night — the return
 
 
-**Beat 264 · 28:14–28:20 · 6s · Shocking reveal**
+**Beat 264 · 28:44–28:50 · 6s · Shocking reveal**
 
 - **Script segment:** "Tal rises out of the harbor, water cascading off his scales. Maren sits on his neck. Bells clang and villagers scatter in panic."
 - **Dialogue:** none
@@ -3573,7 +3672,7 @@
 &nbsp;
 
 
-**Beat 265 · 28:20–28:26 · 6s · Major climax**
+**Beat 265 · 28:50–28:56 · 6s · Major climax**
 
 - **Script segment:** "BRAM: The devil came back!"
 - **Dialogue:** BRAM: The devil came back!
@@ -3585,7 +3684,7 @@
 &nbsp;
 
 
-**Beat 266 · 28:26–28:32 · 6s · Major climax**
+**Beat 266 · 28:56–29:02 · 6s · Major climax**
 
 - **Script segment:** "Tal opens his jaws as yellow-orange fire builds in his glowing throat. MAREN: Tal! No!"
 - **Dialogue:** MAREN: Tal! No!
@@ -3597,7 +3696,7 @@
 &nbsp;
 
 
-**Beat 267 — Image A — Harpoon in his hands · 28:32–28:38 · 6s · Dialogue and character emotion**
+**Beat 267 — Image A — Harpoon in his hands · 29:02–29:08 · 6s · Dialogue and character emotion**
 
 - **Action sequence:** The harpoon (Beat 267, image A of 1)
 - **Script segment:** "He raises the harpoon to his shoulder, ready to throw."
@@ -3612,7 +3711,7 @@
 &nbsp;
 
 
-**Beat 268 · 28:38–28:44 · 6s · Dialogue and character emotion**
+**Beat 268 · 29:08–29:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: Burn, then! Show them what she made!"
 - **Dialogue:** BRAM: Burn, then! Show them what she made!
@@ -3624,7 +3723,7 @@
 &nbsp;
 
 
-**Beat 269 · 28:44–28:50 · 6s · Dialogue and character emotion**
+**Beat 269 · 29:14–29:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Put it down, Bram. He'll kill you before you lift it."
 - **Dialogue:** MAREN: Put it down, Bram. He'll kill you before you lift it.
@@ -3636,7 +3735,7 @@
 &nbsp;
 
 
-**Beat 270 · 28:50–28:56 · 6s · Dialogue and character emotion**
+**Beat 270 · 29:20–29:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "BRAM: Then let him! Let them all see!"
 - **Dialogue:** BRAM: Then let him! Let them all see!
@@ -3648,7 +3747,7 @@
 &nbsp;
 
 
-**Beat 271 · 28:56–29:02 · 6s · Dialogue and character emotion**
+**Beat 271 · 29:26–29:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren slides down Tal's flank. She stands between the dragon and the village, arms spread."
 - **Dialogue:** none
@@ -3660,7 +3759,7 @@
 &nbsp;
 
 
-**Beat 272 · 29:02–29:08 · 6s · Dialogue and character emotion**
+**Beat 272 · 29:32–29:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren faces Tal."
 - **Dialogue:** none
@@ -3672,7 +3771,7 @@
 &nbsp;
 
 
-**Beat 273 · 29:08–29:14 · 6s · Dialogue and character emotion**
+**Beat 273 · 29:38–29:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Not like them. We are not like them. Tal's fierce eye softens."
 - **Dialogue:** MAREN: Not like them. We are not like them.
@@ -3684,7 +3783,7 @@
 &nbsp;
 
 
-**Beat 274 · 29:14–29:20 · 6s · Major climax**
+**Beat 274 · 29:44–29:50 · 6s · Major climax**
 
 - **Script segment:** "Tal turns his head and breathes a pillar of yellow-orange fire into the sky. The whole harbor glows soft violet. Bram's harpoon clatters onto the stones."
 - **Dialogue:** none
@@ -3699,7 +3798,7 @@
 ### Harbor — reconciliation
 
 
-**Beat 275 · 29:20–29:26 · 6s · Dialogue and character emotion**
+**Beat 275 · 29:50–29:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Villagers slowly come forward in the blue light. Odile steps out first."
 - **Dialogue:** none
@@ -3711,7 +3810,7 @@
 &nbsp;
 
 
-**Beat 276 · 29:26–29:32 · 6s · Dialogue and character emotion**
+**Beat 276 · 29:56–30:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: Maren. We were wrong."
 - **Dialogue:** ODILE: Maren. We were wrong.
@@ -3723,7 +3822,7 @@
 &nbsp;
 
 
-**Beat 277 · 29:32–29:38 · 6s · Dialogue and character emotion**
+**Beat 277 · 30:02–30:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren and Odile face to face, a young fisherman behind them."
 - **Dialogue:** none
@@ -3735,7 +3834,7 @@
 &nbsp;
 
 
-**Beat 278 · 29:38–29:44 · 6s · Dialogue and character emotion**
+**Beat 278 · 30:08–30:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "JORY: It saved her. It pulled her out of the sea."
 - **Dialogue:** JORY: It saved her. It pulled her out of the sea.
@@ -3747,7 +3846,7 @@
 &nbsp;
 
 
-**Beat 279 · 29:44–29:50 · 6s · Dialogue and character emotion**
+**Beat 279 · 30:14–30:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren looks at Odile."
 - **Dialogue:** none
@@ -3759,7 +3858,7 @@
 &nbsp;
 
 
-**Beat 280 · 29:50–29:56 · 6s · Dialogue and character emotion**
+**Beat 280 · 30:20–30:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: You were afraid. Fear isn't wrong. What you did with it was."
 - **Dialogue:** MAREN: You were afraid. Fear isn't wrong. What you did with it was.
@@ -3771,7 +3870,7 @@
 &nbsp;
 
 
-**Beat 281 · 29:56–30:02 · 6s · Dialogue and character emotion**
+**Beat 281 · 30:26–30:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "HESK: Will he destroy us?"
 - **Dialogue:** HESK: Will he destroy us?
@@ -3783,7 +3882,7 @@
 &nbsp;
 
 
-**Beat 282 · 30:02–30:08 · 6s · Dialogue and character emotion**
+**Beat 282 · 30:32–30:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: He could. He won't. I raised him better than that."
 - **Dialogue:** MAREN: He could. He won't. I raised him better than that.
@@ -3795,7 +3894,7 @@
 &nbsp;
 
 
-**Beat 283 · 30:08–30:14 · 6s · Dialogue and character emotion**
+**Beat 283 · 30:38–30:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Tal lowers his head gently beside her."
 - **Dialogue:** none
@@ -3807,7 +3906,7 @@
 &nbsp;
 
 
-**Beat 284 · 30:14–30:20 · 6s · Dialogue and character emotion**
+**Beat 284 · 30:44–30:50 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Maren climbs onto Tal's back."
 - **Dialogue:** none
@@ -3819,7 +3918,7 @@
 &nbsp;
 
 
-**Beat 285 · 30:20–30:26 · 6s · Dialogue and character emotion**
+**Beat 285 · 30:50–30:56 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "ODILE: Where will you go?"
 - **Dialogue:** ODILE: Where will you go?
@@ -3831,7 +3930,7 @@
 &nbsp;
 
 
-**Beat 286 · 30:26–30:32 · 6s · Dialogue and character emotion**
+**Beat 286 · 30:56–31:02 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Wherever the sea takes us."
 - **Dialogue:** MAREN: Wherever the sea takes us.
@@ -3843,7 +3942,7 @@
 &nbsp;
 
 
-**Beat 287 · 30:32–30:38 · 6s · Dialogue and character emotion**
+**Beat 287 · 31:02–31:08 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Hesk steps forward."
 - **Dialogue:** none
@@ -3855,7 +3954,7 @@
 &nbsp;
 
 
-**Beat 288 · 30:38–30:44 · 6s · Dialogue and character emotion**
+**Beat 288 · 31:08–31:14 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "HESK: Maren. If he is a child, then whose child is he?"
 - **Dialogue:** HESK: Maren. If he is a child, then whose child is he?
@@ -3867,7 +3966,7 @@
 &nbsp;
 
 
-**Beat 289 · 30:44–30:50 · 6s · Dialogue and character emotion**
+**Beat 289 · 31:14–31:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "He waits for her answer."
 - **Dialogue:** none
@@ -3879,7 +3978,7 @@
 &nbsp;
 
 
-**Beat 290 · 30:50–30:56 · 6s · Dialogue and character emotion**
+**Beat 290 · 31:20–31:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Mine. That's all you ever needed to know."
 - **Dialogue:** MAREN: Mine. That's all you ever needed to know.
@@ -3891,7 +3990,7 @@
 &nbsp;
 
 
-**Beat 291 · 30:56–31:02 · 6s · Dialogue and character emotion**
+**Beat 291 · 31:26–31:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Tal spreads his bat-like wings. He launches into the night sky as the villagers watch."
 - **Dialogue:** none
@@ -3906,7 +4005,7 @@
 ### Open ocean, dawn
 
 
-**Beat 292 · 31:02–31:08 · 6s · Dialogue and character emotion**
+**Beat 292 · 31:32–31:38 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Tal flies low over golden dawn waves."
 - **Dialogue:** none
@@ -3918,7 +4017,7 @@
 &nbsp;
 
 
-**Beat 293 · 31:08–31:14 · 6s · Dialogue and character emotion**
+**Beat 293 · 31:38–31:44 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "MAREN: Hold on, Tal. His wingtip skims the water."
 - **Dialogue:** MAREN: Hold on, Tal.
@@ -3930,7 +4029,7 @@
 &nbsp;
 
 
-**Beat 294 · 31:14–31:20 · 6s · Suspense and atmosphere**
+**Beat 294 · 31:44–31:50 · 6s · Suspense and atmosphere**
 
 - **Script segment:** "The dragon's wings beat slowly over the waves. Behind them, the grey coast shrinks to a thin line. Maren keeps her eyes on the open sea ahead."
 - **Dialogue:** none
@@ -3942,7 +4041,7 @@
 &nbsp;
 
 
-**Beat 295 · 31:20–31:26 · 6s · Shocking reveal**
+**Beat 295 · 31:50–31:56 · 6s · Shocking reveal**
 
 - **Script segment:** "A deep roar answers from the horizon. Another, and another, with plumes of spray. Huge dark shapes glide beneath the waves and a glowing violet eye opens below the surface."
 - **Dialogue:** none
@@ -3954,7 +4053,7 @@
 &nbsp;
 
 
-**Beat 296 · 31:26–31:32 · 6s · Final cliffhanger**
+**Beat 296 · 31:56–32:02 · 6s · Final cliffhanger**
 
 - **Script segment:** "MAREN: Tal. You're not the only one."
 - **Dialogue:** MAREN: Tal. You're not the only one.
@@ -3966,7 +4065,7 @@
 &nbsp;
 
 
-**Beat 297 · 31:32–31:38 · 6s · Final cliffhanger**
+**Beat 297 · 32:02–32:08 · 6s · Final cliffhanger**
 
 - **Script segment:** "Tal turns his head toward the sound. They fly toward the horizon as other shapes rise around them."
 - **Dialogue:** none
@@ -3986,7 +4085,7 @@
 ### Epilogue — what Kelvhaven learned
 
 
-**Beat 298 — Image A — Herring in her hand · 31:38–31:44 · 6s · Suspense and atmosphere**
+**Beat 298 — Image A — Herring in her hand · 32:08–32:14 · 6s · Suspense and atmosphere**
 
 - **Action sequence:** The offering (Beat 298, image A of 1)
 - **Script segment:** "She lays the herring in the basket. she touches two fingers to her lips, then toward the sea."
@@ -4001,7 +4100,7 @@
 &nbsp;
 
 
-**Beat 299 · 31:44–31:50 · 6s · Dialogue and character emotion**
+**Beat 299 · 32:14–32:20 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Sunlight spreads over the green turf roofs. Pink sea-thrift sways on the cliff edge in a gentle breeze. Children run out between the cottages into the soft spring light."
 - **Dialogue:** none
@@ -4013,7 +4112,7 @@
 &nbsp;
 
 
-**Beat 300 · 31:50–31:56 · 6s · Dialogue and character emotion**
+**Beat 300 · 32:20–32:26 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Dawn light falls on the quiet village. Odile scrubs the moss from the old dragon carving until its shape shows again. The children below look up at it."
 - **Dialogue:** none
@@ -4025,7 +4124,7 @@
 &nbsp;
 
 
-**Beat 301 · 31:56–32:02 · 6s · Dialogue and character emotion**
+**Beat 301 · 32:26–32:32 · 6s · Dialogue and character emotion**
 
 - **Script segment:** "Children at the tidal pools puff their cheeks and dive in. A moss-green shawl flutters from a harbor post. Far out on the horizon, a great winged shape skims the waves and disappears."
 - **Dialogue:** none
@@ -4040,7 +4139,7 @@
 ### Title card
 
 
-**Beat 302 · 32:02–32:08 · 6s · Final cliffhanger**
+**Beat 302 · 32:32–32:38 · 6s · Final cliffhanger**
 
 - **Script segment:** "Black water and drifting particles. A huge luminous violet eye opens slowly and holds on the lens. Hard cut to black, ready for the FABLEON title card."
 - **Dialogue:** none
